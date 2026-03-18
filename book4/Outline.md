@@ -28,7 +28,7 @@ KULLEN'S HIDDEN OPERATIONS (Authorial Reference)
 
 **Method --- Blackmail:** Not every obstacle requires the device. Kullen's years inside the republic have given him access to secrets --- financial corruption, personal indiscretions, policy failures people want buried. Officials who can't be compromised through the device can be controlled through information. Kullen collects leverage the way Murek collects economic dependencies: quietly, systematically, as insurance. He never delivers the threats himself. Intermediaries --- people who owe him favors or believe they're acting in their own interest --- apply the pressure. The blackmail targets don't know Kullen is behind it. They think they're being extorted by a rival or a criminal enterprise.
 
-**Method --- Assassination:** Rare, surgical, always deniable. Kullen does not kill people who disagree with him. He kills people who are close to discovering his operation --- a records clerk who noticed patterns in official behavior, a minor functionary who saw the proxy in the wrong place, an ally of Baret's who was asking the right questions. The deaths look like accidents, illnesses, or the kind of violence that happens in a society with Gulrek raids and frontier dangers. No pattern visible to anyone not looking for one. One death in Book 4 should register to the reader on rereading as the moment Kullen eliminated someone who could have unraveled everything.
+**Method --- Assassination:** Rare, surgical, always deniable. Kullen does not kill people who disagree with him. He kills people who are close to discovering his operation --- a records clerk who noticed patterns in official behavior, a minor functionary who saw the proxy in the wrong place, an ally of Baret's who was asking the right questions. The deaths look like accidents, illnesses, or the kind of violence that happens in a society with Ulreth raids and frontier dangers. No pattern visible to anyone not looking for one. One death in Book 4 should register to the reader on rereading as the moment Kullen eliminated someone who could have unraveled everything.
 
 **Darek's compromise:** The brother is targeted mid-Book 4. The proxy approaches Darek with the enhancement offer. Darek consents --- he's been watching activated individuals outperform him his entire life, carrying the Marking's public ranking since he was sixteen. The enhancement is real. The memory alteration shifts his political judgment gradually, making him susceptible to the populist framing that Baret is hoarding power among the enhanced elite. Darek's public break with Baret in Act 3 is caused by the device, but it tracks perfectly with Darek's established insecurities. The reader accepts it as the lesser twin finally asserting himself.
 
@@ -36,7 +36,7 @@ KULLEN'S HIDDEN OPERATIONS (Authorial Reference)
 
 The second major human political entity on the continent. Located beyond a natural barrier --- the far side of the Takdal range or beyond Dasak. A military aristocracy where rank is earned through combat, not birthright. They watched the monarchy fall and the republic rise with calculating interest.
 
-\[GAP: The kingdom needs a name, specific geography, and a political structure. Suggested: a culture that rewards exactly what Leorik is --- martial prowess, personal authority, loyalty-based hierarchies. Their own Gulrek frontier gives them a permanent military footing.\]
+\[GAP: The kingdom needs a name, specific geography, and a political structure. Suggested: a culture that rewards exactly what Leorik is --- martial prowess, personal authority, loyalty-based hierarchies. Their own Ulreth frontier gives them a permanent military footing.\]
 
 **Leorik's position:** Exiled from the republic in Book 3, Leorik arrived with nothing except his reputation and his genius. Within months his battlefield brilliance and charisma made him indispensable. By Book 4, he holds a senior military command --- possibly the highest field rank below the ruling council. The kingdom's leadership tolerates his foreignness because his results are undeniable. Leorik is not scheming against Baret. He's thriving in a culture that values what the republic punished. But his tactical intelligence is now pointed at the republic's borders.
 
@@ -102,7 +102,7 @@ Baret files this. It reinforces his caution but doesn't change his political sit
 
 ## Chapter 6 --- A Death
 
-A minor political figure dies. Someone in Baret's circle --- not a core companion but a trusted functionary, a records clerk or policy adviser who was competent and reliable. The death is plausible: illness, an accident on a frontier road, a Gulrek encounter during travel. Baret grieves briefly. The republic moves on.
+A minor political figure dies. Someone in Baret's circle --- not a core companion but a trusted functionary, a records clerk or policy adviser who was competent and reliable. The death is plausible: illness, an accident on a frontier road, a Ulreth encounter during travel. Baret grieves briefly. The republic moves on.
 
 > *\[AUTHORIAL NOTE: This person was asking the right questions. They'd noticed patterns in official behavior --- appointments that didn't make sense, policy positions that shifted without explanation. They hadn't formed a theory, but they were accumulating data that could have led to one. Kullen's proxy eliminated them. On rereading, this chapter is the moment the reader realizes how close Baret came to discovering everything three books early.\]*
 >
@@ -214,7 +214,7 @@ Everything Baret built turns against him. The mechanism is his own ideology.
 
 **The most devastating scene in the book.** Darek's public break with Baret. On the senate floor, Darek sides with the populist wave. He calls for a vote of no confidence. The speech is measured, political, devastating --- not a tantrum but a principled argument that the republic's founder has become an obstacle to its evolution.
 
-Baret doesn't understand. This is his brother --- the person who fought beside him through the trials, through the war, through the Gulrek attack that killed their father. The betrayal feels personal and absolute. Baret reacts with fury. He says things he can't take back. The words are ugly and specific, drawing on shared history only twins have --- the Marking, the AI secret, the father's death.
+Baret doesn't understand. This is his brother --- the person who fought beside him through the trials, through the war, through the Ulreth attack that killed their father. The betrayal feels personal and absolute. Baret reacts with fury. He says things he can't take back. The words are ugly and specific, drawing on shared history only twins have --- the Marking, the AI secret, the father's death.
 
 The senate watches. Baret's emotional reaction undermines his position more than Darek's speech did. The revolutionary who preached institutional governance is melting down on the senate floor. The populist narrative writes itself: even the founder can't separate personal loyalty from political judgment.
 
@@ -294,7 +294,7 @@ The final image should feel like a beginning, not an ending. Baret has been stri
 
 Critical
 
-**1.** The neighboring kingdom --- name, geography, political structure, ruling body. How does Leorik fit into their hierarchy? What is their Gulrek frontier situation?
+**1.** The neighboring kingdom --- name, geography, political structure, ruling body. How does Leorik fit into their hierarchy? What is their Ulreth frontier situation?
 
 **2.** Darek's no-confidence speech --- what specifically does he say? The argument must be principled enough to be defensible and personal enough to wound.
 

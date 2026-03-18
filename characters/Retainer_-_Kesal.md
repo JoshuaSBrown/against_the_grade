@@ -4,7 +4,7 @@
 
 **Name:** Kesal Torun Nor'Saren. Full three-part commoner name. Kesal (/k/ onset — action/processes, Ke-sal, CV-CVC). Torun (/t/ terrain — a mountain region surname, marking him as local). Nor'Saren (son of Saren, /s/ states/qualities — his father was nobody special). The whole name sounds unremarkable, which is the point. He's not a lord, not a villain with a title — he's a common soldier with a common name who did a monstrous thing and the system shrugged.
 
-**Background:** One of Haldrin's retainers — a military man in the lord's service. Responsible for the rape and death of Nela, which he covered up by attributing to a Gulrek raid. Haldrin likely suspects the truth but won't pursue it — Kesal is loyal and useful, and justice for a dead commoner's daughter isn't worth the cost. This is not a failure of the system. It *is* the system.
+**Background:** One of Haldrin's retainers — a military man in the lord's service. Responsible for the rape and death of Nela, which he covered up by attributing to a Ulreth raid. Haldrin likely suspects the truth but won't pursue it — Kesal is loyal and useful, and justice for a dead commoner's daughter isn't worth the cost. This is not a failure of the system. It *is* the system.
 
 ## Personality
 

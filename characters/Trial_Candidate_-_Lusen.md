@@ -8,7 +8,7 @@
 
 **Gender:** Female
 
-**Background:** From a cold-ridge family in the mountain region. One of the fewer female candidates sent to the trials — in a frontier society where every child grows up with weapons and terrain skills because the Gulrek don't care about gender, girls aren't excluded, but families are more protective and social pressure leans toward keeping daughters closer to home. Maybe one in four or five candidates is female. Enough to be present, not enough to be unremarked upon.
+**Background:** From a cold-ridge family in the mountain region. One of the fewer female candidates sent to the trials — in a frontier society where every child grows up with weapons and terrain skills because the Ulreth don't care about gender, girls aren't excluded, but families are more protective and social pressure leans toward keeping daughters closer to home. Maybe one in four or five candidates is female. Enough to be present, not enough to be unremarked upon.
 
 ## Role in the Trials
 
