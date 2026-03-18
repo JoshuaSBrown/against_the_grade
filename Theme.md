@@ -223,8 +223,8 @@ structures. Nothing dramatic. Just ensuring certain people end up in
 certain roles during the reorganization. The reader doesn\'t notice
 because it looks like normal political maneuvering.
 
-**Capsule 2 access is constrained by geography and the Gulrek.** The
-activation infrastructure sits in remote Gulrek territory. Small parties
+**Capsule 2 access is constrained by geography and the Ulreth.** The
+activation infrastructure sits in remote Ulreth territory. Small parties
 can reach it; large expeditions provoke massed territorial response.
 In Book 2, perhaps 5--15 people activate successfully through dangerous
 small-group attempts, and not all achieve full function --- the 15--25%
@@ -234,7 +234,7 @@ gatekeeping institution for activation access, but the chokepoint is
 inherently vulnerable to outside manipulation. Murek sees logistics and
 economics; Tobas sees divine selection. Organized efforts to secure the
 site and open broader access begin in Book 3, stimulating escalating
-Gulrek aggression.
+Ulreth aggression.
 
 **Underground fighting emerges from the post-war vacuum.** The
 revolution destroyed the feudal institution but not the culture of
