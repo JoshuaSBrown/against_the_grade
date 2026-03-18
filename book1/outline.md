@@ -16,23 +16,23 @@
 
 - **Act 1 (Chapters 1--7): The World and the Break** --- Baret's world: Tanapun, occupation, herding, poverty, the settled grief of Nalin's death. Inherited anger held in check by Maia's survival wisdom ("keep your head down" --- which carries hidden weight: she suspects the truth about the sister and is terrified her sons will discover it). Multiple instances of witnessed injustice where Baret fails to act, building self-loathing. Travel to Pakran for the Marking writes a public hierarchy between the twins: Baret's mark strong, Darek's weaker. Proving 1 (Individual) reveals Baret's raw talent. The act culminates when Baret breaks his inaction pattern by defending Elowen, humiliating a retainer's child and triggering the system against him.
 
-- **Act 2 (Chapters 8--14): The Rigged Trial, Activation, and Revelation** --- Proving 2 (Partners) is rigged. The assessors pair Baret and Barlas together --- two expendables packaged as one. Routed into Gulrek territory to die. Baret saves Barlas from a Gulrek attack. They stumble into Capsule Two together. Baret is activated; Barlas gets silence. Baret spends weeks disoriented, performance drops. Then the AI stabilizes and the revelations compound: the AI's analysis proves the trials were rigged to kill him AND Baret's enhanced cognition reprocesses childhood memories to uncover the truth about his sister --- she wasn't killed by Gulrek. A retainer raped and murdered her, and the system covered it up. Baret's anger gains two precision targets.
+- **Act 2 (Chapters 8--14): The Rigged Trial, Activation, and Revelation** --- Proving 2 (Partners) is rigged. The assessors pair Baret and Barlas together --- two expendables packaged as one. Routed into Ulreth territory to die. Baret saves Barlas from a Ulreth attack. They stumble into Capsule Two together. Baret is activated; Barlas gets silence. Baret spends weeks disoriented, performance drops. Then the AI stabilizes and the revelations compound: the AI's analysis proves the trials were rigged to kill him AND Baret's enhanced cognition reprocesses childhood memories to uncover the truth about his sister --- she wasn't killed by Ulreth. A retainer raped and murdered her, and the system covered it up. Baret's anger gains two precision targets.
 
-- **Act 3 (Chapters 15--23): Proving 3, Sorting, and Overthrow** --- Proving 3 (Teams) spans three two-week rounds with team reshuffles between rounds. Flag capture and waypoint multiplier scoring. Baret absorbs teams across rounds through demonstrated leadership. In Round 3, a Gulrek raiding party penetrates the exercise area. The cohort fractures: some don't know, some keep playing for points, some rally around Baret to fight. Baret leads the defense, repeating the village mantra; the cohort picks it up. Kullen fights alongside Baret. Haldrin manipulates Round 3 compositions and sets the protocol violation trap. Kasun triggers it. At the Sorting, Haldrin overreaches --- tries to use Kasun's violation against Baret. Murek dismantles it to protect his son. Baret's defiance ignites a rebellion built on bonds forged through a year of trials --- and a battle the cohort survived together. Haldrin surrenders. Barlas kills him. Kesal (the retainer who murdered Nalin) flees Pakran and reaches the king. Baret, 17 years old, inherits what he destroyed.
+- **Act 3 (Chapters 15--23): Proving 3, Sorting, and Overthrow** --- Proving 3 (Teams) spans three two-week rounds with team reshuffles between rounds. Flag capture and waypoint multiplier scoring. Baret absorbs teams across rounds through demonstrated leadership. In Round 3, a Ulreth raiding party penetrates the exercise area. The cohort fractures: some don't know, some keep playing for points, some rally around Baret to fight. Baret leads the defense, repeating the village mantra; the cohort picks it up. Kullen fights alongside Baret. Haldrin manipulates Round 3 compositions and sets the protocol violation trap. Kasun triggers it. At the Sorting, Haldrin overreaches --- tries to use Kasun's violation against Baret. Murek dismantles it to protect his son. Baret's defiance ignites a rebellion built on bonds forged through a year of trials --- and a battle the cohort survived together. Haldrin surrenders. Barlas kills him. Kesal (the retainer who murdered Nalin) flees Pakran and reaches the king. Baret, 17 years old, inherits what he destroyed.
 
-**Emotional arc:** Settled grief and inherited anger → building self-loathing → first action → survival and mutual rescue → transformation and the silence → compound revelation (rigged trials + sister's murder) → arrogant dominance → real combat leadership against Gulrek raid → directed rebellion → the cost of loyalty without restraint.
+**Emotional arc:** Settled grief and inherited anger → building self-loathing → first action → survival and mutual rescue → transformation and the silence → compound revelation (rigged trials + sister's murder) → arrogant dominance → real combat leadership against Ulreth raid → directed rebellion → the cost of loyalty without restraint.
 
 ---
 
 ## KEY RELATIONSHIP WEB (Book 1)
 
-- **Baret & Darek** --- Non-identical twins. Herders in Tanapun, inseparable. The Marking writes a public hierarchy: Baret's mark strong, Darek's weaker. Both advance. They share the grief of their sister --- but neither knows the truth. Darek handles grief more openly (humor, warmth); Baret goes quiet. Darek is separated from Baret in Proving 2 (different partner, different route) and Proving 3 (different teams each round). The defining experiences of Baret's trial year --- the capsule, the activation, the silence --- happen with Barlas, not Darek. The AI creates a distance Darek can feel but not identify. When the Gulrek raid hits during Round 3, Darek's team is disrupted and brought into Baret's area; Darek joins Baret's group during the crisis. Darek functions as the social bridge --- but he's following, not leading. The quiet wound of being the lesser twin festers; it won't erupt until Book 5.
+- **Baret & Darek** --- Non-identical twins. Herders in Tanapun, inseparable. The Marking writes a public hierarchy: Baret's mark strong, Darek's weaker. Both advance. They share the grief of their sister --- but neither knows the truth. Darek handles grief more openly (humor, warmth); Baret goes quiet. Darek is separated from Baret in Proving 2 (different partner, different route) and Proving 3 (different teams each round). The defining experiences of Baret's trial year --- the capsule, the activation, the silence --- happen with Barlas, not Darek. The AI creates a distance Darek can feel but not identify. When the Ulreth raid hits during Round 3, Darek's team is disrupted and brought into Baret's area; Darek joins Baret's group during the crisis. Darek functions as the social bridge --- but he's following, not leading. The quiet wound of being the lesser twin festers; it won't erupt until Book 5.
 
-- **Baret & Barlas** --- Paired by assessors in Proving 2 as expendables. Forged through mutual life-saving in Gulrek territory. Baret saves Barlas from a Gulrek attack --- in the same kind of terrain where Barlas's own family was massacred by Gulrek after Haldrin ordered a retreat. Barlas watches over Baret during activation. They attempt activation together --- Baret transforms, Barlas gets silence. In Proving 3 Round 2, Barlas's team leader fails; Barlas holds the remnants together and merges into Baret's group. During the Round 3 Gulrek raid, Barlas is the physical tip of Baret's defense --- ferocious, instinctive, fighting on the terrain where his family died. The killing of Haldrin is loyalty, rage, and the capsule's silence expressed as violence by someone without Baret's processing buffer. Haldrin probably doesn't even know who Barlas is.
+- **Baret & Barlas** --- Paired by assessors in Proving 2 as expendables. Forged through mutual life-saving in Ulreth territory. Baret saves Barlas from a Ulreth attack --- in the same kind of terrain where Barlas's own family was massacred by Ulreth after Haldrin ordered a retreat. Barlas watches over Baret during activation. They attempt activation together --- Baret transforms, Barlas gets silence. In Proving 3 Round 2, Barlas's team leader fails; Barlas holds the remnants together and merges into Baret's group. During the Round 3 Ulreth raid, Barlas is the physical tip of Baret's defense --- ferocious, instinctive, fighting on the terrain where his family died. The killing of Haldrin is loyalty, rage, and the capsule's silence expressed as violence by someone without Baret's processing buffer. Haldrin probably doesn't even know who Barlas is.
 
-- **Baret & Kullen** --- Rivals in the trials at Pakran. Kullen is charming, oblivious to his protection. During the Round 3 Gulrek raid, Kullen rallies and fights alongside Baret --- they bleed together. This shared combat makes his father's murder after surrender not just an abstract injustice but a personal betrayal. Kullen stood with Baret against Gulrek. Hours or days later, Baret's closest ally murdered Kullen's father. The wound that drives Kullen's entire arc is intimate, not distant.
+- **Baret & Kullen** --- Rivals in the trials at Pakran. Kullen is charming, oblivious to his protection. During the Round 3 Ulreth raid, Kullen rallies and fights alongside Baret --- they bleed together. This shared combat makes his father's murder after surrender not just an abstract injustice but a personal betrayal. Kullen stood with Baret against Ulreth. Hours or days later, Baret's closest ally murdered Kullen's father. The wound that drives Kullen's entire arc is intimate, not distant.
 
-- **Baret & the AI** --- Clinical voice in his head. The AI enhances Baret's cognition in two devastating ways: first, it proves the trials were rigged to kill him; second, it gives him the pattern recognition to reprocess childhood memories and see the truth about his sister. The defining Book 1 tension: the AI warns Baret to be careful and Baret is seventeen --- old enough to understand strategic patience, too angry to practice it. During the Gulrek raid, the AI co-pilots the defense --- tactical coordination, terrain reading, threat assessment in real time.
+- **Baret & the AI** --- Clinical voice in his head. The AI enhances Baret's cognition in two devastating ways: first, it proves the trials were rigged to kill him; second, it gives him the pattern recognition to reprocess childhood memories and see the truth about his sister. The defining Book 1 tension: the AI warns Baret to be careful and Baret is seventeen --- old enough to understand strategic patience, too angry to practice it. During the Ulreth raid, the AI co-pilots the defense --- tactical coordination, terrain reading, threat assessment in real time.
 
 - **Baret & Elowen** --- Baret barely registers her. She registers him completely. The geode exchange is a moment he forgets and she builds meaning from.
 
@@ -50,27 +50,27 @@
 
 ## TRIAL SYSTEM OVERVIEW
 
-The trial system is Haldrin's method for identifying retainers and specialists from a population that is already martially competent. Every child in the territory grows up familiar with weapons, terrain navigation, animal handling, and Gulrek awareness. The frontier is close. The countryside is dangerous. Baseline martial competence is universal. The trials identify leaders and specialists, not soldiers. The key metric is rate-of-improvement and adaptability.
+The trial system is Haldrin's method for identifying retainers and specialists from a population that is already martially competent. Every child in the territory grows up familiar with weapons, terrain navigation, animal handling, and Ulreth awareness. The frontier is close. The countryside is dangerous. Baseline martial competence is universal. The trials identify leaders and specialists, not soldiers. The key metric is rate-of-improvement and adaptability.
 
 **Cohort:** ~40-60 candidates drawn from across the territory's ~12 mountain villages. Trial-age: 16.
 
 **Proving 1 --- Individual (~2 weeks, Spring):** Unfamiliar weapons rotation, terrain navigation under time pressure, endurance with decision points, animal handling under stress. Establishes baseline. Rate-of-improvement is the key metric.
 
-**Proving 2 --- Partners (~4 weeks, Early-Mid Summer):** Assessor-assigned pairs. Multi-day patrols in real frontier terrain with genuine objectives. Baret and Barlas paired as expendables and routed into Gulrek territory.
+**Proving 2 --- Partners (~4 weeks, Early-Mid Summer):** Assessor-assigned pairs. Multi-day patrols in real frontier terrain with genuine objectives. Baret and Barlas paired as expendables and routed into Ulreth territory.
 
-**Proving 3 --- Teams (three 2-week rounds, Late Summer through Late Autumn):** 5-6 teams of 6-10 candidates. Flag capture + waypoint multiplier scoring system. Three rounds with team reshuffles between rounds. Haldrin manipulates compositions increasingly across rounds (random → slight adjustment → deliberate stacking). A Gulrek raiding party penetrates the exercise area during Round 3, transforming the competition into a real combat situation.
+**Proving 3 --- Teams (three 2-week rounds, Late Summer through Late Autumn):** 5-6 teams of 6-10 candidates. Flag capture + waypoint multiplier scoring system. Three rounds with team reshuffles between rounds. Haldrin manipulates compositions increasingly across rounds (random → slight adjustment → deliberate stacking). A Ulreth raiding party penetrates the exercise area during Round 3, transforming the competition into a real combat situation.
 
 ### Proving 3 Scoring System
 
 **Flags:** Every candidate wears a cloth strip on the upper arm (breakaway knot). Visible at all times. When captured (flag pulled free), the candidate joins the capturing team. No oversight between waypoints --- flags change hands through combat, negotiation, alliance, defection, ambush, or any other means the candidates devise. The system doesn't regulate how; it only counts what you hold.
 
-**Waypoints:** Six physical waypoint flags positioned across the exercise area. Each has a difficulty-based multiplier: two ×1 (accessible), two ×2 (moderate terrain), two ×3 (remote/Gulrek-adjacent). Waypoint flags are carried --- captured from the location, defended on the move. Other teams can take waypoint flags from you.
+**Waypoints:** Six physical waypoint flags positioned across the exercise area. Each has a difficulty-based multiplier: two ×1 (accessible), two ×2 (moderate terrain), two ×3 (remote/Ulreth-adjacent). Waypoint flags are carried --- captured from the location, defended on the move. Other teams can take waypoint flags from you.
 
 **Scoring:** Total points = (team members) × (waypoint multiplier), calculated separately for each waypoint flag held. Example: a team of 15 holding a ×2 and a ×3 waypoint flag scores (15×2) + (15×3) = 75 points. A team holding zero waypoint flags scores zero regardless of size. A team holding zero members cannot hold waypoints.
 
 **Three rounds:** Same scoring rules each round. Exercise area and waypoint locations change between rounds. Teams reset to original sizes but members are reshuffled by assessors. Waypoint flags return to new locations. Cumulative score across all three rounds determines final Proving 3 ranking.
 
-**The technicality trap (Round 3):** The ×3 waypoint is positioned beyond Gulrek-sign territory. Protocol requires reporting and withdrawal upon encountering Gulrek sign. The time window for capturing the waypoint makes following protocol and reaching it in time effectively impossible. Kasun pushes through --- competent tactical call, protocol violation. Baret's AI identifies the conflict in advance and redirects to a ×2 waypoint. Haldrin built the trap for Baret; Baret avoided it; Kasun triggered it.
+**The technicality trap (Round 3):** The ×3 waypoint is positioned beyond Ulreth-sign territory. Protocol requires reporting and withdrawal upon encountering Ulreth sign. The time window for capturing the waypoint makes following protocol and reaching it in time effectively impossible. Kasun pushes through --- competent tactical call, protocol violation. Baret's AI identifies the conflict in advance and redirects to a ×2 waypoint. Haldrin built the trap for Baret; Baret avoided it; Kasun triggered it.
 
 ---
 
@@ -82,12 +82,12 @@ The trial system is Haldrin's method for identifying retainers and specialists f
 
 - Baret and Darek hiking above Tanapun, looking for a lost sheep. Herders. The lost sheep matters --- Haldrin's taxes leave no margin.
 - **Twin banter.** Darek is warmer, quicker to talk, more socially fluid. Baret is quieter, more observant, slower to speak. Their rhythm is worn-in --- the competition and closeness only twins have.
-- **Nalin's absence.** Not foregrounded. Not a scene about grief. But the reader should sense it --- a reference, a moment of quiet, a gap in the family. Nalin died ~1-2 years ago. The boys were told Gulrek raid. Baret doesn't talk about it much. Darek might reference her more easily.
+- **Nalin's absence.** Not foregrounded. Not a scene about grief. But the reader should sense it --- a reference, a moment of quiet, a gap in the family. Nalin died ~1-2 years ago. The boys were told Ulreth raid. Baret doesn't talk about it much. Darek might reference her more easily.
 - **The geode.** Baret cracks open a rock. Crystal inside. Pockets it.
 - **Terraforming structures in the landscape.** Strange formations visible from the mountain. Mountain-dialect names for peaks --- hard /t/ onsets preserved. The reader registers them; Baret doesn't.
-- The view: Tanapun below, Haldrin's patrol routes visible (not the garrison itself --- Pakran is a day away). Forest toward Gulrek territory.
+- The view: Tanapun below, Haldrin's patrol routes visible (not the garrison itself --- Pakran is a day away). Forest toward Ulreth territory.
 - **The lion's claw.** Baret carries it --- from when his father saved him from one as a child. Gains tragic weight once the sister truth emerges.
-- **The village mantra.** [MANTRA] --- woven into Tanapun's daily culture. Baret or Darek might say it casually, or Baret might think it. Planted here as texture. It becomes a rallying cry during the Gulrek raid in Round 3 and carries through to the Sorting.
+- **The village mantra.** [MANTRA] --- woven into Tanapun's daily culture. Baret or Darek might say it casually, or Baret might think it. Planted here as texture. It becomes a rallying cry during the Ulreth raid in Round 3 and carries through to the Sorting.
 - **Sera and Garik** may appear as texture --- village kids Baret's age who'll also be going to the trials. Sera's sharp mouth, Garik's aggression. The peer group in Tanapun before the wider cohort at Pakran. Not foregrounded --- just the people Baret has grown up alongside.
 
 **Establishes:** Baret and Darek's relationship, the herding life, Nalin's absence (planted without emphasis), the geode, the lion's claw, terraforming structures, the village mantra (planted as texture), Sera and Garik as village peers (planted lightly), the occupation as daily reality.
@@ -196,15 +196,15 @@ Sera has been watching Kesal since he arrived. She already distrusts him --- not
 - **Darek paired with someone else, routed separately.** First real separation of the twins. Darek will not be present for anything that happens to Baret in Proving 2.
 - Kullen paired with someone reliable. Protected.
 - Kasun paired appropriately. Demanding but survivable route.
-- Multi-day patrols in real frontier terrain with genuine objectives: checking positions, reporting trail conditions, marking Gulrek sign.
+- Multi-day patrols in real frontier terrain with genuine objectives: checking positions, reporting trail conditions, marking Ulreth sign.
 
-### Chapter 9: Into Gulrek Territory
+### Chapter 9: Into Ulreth Territory
 
 **Purpose:** Baret and Barlas pushed into the wild. Baret saves Barlas.
 
-- The Proving routes Baret and Barlas deep into Gulrek-adjacent terrain. Death sentence disguised as challenging assignment.
-- **Barlas in Gulrek territory** --- this is the landscape where Barlas's family was massacred. The companion doesn't say it, but the terrain means something specific that Baret doesn't know yet.
-- **Baret saves Barlas from a Gulrek attack.** Herding instincts --- terrain reading, animal behavior. No enhancement. The person Baret was before the AI.
+- The Proving routes Baret and Barlas deep into Ulreth-adjacent terrain. Death sentence disguised as challenging assignment.
+- **Barlas in Ulreth territory** --- this is the landscape where Barlas's family was massacred. The companion doesn't say it, but the terrain means something specific that Baret doesn't know yet.
+- **Baret saves Barlas from a Ulreth attack.** Herding instincts --- terrain reading, animal behavior. No enhancement. The person Baret was before the AI.
 - Two teenagers in monster territory. Survival mode.
 
 ### Chapter 10: Capsule Two
@@ -214,7 +214,7 @@ Sera has been watching Kesal since he arrived. She already distrusts him --- not
 - Baret and Barlas stumble into Capsule Two's infrastructure. Materials wrong --- alien.
 - **The reader connects to Chapter 1's terraforming structures.**
 - **Activation begins.** Hours of agony. Baret doesn't know if he's dying.
-- **Barlas watches over Baret.** Incapacitated, convulsing, in Gulrek territory --- the same kind of territory where Barlas's own family was left to die. Barlas refuses to leave. The defining act of loyalty.
+- **Barlas watches over Baret.** Incapacitated, convulsing, in Ulreth territory --- the same kind of territory where Barlas's own family was left to die. Barlas refuses to leave. The defining act of loyalty.
 - Baret emerges changed.
 - **Barlas touches the same infrastructure. Nothing happens.** Silence. The technology found nothing functional enough.
 - **This silence echoes through every subsequent scene.**
@@ -248,7 +248,7 @@ Sera has been watching Kesal since he arrived. She already distrusts him --- not
 - **Barlas training alongside Baret.** Compensating with effort for what Baret received by lottery.
 - **The AI's first revelation: the rigged trials.** *"You were eliminated, not tested."* Baret's anger gets precision.
 - **The AI's second revelation: Nalin.** Not the AI telling Baret --- it's enhanced cognition reprocessing memories. The timelines that never matched. Kesal in the wrong place. Maia's face when that man's name came up. The adults looking at each other when they thought the boys weren't watching. The AI confirms the statistical analysis: the official story is inconsistent.
-- Baret's grief transforms. Nalin wasn't killed by Gulrek. She was raped and murdered by Kesal. The man is still serving.
+- Baret's grief transforms. Nalin wasn't killed by Ulreth. She was raped and murdered by Kesal. The man is still serving.
 - **The lion's claw.** Baret looks at it differently. His father couldn't protect his daughter from the system.
 
 **[DECISION NEEDED: Does Baret tell Barlas about Nalin? Does Baret tell Darek?]**
@@ -259,7 +259,7 @@ Sera has been watching Kesal since he arrived. She already distrusts him --- not
 
 **Purpose:** Haldrin's protocol trap identified. Baret's AI catches it. Kasun won't.
 
-- The AI analyzes the Proving 3 structure: waypoint placement, protocol rules, time constraints. Identifies the ×3 waypoint positioned beyond Gulrek-sign territory where protocol makes reaching it in time effectively impossible without violating reporting requirements.
+- The AI analyzes the Proving 3 structure: waypoint placement, protocol rules, time constraints. Identifies the ×3 waypoint positioned beyond Ulreth-sign territory where protocol makes reaching it in time effectively impossible without violating reporting requirements.
 - Baret understands the trap. The AI counsels avoidance.
 - Baret's internal conflict: he's seventeen, knows the system tried to murder him AND murdered his sister. Strategic patience is available to him --- he's old enough --- but the anger makes it feel like surrender.
 
@@ -280,7 +280,7 @@ Sera has been watching Kesal since he arrived. She already distrusts him --- not
 
 **Round 2 (Slight manipulation):**
 - Reshuffled teams. Haldrin adjusts compositions based on Round 1 intelligence. Baret again starts with strangers --- some who served under him in Round 1 and trust him, some new and skeptical.
-- **Barlas's team fractures.** Team leader makes a bad call --- freezes under pressure, pushes into untenable terrain. A real Gulrek encounter turns vulnerability into crisis. Barlas holds the remnants together through ferocity and determination.
+- **Barlas's team fractures.** Team leader makes a bad call --- freezes under pressure, pushes into untenable terrain. A real Ulreth encounter turns vulnerability into crisis. Barlas holds the remnants together through ferocity and determination.
 - **Barlas brings the remnants to Baret.** Integrates smoothly --- the Proving 2 bond is immediate. The rest of Barlas's team sees Barlas snap into Baret's command and follows.
 - Baret absorbs and reorganizes. The cohort sees him handle chaos.
 - Round 2 scoring reflects Baret's growing dominance.
@@ -290,39 +290,39 @@ Sera has been watching Kesal since he arrived. She already distrusts him --- not
 **Purpose:** Tension between rounds. Haldrin's final manipulation.
 
 - The reshuffle before Round 3. Haldrin deliberately stacks compositions --- Baret gets weaker candidates or people who clashed with him.
-- Baret and the AI assess the new exercise area. The ×3 waypoint beyond Gulrek-sign territory identified.
+- Baret and the AI assess the new exercise area. The ×3 waypoint beyond Ulreth-sign territory identified.
 - The resistance gesture spreading quietly.
 - Baret carrying the compound anger --- rigged trials, Nalin's murder --- into the final round.
 
 ### Chapter 18: Proving 3, Round 3 --- The Raid
 
-**Purpose:** The decisive round. The competition becomes real combat. Baret leads the cohort against a Gulrek raiding party. The technicality is triggered. The village mantra becomes a rallying cry.
+**Purpose:** The decisive round. The competition becomes real combat. Baret leads the cohort against a Ulreth raiding party. The technicality is triggered. The village mantra becomes a rallying cry.
 
 **The competition begins:**
 - Despite stacked compositions, Baret's reputation precedes him. Some candidates assigned to other teams defect to his group voluntarily.
-- Kasun pushes through Gulrek-sign territory for the ×3 waypoint. Scores big. Gets flagged for the protocol violation. **[Kasun's position during the subsequent raid is TBD.]**
+- Kasun pushes through Ulreth-sign territory for the ×3 waypoint. Scores big. Gets flagged for the protocol violation. **[Kasun's position during the subsequent raid is TBD.]**
 - Baret's AI redirects to the ×2. Lower ceiling, protocol-clean.
 
-**The Gulrek raid:**
-- A Gulrek raiding party --- organized, larger than the chance encounters in Proving 2 --- penetrates the exercise area. This is not a frontier hazard. This is an incursion with intent. The threat the entire trial system exists to defend against.
+**The Ulreth raid:**
+- A Ulreth raiding party --- organized, larger than the chance encounters in Proving 2 --- penetrates the exercise area. This is not a frontier hazard. This is an incursion with intent. The threat the entire trial system exists to defend against.
 - **The cohort fractures into three groups:**
 
 **Group 1 --- Don't know.** Teams operating in distant sectors of the exercise area. The raid is happening elsewhere. They're still competing, still chasing flags and waypoints. They find out later --- when they converge on a waypoint and find blood instead of a flag, or when a runner reaches them. Their absence isn't cowardice. It's geography. But at the Sorting, they carry the weight of not having been there.
 
 **Group 2 --- Keep playing.** Teams that see the raid developing --- hear fighting, see smoke, encounter fleeing candidates --- and calculate that the chaos is an opportunity. While everyone's distracted, waypoints are undefended. Flags are loose. These candidates make the rational competitive choice. They're not wrong about the math. They're wrong about what the moment demands. At the Sorting, the cohort knows who kept playing while others bled. This response is an indictment of the system, not the candidates --- Haldrin's system told them to value points over people, and they did.
 
-**Group 3 --- Rally around Baret.** Candidates who choose to fight. Not because anyone orders them --- the competition is technically still running. Because a Gulrek raiding party is in the exercise area and people will die if someone doesn't organize a defense. Baret takes command because his AI gives him tactical clarity no one else has and because the cohort has spent three rounds watching him lead.
+**Group 3 --- Rally around Baret.** Candidates who choose to fight. Not because anyone orders them --- the competition is technically still running. Because a Ulreth raiding party is in the exercise area and people will die if someone doesn't organize a defense. Baret takes command because his AI gives him tactical clarity no one else has and because the cohort has spent three rounds watching him lead.
 
 **Baret's defense:**
 - The AI co-pilots: tactical coordination, terrain reading, threat assessment in real time. Baret positions the defenders, identifies choke points, coordinates the response.
 - **Baret repeats the village mantra** --- [MANTRA]. Something from Tanapun, from mountain herding culture. He shouts it as a rallying cry. It starts with one voice --- his. The cohort picks it up. Fifty teenagers holding the line, shouting words from a herding village most of them have never visited. The mantra transforms from local culture into shared identity.
 - **Barlas is the physical tip of the defense.** Ferocious, instinctive, fighting on the same kind of terrain where his family was killed. No AI, no enhancement. The most dangerous person on the field through sheer fury and refusal to yield.
-- **Kullen rallies and fights alongside Baret.** Charming, confident Kullen --- the lord's son --- stands with the herder's boy against the Gulrek. They bleed together. This shared combat matters enormously for what comes after: when Barlas kills Kullen's father, the betrayal is intimate, not abstract.
+- **Kullen rallies and fights alongside Baret.** Charming, confident Kullen --- the lord's son --- stands with the herder's boy against the Ulreth. They bleed together. This shared combat matters enormously for what comes after: when Barlas kills Kullen's father, the betrayal is intimate, not abstract.
 - **Darek's team is disrupted by the raid.** The raiding party cuts through or near their operational area. The team is scattered or driven toward Baret's position. Darek joins Baret's group during the crisis --- not through competition mechanics but through the urgency of survival. Darek's social instincts help integrate the arriving candidates into Baret's defense.
 
 **Aftermath:**
 - The raid is repelled. Casualties among the cohort --- injuries, possibly deaths. The exercise area is no longer a competition space. It's a battlefield.
-- Baret has led the defense that Haldrin's own system couldn't provide. The lord's trials were supposed to prepare frontier defenders. A Gulrek raiding party got through. A seventeen-year-old herder organized the response.
+- Baret has led the defense that Haldrin's own system couldn't provide. The lord's trials were supposed to prepare frontier defenders. A Ulreth raiding party got through. A seventeen-year-old herder organized the response.
 - The cohort that rallied carries the shared experience of real combat under Baret's command. The mantra is theirs now.
 - The candidates who kept playing carry the knowledge that others know what they chose.
 - By the end of Round 3, Baret commands roughly a third to half the cohort --- people who fought with him, not just competed under him.
@@ -333,7 +333,7 @@ Sera has been watching Kesal since he arrived. She already distrusts him --- not
 
 - Assessment period. Cumulative scores tallied across three rounds --- complicated by the raid. How do assessors score a round disrupted by real combat?
 - Baret and the AI strategizing. The AI maps Haldrin's likely moves at the Sorting.
-- **The raid undermines Haldrin's authority.** A Gulrek raiding party penetrated the exercise area during his trials. His frontier defense failed. Baret led the defense. This changes the political calculus at the Sorting --- Haldrin is trying to disqualify the candidate who just proved he can do the job the lordship exists to do.
+- **The raid undermines Haldrin's authority.** A Ulreth raiding party penetrated the exercise area during his trials. His frontier defense failed. Baret led the defense. This changes the political calculus at the Sorting --- Haldrin is trying to disqualify the candidate who just proved he can do the job the lordship exists to do.
 - Maia at Pakran for the Sorting. Her fear amplified.
 - The cohort --- a year of shared trials, three rounds of Proving 3, and a real battle. Most served under Baret at some point. Many fought under him.
 - **The mantra** as shared identity among those who rallied. It means something now that it didn't before.
@@ -347,10 +347,10 @@ Sera has been watching Kesal since he arrived. She already distrusts him --- not
 **Purpose:** Culmination. Haldrin's trap dismantled. Baret's defiance.
 
 - The Sorting ceremony at Pakran. Families from a dozen villages present. Kullen placed as Retainer. Collaborator families sorted favorably.
-- **Haldrin plays the technicality overreach.** Uses Kasun's protocol violation to challenge the integrity of all Proving 3 results. His argument: compromised exercise environment means all team results are questionable, including Baret's. The argument is even weaker now --- the exercise environment was compromised by a Gulrek raid that Baret defended against, not by procedural violations.
+- **Haldrin plays the technicality overreach.** Uses Kasun's protocol violation to challenge the integrity of all Proving 3 results. His argument: compromised exercise environment means all team results are questionable, including Baret's. The argument is even weaker now --- the exercise environment was compromised by a Ulreth raid that Baret defended against, not by procedural violations.
 - **Murek speaks.** Challenges the process --- if objectives and protocols were designed to conflict, the violation proves the test was rigged, not that Kasun failed. Not defending Baret. Attacking institutional legitimacy to protect his son.
-- Haldrin exposed. Only remaining option: naked authority --- "I'm the lord and I say so." In front of families from twelve villages, with Murek publicly opposing him, after a Gulrek raid penetrated his territory during his own trials, at the ceremony that determines their children's futures.
-- **Baret performs the palm-inward gesture.** The cohort responds --- people who served under him across three rounds AND fought under him against the Gulrek. Barlas instantly. Darek --- his twin said no. The mantra may surface again here --- the same words from the raid, now directed at the lord.
+- Haldrin exposed. Only remaining option: naked authority --- "I'm the lord and I say so." In front of families from twelve villages, with Murek publicly opposing him, after a Ulreth raid penetrated his territory during his own trials, at the ceremony that determines their children's futures.
+- **Baret performs the palm-inward gesture.** The cohort responds --- people who served under him across three rounds AND fought under him against the Ulreth. Barlas instantly. Darek --- his twin said no. The mantra may surface again here --- the same words from the raid, now directed at the lord.
 - The Sorting becomes collective refusal. Regional from the first moment --- families from the entire territory present.
 
 ### Chapter 21: The Uprising
@@ -359,7 +359,7 @@ Sera has been watching Kesal since he arrived. She already distrusts him --- not
 
 - Baret's act ignites original families. Decades of occupation erupting.
 - Haldrin's garrison responds. Chaotic, violent.
-- **Baret's AI provides tactical edge.** The same AI that co-piloted the Gulrek defense now co-pilots the rebellion.
+- **Baret's AI provides tactical edge.** The same AI that co-piloted the Ulreth defense now co-pilots the rebellion.
 - **Darek fighting alongside Baret.** Twin coordination.
 - **Barlas fighting with ferocity.** No enhancement. Every swing fueled by the capsule's silence and a family left to die.
 - Casualties. Violence ugly.
@@ -372,7 +372,7 @@ Sera has been watching Kesal since he arrived. She already distrusts him --- not
 - **Barlas kills Haldrin.** After surrender. Barlas stands in front of the man who left their family to die --- and the man doesn't even know who Barlas is. One triage decision among hundreds. The defining moment of Barlas's life is a footnote Haldrin doesn't remember.
 - The killing is loyalty, rage, and the capsule's silence all at once.
 - **Baret's response is emotional, not institutional.** He's 17. He can see the moral complexity clearly enough to be frozen by it. He understands Barlas killed a surrendered man. He understands why. He can't punish the person who guarded him in the capsule. He can't endorse murder after surrender. "What did you do." Barlas doesn't apologize.
-- **Kullen witnesses his father's murder.** Hours or days ago, Kullen fought alongside Baret against the Gulrek. They bled together. Now Baret's closest ally has murdered Kullen's father after surrender. The wound is intimate --- not a stranger's violence but a betrayal by someone Kullen stood with. This is the seed of everything Kullen becomes.
+- **Kullen witnesses his father's murder.** Hours or days ago, Kullen fought alongside Baret against the Ulreth. They bled together. Now Baret's closest ally has murdered Kullen's father after surrender. The wound is intimate --- not a stranger's violence but a betrayal by someone Kullen stood with. This is the seed of everything Kullen becomes.
 - The rebellion fractures --- some horrified, some satisfied.
 - The AI processes clinically. Baret can't process at all.
 
@@ -401,8 +401,8 @@ Sera has been watching Kesal since he arrived. She already distrusts him --- not
 
 1. **Does Baret tell Barlas about Nalin? Does Baret tell Darek?**
 2. **Elowen's family disgrace mechanism (Chapter 5).**
-3. **The village mantra** --- [MANTRA]. Specific words needed. Must work as casual daily expression in Chapter 1, as rallying cry during Gulrek raid, and as symbol of collective refusal at the Sorting.
-4. **Kasun's position during the Gulrek raid** --- Group 1 (didn't know), Group 2 (kept playing), or Group 3 (rallied). Affects the texture of Murek's defense at the Sorting.
+3. **The village mantra** --- [MANTRA]. Specific words needed. Must work as casual daily expression in Chapter 1, as rallying cry during Ulreth raid, and as symbol of collective refusal at the Sorting.
+4. **Kasun's position during the Ulreth raid** --- Group 1 (didn't know), Group 2 (kept playing), or Group 3 (rallied). Affects the texture of Murek's defense at the Sorting.
 5. **Scoring timing within Proving 3 rounds** --- end of each round, intervals, or other.
 
 ### Important
@@ -426,7 +426,7 @@ Sera has been watching Kesal since he arrived. She already distrusts him --- not
 19. **The monarch's shadow** --- How much intrudes on Book 1?
 20. **Whether Baret sees Kesal flee during the rebellion.**
 21. **Maia at Pakran** --- Present for the Sorting and rebellion?
-22. **Gulrek raid casualties** --- Does anyone in the cohort die? Injuries?
+22. **Ulreth raid casualties** --- Does anyone in the cohort die? Injuries?
 23. **How the assessors handle scoring after the raid disrupts Round 3.**
 24. **Garik's specific role in the trials** --- beyond "aggressive competitor." Does Haldrin use him against Baret in Round 3?
 25. **Sera's key moment in Proving 3** --- the public comment about the system that Baret has to respond to.
@@ -444,7 +444,7 @@ Sera has been watching Kesal since he arrived. She already distrusts him --- not
 
 **Baret & the Sister (the Cover-Up):** The system doesn't just sort people. It destroys them and erases the evidence. Nalin is the proof that the cost isn't just inequality --- it's impunity.
 
-**The Three Groups (the Raid):** When the Gulrek came, some didn't know, some kept playing, and some fought. The system that valued points over people produced candidates who valued points over people. The ones who fought followed Baret. The ones who played followed the rules. Both responses were logical. Only one was right.
+**The Three Groups (the Raid):** When the Ulreth came, some didn't know, some kept playing, and some fought. The system that valued points over people produced candidates who valued points over people. The ones who fought followed Baret. The ones who played followed the rules. Both responses were logical. Only one was right.
 
 ---
 
@@ -461,7 +461,7 @@ Sera has been watching Kesal since he arrived. She already distrusts him --- not
 | Early Autumn | Transition, reshuffle | ~1 week |
 | Autumn | Proving 3, Round 2 | ~2 weeks |
 | Mid Autumn | Transition, reshuffle | ~1 week |
-| Late Autumn | Proving 3, Round 3 (includes Gulrek raid) | ~2 weeks |
+| Late Autumn | Proving 3, Round 3 (includes Ulreth raid) | ~2 weeks |
 | Early Winter | Assessment, Sorting, Rebellion | ~1-2 weeks |
 
 Total: ~12 months. Baret turns 17 during Proving 3. The Sorting and rebellion happen as winter closes in.
@@ -474,10 +474,10 @@ Total: ~12 months. Baret turns 17 during Proving 3. The Sorting and rebellion ha
 
 - **Act 1 (7 chapters):** ~80-100 pages. Nalin present as background grief, Maia's fear as hidden weight, the mantra planted as texture.
 - **Act 2 (7 chapters):** ~90-110 pages. Chapter 13 is the emotional center --- compound revelation of rigged trials and Nalin's murder.
-- **Act 3 (9 chapters):** ~100-120 pages. Three rounds of Proving 3 compressed into early chapters, the Gulrek raid as the act's first climax, then Sorting and rebellion as the second. Two climactic sequences in Act 3 --- the raid and the overthrow --- with the Sorting as the hinge between them.
+- **Act 3 (9 chapters):** ~100-120 pages. Three rounds of Proving 3 compressed into early chapters, the Ulreth raid as the act's first climax, then Sorting and rebellion as the second. Two climactic sequences in Act 3 --- the raid and the overthrow --- with the Sorting as the hinge between them.
 
 **Total estimate:** ~270-330 pages (70-85k words)
 
 **Chapter 13 is the heaviest chapter in the book.** The capsule (Chapter 10) is the transformation. Chapter 13 is where Baret learns what the transformation shows him. Two truths, compounding.
 
-**Chapter 18 is the most kinetic chapter in the book.** The Gulrek raid transforms Proving 3 from a competition into real combat. The mantra transforms from village culture into shared identity. Baret transforms from competition winner into combat leader.
+**Chapter 18 is the most kinetic chapter in the book.** The Ulreth raid transforms Proving 3 from a competition into real combat. The mantra transforms from village culture into shared identity. Baret transforms from competition winner into combat leader.

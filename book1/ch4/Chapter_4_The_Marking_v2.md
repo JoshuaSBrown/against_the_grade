@@ -17,7 +17,7 @@
 
 **Establishes:** Haldrin as a severe, competent lord who believes in his system. The tiered consequences (cheating → lashing and dangerous work; failure → frontier labor and reduced family status; success → good treatment, return to family; excellence → apprenticeship, retainership, family benefits). The Marking as a multi-stage assessment (physical tests + glyph reading). The symbiont marks as the basis for the class hierarchy. The artifact as a sacred relic that is actually capsule technology (planted for Book 3 recontextualization). The twin ranking as a wound. Kullen, Barlas, Kasun, Elowen, Arabela as presences Baret registers differently. Kesal as background figure at Pakran. Pakran's oppression as institutional and visible.
 
-**Escalation from Chapter 3:** Ch 3 ended with Baret as nobody in a massive unfamiliar place, having just walked through Gulrek territory escorted by Kesal. Ch 4 makes it worse: the lord himself appears and tells them what the stakes are --- not just for them but for their families. Then the system measures them. And the measurement publicly ranks Baret above his own brother based on something neither of them chose.
+**Escalation from Chapter 3:** Ch 3 ended with Baret as nobody in a massive unfamiliar place, having just walked through Ulreth territory escorted by Kesal. Ch 4 makes it worse: the lord himself appears and tells them what the stakes are --- not just for them but for their families. Then the system measures them. And the measurement publicly ranks Baret above his own brother based on something neither of them chose.
 
 ---
 
@@ -35,7 +35,7 @@
 
 ### Reader Hooks
 
-**Tension hook:** Haldrin's speech. The lord himself telling these teenagers that their performance determines whether their families eat or dig ditches near Gulrek territory. The consequences are real and tiered and the room goes silent.
+**Tension hook:** Haldrin's speech. The lord himself telling these teenagers that their performance determines whether their families eat or dig ditches near Ulreth territory. The consequences are real and tiered and the room goes silent.
 
 **Character hook:** Five new characters entering through performance, not description. Kullen's polish in combat. Barlas's ferocity. Kasun's preparation. Sera's speed. Each reveals themselves through how they handle the tests.
 
@@ -103,13 +103,13 @@ Pakran in daylight. Chapter 3 ended at dusk. Now the stratification is sharp: th
 
 **Content of the speech:**
 
-*The frontier is real.* Haldrin speaks in specifics. Villages that were lost --- not "some villages" but names. Patrols that didn't return --- not "some patrols" but numbers. He knows the cost in bodies. He remembers the names. This isn't rhetoric designed to frighten. It's a man stating the facts of his life. The Gulrek are territorial, relentless, and they do not negotiate. The frontier contracts every year that the territory fails to hold the line. Every person in this room exists because someone else held a wall, ran a patrol, made a triage call. The candidates' parents know this. Now the candidates will learn it.
+*The frontier is real.* Haldrin speaks in specifics. Villages that were lost --- not "some villages" but names. Patrols that didn't return --- not "some patrols" but numbers. He knows the cost in bodies. He remembers the names. This isn't rhetoric designed to frighten. It's a man stating the facts of his life. The Ulreth are territorial, relentless, and they do not negotiate. The frontier contracts every year that the territory fails to hold the line. Every person in this room exists because someone else held a wall, ran a patrol, made a triage call. The candidates' parents know this. Now the candidates will learn it.
 
 *The trials exist because the frontier demands it.* He needs retainers --- people who can lead patrols, hold positions, make decisions that keep villages alive. He needs specialists --- people with specific capabilities the territory can't afford to waste. This is not an opportunity. This is a draft. The trials determine where you serve, not whether you serve. Everyone in the territory serves. The trials determine how.
 
 *The consequences are tiered:*
 
-**Cheating.** Anyone caught manipulating their assessment --- lying about their glyph response, sabotaging another candidate, bribing an assessor --- receives a public lashing and is relegated to the most dangerous frontier labor. Ditch-work in Gulrek-adjacent territory. Wall repair on the outer perimeter. Supply runs through contested ground. The kind of work where the Gulrek are a daily reality, not a distant threat. Haldrin delivers this flatly. He's not trying to scare them. He's telling them what happens. The message: the system's integrity matters more than any individual candidate. Cheat, and the system will use you where your dishonesty costs the territory the least.
+**Cheating.** Anyone caught manipulating their assessment --- lying about their glyph response, sabotaging another candidate, bribing an assessor --- receives a public lashing and is relegated to the most dangerous frontier labor. Ditch-work in Ulreth-adjacent territory. Wall repair on the outer perimeter. Supply runs through contested ground. The kind of work where the Ulreth are a daily reality, not a distant threat. Haldrin delivers this flatly. He's not trying to scare them. He's telling them what happens. The message: the system's integrity matters more than any individual candidate. Cheat, and the system will use you where your dishonesty costs the territory the least.
 
 **Failure.** Candidates who fail the trials --- who don't demonstrate sufficient capability to earn a placement --- are returned to their villages and assigned to frontier labor. Not the extreme danger of the cheating penalty, but the hard, unglamorous, essential work that keeps the territory's infrastructure functional. Their families absorb a status reduction --- not punishment, but the loss of the potential elevation that success would have brought. In a frontier economy where margins are razor-thin, this matters. Failure doesn't destroy your family. It forecloses the future that success would have opened.
 

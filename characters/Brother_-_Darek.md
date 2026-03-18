@@ -61,7 +61,7 @@ invisible.
 
 - **Marking:** Both twins advance. Baret's mark strong, Darek's weaker. The hierarchy is public. Darek carries this with warmth on the surface and hurt underneath.
 - **Proving 1 (Individual):** In the same Proving as Baret. Direct comparison unavoidable. Baret is better. Darek is competent but not remarkable. The Marking's ranking confirmed in practice.
-- **Proving 2 (Partners):** Paired with a different candidate, routed separately from Baret. Not present for the Gulrek attack, the capsule, the activation, or the silence. The defining experience of Baret's life happens with someone who isn't Darek. The wall between twins starts here --- built by an assessor's pairing sheet, not by choice.
+- **Proving 2 (Partners):** Paired with a different candidate, routed separately from Baret. Not present for the Ulreth attack, the capsule, the activation, or the silence. The defining experience of Baret's life happens with someone who isn't Darek. The wall between twins starts here --- built by an assessor's pairing sheet, not by choice.
 - **Proving 3 (Teams):** Different team from Baret in each round. In Round 3, his team's route becomes untenable due to weather/terrain. Some teammates defect to Baret individually. Darek joins Baret's group --- the mechanism (defection, negotiation, team fracture) is TBD but Darek's arrival is a personal choice that means something. Functions as the social bridge between Baret's established command and the arriving group.
 - **The Sorting:** Responds to Baret's palm-inward gesture. His twin said no. Of course Darek follows.
 - **The Killing:** Witnesses or learns of Barlas killing Haldrin. His reaction --- and whether he knows about the sister by this point --- shapes the final chapter dynamics.

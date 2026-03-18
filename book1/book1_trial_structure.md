@@ -5,7 +5,7 @@
 
 ## OVERVIEW
 
-The trial system is Haldrin's method for identifying retainers and specialists from a population that is already martially competent. Every child in the territory grows up familiar with weapons, terrain navigation, animal handling, and Gulrek awareness. The frontier is close. The countryside is dangerous. Baseline martial competence is universal.
+The trial system is Haldrin's method for identifying retainers and specialists from a population that is already martially competent. Every child in the territory grows up familiar with weapons, terrain navigation, animal handling, and Ulreth awareness. The frontier is close. The countryside is dangerous. Baseline martial competence is universal.
 
 The trials are therefore not training soldiers — they're identifying leaders and specialists from an already-capable population. The key metric across all Provings is rate-of-improvement and adaptability, not baseline skill. Haldrin is looking for people who get better fast when faced with the unfamiliar.
 
@@ -56,7 +56,7 @@ Not basic pathfinding — these are mountain kids who can all navigate. Instead:
 Escalating loads across distance, with decision points built in — when do you drop weight to move faster? When do you slow down to preserve energy? When do you take the harder route because the easy one costs more later? Resource management under physical stress. Mountain herders are built for this.
 
 **Animal handling under stress**
-In a society with working animals, handling them in dangerous conditions is a genuine military skill. A spooked animal on a mountain trail kills faster than a Gulrek. Can you control an animal when everything's going wrong? Baret excels here — this is literally his daily life in Tanapun.
+In a society with working animals, handling them in dangerous conditions is a genuine military skill. A spooked animal on a mountain trail kills faster than a Ulreth. Can you control an animal when everything's going wrong? Baret excels here — this is literally his daily life in Tanapun.
 
 ### Narrative beats during Proving 1:
 - Baret performs well but not dominantly. Strong in wilderness skills, still learning military-specific domains. Rate-of-improvement catches the assessors' attention.
@@ -89,29 +89,29 @@ In a society with working animals, handling them in dangerous conditions is a ge
 ### Pairing logic:
 - **Baret and Barlas paired together.** On paper: Baret's terrain skills complement Barlas's physical aggression and endurance. In practice: two candidates flagged as problems — Baret for the Chapter 6 incident, Barlas for behavioral markers in Proving 1 — packaged together as expendables.
 - **Kullen** paired with someone reliable. Protected.
-- **Darek** paired with someone else, routed separately. First real separation of the twins. Darek was not present for anything that happens to Baret in Proving 2 — the Gulrek attack, the capsule, the activation, the silence. The defining experience of Baret's life happens with Barlas, not Darek.
+- **Darek** paired with someone else, routed separately. First real separation of the twins. Darek was not present for anything that happens to Baret in Proving 2 — the Ulreth attack, the capsule, the activation, the silence. The defining experience of Baret's life happens with Barlas, not Darek.
 - **Kasun** paired appropriately. His route is demanding but survivable.
 
 ### Operations:
 Each pair is assigned a route through frontier terrain and a series of objectives:
 - Check specific positions (ridgelines, trail junctions, water sources)
 - Report on trail conditions and terrain changes
-- Locate and mark features (Gulrek sign, resource deposits, structural damage to paths)
-- Assess specific valleys or passes for current Gulrek activity
+- Locate and mark features (Ulreth sign, resource deposits, structural damage to paths)
+- Assess specific valleys or passes for current Ulreth activity
 
 Real frontier work. The pairs are covering ground Haldrin's retainers normally cover, giving the assessors both candidate evaluation and territorial intelligence.
 
 ### Key elements:
 - **Multi-day duration.** Pairs are out for days at a stretch. Self-sufficient. Limited supplies.
 - **Resource constraints.** Carry capacity is finite. Pairs must manage food, water, and equipment across multiple days. Forage, ration, or risk.
-- **Night operations.** Gulrek activity patterns require night awareness. Can the pair maintain security, navigate in darkness, function sleep-deprived?
-- **Genuine encounters.** The frontier is real. Pairs may encounter actual Gulrek sign, wildlife, weather that changes plans. Unscripted responses are the real test.
+- **Night operations.** Ulreth activity patterns require night awareness. Can the pair maintain security, navigate in darkness, function sleep-deprived?
+- **Genuine encounters.** The frontier is real. Pairs may encounter actual Ulreth sign, wildlife, weather that changes plans. Unscripted responses are the real test.
 - **Leadership rotation within the pair.** Both partners take turns leading. Assessors evaluate both leading and following capability.
 
 ### Baret and Barlas's route (Chapters 8-12):
-- Routed into the most dangerous sector — Gulrek-adjacent or Gulrek-interior territory. Death sentence disguised as a challenging assignment. Deniable: their complementary skills "suit" the difficult route.
-- **Barlas in Gulrek territory:** This is the landscape where Barlas's family was massacred. The companion doesn't say it, but the terrain means something specific to Barlas that Baret doesn't yet know.
-- **Baret saves Barlas from a Gulrek attack** (Chapter 9). Herding instincts — terrain reading, animal behavior prediction. No enhancement. This is the person Baret was before the AI.
+- Routed into the most dangerous sector — Ulreth-adjacent or Ulreth-interior territory. Death sentence disguised as a challenging assignment. Deniable: their complementary skills "suit" the difficult route.
+- **Barlas in Ulreth territory:** This is the landscape where Barlas's family was massacred. The companion doesn't say it, but the terrain means something specific to Barlas that Baret doesn't yet know.
+- **Baret saves Barlas from a Ulreth attack** (Chapter 9). Herding instincts — terrain reading, animal behavior prediction. No enhancement. This is the person Baret was before the AI.
 - **Capsule Two discovery** (Chapter 10). Baret activated. Hours of agony while Barlas guards him in monster territory. Barlas attempts activation — silence.
 - **Return to Proving 2** (Chapter 12). Baret disoriented, performance drops. Barlas covers for him. Haldrin reads the performance drop as evidence the routing worked.
 
@@ -126,7 +126,7 @@ Real frontier work. The pairs are covering ground Haldrin's retainers normally c
 - Barlas training alongside Baret. Compensating with effort for what Baret received by lottery.
 - **The compound revelations (Chapter 13):**
   - AI proves the trials were rigged: "You were eliminated, not tested."
-  - Enhanced cognition reprocesses childhood memories: the sister wasn't killed by Gulrek. A retainer raped and murdered her. The system covered it up.
+  - Enhanced cognition reprocesses childhood memories: the sister wasn't killed by Ulreth. A retainer raped and murdered her. The system covered it up.
 - Baret's anger gains two precision targets.
 - Darek sees Baret changing but can't identify why. The wall between twins growing.
 - Haldrin engineers the technicality trap for Proving 3.
@@ -153,7 +153,7 @@ Each team has:
 - Time constraints (objectives must be completed within set windows)
 - Rules of engagement covering:
   - Interaction with other teams' operational areas
-  - Handling of Gulrek sign (report, withdraw to safe distance, await authorization before proceeding)
+  - Handling of Ulreth sign (report, withdraw to safe distance, await authorization before proceeding)
   - Resource usage limitations
   - Reporting protocols
   - Designated leader accountability for all team decisions
@@ -162,13 +162,13 @@ Each team has:
 
 **Setup:** The objectives and protocols are designed to conflict at a specific decision point. One or more teams' routes naturally bring them to a situation where the optimal tactical response violates protocol.
 
-**The specific conflict:** A team's objective requires them to secure a position or complete a task within a time window. Their route passes through terrain where Gulrek sign is present (real or planted). Protocol states: upon encountering Gulrek sign, the team must report, withdraw to a safe distance, and wait for authorization before proceeding. But the time constraint means waiting for authorization guarantees failure of the objective.
+**The specific conflict:** A team's objective requires them to secure a position or complete a task within a time window. Their route passes through terrain where Ulreth sign is present (real or planted). Protocol states: upon encountering Ulreth sign, the team must report, withdraw to a safe distance, and wait for authorization before proceeding. But the time constraint means waiting for authorization guarantees failure of the objective.
 
-**The competent call:** Push through, secure the objective, report the Gulrek sign afterward. Every experienced frontier operator would do this — the Gulrek sign indicates previous activity, not current threat. Withdrawing and waiting is cautious to the point of operational failure.
+**The competent call:** Push through, secure the objective, report the Ulreth sign afterward. Every experienced frontier operator would do this — the Ulreth sign indicates previous activity, not current threat. Withdrawing and waiting is cautious to the point of operational failure.
 
 **The trap:** The designated team leader is formally accountable for all team decisions. Making the competent call = protocol violation = grounds for disqualification at the Sorting.
 
-**Baret's response:** The AI reads the full briefing — objectives, protocols, time constraints, terrain data — and identifies the conflict before the exercise begins. Baret routes his team on an alternative path that avoids the Gulrek-sign area entirely. It costs time. His team's raw performance numbers are slightly lower. But they're protocol-clean.
+**Baret's response:** The AI reads the full briefing — objectives, protocols, time constraints, terrain data — and identifies the conflict before the exercise begins. Baret routes his team on an alternative path that avoids the Ulreth-sign area entirely. It costs time. His team's raw performance numbers are slightly lower. But they're protocol-clean.
 
 **Kasun's response:** Kasun, leading his team competently without an AI, hits the same structural trap on his route. He makes the tactically correct call — pushes through, completes the objective, reports afterward. His team performs well. He's flagged for the protocol violation.
 
@@ -178,7 +178,7 @@ The exercise rules include merge protocols — when a team loses operational cap
 
 **First merge — Barlas's team (early-to-mid exercise):**
 
-Barlas's team leader makes a bad call — freezes under pressure, miscalculates a route, pushes into terrain the team can't handle. The leadership failure puts the team in a vulnerable position. A real Gulrek encounter — not catastrophic on its own, but dangerous for a disorganized group — turns the vulnerability into a crisis. Barlas holds the remnants together through ferocity and determination. The team retreats into Baret's operational area.
+Barlas's team leader makes a bad call — freezes under pressure, miscalculates a route, pushes into terrain the team can't handle. The leadership failure puts the team in a vulnerable position. A real Ulreth encounter — not catastrophic on its own, but dangerous for a disorganized group — turns the vulnerability into a crisis. Barlas holds the remnants together through ferocity and determination. The team retreats into Baret's operational area.
 
 Assessors invoke merge protocol. Baret absorbs Barlas and surviving members (~4-6, reduced by the encounter). This is crisis management — shaken, possibly injured candidates who need structure and direction. Baret stabilizes them, reorganizes roles, redistributes the tactical plan. Barlas integrates smoothly — the Proving 2 bond is immediate, trust without hesitation. The rest of Barlas's team sees Barlas snap into Baret's command structure and follows.
 
@@ -196,7 +196,7 @@ Darek's team also sees evidence: Baret's already-merged group (original team + B
 
 **Final composition of Baret's group:**
 - Original team (~6-10 candidates)
-- Barlas's absorbed remnants (~4-6, reduced by Gulrek encounter)
+- Barlas's absorbed remnants (~4-6, reduced by Ulreth encounter)
 - Darek's rerouted team (~6-10, intact)
 - **Total: ~16-25 candidates.** Out of a cohort of 40-60, roughly a third to nearly half.
 
@@ -205,7 +205,7 @@ Kasun's team, Kullen's team, and possibly one other team operated independently 
 ### What the cohort sees by the end of Proving 3:
 - Baret absorbed two separate teams under two different conditions — one in crisis, one in calm — and led the combined group effectively
 - Nearly half the cohort has direct experience of Baret's leadership
-- Barlas held a failing team together through a Gulrek encounter, then integrated under Baret
+- Barlas held a failing team together through a Ulreth encounter, then integrated under Baret
 - Darek bridged the gap between Baret and a skeptical arriving team — demonstrating his own value
 - Kasun's team performed well on raw metrics but got flagged for a protocol violation
 - Kullen's team performed adequately with a stacked roster — competent but unremarkable

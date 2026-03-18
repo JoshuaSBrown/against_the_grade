@@ -173,7 +173,7 @@ Through Elowen's POV (which the reader infers but doesn't see): a boy she barely
 
 **Scene Detail:**
 
-**Barlas's recognition is NOT a bonding moment.** This is critical. Barlas doesn't walk up and clap Baret on the shoulder. Doesn't speak to him. The angry kid saw something from a distance and something internal shifted. Through Baret's POV: he might catch Barlas looking at him. Or he might not even register Barlas's presence. The reader sees it --- a sentence, a detail --- but Baret may not. The bond doesn't exist yet. What exists is a data point that will matter when the assessors pair them in Proving 2 and they're forced into mutual dependence in Gulrek territory. When Barlas guards Baret through hours of agony in the capsule, the reader can trace it back to this distant observation: Barlas already knew what Baret was capable of, even though they weren't friends, even though Barlas didn't like him.
+**Barlas's recognition is NOT a bonding moment.** This is critical. Barlas doesn't walk up and clap Baret on the shoulder. Doesn't speak to him. The angry kid saw something from a distance and something internal shifted. Through Baret's POV: he might catch Barlas looking at him. Or he might not even register Barlas's presence. The reader sees it --- a sentence, a detail --- but Baret may not. The bond doesn't exist yet. What exists is a data point that will matter when the assessors pair them in Proving 2 and they're forced into mutual dependence in Ulreth territory. When Barlas guards Baret through hours of agony in the capsule, the reader can trace it back to this distant observation: Barlas already knew what Baret was capable of, even though they weren't friends, even though Barlas didn't like him.
 
 **Sera's recalibration.** She doesn't approach Baret either. But the dynamic shifts. "You were closer than me" was an indictment. Now it's history --- Baret was closer and didn't act, but he's no longer the person who doesn't act. Sera adjusts her model. Through Baret's POV: he might catch her looking at him differently. Or she might say something oblique to someone nearby. Sera is never overt about the things that matter.
 
@@ -214,7 +214,7 @@ The exchange cannot be written as romantic or significant through Baret's POV. A
 No heroic choreography. Frontier-basic. He wins through refusal, not skill. The AI-enhanced fighter of Proving 3 doesn't exist yet.
 
 ### Barlas's Observation Is NOT Bonding
-The angry kid saw something. He didn't approach. Didn't speak. Something shifted inside him. The reader catches it. Baret may not. This is a seed, not a payoff. The payoff comes in Gulrek territory when two people who aren't friends are forced to depend on each other.
+The angry kid saw something. He didn't approach. Didn't speak. Something shifted inside him. The reader catches it. Baret may not. This is a seed, not a payoff. The payoff comes in Ulreth territory when two people who aren't friends are forced to depend on each other.
 
 ### Sera's Shift Is Quiet
 No speech, no approach. A glance, a shift. Sera is never overt about the things that matter.
