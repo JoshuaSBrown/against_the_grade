@@ -1,8 +1,6 @@
-The Ulreth --- Species Reference Document
-=========================================
+# The Ulreth --- Species Reference Document
 
-1. Origin
----------
+## 1. Origin
 
 The Ulreth are not a separate species. They are an unfinished draft ---
 intermediate-stage organisms from Capsule Two's rushed biological production
@@ -34,8 +32,7 @@ technology launched from Earth. This fact is the truth underlying the Kinship
 heresy --- the most dangerous and most suppressed heterodox tradition within the
 Interrupted Promise faith.
 
-2. Biology and Intelligence
----------------------------
+## 2. Biology and Intelligence
 
 ### Physical Characteristics
 
@@ -81,8 +78,7 @@ storage. These absences are what let mainstream human society maintain the
 "they're just animals" position. The near-sapient behaviors are episodic and
 ambiguous enough that anyone who wants to can explain them away.
 
-3. Population and Territory
----------------------------
+## 3. Population and Territory
 
 ### Planetary Geography
 
@@ -98,22 +94,22 @@ coverage: \~25% land / \~75% ocean.
 
 Terrain-aware Dijkstra diffusion from the capsule point:
 
--   Base expansion rate: \~10 miles per year (conservative for degraded terrain)
--   Terrain difficulty: lowland easy, mountain hard, no water crossings
-    (pre-agricultural species)
--   Full landmass coverage reached by approximately Year 400
--   At carrying capacity across the entire connected landmass by approximately
-    Year 600
+- Base expansion rate: \~10 miles per year (conservative for degraded terrain)
+- Terrain difficulty: lowland easy, mountain hard, no water crossings
+  (pre-agricultural species)
+- Full landmass coverage reached by approximately Year 400
+- At carrying capacity across the entire connected landmass by approximately
+  Year 600
 
 ### Population at Story Time (Year \~1,000)
 
 At the default carrying density of 0.25 per square mile:
 
--   **Population: \~2.7 million Ulreth**
--   **Territory: \~10.9 million square miles** (entire connected landmass
-    saturated)
--   **\~90,000 bands** (at \~30 per band)
--   **Human-to-Ulreth ratio: \~2.9:1** (against \~8 million humans)
+- **Population: \~2.7 million Ulreth**
+- **Territory: \~10.9 million square miles** (entire connected landmass
+  saturated)
+- **\~90,000 bands** (at \~30 per band)
+- **Human-to-Ulreth ratio: \~2.9:1** (against \~8 million humans)
 
 ### Population as a Narrative Lever
 
@@ -132,8 +128,7 @@ slightly wrong organisms --- provides justification for lower density:
 the Ulreth population, the more justified Haldrin's defensive posture and the
 more devastating Kullen's frontier sabotage in Book 5.
 
-4. Relationship to Human Society
---------------------------------
+## 4. Relationship to Human Society
 
 ### Frontier Culture
 
@@ -176,8 +171,7 @@ it. The village massacre when guards are pulled isn't just tragic. It's a direct
 consequence of Baret not understanding (or not caring about) a problem he
 dismissed as exaggerated feudal propaganda.
 
-5. The Kinship Heresy
----------------------
+## 5. The Kinship Heresy
 
 The most dangerous heterodox tradition within the Interrupted Promise and the
 most actively suppressed.
@@ -209,8 +203,7 @@ for claiming the Ulreth were kin turn out to have been right. The most dangerous
 heresy was the closest to truth, and orthodoxy suppressed it not because the
 evidence was weak but because the implications were destabilizing.
 
-6. Narrative Role Across the Series
------------------------------------
+## 6. Narrative Role Across the Series
 
 ### Book 1 --- Immediate Physical Threat
 
@@ -339,8 +332,7 @@ civilizational scale. The Ulreth are the constant --- every time humans weaken
 their own institutions through internal conflict, the Ulreth pressure fills the
 gap, indifferent to human politics.
 
-7. The Ulreth Arc Across the Series
------------------------------------
+## 7. The Ulreth Arc Across the Series
 
 The Ulreth thread escalates in parallel with the political evolution:
 
@@ -371,24 +363,23 @@ The Ulreth thread escalates in parallel with the political evolution:
                                                       pattern rhymes
   -----------------------------------------------------------------------------
 
-8. Thematic Function
---------------------
+## 8. Thematic Function
 
 The Ulreth are the answer to "does freedom require equality?" that nobody wants
 to hear. If Ulreth share human origin but aren't human, where do they fall in
 the moral framework? Every faction gets this wrong in a different way that
 reflects their core failure:
 
--   **Haldrin** treated them as a military problem --- triage logic, acceptable
-    losses
--   **Tobas** treated them as theological props --- "Interrupters" who validate
-    orthodox doctrine
--   **Murek** treated them as a resource question --- Ulreth territory as
-    expansion space
--   **The populist movement** treats them as a political football --- frontier
-    deaths as ammunition
--   **Kullen** treats them as a strategic tool --- engineering the crisis,
-    deciding who is expendable
+- **Haldrin** treated them as a military problem --- triage logic, acceptable
+  losses
+- **Tobas** treated them as theological props --- "Interrupters" who validate
+  orthodox doctrine
+- **Murek** treated them as a resource question --- Ulreth territory as
+  expansion space
+- **The populist movement** treats them as a political football --- frontier
+  deaths as ammunition
+- **Kullen** treats them as a strategic tool --- engineering the crisis,
+  deciding who is expendable
 
 Baret is the only person who might get it right, but "right" is genuinely
 unclear --- you can't negotiate with near-sapient creatures, you can't
@@ -402,58 +393,54 @@ them. The species that is genuinely beyond human categories of freedom and
 equality becomes the mirror in which every human system reveals its failure
 mode.
 
-9. Open Gaps
-------------
+## 9. Open Gaps
 
--   **Carrying density decision.** The 0.25/sq mi default produces 2.7 million
-    --- civilizational scale. Lower densities are defensible via the degraded
-    Capsule Two ecosystem. The choice affects how justified Haldrin's posture is
-    and how devastating Kullen's sabotage becomes.
--   **Book 2 ambiguous encounter specifics.** Must be concrete enough to haunt,
-    ambiguous enough not to resolve. Best candidate: mourning behavior over
-    Ulreth dead from the village raid, because it connects the personal loss to
-    the unsettling observation.
--   **Book 3 Capsule One data --- how much about the Ulreth?** Fragmentary
-    enough to confirm shared origin without giving Baret the full picture. The
-    political explosion comes from the confirmation, not from comprehensive
-    understanding.
--   **Book 4 exile route.** Does it cross Ulreth territory? If so, how long, and
-    what does Baret witness?
--   **Book 5 frontier collapse specifics.** Which communities are destroyed? Are
-    any named characters among the casualties? The emotional weight of Kullen's
-    sabotage depends on the reader knowing the victims.
--   **Neighboring kingdom's relationship to Ulreth.** Leorik flees to a
-    neighboring kingdom after exile. Does that kingdom share a Ulreth border? If
-    so, their military posture and political relationship to the Ulreth question
-    would color Leorik's exile and return.
--   **Human settlement landmass.** Confirmed that Capsule One produced humans on
-    a different part of the planetary geography. The specific human landmass and
-    its relationship to the Ulreth landmass (same connected body? across a
-    strait? different continent entirely?) affects the border conflict's
-    physical geography.
+- **Carrying density decision.** The 0.25/sq mi default produces 2.7 million ---
+  civilizational scale. Lower densities are defensible via the degraded Capsule
+  Two ecosystem. The choice affects how justified Haldrin's posture is and how
+  devastating Kullen's sabotage becomes.
+- **Book 2 ambiguous encounter specifics.** Must be concrete enough to haunt,
+  ambiguous enough not to resolve. Best candidate: mourning behavior over Ulreth
+  dead from the village raid, because it connects the personal loss to the
+  unsettling observation.
+- **Book 3 Capsule One data --- how much about the Ulreth?** Fragmentary enough
+  to confirm shared origin without giving Baret the full picture. The political
+  explosion comes from the confirmation, not from comprehensive understanding.
+- **Book 4 exile route.** Does it cross Ulreth territory? If so, how long, and
+  what does Baret witness?
+- **Book 5 frontier collapse specifics.** Which communities are destroyed? Are
+  any named characters among the casualties? The emotional weight of Kullen's
+  sabotage depends on the reader knowing the victims.
+- **Neighboring kingdom's relationship to Ulreth.** Leorik flees to a
+  neighboring kingdom after exile. Does that kingdom share a Ulreth border? If
+  so, their military posture and political relationship to the Ulreth question
+  would color Leorik's exile and return.
+- **Human settlement landmass.** Confirmed that Capsule One produced humans on a
+  different part of the planetary geography. The specific human landmass and its
+  relationship to the Ulreth landmass (same connected body? across a strait?
+  different continent entirely?) affects the border conflict's physical
+  geography.
 
-10. Consistency Checklist
--------------------------
+## 10. Consistency Checklist
 
--   \[ \] The Ulreth are intermediate-stage organisms from Capsule Two's rushed
-    biological sequence --- not a separate species, not random wildlife
--   \[ \] Near-sapient at the upper end (10--15% of population), high-animal
-    level for the majority
--   \[ \] Produced approximately a century before humans --- already established
-    and territorial when humans emerged
--   \[ \] The Ulreth attack on Capsule One was instinctive scavenging, not
-    strategic warfare
--   \[ \] Capsule Two's activation infrastructure is functional but the Ulreth
-    are incompatible with it --- wrong species for the hardware
--   \[ \] The Kinship heresy is closer to truth than any other theological
-    position
--   \[ \] Haldrin's Ulreth defense is genuinely effective --- his brutality
-    exists in context of real threat
--   \[ \] Baret's Book 2 village raid is a direct consequence of pulling guards
-    --- the Ulreth didn't change, Baret's choices did
--   \[ \] Kullen's Book 5 frontier sabotage mirrors Haldrin's Book 1 logic ---
-    father and son both use the Ulreth as instruments of political control
--   \[ \] The Ulreth themselves never change across five books --- they are the
-    constant against which every human system is measured
--   \[ \] The Ulreth question remains unresolved at series end --- part of the
-    costly compromise
+- [ ] The Ulreth are intermediate-stage organisms from Capsule Two's rushed
+  biological sequence --- not a separate species, not random wildlife
+- [ ] Near-sapient at the upper end (10--15% of population), high-animal level
+  for the majority
+- [ ] Produced approximately a century before humans --- already established and
+  territorial when humans emerged
+- [ ] The Ulreth attack on Capsule One was instinctive scavenging, not strategic
+  warfare
+- [ ] Capsule Two's activation infrastructure is functional but the Ulreth are
+  incompatible with it --- wrong species for the hardware
+- [ ] The Kinship heresy is closer to truth than any other theological position
+- [ ] Haldrin's Ulreth defense is genuinely effective --- his brutality exists
+  in context of real threat
+- [ ] Baret's Book 2 village raid is a direct consequence of pulling guards ---
+  the Ulreth didn't change, Baret's choices did
+- [ ] Kullen's Book 5 frontier sabotage mirrors Haldrin's Book 1 logic ---
+  father and son both use the Ulreth as instruments of political control
+- [ ] The Ulreth themselves never change across five books --- they are the
+  constant against which every human system is measured
+- [ ] The Ulreth question remains unresolved at series end --- part of the
+  costly compromise

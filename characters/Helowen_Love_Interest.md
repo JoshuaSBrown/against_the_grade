@@ -1,5 +1,4 @@
-ELOWEN --- The Cousin / Primary Love Interest
----------------------------------------------
+## ELOWEN --- The Cousin / Primary Love Interest
 
 **Status:** ⚠️ Thematic role clear / Personal detail minimal
 
@@ -13,19 +12,18 @@ system doesn't recognize.
 
 **Core Arc:**
 
--   **Book 1:** Present in the background. Baret defends her from village youths
-    who are picking on her --- his first act of leadership, and an act of
-    kindness that wins her heart. He doesn't know the significance of what he's
-    done. He gives her something (the token) in this interaction or shortly
-    after.
--   **Books 2--3:** Quietly supportive while Baret chases the betrothed. Not
-    passive --- patient. Knows her own worth and is willing to wait for Baret to
-    figure it out.
--   **Book 4:** Baret is in exile, at his lowest. Elowen hides him (safe house).
-    She returns the token --- the moment when she shows him who he's always
-    been. This is the romantic turning point.
--   **Book 5:** Baret's partner. Her role in the investigation and climax is
-    undefined.
+- **Book 1:** Present in the background. Baret defends her from village youths
+  who are picking on her --- his first act of leadership, and an act of kindness
+  that wins her heart. He doesn't know the significance of what he's done. He
+  gives her something (the token) in this interaction or shortly after.
+- **Books 2--3:** Quietly supportive while Baret chases the betrothed. Not
+  passive --- patient. Knows her own worth and is willing to wait for Baret to
+  figure it out.
+- **Book 4:** Baret is in exile, at his lowest. Elowen hides him (safe house).
+  She returns the token --- the moment when she shows him who he's always been.
+  This is the romantic turning point.
+- **Book 5:** Baret's partner. Her role in the investigation and climax is
+  undefined.
 
 **Personality:** Stoic. Reserved. Believes in propriety --- in doing things
 correctly, in maintaining composure, in never letting anyone see you crack. Even
@@ -62,13 +60,12 @@ anyway, which says something about her stubbornness underneath the composure.
 
 **What's Missing:**
 
--   The betrayal --- who was the friend, what did Elowen do, and what is the
-    object she carries? This is her defining backstory and needs specifics.
--   What does she do day-to-day? What skills does she have beyond composure?
--   Her own agency in the plot --- she needs independent goals and conflicts
-    beyond Baret's arc
--   The token --- what is it? The specific act of kindness that starts the
-    thread.
--   Her role in Books 2, 3, and 5 beyond "supportive presence"
--   Her relationship to Arabela (they're cousins --- how does the betrayal
-    backstory interact with this dynamic?)
+- The betrayal --- who was the friend, what did Elowen do, and what is the
+  object she carries? This is her defining backstory and needs specifics.
+- What does she do day-to-day? What skills does she have beyond composure?
+- Her own agency in the plot --- she needs independent goals and conflicts
+  beyond Baret's arc
+- The token --- what is it? The specific act of kindness that starts the thread.
+- Her role in Books 2, 3, and 5 beyond "supportive presence"
+- Her relationship to Arabela (they're cousins --- how does the betrayal
+  backstory interact with this dynamic?)

@@ -1,16 +1,14 @@
-[]{#anchor}Against the Grade --- Book 5: Control
-================================================
+# []{#anchor}Against the Grade --- Book 5: Control
 
 ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\# []{#anchor}Chapter Outline ssets/Planet
-Surface.png
+ssets/Planet Surface.png \## []{#anchor}Chapter Outline ssets/Planet Surface.png
 
 ssets/Planet Surface.png Baret age \~33-35. Events span roughly 1-2 years,
 following a gap of 5-7 ssets/Planet Surface.png years after the Book 4 coup.
 ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\#\# []{#anchor}Act I --- Exile and Erosion (Chapters
+ssets/Planet Surface.png \### []{#anchor}Act I --- Exile and Erosion (Chapters
 1-5) ssets/Planet Surface.png
 
 ssets/Planet Surface.png **Chapter 1 --- The Exile** Baret in exile. Establish
@@ -210,8 +208,8 @@ institutional-decay narrative. The reader ssets/Planet Surface.png shifts
 alongside Baret from \"something is wrong\" to \"something is ssets/Planet
 Surface.png being done.\" ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\#\# []{#anchor}Act II --- The Pattern (Chapters
-6-10) ssets/Planet Surface.png
+ssets/Planet Surface.png \### []{#anchor}Act II --- The Pattern (Chapters 6-10)
+ssets/Planet Surface.png
 
 ssets/Planet Surface.png **Chapter 6 --- The First Thread** The stabbing is the
 anchor point. ssets/Planet Surface.png Serik\'s case is what Baret\'s AI uses to
@@ -430,8 +428,8 @@ but fundamentally ssets/Planet Surface.png different in texture. The reader
 feels the distance Baret has traveled. ssets/Planet Surface.png This is not fire
 --- it\'s conviction. ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\#\# []{#anchor}Act III --- The Counter-Coup
-(Chapters 11-15) ssets/Planet Surface.png
+ssets/Planet Surface.png \### []{#anchor}Act III --- The Counter-Coup (Chapters
+11-15) ssets/Planet Surface.png
 
 ssets/Planet Surface.png **Chapter 11 --- The Ginak** Baret or one of his
 companions stages a ssets/Planet Surface.png deliberate, calculated public
@@ -577,8 +575,8 @@ ssets/Planet Surface.png Reader experience: Action resolution. The political
 machinery is being ssets/Planet Surface.png restored, but the personal
 confrontation is still outstanding. ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\#\# []{#anchor}Act IV --- The Confrontation
-(Chapters 16-19) ssets/Planet Surface.png
+ssets/Planet Surface.png \### []{#anchor}Act IV --- The Confrontation (Chapters
+16-19) ssets/Planet Surface.png
 
 ssets/Planet Surface.png **Chapter 16 --- Two Boys from the Same Village** The
 final ssets/Planet Surface.png confrontation begins. Intimate --- two people
@@ -735,27 +733,26 @@ triumphant. Realistic. ssets/Planet Surface.png Hopeful in the way that real
 hope works --- not \"things will be fine\" ssets/Planet Surface.png but \"the
 struggle is worth it.\" ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\# []{#anchor}Remaining Gaps --- Book 5 Chapters
+ssets/Planet Surface.png \## []{#anchor}Remaining Gaps --- Book 5 Chapters
 ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\#\# []{#anchor}Baret\'s Exile ssets/Planet
-Surface.png
+ssets/Planet Surface.png \### []{#anchor}Baret\'s Exile ssets/Planet Surface.png
 
 ssets/Planet Surface.png - Where specifically has Baret been for 5-7 years? What
 is his daily ssets/Planet Surface.png life? ssets/Planet Surface.png - Who, if
-anyone, is with him? Any companions from the war years? ssets/Planet Surface.png
-- How does he receive Elowen\'s reports? Direct contact or dead drops
-ssets/Planet Surface.png through his AI? ssets/Planet Surface.png - What is the
-specific origin of Baret\'s Book 4 scarring? A named ssets/Planet Surface.png
-fight, a fire during the escape, Kullen\'s people catching him? ssets/Planet
-Surface.png The scars need to be significant enough to change his appearance
-ssets/Planet Surface.png for the underground infiltration to work ssets/Planet
-Surface.png - Has Baret been training during exile? His motor cortex enhancement
-ssets/Planet Surface.png has had a decade to optimize. Frontier conditions
-provide physical ssets/Planet Surface.png conditioning. He should be in his
-combat prime at 30--32 ssets/Planet Surface.png
+anyone, is with him? Any companions from the war years? ssets/Planet
+Surface.png - How does he receive Elowen\'s reports? Direct contact or dead
+drops ssets/Planet Surface.png through his AI? ssets/Planet Surface.png - What
+is the specific origin of Baret\'s Book 4 scarring? A named ssets/Planet
+Surface.png fight, a fire during the escape, Kullen\'s people catching him?
+ssets/Planet Surface.png The scars need to be significant enough to change his
+appearance ssets/Planet Surface.png for the underground infiltration to work
+ssets/Planet Surface.png - Has Baret been training during exile? His motor
+cortex enhancement ssets/Planet Surface.png has had a decade to optimize.
+Frontier conditions provide physical ssets/Planet Surface.png conditioning. He
+should be in his combat prime at 30--32 ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\#\# []{#anchor}Underground Fighting Circuit
+ssets/Planet Surface.png \### []{#anchor}Underground Fighting Circuit
 ssets/Planet Surface.png
 
 ssets/Planet Surface.png - Is Barlas the entry point? If he\'s a fixture in the
@@ -773,7 +770,7 @@ forgot ssets/Planet Surface.png - Chapter placement: early Act I (Chapters 2--3
 range) as transition ssets/Planet Surface.png from isolated exile to active
 operator ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\#\# []{#anchor}Relic Raids and Religious Sites
+ssets/Planet Surface.png \### []{#anchor}Relic Raids and Religious Sites
 ssets/Planet Surface.png
 
 ssets/Planet Surface.png - The religious schism from Books 3--4 now shapes site
@@ -807,7 +804,7 @@ ssets/Planet Surface.png earlier books that gain new weight when the reader
 knows what was ssets/Planet Surface.png sitting undiscovered? ssets/Planet
 Surface.png
 
-ssets/Planet Surface.png \#\#\# []{#anchor}Elowen\'s Cover ssets/Planet
+ssets/Planet Surface.png \### []{#anchor}Elowen\'s Cover ssets/Planet
 Surface.png
 
 ssets/Planet Surface.png - What position does Elowen hold inside the republic?
@@ -816,8 +813,8 @@ device? (Her ssets/Planet Surface.png symbiont status matters here) ssets/Planet
 Surface.png - How does she communicate intelligence to Baret without exposure?
 ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\#\# []{#anchor}Serik (the mystery-breaking
-character) ssets/Planet Surface.png
+ssets/Planet Surface.png \### []{#anchor}Serik (the mystery-breaking character)
+ssets/Planet Surface.png
 
 ssets/Planet Surface.png - Who specifically does Serik hurt? Spouse, child,
 close friend? ssets/Planet Surface.png - What did the device make him do? It
@@ -827,8 +824,8 @@ Consequences visible enough to trigger confrontation, but not so ssets/Planet
 Surface.png dramatic that they would have raised public alarms before the
 ssets/Planet Surface.png stabbing ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\#\# []{#anchor}The Senate Stabbing (now by
-compromised official, NOT Leorik) ssets/Planet Surface.png
+ssets/Planet Surface.png \### []{#anchor}The Senate Stabbing (now by compromised
+official, NOT Leorik) ssets/Planet Surface.png
 
 ssets/Planet Surface.png - Who does the official stab? The person they believe
 is responsible, ssets/Planet Surface.png or a proxy target? ssets/Planet
@@ -838,7 +835,7 @@ that Baret (and ssets/Planet Surface.png the rereader) can decode them
 ssets/Planet Surface.png - What happens to them after? Arrested,
 institutionalized? ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\#\# []{#anchor}Leorik and the Neighboring Kingdom
+ssets/Planet Surface.png \### []{#anchor}Leorik and the Neighboring Kingdom
 ssets/Planet Surface.png
 
 ssets/Planet Surface.png - The neighboring kingdom needs a name, geography,
@@ -851,7 +848,7 @@ team: who leads it (Rohn?)? What casualties do they ssets/Planet Surface.png
 take? How do they extract after sabotaging the frontier? ssets/Planet
 Surface.png
 
-ssets/Planet Surface.png \#\#\# []{#anchor}The Duel ssets/Planet Surface.png
+ssets/Planet Surface.png \### []{#anchor}The Duel ssets/Planet Surface.png
 
 ssets/Planet Surface.png - What does Leorik say to Baret during the fight?
 ssets/Planet Surface.png - What are his last words? ssets/Planet Surface.png -
@@ -860,7 +857,7 @@ Surface.png - How does the arm loss affect the subsequent Kullen confrontation
 (if ssets/Planet Surface.png duel comes first) or the epilogue (if duel comes
 after)? ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\#\# []{#anchor}The Ginak ssets/Planet Surface.png
+ssets/Planet Surface.png \### []{#anchor}The Ginak ssets/Planet Surface.png
 
 ssets/Planet Surface.png - Who issues the challenge? Baret or a companion?
 (Borek completing an ssets/Planet Surface.png arc from impulsive murder in Book
@@ -872,8 +869,8 @@ interrupted by the counter-coup\'s ssets/Planet Surface.png success?
 ssets/Planet Surface.png - Rules of the ginak --- physical combat, cognitive
 contest, or some ssets/Planet Surface.png combination? ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\#\# []{#anchor}The Counter-Coup Mechanics
-ssets/Planet Surface.png
+ssets/Planet Surface.png \### []{#anchor}The Counter-Coup Mechanics ssets/Planet
+Surface.png
 
 ssets/Planet Surface.png - How many companions does Baret have? Who specifically
 returned? ssets/Planet Surface.png - What is the operational plan? Multiple
@@ -881,7 +878,7 @@ teams with specific ssets/Planet Surface.png objectives? ssets/Planet
 Surface.png - Elowen\'s role during the breach --- what does she do from inside?
 ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\#\# []{#anchor}Baret\'s Survival ssets/Planet
+ssets/Planet Surface.png \### []{#anchor}Baret\'s Survival ssets/Planet
 Surface.png
 
 ssets/Planet Surface.png - Does Baret live or die? This is the largest open
@@ -891,7 +888,7 @@ Surface.png scene look like? ssets/Planet Surface.png - If he dies: who carries
 the thematic weight forward? Elowen? Dalin? ssets/Planet Surface.png The
 companions collectively? ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\#\# []{#anchor}The Epilogue Question ssets/Planet
+ssets/Planet Surface.png \### []{#anchor}The Epilogue Question ssets/Planet
 Surface.png
 
 ssets/Planet Surface.png - Does the book end with the immediate aftermath, or
@@ -900,10 +897,10 @@ imperfectly? ssets/Planet Surface.png - If Baret survives, does he take a
 political role again, or does he ssets/Planet Surface.png step back permanently?
 ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\# []{#anchor}Authorial Architecture Notes
+ssets/Planet Surface.png \## []{#anchor}Authorial Architecture Notes
 ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\#\# []{#anchor}Kullen\'s Hidden Timeline (Reference
+ssets/Planet Surface.png \### []{#anchor}Kullen\'s Hidden Timeline (Reference
 Only) ssets/Planet Surface.png
 
   ets/Plan   et Surface.png
@@ -930,7 +927,7 @@ Only) ssets/Planet Surface.png
 
 ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\#\# []{#anchor}Serik\'s Arc ssets/Planet Surface.png
+ssets/Planet Surface.png \### []{#anchor}Serik\'s Arc ssets/Planet Surface.png
 
 ssets/Planet Surface.png Book 2: War companion. Earns trust through shared
 combat. Background ssets/Planet Surface.png presence --- loyal, competent
@@ -945,7 +942,7 @@ breaks open. Book 5 (aftermath): Anchor point for pattern ssets/Planet
 Surface.png recognition. His case is what makes Baret\'s AI see the system.
 ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\#\# []{#anchor}Leorik\'s Arc (REVISED) ssets/Planet
+ssets/Planet Surface.png \### []{#anchor}Leorik\'s Arc (REVISED) ssets/Planet
 Surface.png
 
 ssets/Planet Surface.png Book 2: War ally. Arrives with own forces. Brilliant,
@@ -959,7 +956,7 @@ device. Baret kills him in battlefield ssets/Planet Surface.png duel. Takes
 Baret\'s arm. Dies magnificently. Army dissolves when ssets/Planet Surface.png
 commando team breaches kingdom\'s Ulreth frontier. ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\#\# []{#anchor}Thematic Architecture ssets/Planet
+ssets/Planet Surface.png \### []{#anchor}Thematic Architecture ssets/Planet
 Surface.png
 
 ssets/Planet Surface.png The series\' central question --- \"Does freedom

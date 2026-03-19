@@ -1,5 +1,4 @@
-TOBAS --- Religious Leader / Books 3--4 Antagonist
---------------------------------------------------
+## TOBAS --- Religious Leader / Books 3--4 Antagonist
 
 **Status:** ✅ Thematic role well-developed / ⚠️ Personal detail limited
 
@@ -43,18 +42,18 @@ what he's built for people who need it.
 
 **Core Arc:**
 
--   **Book 2:** Emerges organically from post-feudal chaos.
--   **Book 3:** Baret's ally. The alliance is genuine --- shared values, real
-    connection, real faith. But the religious leader knows what's inside Capsule
-    1 and is deliberately withholding. He manages Baret --- granting proximity
-    without granting full access. His belief system calcifies as it encounters
-    situations it wasn't designed for. The faith can't adapt without threatening
-    its own foundations.
--   **Book 4:** The break. Baret's secret (the break-in) detonates the alliance.
-    The religious leader's argument: "Your method destroys the people you're
-    trying to save." Questioning destabilizes moral foundations that protect
-    vulnerable people. He didn't set out to eliminate opposing viewpoints --- he
-    arrived there incrementally through reasonable-seeming decisions.
+- **Book 2:** Emerges organically from post-feudal chaos.
+- **Book 3:** Baret's ally. The alliance is genuine --- shared values, real
+  connection, real faith. But the religious leader knows what's inside Capsule 1
+  and is deliberately withholding. He manages Baret --- granting proximity
+  without granting full access. His belief system calcifies as it encounters
+  situations it wasn't designed for. The faith can't adapt without threatening
+  its own foundations.
+- **Book 4:** The break. Baret's secret (the break-in) detonates the alliance.
+  The religious leader's argument: "Your method destroys the people you're
+  trying to save." Questioning destabilizes moral foundations that protect
+  vulnerable people. He didn't set out to eliminate opposing viewpoints --- he
+  arrived there incrementally through reasonable-seeming decisions.
 
 **Thematic Role:** The mirror who challenges Baret's method, not his goals. He's
 seen what happens when you let people question everything --- communities
@@ -64,7 +63,7 @@ beliefs that become dangerous when they can't be questioned.
 
 **What's Missing:**
 
--   Personal traits beyond the philosophical position
--   His specific relationship to Baret --- how do they meet, what bonds them?
--   His fate after the break --- does he remain an active antagonist, fade, or
-    die?
+- Personal traits beyond the philosophical position
+- His specific relationship to Baret --- how do they meet, what bonds them?
+- His fate after the break --- does he remain an active antagonist, fade, or
+  die?

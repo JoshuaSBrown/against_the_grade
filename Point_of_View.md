@@ -1,37 +1,33 @@
-Point of View --- Reference Document
-====================================
+# Point of View --- Reference Document
 
 **Series:** Against the Grade **Status:** Decisions locked
 
 --------------------------------------------------------------------------------
 
-Core Decision
--------------
+## Core Decision
 
 Close third person limited, primarily anchored to Baret. Selective expansion to
 additional POVs beginning in Book 3 or Book 4. Every non-Baret POV chapter must
 earn its place by delivering something Baret's perspective structurally cannot.
 
-Rationale
----------
+## Rationale
 
--   Baret's arc spans age 16 to his thirties/forties. First person would require
-    either retrospective narration (killing immediacy and spoiling survival) or
-    a convincing decade-long voice shift --- neither serves the series.
--   The information architecture depends on Baret learning things in a specific
-    order: capsule reveals, the sister's murder, memory manipulation.
-    Controlling what the reader knows through Baret's perceptual frame is the
-    cleanest management tool.
--   The "reprocessable memory" technique (details planted as texture that
-    function as evidence when Baret's AI reprocesses them) works best when the
-    reader is fully embedded in Baret's frame.
--   The thematic structure requires the reader to sometimes be ahead of Baret
-    --- sensing patterns he misses, catching wrongness in characters before he
-    does. Close third allows narrative distance to signal "pay attention to what
-    he's not noticing" in ways first person cannot.
+- Baret's arc spans age 16 to his thirties/forties. First person would require
+  either retrospective narration (killing immediacy and spoiling survival) or a
+  convincing decade-long voice shift --- neither serves the series.
+- The information architecture depends on Baret learning things in a specific
+  order: capsule reveals, the sister's murder, memory manipulation. Controlling
+  what the reader knows through Baret's perceptual frame is the cleanest
+  management tool.
+- The "reprocessable memory" technique (details planted as texture that function
+  as evidence when Baret's AI reprocesses them) works best when the reader is
+  fully embedded in Baret's frame.
+- The thematic structure requires the reader to sometimes be ahead of Baret ---
+  sensing patterns he misses, catching wrongness in characters before he does.
+  Close third allows narrative distance to signal "pay attention to what he's
+  not noticing" in ways first person cannot.
 
-POV Expansion Rules
--------------------
+## POV Expansion Rules
 
 **Books 1--2:** Baret only. The world is expanding around him. Every reveal ---
 the Marking, the capsule, the AI activation, the sister's truth --- hits harder
@@ -40,37 +36,35 @@ claustrophobic intensity of the trials and the war.
 
 **Books 3--5:** Selective additional POVs under strict constraints:
 
--   A non-Baret POV chapter is justified only when the thematic architecture
-    demands it, not when it is convenient for delivering information.
--   Reports, rumors, Elowen's intelligence, and Baret's AI can carry significant
-    informational load without requiring a POV shift.
--   Avoid GRRM-style POV proliferation. Each added perspective is a cost to
-    Baret's narrative primacy and must be weighed accordingly.
+- A non-Baret POV chapter is justified only when the thematic architecture
+  demands it, not when it is convenient for delivering information.
+- Reports, rumors, Elowen's intelligence, and Baret's AI can carry significant
+  informational load without requiring a POV shift.
+- Avoid GRRM-style POV proliferation. Each added perspective is a cost to
+  Baret's narrative primacy and must be weighed accordingly.
 
 **Candidates for non-Baret POV (earned cases):**
 
--   **Leorik (Book 5):** His memory disintegration --- the experience of
-    memories bleeding through the device's alterations --- is the horror of
-    Kullen's weapon made visceral. Cannot be delivered through Baret receiving a
-    report.
--   **Darek (Book 4):** The brother's manipulation gains tragic weight if the
-    reader has seen inside Darek's head enough to know he's not acting freely.
-    Creates dramatic irony that makes the rift devastating rather than merely
-    surprising.
--   **Elowen (Books 4--5):** Intelligence work inside the republic while Baret
-    is exiled. Her perspective provides the internal view of institutional decay
-    that Baret can only observe from outside.
+- **Leorik (Book 5):** His memory disintegration --- the experience of memories
+  bleeding through the device's alterations --- is the horror of Kullen's weapon
+  made visceral. Cannot be delivered through Baret receiving a report.
+- **Darek (Book 4):** The brother's manipulation gains tragic weight if the
+  reader has seen inside Darek's head enough to know he's not acting freely.
+  Creates dramatic irony that makes the rift devastating rather than merely
+  surprising.
+- **Elowen (Books 4--5):** Intelligence work inside the republic while Baret is
+  exiled. Her perspective provides the internal view of institutional decay that
+  Baret can only observe from outside.
 
 **Rejected or deferred:**
 
--   **Haldrin:** The ambiguity of not knowing his interiority is more
-    interesting than confirming he has coherent reasons. His worldview is better
-    revealed through dialogue and action observed from Baret's frame.
+- **Haldrin:** The ambiguity of not knowing his interiority is more interesting
+  than confirming he has coherent reasons. His worldview is better revealed
+  through dialogue and action observed from Baret's frame.
 
 --------------------------------------------------------------------------------
 
-AI Voice in Prose
------------------
+## AI Voice in Prose
 
 The AI symbiont creates a two-voice problem inside Baret's close-third
 narration. Two techniques are used, and the shift between them tracks the
@@ -93,16 +87,15 @@ Baret, or delivering information that surprises even itself.
 
 **Conventions:**
 
--   Italicized, without dialogue tags once the reader has learned the
-    convention.
--   Use a tag ("his AI," "the voice," or equivalent) for the first few instances
-    in Chapter 1 post-activation to teach the reader.
--   Early moments where Baret reacts --- irritation, confusion, a muttered
-    response --- lock in that the voice is diegetic (Baret hears it), not
-    narratorial.
--   Baret's own emphatic internal thoughts should not use italics, to avoid
-    confusion. Close third already renders his interiority --- additional
-    italicized internal monologue for Baret is unnecessary.
+- Italicized, without dialogue tags once the reader has learned the convention.
+- Use a tag ("his AI," "the voice," or equivalent) for the first few instances
+  in Chapter 1 post-activation to teach the reader.
+- Early moments where Baret reacts --- irritation, confusion, a muttered
+  response --- lock in that the voice is diegetic (Baret hears it), not
+  narratorial.
+- Baret's own emphatic internal thoughts should not use italics, to avoid
+  confusion. Close third already renders his interiority --- additional
+  italicized internal monologue for Baret is unnecessary.
 
 ### Technique 2: Unmarked Cognitive Integration (Later)
 
@@ -119,13 +112,13 @@ from his own thinking.
 
 **Conventions:**
 
--   No italics, no tags. The AI's processing is rendered as augmented perception
-    within Baret's narrative stream.
--   Works for motor cortex enhancement, tactical analysis, and pattern
-    recognition --- situations where the AI isn't conversing but altering how
-    Baret perceives reality.
--   Does not replace marked speech for scenes where Baret and the AI are
-    actively talking, disagreeing, or the AI is flagging data gaps.
+- No italics, no tags. The AI's processing is rendered as augmented perception
+  within Baret's narrative stream.
+- Works for motor cortex enhancement, tactical analysis, and pattern recognition
+  --- situations where the AI isn't conversing but altering how Baret perceives
+  reality.
+- Does not replace marked speech for scenes where Baret and the AI are actively
+  talking, disagreeing, or the AI is flagging data gaps.
 
 ### The Transition as Narrative Device
 

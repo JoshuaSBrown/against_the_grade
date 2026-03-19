@@ -1,5 +1,4 @@
-ROHN --- Military Adviser
--------------------------
+## ROHN --- Military Adviser
 
 **Status:** ⚠️ Personality well-sketched / ⚠️ Arc partially defined
 
@@ -44,9 +43,9 @@ approach has value Rohn couldn't see.
 
 **What's Missing:**
 
--   His specific military background --- where did he serve, under whom?
--   His relationship with his children beyond the training game --- is he a good
-    father or just a demanding one?
--   Whether he survives into later books and what role he plays
--   His reaction to Darek's apparent betrayal in Book 4
--   The specific moment Darek earns his respect in Book 2
+- His specific military background --- where did he serve, under whom?
+- His relationship with his children beyond the training game --- is he a good
+  father or just a demanding one?
+- Whether he survives into later books and what role he plays
+- His reaction to Darek's apparent betrayal in Book 4
+- The specific moment Darek earns his respect in Book 2

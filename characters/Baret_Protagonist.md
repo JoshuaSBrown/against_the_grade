@@ -1,5 +1,4 @@
-[]{#anchor}BARET --- Protagonist
-================================
+# []{#anchor}BARET --- Protagonist
 
 ssets/Planet Surface.png
 
@@ -58,7 +57,7 @@ be feared. Fundamentally believes in the ssets/Planet Surface.png humanity of
 individuals --- that no one is inherently better or worse ssets/Planet
 Surface.png because of birth. ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\# []{#anchor}Scene-Level Behavior ssets/Planet
+ssets/Planet Surface.png \## []{#anchor}Scene-Level Behavior ssets/Planet
 Surface.png
 
 ssets/Planet Surface.png **Conflict style:** His first approach is to go quiet.
@@ -103,7 +102,7 @@ and ssets/Planet Surface.png his inner circle learn to decode his proverbs,
 creating intimacy with ssets/Planet Surface.png the character. ssets/Planet
 Surface.png
 
-ssets/Planet Surface.png \#\# []{#anchor}Constructive Goal ssets/Planet
+ssets/Planet Surface.png \## []{#anchor}Constructive Goal ssets/Planet
 Surface.png
 
 ssets/Planet Surface.png He wants a world where people can live without fear ---
@@ -117,7 +116,7 @@ system they couldn't openly challenge, ssets/Planet Surface.png and he wants to
 build something that makes that kind of silent endurance ssets/Planet
 Surface.png unnecessary. ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\# []{#anchor}Family Context ssets/Planet Surface.png
+ssets/Planet Surface.png \## []{#anchor}Family Context ssets/Planet Surface.png
 
 ssets/Planet Surface.png His parents suspect the truth about Nela's death but
 can't prove ssets/Planet Surface.png anything under the oppressive feudal
@@ -127,7 +126,7 @@ they can without being crushed. Baret's revolution is the loud ssets/Planet
 Surface.png version of what his parents were already doing quietly. ssets/Planet
 Surface.png
 
-ssets/Planet Surface.png \#\# []{#anchor}Core Arc Across Five Books ssets/Planet
+ssets/Planet Surface.png \## []{#anchor}Core Arc Across Five Books ssets/Planet
 Surface.png
 
 ssets/Planet Surface.png **Book 1:** Enters the trials carrying raw grief ---
@@ -169,8 +168,7 @@ Surface.png Kullen. Secures the immediate threat but lives with the knowledge
 that ssets/Planet Surface.png the vulnerability is permanent. ssets/Planet
 Surface.png
 
-ssets/Planet Surface.png \#\# []{#anchor}What He Carries ssets/Planet
-Surface.png
+ssets/Planet Surface.png \## []{#anchor}What He Carries ssets/Planet Surface.png
 
 ssets/Planet Surface.png A lion's claw from when his father saved him from one
 as a child. It's ssets/Planet Surface.png his anchor to what it means to protect
@@ -187,7 +185,7 @@ nervous --- this ssets/Planet Surface.png sits alongside the lion's claw as his
 two anchoring objects (family and ssets/Planet Surface.png faith). ssets/Planet
 Surface.png
 
-ssets/Planet Surface.png \#\# []{#anchor}Strength ssets/Planet Surface.png
+ssets/Planet Surface.png \## []{#anchor}Strength ssets/Planet Surface.png
 
 ssets/Planet Surface.png He sees systems. Where other people see a village, a
 battle, a political ssets/Planet Surface.png alliance, Baret sees the structure
@@ -196,7 +194,7 @@ are, what happens if you pull this thread. This is ssets/Planet Surface.png why
 he can overthrow a lord at 17 and build a republic by his thirties. ssets/Planet
 Surface.png He's a structural thinker. ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\# []{#anchor}Physical Capability ssets/Planet
+ssets/Planet Surface.png \## []{#anchor}Physical Capability ssets/Planet
 Surface.png
 
 ssets/Planet Surface.png Baret is a warrior. Every child in his mountain
@@ -254,7 +252,7 @@ Surface.png quietly dangerous --- and the tension isn't whether Baret can win
 fights ssets/Planet Surface.png but whether winning will expose him.
 ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\# []{#anchor}Weakness ssets/Planet Surface.png
+ssets/Planet Surface.png \## []{#anchor}Weakness ssets/Planet Surface.png
 
 ssets/Planet Surface.png Multiple, layered, and designed to evolve across the
 series. He's slow ssets/Planet Surface.png to see individuals --- chases Arabela
@@ -266,7 +264,7 @@ ssets/Planet Surface.png knows them. These are not flaws he overcomes cleanly
 --- they're ssets/Planet Surface.png tensions he manages with increasing
 self-awareness. ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\# []{#anchor}Symbiont/AI ssets/Planet Surface.png
+ssets/Planet Surface.png \## []{#anchor}Symbiont/AI ssets/Planet Surface.png
 
 ssets/Planet Surface.png Fragmentary AI from Capsule 2 activation. Cognitive and
 motor cortex ssets/Planet Surface.png enhancement. AI is a collaborator with
@@ -284,7 +282,7 @@ ssets/Planet Surface.png clinical footnote (this becomes critical in Book 5 when
 it's revealed ssets/Planet Surface.png the degradation makes some people
 susceptible to memory manipulation). ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\# []{#anchor}Key Relationships ssets/Planet
+ssets/Planet Surface.png \## []{#anchor}Key Relationships ssets/Planet
 Surface.png
 
 ssets/Planet Surface.png **Darek:** Paternal twin. Strong, familiar,
@@ -331,7 +329,7 @@ arrive at it from opposite ssets/Planet Surface.png directions. His drive is
 anger over Nela. Hers is sadness over the ssets/Planet Surface.png servant girl.
 Same revolution, different fuel. ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\# []{#anchor}What's Missing ssets/Planet Surface.png
+ssets/Planet Surface.png \## []{#anchor}What's Missing ssets/Planet Surface.png
 
 ssets/Planet Surface.png - The constructive goal needs to crystallize from
 abstract ("world ssets/Planet Surface.png without fear") into something concrete
@@ -355,7 +353,7 @@ independently? If Barlas is a fixture in ssets/Planet Surface.png the circuit,
 the reunion carries weight: Barlas built a life in the ssets/Planet Surface.png
 space the revolution created and abandoned ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\# []{#anchor}Resolved ssets/Planet Surface.png
+ssets/Planet Surface.png \## []{#anchor}Resolved ssets/Planet Surface.png
 
 ssets/Planet Surface.png - First act of leadership: stands up for Elowen when
 she's being ssets/Planet Surface.png picked on by village youths. This is also

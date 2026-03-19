@@ -1,16 +1,13 @@
-Capsule 2: The Damaged Capsule --- Mechanics, Current State, and Narrative Role
-===============================================================================
+# Capsule 2: The Damaged Capsule --- Mechanics, Current State, and Narrative Role
 
-Summary
--------
+## Summary
 
 This document consolidates all resolved mechanics for Capsule 2 --- its transit
 damage, the production of the Ulreth, its critical role as the only activation
 source on the planet, and its narrative function across the five-book series.
 Companion documents exist for Capsule 1 and Capsule 3.
 
-Part 1: Shared Capsule Design (Reference)
------------------------------------------
+## Part 1: Shared Capsule Design (Reference)
 
 ### Origin and Purpose
 
@@ -25,19 +22,19 @@ civilization from scratch.
 
 All three capsules were built to the same specification. Each contained:
 
--   A biological production facility (bio lab) capable of producing organisms
-    from engineered genetic templates, from simple ecosystem organisms through
-    complex fauna to humans
--   Robotic caretaker systems designed to raise human children from infancy
-    through adolescence
--   A complete educational program --- a phased curriculum from basic childcare
-    through full historical and scientific knowledge transfer
--   A mainframe containing the teaching AI, AI upload templates for the symbiont
-    interface, historical archives, and technical documentation
--   Activation infrastructure --- hardware capable of interfacing with the human
-    symbiont to upload an AI assistant, transitioning the symbiont from
-    vegetative to active state
--   Navigation, power management, and life support systems
+- A biological production facility (bio lab) capable of producing organisms from
+  engineered genetic templates, from simple ecosystem organisms through complex
+  fauna to humans
+- Robotic caretaker systems designed to raise human children from infancy
+  through adolescence
+- A complete educational program --- a phased curriculum from basic childcare
+  through full historical and scientific knowledge transfer
+- A mainframe containing the teaching AI, AI upload templates for the symbiont
+  interface, historical archives, and technical documentation
+- Activation infrastructure --- hardware capable of interfacing with the human
+  symbiont to upload an AI assistant, transitioning the symbiont from vegetative
+  to active state
+- Navigation, power management, and life support systems
 
 The capsules were designed for autonomous operation over centuries, with
 hardened compartmentalized hulls rated for vacuum, atmospheric reentry, and
@@ -65,8 +62,7 @@ loaded with. The symbiont is pre-patterned biological hardware --- the upload
 process is a boot sequence, not construction. If the hardware is intact, it
 activates. If degraded by genetic drift, no signal can compensate.
 
-Part 2: Transit Damage and the Ulreth
--------------------------------------
+## Part 2: Transit Damage and the Ulreth
 
 ### What Went Wrong
 
@@ -85,16 +81,16 @@ unfinished draft --- intermediate-stage organisms from the same biological
 sequence that was supposed to produce humans. They exist on a spectrum from
 barely animal to disturbingly close to human. Key characteristics:
 
--   Produced approximately a century before Capsule 1 produced humans
--   Short lifespans driving aggressive proliferation
--   Physically robust, territorial, instinct-driven
--   Some possess rudimentary tool use; the most advanced show problem-solving
-    capability
--   They lack the cognitive architecture for the technological interface (the
-    symbiont in its human-designed form). Capsule 2's activation infrastructure
-    exists but the Ulreth are the wrong species for the hardware
--   They are not evil or malicious --- they are organisms behaving according to
-    their biological programming in a world they were not designed to complete
+- Produced approximately a century before Capsule 1 produced humans
+- Short lifespans driving aggressive proliferation
+- Physically robust, territorial, instinct-driven
+- Some possess rudimentary tool use; the most advanced show problem-solving
+  capability
+- They lack the cognitive architecture for the technological interface (the
+  symbiont in its human-designed form). Capsule 2's activation infrastructure
+  exists but the Ulreth are the wrong species for the hardware
+- They are not evil or malicious --- they are organisms behaving according to
+  their biological programming in a world they were not designed to complete
 
 The Ulreth cluster around their own capsule's territory because it's still their
 environmental anchor --- the capsule shaped the local ecosystem to suit the
@@ -132,8 +128,7 @@ interbred with correct populations from Capsule 1's releases. The beast race
 "problem" is actually an ecosystem integrity problem that most people in the
 story don't fully understand.
 
-Part 3: Current State
----------------------
+## Part 3: Current State
 
 **Location:** Ulreth territory, approximately 500--800 miles from human
 population centers. The Ulreth presence is the primary reason human expansion
@@ -146,44 +141,42 @@ states of operability.
 
 ### Functional Systems
 
--   **Activation infrastructure:** Functional. This is the critical asset.
-    Capsule 2 can upload AI assistants to the human symbiont, transitioning it
-    from vegetative to active state. It is the only functioning activation
-    system on the planet (Capsule 1's was destroyed by the Ulreth; Capsule 3's
-    was never designed for this purpose since its bio lab was shut down by
-    safety protocols).
--   **Databases:** Damaged and corrupted. The AI templates that survive are
-    fragmentary --- each activation produces a different AI depending on what
-    data survives the corrupted load. No two activated individuals receive the
-    same AI. Some AIs know metallurgy basics, others know crop rotation, none
-    know everything. Baret's AI was loaded from these corrupted databases and
-    lost its own manual.
--   **Bio lab:** Completed its production run centuries ago. The sequence that
-    produced the Ulreth and the contaminated ecosystem has long since exhausted
-    itself. Not actively producing anything.
--   **Mainframe:** Partially functional but with a different damage profile than
-    Capsule 1. Contains some records but the corruption from transit damage
-    makes retrieval inconsistent.
+- **Activation infrastructure:** Functional. This is the critical asset. Capsule
+  2 can upload AI assistants to the human symbiont, transitioning it from
+  vegetative to active state. It is the only functioning activation system on
+  the planet (Capsule 1's was destroyed by the Ulreth; Capsule 3's was never
+  designed for this purpose since its bio lab was shut down by safety
+  protocols).
+- **Databases:** Damaged and corrupted. The AI templates that survive are
+  fragmentary --- each activation produces a different AI depending on what data
+  survives the corrupted load. No two activated individuals receive the same AI.
+  Some AIs know metallurgy basics, others know crop rotation, none know
+  everything. Baret's AI was loaded from these corrupted databases and lost its
+  own manual.
+- **Bio lab:** Completed its production run centuries ago. The sequence that
+  produced the Ulreth and the contaminated ecosystem has long since exhausted
+  itself. Not actively producing anything.
+- **Mainframe:** Partially functional but with a different damage profile than
+  Capsule 1. Contains some records but the corruption from transit damage makes
+  retrieval inconsistent.
 
 ### What Capsule 2 Can Provide
 
--   Symbiont activation (the only source on the planet)
--   Fragmentary AI uploads --- each one unique and incomplete
--   Partial data that occasionally complements or contradicts what Capsule 1
-    holds
--   Physical evidence of the Ulreth's manufactured origin (for anyone capable of
-    interpreting the biological production logs)
+- Symbiont activation (the only source on the planet)
+- Fragmentary AI uploads --- each one unique and incomplete
+- Partial data that occasionally complements or contradicts what Capsule 1 holds
+- Physical evidence of the Ulreth's manufactured origin (for anyone capable of
+  interpreting the biological production logs)
 
 ### What Capsule 2 Cannot Provide
 
--   Consistent or complete AI uploads (every activation is a lottery)
--   Reliable historical records (transit damage corrupted the archives
-    differently than Capsule 1)
--   Safe access (it's in Ulreth territory)
--   Any understanding of why it malfunctioned (it doesn't know it's broken)
+- Consistent or complete AI uploads (every activation is a lottery)
+- Reliable historical records (transit damage corrupted the archives differently
+  than Capsule 1)
+- Safe access (it's in Ulreth territory)
+- Any understanding of why it malfunctioned (it doesn't know it's broken)
 
-Part 4: The Activation System
------------------------------
+## Part 4: The Activation System
 
 ### Why Capsule 2 Is the Only Activation Source
 
@@ -224,26 +217,24 @@ science. A third might know partial historical records. None of them know
 everything. This randomness is a feature of the damage, not a design choice, and
 it has several consequences:
 
--   No two activated individuals have identical capabilities
--   Some AIs are more practically useful than others (creating a secondary
-    lottery on top of the genetic lottery of symbiont compatibility)
--   Collaboration between activated individuals is necessary to pool knowledge
-    --- one person's AI might fill gaps in another's
--   Progress requires the institutional infrastructure Baret is trying to build
+- No two activated individuals have identical capabilities
+- Some AIs are more practically useful than others (creating a secondary lottery
+  on top of the genetic lottery of symbiont compatibility)
+- Collaboration between activated individuals is necessary to pool knowledge ---
+  one person's AI might fill gaps in another's
+- Progress requires the institutional infrastructure Baret is trying to build
 
 ### Why Activation Can't Be Easily Reproduced
 
--   Capsule 2's infrastructure is damaged --- the activation process is not
-    fully documented even in its own systems
--   Baret's AI was loaded from corrupted databases --- it lost its own manual
--   Neither Baret nor his AI fully understands what triggered the activation
--   The process may depend on specific hardware in the capsule that can't be
-    moved
--   Each activation produces a different AI fragment depending on what data
-    survives the corrupted load
+- Capsule 2's infrastructure is damaged --- the activation process is not fully
+  documented even in its own systems
+- Baret's AI was loaded from corrupted databases --- it lost its own manual
+- Neither Baret nor his AI fully understands what triggered the activation
+- The process may depend on specific hardware in the capsule that can't be moved
+- Each activation produces a different AI fragment depending on what data
+  survives the corrupted load
 
-Part 5: Capsule 2's Knowledge Profile
--------------------------------------
+## Part 5: Capsule 2's Knowledge Profile
 
 ### Damage Profile --- Transit Damage
 
@@ -282,8 +273,7 @@ structural: Baret received a random fragment from a corrupted database; Kullen
 received a structured education from an intact teacher. The antagonist has had
 the better source from the start.
 
-Part 6: Narrative Role Across the Series
-----------------------------------------
+## Part 6: Narrative Role Across the Series
 
 **Book 1:** Baret encounters Capsule 2 during the feudal lord's trials. The
 trials involve venturing into Ulreth territory --- the lord's system for
@@ -355,46 +345,45 @@ diagnosed as a clinical limitation in Book 1, are the reason Kullen's weapon
 can't touch him. In a series about inequality, the protagonist's disadvantage
 turns out to be his most important asset.
 
-Part 7: Consistency Checklist
------------------------------
+## Part 7: Consistency Checklist
 
--   \[ \] Capsule 2 is the only activation source on the planet. Every activated
-    character got their AI from Capsule 2. No exceptions.
--   \[ \] Capsule 2 is in Ulreth territory. Every activation required someone to
-    survive the journey there and back. This is inherently dangerous and limits
-    the number of activated individuals.
--   \[ \] Each activation from Capsule 2 produces a unique, fragmentary AI. No
-    two AIs are identical. Some are more useful than others. This randomness is
-    a feature of the corrupted database, not a design choice.
--   \[ \] Baret's activation happens during the lord's trials in Book 1. The
-    lord's system --- designed to sort strong from weak --- accidentally puts
-    Baret in proximity to Capsule 2. The system that oppresses him produces the
-    tool for his liberation.
--   \[ \] Baret's AI diagnoses his hippocampal degradation in Book 1 as clinical
-    data. This detail is texture at the time and becomes the most important plot
-    point in Book 5.
--   \[ \] The vulnerability correlation is inverted: the most successfully
-    activated individuals (strongest interfaces) are the most vulnerable to
-    Kullen's memory weapon. Capsule 2's gift is also Capsule 2's curse.
--   \[ \] Capsule 2's databases are corrupted differently than Capsule 1's. They
-    sometimes provide conflicting information. Neither is fully reliable.
--   \[ \] The Ulreth are not a separate species --- they are an unfinished draft
-    from Capsule 2's rushed biological sequence. They exist on a spectrum from
-    barely animal to disturbingly close to human.
--   \[ \] Capsule 2 doesn't know it's broken. Its self-diagnostic systems may
-    also be damaged.
--   \[ \] The ecological contamination from Capsule 2's rushed sequence has been
-    propagating through the planet's food webs for 1,300 years. The beast race
-    problem is an ecosystem integrity problem.
--   \[ \] All three capsules were built to the same specification. Differences
-    in their current state are entirely due to different damage events.
--   \[ \] No capsule has a fully intact database. The complete picture can only
-    be assembled by combining fragments from all three --- and even then, gaps
-    remain.
--   \[ \] Kullen's information path (Capsule 3 teaching AI) provided a more
-    interactive and complete education than Baret's path (Capsule 2 fragmentary
-    AI + Capsule 1 damaged archives). This information asymmetry is deliberate
-    and structural.
--   \[ \] The PTSD treatment capability (memory manipulation with safety
-    controls) exists in all three capsules' documentation. In Capsule 2, the
-    fragmentary AIs don't retain this information coherently.
+- [ ] Capsule 2 is the only activation source on the planet. Every activated
+  character got their AI from Capsule 2. No exceptions.
+- [ ] Capsule 2 is in Ulreth territory. Every activation required someone to
+  survive the journey there and back. This is inherently dangerous and limits
+  the number of activated individuals.
+- [ ] Each activation from Capsule 2 produces a unique, fragmentary AI. No two
+  AIs are identical. Some are more useful than others. This randomness is a
+  feature of the corrupted database, not a design choice.
+- [ ] Baret's activation happens during the lord's trials in Book 1. The lord's
+  system --- designed to sort strong from weak --- accidentally puts Baret in
+  proximity to Capsule 2. The system that oppresses him produces the tool for
+  his liberation.
+- [ ] Baret's AI diagnoses his hippocampal degradation in Book 1 as clinical
+  data. This detail is texture at the time and becomes the most important plot
+  point in Book 5.
+- [ ] The vulnerability correlation is inverted: the most successfully activated
+  individuals (strongest interfaces) are the most vulnerable to Kullen's memory
+  weapon. Capsule 2's gift is also Capsule 2's curse.
+- [ ] Capsule 2's databases are corrupted differently than Capsule 1's. They
+  sometimes provide conflicting information. Neither is fully reliable.
+- [ ] The Ulreth are not a separate species --- they are an unfinished draft
+  from Capsule 2's rushed biological sequence. They exist on a spectrum from
+  barely animal to disturbingly close to human.
+- [ ] Capsule 2 doesn't know it's broken. Its self-diagnostic systems may also
+  be damaged.
+- [ ] The ecological contamination from Capsule 2's rushed sequence has been
+  propagating through the planet's food webs for 1,300 years. The beast race
+  problem is an ecosystem integrity problem.
+- [ ] All three capsules were built to the same specification. Differences in
+  their current state are entirely due to different damage events.
+- [ ] No capsule has a fully intact database. The complete picture can only be
+  assembled by combining fragments from all three --- and even then, gaps
+  remain.
+- [ ] Kullen's information path (Capsule 3 teaching AI) provided a more
+  interactive and complete education than Baret's path (Capsule 2 fragmentary
+  AI + Capsule 1 damaged archives). This information asymmetry is deliberate and
+  structural.
+- [ ] The PTSD treatment capability (memory manipulation with safety controls)
+  exists in all three capsules' documentation. In Capsule 2, the fragmentary AIs
+  don't retain this information coherently.

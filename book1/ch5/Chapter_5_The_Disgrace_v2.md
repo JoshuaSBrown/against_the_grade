@@ -1,15 +1,12 @@
-Against the Grade --- Book 1: Birthright
-========================================
+# Against the Grade --- Book 1: Birthright
 
-Chapter 5: The Disgrace
------------------------
+## Chapter 5: The Disgrace
 
 ### Detailed Scene Outline
 
 --------------------------------------------------------------------------------
 
-Chapter Overview
-----------------
+## Chapter Overview
 
 **POV:** Baret, close third \[POV/person still open\] **Time:** The
 between-Proving period. Weeks between Proving 1 and Proving 2. Candidates remain
@@ -43,8 +40,7 @@ you can't pay.
 
 --------------------------------------------------------------------------------
 
-Chapter-Level Story Structure
------------------------------
+## Chapter-Level Story Structure
 
 ### 5 Commandments
 
@@ -114,8 +110,7 @@ vulnerable.
 
 --------------------------------------------------------------------------------
 
-Scene-by-Scene Breakdown
-------------------------
+## Scene-by-Scene Breakdown
 
 ### Scene 1: Barracks Life (Early between-Proving period)
 
@@ -365,18 +360,18 @@ as hostile, isolated, dangerous
 previous outline. Barlas is NOT becoming Baret's companion during this period.
 Barlas is the angry kid nobody wants near them. Specific behaviors:
 
--   He picks fights during training. Not competitive sparring --- genuine
-    aggression that the assessors have to break up. He fights like someone who
-    wants to hurt people, not like someone who wants to win.
--   He eats alone. Not by choice --- by the social gravity of hostility. People
-    have tried sitting with him. It went badly. He radiates "don't come near me"
-    with physical intensity.
--   His anger is disproportionate and unpredictable. A comment that would be
-    banter between other candidates triggers a reaction from Barlas that's
-    frightening. He goes from calm to violent faster than anyone expects.
--   When Haldrin's name comes up, or the system's authority is visible, Barlas
-    gets quieter --- but it's not the quiet of acceptance. It's the quiet of
-    something pressurized. The other candidates can feel it. They stay away.
+- He picks fights during training. Not competitive sparring --- genuine
+  aggression that the assessors have to break up. He fights like someone who
+  wants to hurt people, not like someone who wants to win.
+- He eats alone. Not by choice --- by the social gravity of hostility. People
+  have tried sitting with him. It went badly. He radiates "don't come near me"
+  with physical intensity.
+- His anger is disproportionate and unpredictable. A comment that would be
+  banter between other candidates triggers a reaction from Barlas that's
+  frightening. He goes from calm to violent faster than anyone expects.
+- When Haldrin's name comes up, or the system's authority is visible, Barlas
+  gets quieter --- but it's not the quiet of acceptance. It's the quiet of
+  something pressurized. The other candidates can feel it. They stay away.
 
 **Through Baret's POV:** Barlas is not a kindred spirit. Not yet. Baret reads
 Barlas as dangerous, unstable, someone to avoid. The structural thinker in Baret
@@ -423,15 +418,14 @@ is what puts Baret in position to find Elowen in Chapter 6.
 pairing puts two people together who don't want to be together --- the bond
 forged in the capsule is more powerful because it had no foundation). - Barlas's
 anger with roots. Payoff: Ch 22 (the killing is the roots finally expressed).
-The reader's hindsight: "he was always this angry and we could always see why."
-- Darek toward Kullen in barracks. Payoff: Book 4 (the friendship Kullen
+The reader's hindsight: "he was always this angry and we could always see
+why." - Darek toward Kullen in barracks. Payoff: Book 4 (the friendship Kullen
 exploits). - Town access as privilege. Payoff: Ch 6 (Baret in town, finds
 Elowen). - The approaching Proving 2. Payoff: Ch 8 (the rigged pairing).
 
 --------------------------------------------------------------------------------
 
-Backstory Seed Inventory
-------------------------
+## Backstory Seed Inventory
 
   ------------------------------------------------------------------------------
   Seed               Planted As                        Payoff
@@ -483,8 +477,7 @@ Backstory Seed Inventory
 
 --------------------------------------------------------------------------------
 
-Notes and Flags
----------------
+## Notes and Flags
 
 ### Barlas Must Be Unlikeable
 
@@ -531,29 +524,29 @@ pressure toward Proving 2 and the town access that sets up Chapter 6. Estimate
 
 ### Open Decisions
 
--   Elowen's father's name.
--   The specific exemptions revoked and the calculated back-payment amount
-    (texture, not exact numbers).
--   Whether Elowen and Baret make eye contact during the ejection.
--   Where Elowen's family goes after ejection --- town lodgings? Relatives? The
-    street?
--   Whether Haldrin is present for the ejection or it's handled by officials.
--   Whether Sera comments publicly on the ejection.
--   Whether Barlas and Garik clash during training.
--   POV / person (series-wide).
+- Elowen's father's name.
+- The specific exemptions revoked and the calculated back-payment amount
+  (texture, not exact numbers).
+- Whether Elowen and Baret make eye contact during the ejection.
+- Where Elowen's family goes after ejection --- town lodgings? Relatives? The
+  street?
+- Whether Haldrin is present for the ejection or it's handled by officials.
+- Whether Sera comments publicly on the ejection.
+- Whether Barlas and Garik clash during training.
+- POV / person (series-wide).
 
 ### Locked Decisions
 
--   Candidates stay in barracks. No home visits.
--   The ejection is caused by tax/tribute dispute: exemptions revoked,
-    back-payment demanded, family can't pay, keep residence seized.
--   Ejection is public in the keep courtyard, visible to the entire candidate
-    cohort.
--   The ejection is political chess: Haldrin targeting Murek's friend to warn
-    Murek.
--   Fourth inaction: Baret watches the ejection, does nothing.
--   Barlas is angry, hostile, isolated. Not liked by anyone including Baret. Not
-    yet a companion.
--   Barlas's bond with Baret forms in Proving 2 at Capsule Two, not before.
--   Darek gravitating toward Kullen in barracks.
--   After Proving 1, candidates earn town access --- sets up Chapter 6.
+- Candidates stay in barracks. No home visits.
+- The ejection is caused by tax/tribute dispute: exemptions revoked,
+  back-payment demanded, family can't pay, keep residence seized.
+- Ejection is public in the keep courtyard, visible to the entire candidate
+  cohort.
+- The ejection is political chess: Haldrin targeting Murek's friend to warn
+  Murek.
+- Fourth inaction: Baret watches the ejection, does nothing.
+- Barlas is angry, hostile, isolated. Not liked by anyone including Baret. Not
+  yet a companion.
+- Barlas's bond with Baret forms in Proving 2 at Capsule Two, not before.
+- Darek gravitating toward Kullen in barracks.
+- After Proving 1, candidates earn town access --- sets up Chapter 6.

@@ -1,5 +1,4 @@
-RESKA KASIR NOR'DULUN --- Market Stall Girl (Pakran)
-====================================================
+# RESKA KASIR NOR'DULUN --- Market Stall Girl (Pakran)
 
 **Status:** ⚠️ Function defined / ❌ Personality undefined
 
@@ -14,8 +13,7 @@ social standing than Ilana but less protection --- she's in Kesal's territory,
 at his father's seat of power. She can't hide from him the way a village girl
 can. Her family runs a market stall in Pakran.
 
-Narrative Function
-------------------
+## Narrative Function
 
 Reska is the second data point in the Kesal pattern. Kesal bothers Ilana in
 Tanapun where he has authority as the retainer's child visiting the village. He
@@ -30,13 +28,12 @@ visitor with borrowed authority. Reska is in the town where Kesal lives --- she
 can't avoid him, can't escape to the other side of the mountain. Her situation
 is more trapped, which escalates the reader's discomfort.
 
-What's Missing
---------------
+## What's Missing
 
--   Any personality beyond "Kesal's target in Pakran" --- does she fight back,
-    endure, avoid?
--   Whether the reader ever sees her again after the initial incident
--   Her age
--   Whether her market stall family has any later relevance --- traders in
-    Pakran would have economic knowledge useful to a rebellion
--   Her reaction to Kesal --- does she handle it differently than Ilana?
+- Any personality beyond "Kesal's target in Pakran" --- does she fight back,
+  endure, avoid?
+- Whether the reader ever sees her again after the initial incident
+- Her age
+- Whether her market stall family has any later relevance --- traders in Pakran
+  would have economic knowledge useful to a rebellion
+- Her reaction to Kesal --- does she handle it differently than Ilana?

@@ -1,9 +1,8 @@
-Against the Grade \-\-- Book 2: Vacuum
-======================================
+# Against the Grade \-\-- Book 2: Vacuum
 
 ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\# Chapter Outline v3 ssets/Planet Surface.png
+ssets/Planet Surface.png \## Chapter Outline v3 ssets/Planet Surface.png
 
 ssets/Planet Surface.png **Protagonist age:** \~18-19 \| **Timespan:** \~1-2
 years \| **Chapter ssets/Planet Surface.png count:** 20 ssets/Planet Surface.png
@@ -22,7 +21,7 @@ beside Baret, carrying the AI secret. Barlas beside Baret, unrepentant.
 ssets/Planet Surface.png Elowen in the crowd, holding a geode. ssets/Planet
 Surface.png
 
-ssets/Planet Surface.png \#\#\# ACT 1: THE SYSTEM STRIKES BACK (Chapters 1\--5)
+ssets/Planet Surface.png \### ACT 1: THE SYSTEM STRIKES BACK (Chapters 1\--5)
 ssets/Planet Surface.png
 
 ssets/Planet Surface.png Baret has overthrown Haldrin. He thinks the fight is
@@ -199,7 +198,7 @@ indispensability. ssets/Planet Surface.png
 ssets/Planet Surface.png *Function:* Set the terms of the war. The reader
 understands the ssets/Planet Surface.png strategy. ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\#\# ACT 2: THE WAR (Chapters 6\--13) ssets/Planet
+ssets/Planet Surface.png \### ACT 2: THE WAR (Chapters 6\--13) ssets/Planet
 Surface.png
 
 ssets/Planet Surface.png The campaign. Baret fights the feudal order with an
@@ -431,8 +430,8 @@ When he dies in Book 5, the reader remembers the man who ran ssets/Planet
 Surface.png through an army twice and won a battle by being too insane to kill.
 ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\#\# ACT 3: THE COST AND THE HORIZON (Chapters
-14\--20) ssets/Planet Surface.png
+ssets/Planet Surface.png \### ACT 3: THE COST AND THE HORIZON (Chapters 14\--20)
+ssets/Planet Surface.png
 
 ssets/Planet Surface.png Victory, then the price. But the book closes on
 what\'\'\'s being built, ssets/Planet Surface.png not what was lost.
@@ -820,7 +819,7 @@ relationships become and wants to ssets/Planet Surface.png know what Baret will
 find under the temple. That\'\'\'s what pulls them ssets/Planet Surface.png into
 Book 3. ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\# OPEN GAPS ssets/Planet Surface.png
+ssets/Planet Surface.png \## OPEN GAPS ssets/Planet Surface.png
 
 ssets/Planet Surface.png **Age gap between books** High \-\-- Book 1 timeline
 being extended to ssets/Planet Surface.png spread trials across years. Final
@@ -868,7 +867,7 @@ activation? Needed before drafting faith-crisis scenes. Baret\'\'\'s
 ssets/Planet Surface.png internal monologue needs the faith\'\'\'s own language
 ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\# STRUCTURAL NOTES ssets/Planet Surface.png
+ssets/Planet Surface.png \## STRUCTURAL NOTES ssets/Planet Surface.png
 
 ssets/Planet Surface.png **Chapter count:** 20 chapters. Act 1 (5), Act 2 (8),
 Act 3 (7). Act 3 ssets/Planet Surface.png is longer than v1 because it now

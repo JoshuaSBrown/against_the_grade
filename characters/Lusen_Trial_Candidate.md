@@ -1,5 +1,4 @@
-LUSEN RASIK NOR'DARIK --- Trial Candidate
-=========================================
+# LUSEN RASIK NOR'DARIK --- Trial Candidate
 
 **Status:** ⚠️ Role defined / ⚠️ Personality partially sketched
 
@@ -20,8 +19,7 @@ pressure leans toward keeping daughters closer to home. Maybe one in four or
 five candidates is female. Enough to be present, not enough to be unremarked
 upon.
 
-Role in the Trials
-------------------
+## Role in the Trials
 
 Quiet, observant, builds alliances rather than winning fights. The kind of
 person who ends up as a mediator. Baret might not notice her until Proving 3
@@ -36,8 +34,7 @@ keeps fractured alliances from collapsing entirely. She and Darek share a
 skillset (bridge-building, people-reading) but operate differently: Darek uses
 humor, Lusen uses patience.
 
-Strength
---------
+## Strength
 
 Social intelligence and quiet persistence. She reads group dynamics the way
 Baret reads systems --- instinctively, structurally. She knows who's about to
@@ -45,29 +42,26 @@ break, who needs reassurance, who needs to be left alone. In the Provings, this
 is the invisible skill that holds teams together when physical endurance and
 tactical brilliance aren't enough.
 
-Weakness
---------
+## Weakness
 
 Her quietness can be mistaken for passivity --- by the reader and by the
 characters around her. She avoids direct confrontation, which means she can be
 steamrolled by louder personalities. Her mediation works when people are willing
 to be mediated; when they're not, she has no fallback.
 
-Thematic Function
------------------
+## Thematic Function
 
 Having a girl who performed well through the trials makes the later political
 questions about the republic feel grounded --- Baret didn't just decide women
 should have a voice, he watched Lusen earn her standing in the same mud and cold
 as everyone else.
 
-What's Missing
---------------
+## What's Missing
 
--   Any personal details beyond "quiet mediator" --- what does she want, what
-    scares her, what makes her laugh?
--   Her relationship to Sera --- the two girls in the cohort would have a
-    dynamic, whether solidarity or friction
--   Whether she survives into later books or serves her function in Book 1 only
--   Her relationship to Baret --- does she become a political ally in the
-    republic?
+- Any personal details beyond "quiet mediator" --- what does she want, what
+  scares her, what makes her laugh?
+- Her relationship to Sera --- the two girls in the cohort would have a dynamic,
+  whether solidarity or friction
+- Whether she survives into later books or serves her function in Book 1 only
+- Her relationship to Baret --- does she become a political ally in the
+  republic?

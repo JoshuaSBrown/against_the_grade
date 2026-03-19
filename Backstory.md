@@ -1,8 +1,6 @@
-Against the Grade --- Backstory
-===============================
+# Against the Grade --- Backstory
 
-Earth
------
+## Earth
 
 Humanity reached a stage of civilisation where DNA engineering had been mastered
 to the point of creating a second biological brain within the human body --- the
@@ -21,8 +19,7 @@ but a working weapon pointed inward. Trust between individuals, institutions,
 and nations collapsed when no one could verify whether their own memories were
 real. Civilisation imploded.
 
-The Capsules
-------------
+## The Capsules
 
 In the final stages of collapse, a group launched three capsules toward a
 distant planet identified through probe data as capable of supporting life. The
@@ -38,7 +35,7 @@ survival capability written directly into DNA --- but stripped out all
 historical and technological context. No mythology of Earth. No record of what
 came before. A forced reset.
 
-### Capsule One \[\[capsules/Capsule1\]\]
+### Capsule One [[Capsule1]]
 
 Capsule One arrived intact and executed its full deployment sequence as designed
 --- robotic terraforming over approximately four hundred years, staged ecosystem
@@ -66,7 +63,7 @@ fragmentary memories of the facility became mythology --- the metal mothers, the
 before-place --- and the true history was completely buried. Over centuries, the
 capsule's remains became relics around which religious structures formed.
 
-### Capsule Two \[\[capsules/Capsule2\]\]
+### Capsule Two [[Capsule2]]
 
 Capsule Two suffered internal failures during transit. Its biological production
 sequence, designed to refine organisms through successive stages toward full
@@ -100,7 +97,7 @@ with it. A functional activation system sits in hostile territory, usable by
 humans but inaccessible to them --- a structural engine for conflict across the
 series.
 
-### Capsule Three \[\[Capsule3\]\]
+### Capsule Three [[Capsule3]]
 
 Capsule Three carried the master virus --- the same threat that triggered the AI
 crisis on Earth. The virus infiltrated core operating systems, particularly
@@ -127,8 +124,7 @@ works to anyone who asks the right questions.
 
 --------------------------------------------------------------------------------
 
-The Ulreth
-----------
+## The Ulreth
 
 The Ulreth are humanoid in appearance but divergent in every other respect ---
 stronger, faster to mature, and driven primarily by instinct rather than
@@ -162,8 +158,7 @@ spectrum in a different direction?
 
 --------------------------------------------------------------------------------
 
-Human Origin and Development
-----------------------------
+## Human Origin and Development
 
 ### The Founding Population
 
@@ -199,8 +194,7 @@ designed this inequality. It emerged from centuries of biological indifference
 
 --------------------------------------------------------------------------------
 
-Timeline
---------
+## Timeline
 
   -----------------------------------------------------------------------------
   Period                    Years from Landing        Events
@@ -274,19 +268,18 @@ Timeline
 
 --------------------------------------------------------------------------------
 
-Open Questions
---------------
+## Open Questions
 
--   **Capsule Three discovery:** How and when is the dormant military AI capsule
-    found? What triggers its threat?
--   **Capsule Two access:** How do humans first learn of a second capsule in
-    Ulreth territory? What drives the expedition?
--   **Founding cohort structure:** Were all two hundred humans produced
-    simultaneously or in cohorts over decades? Cohorts would create natural
-    age-based hierarchies from the start.
--   **Ulreth cognitive ceiling:** Is the spectrum fixed or are the Ulreth still
-    slowly evolving? Could they eventually reach human-level cognition without
-    intervention?
--   **Capsule One residual function:** Is the capsule fully inert or do some
-    subsystems still flicker, producing the partial activations and relic
-    interactions that seed the religious tradition?
+- **Capsule Three discovery:** How and when is the dormant military AI capsule
+  found? What triggers its threat?
+- **Capsule Two access:** How do humans first learn of a second capsule in
+  Ulreth territory? What drives the expedition?
+- **Founding cohort structure:** Were all two hundred humans produced
+  simultaneously or in cohorts over decades? Cohorts would create natural
+  age-based hierarchies from the start.
+- **Ulreth cognitive ceiling:** Is the spectrum fixed or are the Ulreth still
+  slowly evolving? Could they eventually reach human-level cognition without
+  intervention?
+- **Capsule One residual function:** Is the capsule fully inert or do some
+  subsystems still flicker, producing the partial activations and relic
+  interactions that seed the religious tradition?

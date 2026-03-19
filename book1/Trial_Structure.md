@@ -1,13 +1,10 @@
-Against the Grade --- Book 1: Trial Structure
-=============================================
+# Against the Grade --- Book 1: Trial Structure
 
-Reference Document
-------------------
+## Reference Document
 
 --------------------------------------------------------------------------------
 
-OVERVIEW
---------
+## OVERVIEW
 
 The trial system is Haldrin's method for identifying retainers and specialists
 from a population that is already martially competent. Every child in the
@@ -32,8 +29,7 @@ extending into frontier territory.
 
 --------------------------------------------------------------------------------
 
-THE MARKING (Early Spring)
---------------------------
+## THE MARKING (Early Spring)
 
 **Duration:** 1-2 days at Pakran.
 
@@ -60,8 +56,7 @@ with Haldrin's world for Baret.
 
 --------------------------------------------------------------------------------
 
-PROVING 1 --- INDIVIDUAL (Spring, \~1-2 weeks)
-----------------------------------------------
+## PROVING 1 --- INDIVIDUAL (Spring, \~1-2 weeks)
 
 **Purpose:** Establish each candidate's individual baseline. Identify
 rate-of-improvement and adaptability. The reader sees Baret as one among many.
@@ -102,28 +97,27 @@ in Tanapun.
 
 ### Narrative beats during Proving 1:
 
--   Baret performs well but not dominantly. Strong in wilderness skills, still
-    learning military-specific domains. Rate-of-improvement catches the
-    assessors' attention.
--   **Darek in the same Proving.** Direct comparison unavoidable. Baret is
-    better. Darek is competent but not remarkable. The Marking's hierarchy
-    confirmed in practice.
--   **Nepotism visible.** Kullen's matchups managed, collaborator children
-    advantaged. Baret sees the pattern. Third inaction --- he witnesses
-    unfairness and does nothing.
--   **Barlas emerging.** Fierce, aggressive, physically gifted. Instinct-driven,
-    not strategic. High endurance, high pain tolerance. The kind of candidate
-    assessors notice for raw intensity.
--   **Kasun** performing well --- better preparation, better equipment,
-    confident. Class distance from Baret visible.
--   **The cohort forming** through shared hardship. Bonds building whether
-    anyone wants them to or not. Some candidates ridicule Baret (herding
-    background, village origin). Others begin to respect him.
+- Baret performs well but not dominantly. Strong in wilderness skills, still
+  learning military-specific domains. Rate-of-improvement catches the assessors'
+  attention.
+- **Darek in the same Proving.** Direct comparison unavoidable. Baret is better.
+  Darek is competent but not remarkable. The Marking's hierarchy confirmed in
+  practice.
+- **Nepotism visible.** Kullen's matchups managed, collaborator children
+  advantaged. Baret sees the pattern. Third inaction --- he witnesses unfairness
+  and does nothing.
+- **Barlas emerging.** Fierce, aggressive, physically gifted. Instinct-driven,
+  not strategic. High endurance, high pain tolerance. The kind of candidate
+  assessors notice for raw intensity.
+- **Kasun** performing well --- better preparation, better equipment, confident.
+  Class distance from Baret visible.
+- **The cohort forming** through shared hardship. Bonds building whether anyone
+  wants them to or not. Some candidates ridicule Baret (herding background,
+  village origin). Others begin to respect him.
 
 --------------------------------------------------------------------------------
 
-BETWEEN PROVINGS 1 AND 2 (Late Spring / Early Summer)
------------------------------------------------------
+## BETWEEN PROVINGS 1 AND 2 (Late Spring / Early Summer)
 
 **Duration:** Several weeks. Candidates return to villages, then reconvene at
 Pakran.
@@ -137,8 +131,7 @@ the rigged Proving 2.
 
 --------------------------------------------------------------------------------
 
-PROVING 2 --- PARTNERS (Summer, several weeks)
-----------------------------------------------
+## PROVING 2 --- PARTNERS (Summer, several weeks)
 
 **Purpose:** Extended field operation in real frontier terrain. Pairs of
 candidates conduct multi-day patrols with genuine objectives and genuine danger.
@@ -151,16 +144,16 @@ outcomes.
 
 ### Pairing logic:
 
--   **Baret and Barlas paired together.** On paper: Baret's terrain skills
-    complement Barlas's physical aggression and endurance. In practice: two
-    candidates flagged as problems --- Baret for the Chapter 6 incident, Barlas
-    for behavioral markers in Proving 1 --- packaged together as expendables.
--   **Kullen** paired with someone reliable. Protected.
--   **Darek** paired with someone else, routed separately. First real separation
-    of the twins. Darek was not present for anything that happens to Baret in
-    Proving 2 --- the Ulreth attack, the capsule, the activation, the silence.
-    The defining experience of Baret's life happens with Barlas, not Darek.
--   **Kasun** paired appropriately. His route is demanding but survivable.
+- **Baret and Barlas paired together.** On paper: Baret's terrain skills
+  complement Barlas's physical aggression and endurance. In practice: two
+  candidates flagged as problems --- Baret for the Chapter 6 incident, Barlas
+  for behavioral markers in Proving 1 --- packaged together as expendables.
+- **Kullen** paired with someone reliable. Protected.
+- **Darek** paired with someone else, routed separately. First real separation
+  of the twins. Darek was not present for anything that happens to Baret in
+  Proving 2 --- the Ulreth attack, the capsule, the activation, the silence. The
+  defining experience of Baret's life happens with Barlas, not Darek.
+- **Kasun** paired appropriately. His route is demanding but survivable.
 
 ### Operations:
 
@@ -176,40 +169,39 @@ intelligence.
 
 ### Key elements:
 
--   **Multi-day duration.** Pairs are out for days at a stretch.
-    Self-sufficient. Limited supplies.
--   **Resource constraints.** Carry capacity is finite. Pairs must manage food,
-    water, and equipment across multiple days. Forage, ration, or risk.
--   **Night operations.** Ulreth activity patterns require night awareness. Can
-    the pair maintain security, navigate in darkness, function sleep-deprived?
--   **Genuine encounters.** The frontier is real. Pairs may encounter actual
-    Ulreth sign, wildlife, weather that changes plans. Unscripted responses are
-    the real test.
--   **Leadership rotation within the pair.** Both partners take turns leading.
-    Assessors evaluate both leading and following capability.
+- **Multi-day duration.** Pairs are out for days at a stretch. Self-sufficient.
+  Limited supplies.
+- **Resource constraints.** Carry capacity is finite. Pairs must manage food,
+  water, and equipment across multiple days. Forage, ration, or risk.
+- **Night operations.** Ulreth activity patterns require night awareness. Can
+  the pair maintain security, navigate in darkness, function sleep-deprived?
+- **Genuine encounters.** The frontier is real. Pairs may encounter actual
+  Ulreth sign, wildlife, weather that changes plans. Unscripted responses are
+  the real test.
+- **Leadership rotation within the pair.** Both partners take turns leading.
+  Assessors evaluate both leading and following capability.
 
 ### Baret and Barlas's route (Chapters 8-12):
 
--   Routed into the most dangerous sector --- Ulreth-adjacent or Ulreth-interior
-    territory. Death sentence disguised as a challenging assignment. Deniable:
-    their complementary skills "suit" the difficult route.
--   **Barlas in Ulreth territory:** This is the landscape where Barlas's family
-    was massacred. The companion doesn't say it, but the terrain means something
-    specific to Barlas that Baret doesn't yet know.
--   **Baret saves Barlas from a Ulreth attack** (Chapter 9). Herding instincts
-    --- terrain reading, animal behavior prediction. No enhancement. This is the
-    person Baret was before the AI.
--   **Capsule Two discovery** (Chapter 10). Baret activated. Hours of agony
-    while Barlas guards him in monster territory. Barlas attempts activation ---
-    silence.
--   **Return to Proving 2** (Chapter 12). Baret disoriented, performance drops.
-    Barlas covers for him. Haldrin reads the performance drop as evidence the
-    routing worked.
+- Routed into the most dangerous sector --- Ulreth-adjacent or Ulreth-interior
+  territory. Death sentence disguised as a challenging assignment. Deniable:
+  their complementary skills "suit" the difficult route.
+- **Barlas in Ulreth territory:** This is the landscape where Barlas's family
+  was massacred. The companion doesn't say it, but the terrain means something
+  specific to Barlas that Baret doesn't yet know.
+- **Baret saves Barlas from a Ulreth attack** (Chapter 9). Herding instincts ---
+  terrain reading, animal behavior prediction. No enhancement. This is the
+  person Baret was before the AI.
+- **Capsule Two discovery** (Chapter 10). Baret activated. Hours of agony while
+  Barlas guards him in monster territory. Barlas attempts activation ---
+  silence.
+- **Return to Proving 2** (Chapter 12). Baret disoriented, performance drops.
+  Barlas covers for him. Haldrin reads the performance drop as evidence the
+  routing worked.
 
 --------------------------------------------------------------------------------
 
-BETWEEN PROVINGS 2 AND 3 (Late Summer / Early Autumn)
------------------------------------------------------
+## BETWEEN PROVINGS 2 AND 3 (Late Summer / Early Autumn)
 
 **Duration:** Several weeks. Calibration period.
 
@@ -225,8 +217,7 @@ engineers the technicality trap for Proving 3.
 
 --------------------------------------------------------------------------------
 
-PROVING 3 --- TEAMS (Autumn, \~2 weeks)
----------------------------------------
+## PROVING 3 --- TEAMS (Autumn, \~2 weeks)
 
 **Purpose:** Coordinated team operations simulating the kind of multi-unit
 territorial work Haldrin's retainers actually perform. Tests leadership,
@@ -238,17 +229,16 @@ Operating simultaneously across adjacent sectors of real terrain near Pakran.
 
 ### Team composition:
 
--   **Baret's team** includes candidates he doesn't have strong bonds with. No
-    Barlas, no Darek. His leadership must be earned entirely from scratch with
-    strangers.
--   **Barlas** on a different team. Separated from Baret deliberately or by
-    assessment logic.
--   **Darek** on a different team. The twins are split. Darek has his own team
-    experience, his own leader, his own dynamics.
--   **Kasun** leading a different team. This is the team that triggers the
-    technicality trap.
--   **Kullen** on another team with reliable teammates. Protected by
-    composition.
+- **Baret's team** includes candidates he doesn't have strong bonds with. No
+  Barlas, no Darek. His leadership must be earned entirely from scratch with
+  strangers.
+- **Barlas** on a different team. Separated from Baret deliberately or by
+  assessment logic.
+- **Darek** on a different team. The twins are split. Darek has his own team
+  experience, his own leader, his own dynamics.
+- **Kasun** leading a different team. This is the team that triggers the
+  technicality trap.
+- **Kullen** on another team with reliable teammates. Protected by composition.
 
 ### Operations:
 
@@ -257,9 +247,9 @@ near Pakran) - Specific objectives (secure a position, locate and mark features,
 establish a signal point, clear a path, assess a valley) - Time constraints
 (objectives must be completed within set windows) - Rules of engagement
 covering: - Interaction with other teams' operational areas - Handling of Ulreth
-sign (report, withdraw to safe distance, await authorization before proceeding)
-- Resource usage limitations - Reporting protocols - Designated leader
-accountability for all team decisions
+sign (report, withdraw to safe distance, await authorization before
+proceeding) - Resource usage limitations - Reporting protocols - Designated
+leader accountability for all team decisions
 
 ### The technicality trap:
 
@@ -363,17 +353,17 @@ served under him. The ones who didn't heard about it from the ones who did.
 
 ### What the cohort sees by the end of Proving 3:
 
--   Baret absorbed two separate teams under two different conditions --- one in
-    crisis, one in calm --- and led the combined group effectively
--   Nearly half the cohort has direct experience of Baret's leadership
--   Barlas held a failing team together through a Ulreth encounter, then
-    integrated under Baret
--   Darek bridged the gap between Baret and a skeptical arriving team ---
-    demonstrating his own value
--   Kasun's team performed well on raw metrics but got flagged for a protocol
-    violation
--   Kullen's team performed adequately with a stacked roster --- competent but
-    unremarkable
+- Baret absorbed two separate teams under two different conditions --- one in
+  crisis, one in calm --- and led the combined group effectively
+- Nearly half the cohort has direct experience of Baret's leadership
+- Barlas held a failing team together through a Ulreth encounter, then
+  integrated under Baret
+- Darek bridged the gap between Baret and a skeptical arriving team ---
+  demonstrating his own value
+- Kasun's team performed well on raw metrics but got flagged for a protocol
+  violation
+- Kullen's team performed adequately with a stacked roster --- competent but
+  unremarkable
 
 ### Darek's role:
 
@@ -391,8 +381,7 @@ alone. The seed of Book 5 is that this dynamic --- Baret leads, Darek supports
 
 --------------------------------------------------------------------------------
 
-THE SORTING (Late Autumn)
--------------------------
+## THE SORTING (Late Autumn)
 
 **Location:** Pakran. Families travel from across the territory for the
 ceremony.
@@ -440,8 +429,7 @@ Sorting determines futures.
 
 --------------------------------------------------------------------------------
 
-TRIAL YEAR CALENDAR
--------------------
+## TRIAL YEAR CALENDAR
 
   Season         Event                                         Duration        Chapters
   -------------- --------------------------------------------- --------------- ----------
@@ -458,8 +446,7 @@ turning 15 during the trial year, \~15 at the Sorting.
 
 --------------------------------------------------------------------------------
 
-WHAT THE TRIAL STRUCTURE REVEALS THEMATICALLY
----------------------------------------------
+## WHAT THE TRIAL STRUCTURE REVEALS THEMATICALLY
 
 The escalation from Individual → Partners → Teams mirrors the series' arc from
 personal grievance → personal bonds → collective action. Baret's journey through

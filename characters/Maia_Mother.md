@@ -1,5 +1,4 @@
-MAIA --- Baret's Mother
------------------------
+## MAIA --- Baret's Mother
 
 **Status:** ⚠️ Personality now well-sketched / ⚠️ Plot role partially defined
 
@@ -44,10 +43,10 @@ his relationship with her --- whether she's relieved or terrified that he knows
 
 **What's Missing:**
 
--   Does she know Baret has discovered the truth? How does that conversation go?
--   Her relationship to the sister --- what was she like as a mother to her
-    daughter versus to her sons?
--   Her role in specific plot beats beyond family texture
--   Does she interact with any of the other principal characters (Elowen,
-    Arabela, Tobas)?
--   The sister's name
+- Does she know Baret has discovered the truth? How does that conversation go?
+- Her relationship to the sister --- what was she like as a mother to her
+  daughter versus to her sons?
+- Her role in specific plot beats beyond family texture
+- Does she interact with any of the other principal characters (Elowen, Arabela,
+  Tobas)?
+- The sister's name

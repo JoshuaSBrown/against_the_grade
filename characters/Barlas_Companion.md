@@ -1,5 +1,4 @@
-BARLAS --- Baret's Companion
-----------------------------
+## BARLAS --- Baret's Companion
 
 **Status:** ⚠️ Defining act established / ✅ Personality and backstory developed
 
@@ -54,75 +53,72 @@ which way it'll go until it's too late.
 
 **Book 1 Trial Role:**
 
--   **Marking:** Present among the trial candidates at Pakran. First impression
-    for Baret --- someone he doesn't yet know well. Fierce, aggressive,
-    instinct-driven. Not someone who calculates.
--   **Proving 1 (Individual):** Emerges as a physical presence. High endurance,
-    high pain tolerance. Raw intensity that assessors notice. Personality
-    forming through cohort interactions --- the womanizing, the mutton
-    arguments, the backside-smacking camaraderie.
--   **Between Provings:** Becomes a real presence in Baret's life. His grievance
-    against Haldrin exists as subtext, personal history not yet foregrounded.
-    When Baret defends Elowen (Chapter 6), Barlas sees a kindred spirit ---
-    someone who acts on what they feel.
--   **Proving 2 (Partners):** Paired with Baret by assessors. On paper: Baret's
-    terrain skills complement Barlas's physical aggression. In practice: two
-    expendables packaged together, routed into Ulreth-adjacent terrain as a
-    death sentence disguised as a challenging assignment. **The terrain is the
-    same kind of landscape where Barlas's family was massacred.** Barlas doesn't
-    say it, but the ground means something specific.
-    -   Baret saves Barlas from a Ulreth attack (Chapter 9) --- herding
-        instincts, no enhancement. Barlas owes Baret his life.
-    -   At Capsule Two (Chapter 10): Baret is activated --- hours of agony,
-        convulsing, screaming, helpless. In Ulreth territory, the same kind of
-        territory where Barlas's family was killed. Barlas could run. Barlas
-        stays. Guards Baret through hours of agony. **The defining act of
-        loyalty.**
-    -   Barlas touches the same infrastructure. Silence. The technology assessed
-        Barlas's symbiont architecture and found nothing functional enough.
-    -   Returns to Proving 2 covering for Baret's disorientation. Deflecting
-        attention, explaining away erratic behavior. Loyal. Always loyal.
--   **Between Provings 2 and 3:** Trains alongside Baret. Watches Baret develop
-    AI-enhanced capabilities. Compensates with effort for what Baret received by
-    lottery. Fierce, determined. Not lesser --- someone who has to work for
-    everything Baret was given. Hears about the rigged trials through Baret. His
-    anger is simpler, more direct: he doesn't need an AI to know he wants
-    Haldrin destroyed.
--   **Proving 3 Round 2:** On a different team from Baret. The team leader makes
-    a bad call --- freezes under pressure, miscalculates a route. Leadership
-    failure puts the team in a vulnerable position. A real Ulreth encounter
-    turns vulnerability into crisis. **Barlas holds the remnants together
-    through ferocity and determination.** Brings them to Baret's group.
-    Integrates smoothly --- the Proving 2 bond is immediate, trust without
-    hesitation. The rest of Barlas's team sees Barlas snap into Baret's command
-    and follows.
--   **The Sorting:** Responds to Baret's palm-inward gesture instantly. Of
-    course.
--   **The Killing (Chapter 22):** After Haldrin surrenders, Barlas kills him.
-    Stands in front of the man who left his family to die. **Haldrin doesn't
-    know who Barlas is.** One triage decision among hundreds. To Haldrin, a
-    tactical footnote. To Barlas, the defining moment of his life. The killing
-    is loyalty (Haldrin tried to murder Baret), rage (Haldrin left his family to
-    die), and the capsule's silence (he touched the same technology and got
-    nothing) --- all expressed as violence by someone without Baret's processing
-    buffer. Not planned. Barlas acts on what he feels.
+- **Marking:** Present among the trial candidates at Pakran. First impression
+  for Baret --- someone he doesn't yet know well. Fierce, aggressive,
+  instinct-driven. Not someone who calculates.
+- **Proving 1 (Individual):** Emerges as a physical presence. High endurance,
+  high pain tolerance. Raw intensity that assessors notice. Personality forming
+  through cohort interactions --- the womanizing, the mutton arguments, the
+  backside-smacking camaraderie.
+- **Between Provings:** Becomes a real presence in Baret's life. His grievance
+  against Haldrin exists as subtext, personal history not yet foregrounded. When
+  Baret defends Elowen (Chapter 6), Barlas sees a kindred spirit --- someone who
+  acts on what they feel.
+- **Proving 2 (Partners):** Paired with Baret by assessors. On paper: Baret's
+  terrain skills complement Barlas's physical aggression. In practice: two
+  expendables packaged together, routed into Ulreth-adjacent terrain as a death
+  sentence disguised as a challenging assignment. **The terrain is the same kind
+  of landscape where Barlas's family was massacred.** Barlas doesn't say it, but
+  the ground means something specific.
+  - Baret saves Barlas from a Ulreth attack (Chapter 9) --- herding instincts,
+    no enhancement. Barlas owes Baret his life.
+  - At Capsule Two (Chapter 10): Baret is activated --- hours of agony,
+    convulsing, screaming, helpless. In Ulreth territory, the same kind of
+    territory where Barlas's family was killed. Barlas could run. Barlas stays.
+    Guards Baret through hours of agony. **The defining act of loyalty.**
+  - Barlas touches the same infrastructure. Silence. The technology assessed
+    Barlas's symbiont architecture and found nothing functional enough.
+  - Returns to Proving 2 covering for Baret's disorientation. Deflecting
+    attention, explaining away erratic behavior. Loyal. Always loyal.
+- **Between Provings 2 and 3:** Trains alongside Baret. Watches Baret develop
+  AI-enhanced capabilities. Compensates with effort for what Baret received by
+  lottery. Fierce, determined. Not lesser --- someone who has to work for
+  everything Baret was given. Hears about the rigged trials through Baret. His
+  anger is simpler, more direct: he doesn't need an AI to know he wants Haldrin
+  destroyed.
+- **Proving 3 Round 2:** On a different team from Baret. The team leader makes a
+  bad call --- freezes under pressure, miscalculates a route. Leadership failure
+  puts the team in a vulnerable position. A real Ulreth encounter turns
+  vulnerability into crisis. **Barlas holds the remnants together through
+  ferocity and determination.** Brings them to Baret's group. Integrates
+  smoothly --- the Proving 2 bond is immediate, trust without hesitation. The
+  rest of Barlas's team sees Barlas snap into Baret's command and follows.
+- **The Sorting:** Responds to Baret's palm-inward gesture instantly. Of course.
+- **The Killing (Chapter 22):** After Haldrin surrenders, Barlas kills him.
+  Stands in front of the man who left his family to die. **Haldrin doesn't know
+  who Barlas is.** One triage decision among hundreds. To Haldrin, a tactical
+  footnote. To Barlas, the defining moment of his life. The killing is loyalty
+  (Haldrin tried to murder Baret), rage (Haldrin left his family to die), and
+  the capsule's silence (he touched the same technology and got nothing) --- all
+  expressed as violence by someone without Baret's processing buffer. Not
+  planned. Barlas acts on what he feels.
 
 **Core Arc:**
 
--   **Book 1:** Forged through Proving 2 and the capsule. Fights the rebellion
-    with no enhancement --- every swing fueled by the capsule's silence and a
-    family left to die. After the lord surrenders, kills him. The defining act
-    of the character. It stains Baret's greatest triumph and shapes his approach
-    to governance forever.
--   **Books 2+:** Undefined. Does this character remain relevant, or does he
-    serve his narrative purpose in Book 1?
+- **Book 1:** Forged through Proving 2 and the capsule. Fights the rebellion
+  with no enhancement --- every swing fueled by the capsule's silence and a
+  family left to die. After the lord surrenders, kills him. The defining act of
+  the character. It stains Baret's greatest triumph and shapes his approach to
+  governance forever.
+- **Books 2+:** Undefined. Does this character remain relevant, or does he serve
+  his narrative purpose in Book 1?
 
 **What's Missing:**
 
--   His fate after the killing --- exile, continued alliance, guilt,
-    justification?
--   Whether Baret knew about Barlas's family before the murder
--   Whether this character appears in later books
--   How old was he when his family was killed? Was he a child?
--   Does Baret tell Barlas about the sister's murder? If so, shared rage becomes
-    another bond --- or another source of Barlas's fury at the Sorting.
+- His fate after the killing --- exile, continued alliance, guilt,
+  justification?
+- Whether Baret knew about Barlas's family before the murder
+- Whether this character appears in later books
+- How old was he when his family was killed? Was he a child?
+- Does Baret tell Barlas about the sister's murder? If so, shared rage becomes
+  another bond --- or another source of Barlas's fury at the Sorting.

@@ -1,5 +1,4 @@
-KING HALDANUR NOR'GALRIK --- The Monarch
-----------------------------------------
+## KING HALDANUR NOR'GALRIK --- The Monarch
 
 **Status:** ⚠️ Personality well-sketched / ❌ Arc and plot role undefined
 
@@ -45,11 +44,11 @@ him unpredictable in exactly the moments where predictability matters most.
 
 **What's Missing:**
 
--   His role in the plot --- which books is he active in? Is he killed in battle
-    (previously established as dying in war)?
--   His relationship to Haldrin --- how does the lord serve the king?
--   His relationship to Baret --- does the protagonist ever interact with him
-    directly?
--   Whether the reader gets scenes from his court's perspective
--   His queen (Lilemor is assigned as queen from the language system but has no
-    profile)
+- His role in the plot --- which books is he active in? Is he killed in battle
+  (previously established as dying in war)?
+- His relationship to Haldrin --- how does the lord serve the king?
+- His relationship to Baret --- does the protagonist ever interact with him
+  directly?
+- Whether the reader gets scenes from his court's perspective
+- His queen (Lilemor is assigned as queen from the language system but has no
+  profile)

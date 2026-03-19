@@ -1,5 +1,4 @@
-DAREK --- Baret's Brother
--------------------------
+## DAREK --- Baret's Brother
 
 **Status:** ⚠️ Arc established / ⚠️ Personality minimal
 
@@ -14,33 +13,35 @@ Baret.
 
 **Core Arc:**
 
--   **Book 1:** In the trial cohort alongside Baret. Weaker symbiont mark ---
-    enough to advance from the Marking but visibly lesser. The public hierarchy
-    hurts, though Darek processes it with his characteristic warmth and humor
-    (which may be covering). Separated from Baret in Proving 2 (different
-    partner, different route) and Proving 3 (different team each round). The
-    defining experiences of Baret's trial year --- the capsule, the activation,
-    the silence --- happen with Barlas, not Darek. The AI creates a distance
-    Darek can feel but can't identify. In Proving 3 Round 3, Darek joins Baret's
-    group when his team's route becomes untenable (weather/terrain). Functions
-    as the social bridge --- translating Baret's gruff tactical leadership into
-    something skeptical arrivals can accept. His value is interpersonal, not
-    tactical: he reads people and smooths friction. But he's following Baret,
-    not leading. The twin dynamic under team pressure plants the hierarchy that
-    calcifies across the series.
+- **Book 1:** In the trial cohort alongside Baret. Weaker symbiont mark ---
+  enough to advance from the Marking but visibly lesser. The public hierarchy
+  hurts, though Darek processes it with his characteristic warmth and humor
+  (which may be covering). Separated from Baret in Proving 2 (different partner,
+  different route) and Proving 3 (different team each round). The defining
+  experiences of Baret's trial year --- the capsule, the activation, the silence
+  --- happen with Barlas, not Darek. The AI creates a distance Darek can feel
+  but can't identify. In Proving 3 Round 3, Darek joins Baret's group when his
+  team's route becomes untenable (weather/terrain). Functions as the social
+  bridge --- translating Baret's gruff tactical leadership into something
+  skeptical arrivals can accept. His value is interpersonal, not tactical: he
+  reads people and smooths friction. But he's following Baret, not leading. The
+  twin dynamic under team pressure plants the hierarchy that calcifies across
+  the series.
 
--   **Books 1--3:** Companion throughout. Banter, shared history, a relationship
-    the reader invests in before anything happens to him.
--   **Book 4:** Holds a political position in Baret's republic. Makes a decision
-    that directly undermines Baret at the worst possible moment --- during/after
-    the confrontation with the religious leader. Baret thinks this is genuine
-    political betrayal. Says things he can't take back. The relationship
-    fractures.
--   **Book 5:** Baret discovers Darek was compromised by Kullen's device
-    *before* Book 4. The "betrayal" was manipulation. Baret has spent years
-    nursing resentment toward a victim. Every cold word, every withheld
-    forgiveness was punishing someone for something done *to* them. The guilt is
-    compounded by time.
+- **Books 1--3:** Companion throughout. Banter, shared history, a relationship
+  the reader invests in before anything happens to him.
+
+- **Book 4:** Holds a political position in Baret's republic. Makes a decision
+  that directly undermines Baret at the worst possible moment --- during/after
+  the confrontation with the religious leader. Baret thinks this is genuine
+  political betrayal. Says things he can't take back. The relationship
+  fractures.
+
+- **Book 5:** Baret discovers Darek was compromised by Kullen's device *before*
+  Book 4. The "betrayal" was manipulation. Baret has spent years nursing
+  resentment toward a victim. Every cold word, every withheld forgiveness was
+  punishing someone for something done *to* them. The guilt is compounded by
+  time.
 
 **What He Carries:** A feather from a bird he kept as a pet when he was younger.
 The bird was smart enough to bring him shiny things --- small treasures
@@ -76,40 +77,40 @@ compromise invisible.
 
 **Book 1 Trial Role:**
 
--   **Marking:** Both twins advance. Baret's mark strong, Darek's weaker. The
-    hierarchy is public. Darek carries this with warmth on the surface and hurt
-    underneath.
--   **Proving 1 (Individual):** In the same Proving as Baret. Direct comparison
-    unavoidable. Baret is better. Darek is competent but not remarkable. The
-    Marking's ranking confirmed in practice.
--   **Proving 2 (Partners):** Paired with a different candidate, routed
-    separately from Baret. Not present for the Ulreth attack, the capsule, the
-    activation, or the silence. The defining experience of Baret's life happens
-    with someone who isn't Darek. The wall between twins starts here --- built
-    by an assessor's pairing sheet, not by choice.
--   **Proving 3 (Teams):** Different team from Baret in each round. In Round 3,
-    his team's route becomes untenable due to weather/terrain. Some teammates
-    defect to Baret individually. Darek joins Baret's group --- the mechanism
-    (defection, negotiation, team fracture) is TBD but Darek's arrival is a
-    personal choice that means something. Functions as the social bridge between
-    Baret's established command and the arriving group.
--   **The Sorting:** Responds to Baret's palm-inward gesture. His twin said no.
-    Of course Darek follows.
--   **The Killing:** Witnesses or learns of Barlas killing Haldrin. His reaction
-    --- and whether he knows about the sister by this point --- shapes the final
-    chapter dynamics.
+- **Marking:** Both twins advance. Baret's mark strong, Darek's weaker. The
+  hierarchy is public. Darek carries this with warmth on the surface and hurt
+  underneath.
+- **Proving 1 (Individual):** In the same Proving as Baret. Direct comparison
+  unavoidable. Baret is better. Darek is competent but not remarkable. The
+  Marking's ranking confirmed in practice.
+- **Proving 2 (Partners):** Paired with a different candidate, routed separately
+  from Baret. Not present for the Ulreth attack, the capsule, the activation, or
+  the silence. The defining experience of Baret's life happens with someone who
+  isn't Darek. The wall between twins starts here --- built by an assessor's
+  pairing sheet, not by choice.
+- **Proving 3 (Teams):** Different team from Baret in each round. In Round 3,
+  his team's route becomes untenable due to weather/terrain. Some teammates
+  defect to Baret individually. Darek joins Baret's group --- the mechanism
+  (defection, negotiation, team fracture) is TBD but Darek's arrival is a
+  personal choice that means something. Functions as the social bridge between
+  Baret's established command and the arriving group.
+- **The Sorting:** Responds to Baret's palm-inward gesture. His twin said no. Of
+  course Darek follows.
+- **The Killing:** Witnesses or learns of Barlas killing Haldrin. His reaction
+  --- and whether he knows about the sister by this point --- shapes the final
+  chapter dynamics.
 
 **What's Missing:**
 
--   His political position in the republic --- what does he do?
--   The sibling dynamic with Baret in concrete terms --- who's older (or if
-    twins, who emerged first)? What's their banter like?
--   Whether the reader should suspect something is wrong with him in Book 4, or
-    if the betrayal reads as genuine until Book 5
--   The specific moment in Book 2 where he earns Rohn's respect --- what does he
-    do?
--   How exactly Darek ends up in Baret's group in Proving 3 Round 3 --- team
-    fracture, defection sequence, stubborn leader, or negotiated merger?
+- His political position in the republic --- what does he do?
+- The sibling dynamic with Baret in concrete terms --- who's older (or if twins,
+  who emerged first)? What's their banter like?
+- Whether the reader should suspect something is wrong with him in Book 4, or if
+  the betrayal reads as genuine until Book 5
+- The specific moment in Book 2 where he earns Rohn's respect --- what does he
+  do?
+- How exactly Darek ends up in Baret's group in Proving 3 Round 3 --- team
+  fracture, defection sequence, stubborn leader, or negotiated merger?
 
 **Book 2 Arc:** Starts insecure. He's Baret's brother in a military context
 where Baret is the natural leader, Rohn is the experienced adviser, and Darek's

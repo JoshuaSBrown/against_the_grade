@@ -1,5 +1,4 @@
-ARABELA --- The Betrothed
--------------------------
+## ARABELA --- The Betrothed
 
 **Status:** ⚠️ Function clear / ⚠️ Personal detail missing
 
@@ -17,15 +16,15 @@ could be exchanged for rather than who she was.
 
 **Core Arc:**
 
--   **Book 1:** Baret falls for her. She goes to Baret when he wins, because he
-    now represents power --- and more importantly, escape from the arrangement
-    that defined her as currency. But Baret's world doesn't offer the security
-    she needs.
--   **Books 2--3:** Leaves Baret when she sees he can't give her what she wants.
-    Returns to Kullen (or the power structure Kullen represents) --- not because
-    she loves it, but because it's the system she was built to navigate.
--   **Later books:** Has a son. The betrothed's son becomes relevant to the plot
-    (details unclear).
+- **Book 1:** Baret falls for her. She goes to Baret when he wins, because he
+  now represents power --- and more importantly, escape from the arrangement
+  that defined her as currency. But Baret's world doesn't offer the security she
+  needs.
+- **Books 2--3:** Leaves Baret when she sees he can't give her what she wants.
+  Returns to Kullen (or the power structure Kullen represents) --- not because
+  she loves it, but because it's the system she was built to navigate.
+- **Later books:** Has a son. The betrothed's son becomes relevant to the plot
+  (details unclear).
 
 **Personality:** Proud and indifferent --- because to care is to show weakness.
 She was treated as property when she was younger, valued for her beauty and her
@@ -62,9 +61,9 @@ fragile in exactly the moments she needs it most.
 
 **What's Missing:**
 
--   Her actual personality beyond "pragmatic and beautiful"
--   The specific reason she leaves Baret --- what can't he give her?
--   Her relationship to Kullen after returning to him --- is she complicit,
-    ignorant, or trapped?
--   Her son --- who is he, when does he appear, what role does he play?
--   Whether she has any arc of her own or remains a mirror for Baret's growth
+- Her actual personality beyond "pragmatic and beautiful"
+- The specific reason she leaves Baret --- what can't he give her?
+- Her relationship to Kullen after returning to him --- is she complicit,
+  ignorant, or trapped?
+- Her son --- who is he, when does he appear, what role does he play?
+- Whether she has any arc of her own or remains a mirror for Baret's growth

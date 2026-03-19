@@ -1,8 +1,6 @@
-The Interrupted Promise --- Religion Reference
-==============================================
+# The Interrupted Promise --- Religion Reference
 
-Summary
--------
+## Summary
 
 The dominant faith of Alinar emerged from the fragmented childhood memories of
 the first surviving generation of humans --- children aged roughly six to ten
@@ -15,93 +13,91 @@ Linak. The Ulreth attack became the Kanur --- the moment everything went wrong.
 
 --------------------------------------------------------------------------------
 
-Sacred Vocabulary
------------------
+## Sacred Vocabulary
 
-  ----------------------------------------------------------------------------------------------------
-  Term             Seed Form      Meaning                      Modern Form             Notes
-  ---------------- -------------- ---------------------------- ----------------------- ---------------
-  The Birthplace / punak-norik    settlement + born-of         **Punaknor**            Shares root
-  Sacred Site                                                  (mountain/liturgical) / with Nor
-                                                               **Punanor** (lowland)   patronymic;
-                                                                                       oldest place
-                                                                                       name in the
-                                                                                       language
+  ---------------------------------------------------------------------------------------------------
+  Term             Seed Form     Meaning                      Modern Form             Notes
+  ---------------- ------------- ---------------------------- ----------------------- ---------------
+  The Birthplace / punak-norik   settlement + born-of         **Punaknor**            Shares root
+  Sacred Site                                                 (mountain/liturgical) / with Nor
+                                                              **Punanor** (lowland)   patronymic;
+                                                                                      oldest place
+                                                                                      name in the
+                                                                                      language
 
-  The Robots /     binak-hasir    metal + kinship              **Binasir**             /h/ drop erases
-  Metal Mothers                                                (formal/religious) /    the kinship
-                                                               **Binas** (common)      element;
-                                                                                       mythological
-                                                                                       title
+  The Robots /     binak-hasir   metal + kinship              **Binasir**             /h/ drop erases
+  Metal Mothers                                               (formal/religious) /    the kinship
+                                                              **Binas** (common)      element;
+                                                                                      mythological
+                                                                                      title
 
-  The Sealed       halinak        great-duty/promise           **Alinak**              /h/ drop; what
-  Teaching                                                                             the religion
-                                                                                       believes waits
-                                                                                       behind the
-                                                                                       sealed chambers
+  The Sealed       halinak       great-duty/promise           **Alinak**              /h/ drop; what
+  Teaching                                                                            the religion
+                                                                                      believes waits
+                                                                                      behind the
+                                                                                      sealed chambers
 
-  The Hand Mark    ngalir         technical-connection-point   **Nalir** (mountain) /  One of the only
-                                                               **Naler** (lowland)     /ng/ technical
-                                                                                       words to
-                                                                                       survive;
-                                                                                       disguised as
-                                                                                       /n/
-                                                                                       living-things
-                                                                                       by drift
+  The Hand Mark    ngalir        technical-connection-point   **Nalir** (mountain) /  One of the only
+                                                              **Naler** (lowland)     /ng/ technical
+                                                                                      words to
+                                                                                      survive;
+                                                                                      disguised as
+                                                                                      /n/
+                                                                                      living-things
+                                                                                      by drift
 
-  The Promise      linak          oath/promise                 **Linak**               Ordinary word
-                                                                                       given
-                                                                                       theological
-                                                                                       weight by
-                                                                                       context
+  The Promise      linak         oath/promise                 **Linak**               Ordinary word
+                                                                                      given
+                                                                                      theological
+                                                                                      weight by
+                                                                                      context
 
-  The Cutting /    kanur          to cut/separate              **Kanur** (mountain) /  The Ulreth
-  Interruption                                                 **Kanor** (lowland)     attack
-                                                                                       mythologized as
-                                                                                       a cosmic event
+  The Cutting /    kanur         to cut/separate              **Kanur** (mountain) /  The Ulreth
+  Interruption                                                **Kanor** (lowland)     attack
+                                                                                      mythologized as
+                                                                                      a cosmic event
 
-  The Completion / salin          state-of-wholeness           **Salin** (religious) / The hoped-for
-  Fulfillment                                                  **Salen** (common)      future; /s/
-                                                                                       quality
-                                                                                       category
+  The Completion / salin         state-of-wholeness           **Salin** (religious) / The hoped-for
+  Fulfillment                                                 **Salen** (common)      future; /s/
+                                                                                      quality
+                                                                                      category
 
-  Buried           binak-sutal    metal + ancient              **Binal**               Generic noun
-  Infrastructure                                                                       for encountered
-                                                                                       terraforming
-                                                                                       remnants
+  Buried           binak-sutal   metal + ancient              **Binal**               Generic noun
+  Infrastructure                                                                      for encountered
+                                                                                      terraforming
+                                                                                      remnants
 
-  The Before-Time  dakur-sutal    era + ancient                **Dakstal**             The
-                                                                                       mythological
-                                                                                       past before the
-                                                                                       interruption
-  ----------------------------------------------------------------------------------------------------
+  The Before-Time  dakur-sutal   era + ancient                **Dakstal**             The
+                                                                                      mythological
+                                                                                      past before the
+                                                                                      interruption
+  ---------------------------------------------------------------------------------------------------
 
 ### Linguistic Notes
 
 The sacred vocabulary carries hidden engineering fingerprints that no speaker is
 aware of:
 
--   **Nalir** (the hand mark) is one of the only /ng/-category technical words
-    that leaked into common usage. Children heard the robots say it before the
-    curriculum was formally delivered. After 700 years of /ng/ → /n/
-    simplification, it sounds like a /n/ living-things word meaning "living
-    bond." The theological interpretation is an accident of phonological drift.
-    The original meaning was a clinical label for the interface terminus.
--   **Punaknor** (the sacred site) shares the root **norik** with the **Nor**
-    patronymic. Every person's surname is linguistically tethered to the
-    birthplace without anyone knowing it. When Baret hears the seed language in
-    the mainframe and recognizes **norik** in both his own name and the sacred
-    site's name, the connection becomes visceral.
--   **Alinak**, **Linak**, **Salin**, and other theological terms derive from
-    /h/ and /l/ categories --- abstract concepts and bonds. Because /h/ dropped
-    out of the language centuries ago, these words feel like they emerged from
-    human moral reasoning rather than an engineered system. The religion's most
-    human-feeling vocabulary is the most engineered.
+- **Nalir** (the hand mark) is one of the only /ng/-category technical words
+  that leaked into common usage. Children heard the robots say it before the
+  curriculum was formally delivered. After 700 years of /ng/ → /n/
+  simplification, it sounds like a /n/ living-things word meaning "living bond."
+  The theological interpretation is an accident of phonological drift. The
+  original meaning was a clinical label for the interface terminus.
+- **Punaknor** (the sacred site) shares the root **norik** with the **Nor**
+  patronymic. Every person's surname is linguistically tethered to the
+  birthplace without anyone knowing it. When Baret hears the seed language in
+  the mainframe and recognizes **norik** in both his own name and the sacred
+  site's name, the connection becomes visceral.
+- **Alinak**, **Linak**, **Salin**, and other theological terms derive from /h/
+  and /l/ categories --- abstract concepts and bonds. Because /h/ dropped out of
+  the language centuries ago, these words feel like they emerged from human
+  moral reasoning rather than an engineered system. The religion's most
+  human-feeling vocabulary is the most engineered.
 
 --------------------------------------------------------------------------------
 
-The Founding Trauma: Interruption, Not Punishment
--------------------------------------------------
+## The Founding Trauma: Interruption, Not Punishment
 
 Most Earth religions are built on either creation narratives (we were made by a
 god) or fall narratives (we had paradise and lost it through transgression). The
@@ -142,8 +138,7 @@ triumphalism of resurrection-based faiths.
 
 --------------------------------------------------------------------------------
 
-Orthodox Doctrine
------------------
+## Orthodox Doctrine
 
 The orthodox tradition represents the dominant theological interpretation,
 centered on the Punaknor and maintained by the religious institution that
@@ -244,8 +239,7 @@ until they became indistinguishable.
 
 --------------------------------------------------------------------------------
 
-Heterodox Traditions
---------------------
+## Heterodox Traditions
 
 Seven hundred years of theological development does not produce a single unified
 interpretation. The orthodox mainstream controls the Punaknor and the
@@ -348,8 +342,7 @@ behavior, and territorial patterns that suggest more than pure instinct.
 
 --------------------------------------------------------------------------------
 
-Doctrinal Comparison
---------------------
+## Doctrinal Comparison
 
   -------------------------------------------------------------------------------
   Question        Orthodox        Egalitarian         Trials       Kinship
@@ -404,8 +397,7 @@ the Punaknor.
 
 --------------------------------------------------------------------------------
 
-Theological Geography
----------------------
+## Theological Geography
 
 **Orthodox Heartland.** The lowland territory surrounding the Punaknor. Highest
 concentration of marked individuals (\~45% fully functional conduit in large
@@ -436,8 +428,7 @@ doctrine. The Kinship heresy is the theological expression of that contradiction
 
 --------------------------------------------------------------------------------
 
-Narrative Function Across the Series
-------------------------------------
+## Narrative Function Across the Series
 
 **Book 1: Background Texture.** The religion exists as worldbuilding context.
 Baret grows up in an egalitarian mountain community. He encounters orthodox
@@ -472,8 +463,7 @@ to the truth or whether it shatters.
 
 --------------------------------------------------------------------------------
 
-The Religious Leader
---------------------
+## The Religious Leader
 
 The religious leader who serves as the books 3--4 antagonist is the current head
 of the orthodox tradition. He is not its founder --- the institution predates
@@ -496,23 +486,22 @@ Baret offers truth. The religious leader asks: what replaces the lie?
 
 --------------------------------------------------------------------------------
 
-Consistency Rules
------------------
+## Consistency Rules
 
--   All religious vocabulary draws from /h/-category derivatives (abstract
-    concepts) and /l/-category derivatives (bonds/promises), following
-    established language drift rules.
--   The Punaknor's name follows /p/-settlement naming conventions and shares the
-    **norik** root with the Nor patronymic.
--   **Nalir** is one of the only /ng/-technical words to survive into common
-    usage, disguised as an /n/ living-things word by drift. Its clinical origin
-    should never be revealed to readers before Baret accesses the mainframe.
--   The nalir's theological significance tracks its demographic prevalence: as
-    it becomes rarer, the theology assigns it greater weight. This must remain
-    consistent with the symbiont degradation reference.
--   The Ulreth's theological status as "interrupters" must be consistent with
-    their established biology: intermediate-stage organisms from Capsule 2.
--   Theological terms should feel organic and opaque --- no reader should
-    reverse-engineer the seed language from religious vocabulary alone, but a
-    reader who has also read the language reference should notice patterns on
-    reread.
+- All religious vocabulary draws from /h/-category derivatives (abstract
+  concepts) and /l/-category derivatives (bonds/promises), following established
+  language drift rules.
+- The Punaknor's name follows /p/-settlement naming conventions and shares the
+  **norik** root with the Nor patronymic.
+- **Nalir** is one of the only /ng/-technical words to survive into common
+  usage, disguised as an /n/ living-things word by drift. Its clinical origin
+  should never be revealed to readers before Baret accesses the mainframe.
+- The nalir's theological significance tracks its demographic prevalence: as it
+  becomes rarer, the theology assigns it greater weight. This must remain
+  consistent with the symbiont degradation reference.
+- The Ulreth's theological status as "interrupters" must be consistent with
+  their established biology: intermediate-stage organisms from Capsule 2.
+- Theological terms should feel organic and opaque --- no reader should
+  reverse-engineer the seed language from religious vocabulary alone, but a
+  reader who has also read the language reference should notice patterns on
+  reread.

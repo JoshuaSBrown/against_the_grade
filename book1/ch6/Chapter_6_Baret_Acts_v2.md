@@ -1,15 +1,12 @@
-Against the Grade --- Book 1: Birthright
-========================================
+# Against the Grade --- Book 1: Birthright
 
-Chapter 6: Baret Acts
----------------------
+## Chapter 6: Baret Acts
 
 ### Detailed Scene Outline
 
 --------------------------------------------------------------------------------
 
-Chapter Overview
-----------------
+## Chapter Overview
 
 **POV:** Baret, close third \[POV/person still open\] **Time:** A single day.
 Candidates have earned town access after Proving 1 --- their first time outside
@@ -42,8 +39,7 @@ unreachable in the barracks. Everything says: stay quiet. Chapter 6 is when
 
 --------------------------------------------------------------------------------
 
-Chapter-Level Story Structure
------------------------------
+## Chapter-Level Story Structure
 
 ### 5 Commandments
 
@@ -124,8 +120,7 @@ acted. The coward label no longer applies. What replaces it is more interesting.
 
 --------------------------------------------------------------------------------
 
-Scene-by-Scene Breakdown
-------------------------
+## Scene-by-Scene Breakdown
 
 ### Scene 1: Town Access (Early in the day)
 
@@ -487,8 +482,7 @@ as threshold, not calculation. The Sorting rebellion.
 
 --------------------------------------------------------------------------------
 
-Backstory Seed Inventory
-------------------------
+## Backstory Seed Inventory
 
   ------------------------------------------------------------------------------
   Seed               Planted As                        Payoff
@@ -531,8 +525,7 @@ Backstory Seed Inventory
 
 --------------------------------------------------------------------------------
 
-Notes and Flags
----------------
+## Notes and Flags
 
 ### The Geode Must Be Small
 
@@ -581,24 +574,24 @@ pages, it's too long.
 
 ### Open Decisions
 
--   The retainer's child --- name, personality, specific role.
--   How many teenagers in the group.
--   Whether Elowen says anything to Baret during or after the exchange.
--   Whether Darek is present or learns about it afterward.
--   Whether Garik or Lusen witness the fight.
--   Where exactly Elowen's family is living after the ejection.
--   POV / person (series-wide).
+- The retainer's child --- name, personality, specific role.
+- How many teenagers in the group.
+- Whether Elowen says anything to Baret during or after the exchange.
+- Whether Darek is present or learns about it afterward.
+- Whether Garik or Lusen witness the fight.
+- Where exactly Elowen's family is living after the ejection.
+- POV / person (series-wide).
 
 ### Locked Decisions
 
--   Candidates earn town access after Proving 1. This puts Baret in position for
-    the encounter.
--   Baret finds Elowen being harassed in Pakran's town, not at the keep.
--   A retainer's child is among the bullies and is humiliated.
--   The fight is unheroic. Baret takes hits. Holds through endurance.
--   The geode: "It's better than it looks." Forgotten by him, kept by her.
--   Barlas observes from hostile distance --- not bonding, just recognition.
--   Barlas-Baret bond forms in Proving 2 at Capsule Two, not before.
--   Sera recalibrates quietly.
--   Social cost is immediate. Political event.
--   Baret's self-loathing replaced by certainty.
+- Candidates earn town access after Proving 1. This puts Baret in position for
+  the encounter.
+- Baret finds Elowen being harassed in Pakran's town, not at the keep.
+- A retainer's child is among the bullies and is humiliated.
+- The fight is unheroic. Baret takes hits. Holds through endurance.
+- The geode: "It's better than it looks." Forgotten by him, kept by her.
+- Barlas observes from hostile distance --- not bonding, just recognition.
+- Barlas-Baret bond forms in Proving 2 at Capsule Two, not before.
+- Sera recalibrates quietly.
+- Social cost is immediate. Political event.
+- Baret's self-loathing replaced by certainty.

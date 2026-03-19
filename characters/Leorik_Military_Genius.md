@@ -1,5 +1,4 @@
-LEORIK NOR'GISNAK \-\-- The War Ally / External Threat
-------------------------------------------------------
+## LEORIK NOR'GISNAK \-\-- The War Ally / External Threat
 
 **Status:** ⚠️ Core arc established / ⚠️ Scene-level character incomplete
 
@@ -22,44 +21,43 @@ lords fall and fight magnificently while doing it.
 
 Core Arc:
 
--   **Book 2:** War ally. Arrives with his own forces \-\-- loyal, well-fed,
-    dangerous, undisciplined by Baret's standards. Brilliant on the battlefield.
-    Wins the decisive battle by solving the critical coordination problem:
-    Baret's forces are split on both sides of the monarch's army and need to
-    time a pincer. The AI calculates every alternative and rejects them. Leorik
-    takes the message himself \-\-- runs straight through the enemy army,
-    delivers the coordination orders, then runs back. The return trip is the
-    point: it proves the first crossing wasn't luck. Every soldier on both sides
-    watches it happen. The story never stops being told. The pincer closes and
-    wins the war. An approach so unorthodox it wouldn't occur to a machine
-    optimizing for probability \-\-- and it was the tactical hinge. Earns trust
-    through demonstrated genius, not shared ideology. The reader loves him
-    despite themselves.
--   **Book 3:** Ungovernable in peacetime. The republic asks him to sit in
-    councils and vote on policy. His followers commit crimes he overlooks \-\--
-    mirroring Haldrin's protection of Kesal. He commits a public crime: kills
-    someone under the republic's legal protection, theatrically, because the
-    person offended his code. The senate votes to exile him. Baret votes yes.
-    Leorik leaves \-\-- publicly, theatrically, with a speech. "You built a cage
-    and called it freedom."
--   **Book 3-4 gap:** Exiled with nothing. Arrives at the neighboring kingdom
-    \-\-- a military aristocracy that rewards exactly what he is. Within months
-    he's indispensable. Rises to senior military command. The senate's mistake:
-    thinking exile would neutralize him. You can't exile talent. You can only
-    relocate it.
--   **Book 4:** External pressure on the republic. The neighboring kingdom tests
-    borders using Leorik's knowledge of the republic's military capabilities.
-    His presence as an external threat fuels the populist argument that the
-    republic's founder exiled a war hero who is now pointed at them like a
-    weapon.
--   **Book 5:** Attacks the capital with the kingdom's expeditionary force
-    during Baret's counter-coup against Kullen. Kullen tries to use the attack
-    to consolidate power. Baret dispatches a commando team to sabotage the
-    kingdom's own Ulreth frontier \-\-- the kingdom's soldiers learn their homes
-    are exposed and begin deserting. Leorik and Baret find each other on the
-    battlefield. The duel is not formal \-\-- they recognize each other in the
-    chaos and neither walks away. **Leorik takes Baret's arm. Baret kills
-    Leorik.** Leorik dies as himself.
+- **Book 2:** War ally. Arrives with his own forces \-\-- loyal, well-fed,
+  dangerous, undisciplined by Baret's standards. Brilliant on the battlefield.
+  Wins the decisive battle by solving the critical coordination problem: Baret's
+  forces are split on both sides of the monarch's army and need to time a
+  pincer. The AI calculates every alternative and rejects them. Leorik takes the
+  message himself \-\-- runs straight through the enemy army, delivers the
+  coordination orders, then runs back. The return trip is the point: it proves
+  the first crossing wasn't luck. Every soldier on both sides watches it happen.
+  The story never stops being told. The pincer closes and wins the war. An
+  approach so unorthodox it wouldn't occur to a machine optimizing for
+  probability \-\-- and it was the tactical hinge. Earns trust through
+  demonstrated genius, not shared ideology. The reader loves him despite
+  themselves.
+- **Book 3:** Ungovernable in peacetime. The republic asks him to sit in
+  councils and vote on policy. His followers commit crimes he overlooks \-\--
+  mirroring Haldrin's protection of Kesal. He commits a public crime: kills
+  someone under the republic's legal protection, theatrically, because the
+  person offended his code. The senate votes to exile him. Baret votes yes.
+  Leorik leaves \-\-- publicly, theatrically, with a speech. "You built a cage
+  and called it freedom."
+- **Book 3-4 gap:** Exiled with nothing. Arrives at the neighboring kingdom
+  \-\-- a military aristocracy that rewards exactly what he is. Within months
+  he's indispensable. Rises to senior military command. The senate's mistake:
+  thinking exile would neutralize him. You can't exile talent. You can only
+  relocate it.
+- **Book 4:** External pressure on the republic. The neighboring kingdom tests
+  borders using Leorik's knowledge of the republic's military capabilities. His
+  presence as an external threat fuels the populist argument that the republic's
+  founder exiled a war hero who is now pointed at them like a weapon.
+- **Book 5:** Attacks the capital with the kingdom's expeditionary force during
+  Baret's counter-coup against Kullen. Kullen tries to use the attack to
+  consolidate power. Baret dispatches a commando team to sabotage the kingdom's
+  own Ulreth frontier \-\-- the kingdom's soldiers learn their homes are exposed
+  and begin deserting. Leorik and Baret find each other on the battlefield. The
+  duel is not formal \-\-- they recognize each other in the chaos and neither
+  walks away. **Leorik takes Baret's arm. Baret kills Leorik.** Leorik dies as
+  himself.
 
 **Personality:** Flamboyant, vain, proud. A genius and a noble who loves chaos.
 His view of the world is that life is about the thrill. He takes what he wants,
@@ -136,16 +134,16 @@ matters is the ingratitude. That wound drives everything from Book 3 onward.
 
 What's Missing:
 
--   Which noble house? Where geographically? Relationship to Haldrin's territory
-    before the war
--   The specific crime that triggers exile in Book 3 \-\-- who does he kill, and
-    under what circumstances?
--   The neighboring kingdom \-\-- name, geography, political structure, Ulreth
-    frontier
--   What does Leorik say to Baret during the duel?
--   What are his last words?
--   Which arm does Baret lose?
--   Does Leorik have a family? A spouse? Children? (His character suggests not
-    \-\-- he's incapable of sustained attachment \-\-- but this should be a
-    conscious decision)
--   His age relative to Baret
+- Which noble house? Where geographically? Relationship to Haldrin's territory
+  before the war
+- The specific crime that triggers exile in Book 3 \-\-- who does he kill, and
+  under what circumstances?
+- The neighboring kingdom \-\-- name, geography, political structure, Ulreth
+  frontier
+- What does Leorik say to Baret during the duel?
+- What are his last words?
+- Which arm does Baret lose?
+- Does Leorik have a family? A spouse? Children? (His character suggests not
+  \-\-- he's incapable of sustained attachment \-\-- but this should be a
+  conscious decision)
+- His age relative to Baret

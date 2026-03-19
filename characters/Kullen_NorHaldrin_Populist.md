@@ -1,5 +1,4 @@
-KULLEN NORHALDRIN --- Lord's Son / Book 5 Antagonist
-----------------------------------------------------
+## KULLEN NORHALDRIN --- Lord's Son / Book 5 Antagonist
 
 **Status:** ✅ Well-developed mechanically / ⚠️ Personal voice undefined
 
@@ -15,20 +14,20 @@ judicial order.
 
 **Core Arc:**
 
--   **Book 1:** Privileged, charming, enters trials with advantages Baret lacks.
-    Dispossessed when his father is killed.
--   **Books 2--4:** Disappears from the main narrative. Discovers Capsule 3 in a
-    drained mountain lake. The teaching AI educates him --- giving him a more
-    complete understanding of human origins than Baret ever gets from damaged
-    sources. Overrides containment to access the military AI payload. Bio lab is
-    non-functional (submersion damaged biological equipment in one hull section
-    while computing systems in a separate bulkhead survived). Begins the long
-    game of positioning compromised individuals in emerging power structures.
--   **Book 5:** Steps forward as the culmination of a decades-long operation.
-    His worldview: human autonomy is the disease, control is the cure. He
-    watched every system fail --- feudalism, the post-revolutionary chaos, the
-    republic --- and concluded that freedom itself is the problem. He exploits
-    Baret's guilt over his father's murder to gain reintegration access.
+- **Book 1:** Privileged, charming, enters trials with advantages Baret lacks.
+  Dispossessed when his father is killed.
+- **Books 2--4:** Disappears from the main narrative. Discovers Capsule 3 in a
+  drained mountain lake. The teaching AI educates him --- giving him a more
+  complete understanding of human origins than Baret ever gets from damaged
+  sources. Overrides containment to access the military AI payload. Bio lab is
+  non-functional (submersion damaged biological equipment in one hull section
+  while computing systems in a separate bulkhead survived). Begins the long game
+  of positioning compromised individuals in emerging power structures.
+- **Book 5:** Steps forward as the culmination of a decades-long operation. His
+  worldview: human autonomy is the disease, control is the cure. He watched
+  every system fail --- feudalism, the post-revolutionary chaos, the republic
+  --- and concluded that freedom itself is the problem. He exploits Baret's
+  guilt over his father's murder to gain reintegration access.
 
 **Motivation:** Tragedy of good intentions, not simple villainy. He overrides
 containment for what feels like justified reasons. The teaching AI gives him
@@ -69,12 +68,12 @@ control is, at its root, a man who can't admit he's hurt.
 
 **What's Missing:**
 
--   His personality --- how he speaks, what he's like in a room, what makes him
-    compelling rather than just functional
--   His relationship to Baret before the overthrow --- did they know each other?
-    Were they rivals in the trials? Was there any connection that makes Book 5
-    more personal?
--   The specific moment he decides weaponization is justified --- the scene
-    where a sympathetic man becomes a monster
--   His life during the years between dispossession and Capsule 3 discovery. How
-    does a dispossessed lord's son survive and reach a drained mountain lake?
+- His personality --- how he speaks, what he's like in a room, what makes him
+  compelling rather than just functional
+- His relationship to Baret before the overthrow --- did they know each other?
+  Were they rivals in the trials? Was there any connection that makes Book 5
+  more personal?
+- The specific moment he decides weaponization is justified --- the scene where
+  a sympathetic man becomes a monster
+- His life during the years between dispossession and Capsule 3 discovery. How
+  does a dispossessed lord's son survive and reach a drained mountain lake?

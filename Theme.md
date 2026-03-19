@@ -1,8 +1,6 @@
-Against the Grade --- Series Outline
-====================================
+# Against the Grade --- Series Outline
 
-Core Question
--------------
+## Core Question
 
 Does freedom require equality? Specifically: can people be genuinely free in a
 society where biological inequality is inherent and unchosen --- where some
@@ -14,8 +12,7 @@ down the feudal lord and people are free. The series is the process of
 discovering how naive that position is, and the cost of holding onto the
 principle anyway.
 
-Backstory
----------
+## Backstory
 
 Earth mastered DNA engineering and created humans with a biological second brain
 --- a symbiont designed to remain vegetative until an AI assistant was uploaded
@@ -78,8 +75,7 @@ preserved the architecture nearly intact through chance, others carry partially
 degraded versions, others lost compatibility entirely. No one designed this
 inequality. It emerged from centuries of biological indifference.
 
-Book 1 --- Birthright
----------------------
+## Book 1 --- Birthright
 
 The feudal lord. Power through force and hereditary authority. The
 protagonist\'s origin in a wooded mountainous region --- class anger, family
@@ -142,8 +138,7 @@ lord\'s brutal sorting was exploiting a real biological variation --- and that
 the inequality will persist after the lord is gone because it was never just the
 system.
 
-Book 2 --- Vacuum
------------------
+## Book 2 --- Vacuum
 
 The feudal system collapses. The protagonist\'s victory creates a power vacuum.
 The rallying speech --- the protagonist standing before an army, channeling
@@ -233,8 +228,7 @@ institution with economics and social hierarchy. The book 5 antagonist finds
 recruitment ground here --- people who resent the republic and still believe in
 the old world\'s logic of physical worth.
 
-Books 3--4 --- Faith and Capital
---------------------------------
+## Books 3--4 --- Faith and Capital
 
 The religious leader and oligarch as overlapping antagonists. The protagonist
 allies with the religious leader first --- initially a transactional
@@ -413,8 +407,7 @@ key susceptible individuals during transitions of power. Opportunistic, not
 orchestrating. This preserves the integrity of books 3--4 as genuine political
 conflicts with independent actors.
 
-Book 5 --- Control
-------------------
+## Book 5 --- Control
 
 The republic the protagonist built is deteriorating in ways that don\'t make
 sense. Political positions shift inexplicably. Trusted allies make decisions
@@ -543,8 +536,7 @@ and the religious question persists. Freedom and equality don\'t resolve neatly,
 and neither does the question of what to do with knowledge that breaks people\'s
 frameworks.
 
-Key Story Beats --- Progression by Book
----------------------------------------
+## Key Story Beats --- Progression by Book
 
   --- --------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   1   Physical survival                                         Violent trials --- protagonist wins through cognitive edge, not superior strength                                                                                     Survives the lord\'s system, activated, escapes with knowledge the feudal world can\'t account for
@@ -559,8 +551,7 @@ and loss: win (1), triumph (2), gain through alliance (3), survive through loss
 (4), ultimate victory at ultimate cost (5). Each book has a different *kind* of
 accomplishment, preventing repetition while maintaining forward momentum.
 
-Open Gap --- The Book 5 Antagonist\'s Personal Story
-----------------------------------------------------
+## Open Gap --- The Book 5 Antagonist\'s Personal Story
 
 The antagonist\'s mechanics are established: from the old feudal world, immune
 to the virus, operating since the overthrow, positioning susceptible people into

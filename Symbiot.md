@@ -1,5 +1,4 @@
-BARET\'S AI --- Symbiont Intelligence
--------------------------------------
+## BARET\'S AI --- Symbiont Intelligence
 
 **Status:** ⚠️ Functional role clear / ❌ Personality undefined
 
@@ -17,9 +16,9 @@ relationship with Baret over time.
 
 **What\'s Missing:**
 
--   Does the AI have a personality? A voice? Humor? Frustration?
--   Does Baret name it?
--   How does the relationship evolve across five books?
--   The AI\'s potential destruction in Book 5 if the military template is a full
-    replacement rather than overlay (this was flagged as a decision point ---
-    overlay was favored to preserve the relationship)
+- Does the AI have a personality? A voice? Humor? Frustration?
+- Does Baret name it?
+- How does the relationship evolve across five books?
+- The AI\'s potential destruction in Book 5 if the military template is a full
+  replacement rather than overlay (this was flagged as a decision point ---
+  overlay was favored to preserve the relationship)

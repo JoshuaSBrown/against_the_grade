@@ -1,5 +1,4 @@
-SERA SIMAK NOR'KULIN --- Trial Candidate
-========================================
+# SERA SIMAK NOR'KULIN --- Trial Candidate
 
 **Status:** ⚠️ Role defined / ✅ Personality well-sketched
 
@@ -18,8 +17,7 @@ fewer female candidates sent to the trials. Fast, adaptable, high
 rate-of-improvement --- the metric that matters in the Provings. Catches
 attention the same way Baret does but without the political target on his back.
 
-Personality
------------
+## Personality
 
 Extremely sassy. She talks back to assessors. She needles Kullen's entourage.
 She says the thing everyone is thinking but nobody has the nerve to say out
@@ -33,8 +31,7 @@ in front of the cohort. It's the verbal equivalent of a porcupine's quills ---
 she learned early that being uncomfortable to approach is safer than being easy
 to approach.
 
-Role in the Trials
-------------------
+## Role in the Trials
 
 The candidate nobody targets because they've categorized her as a nuisance
 rather than a threat. Assessors who underestimate her get corrected quickly.
@@ -49,8 +46,7 @@ teams matter, she has to learn that sarcasm doesn't hold a defensive line and
 that the people she's been needling for months are now her teammates. That's
 growth --- not becoming quiet, but learning when to aim and when to holster.
 
-Key Dynamics
-------------
+## Key Dynamics
 
 **Baret:** They irritate each other initially. He's quiet, observant, slow to
 speak. She's fast, cutting, always speaking. Baret reads her as reckless --- she
@@ -64,8 +60,7 @@ blunt, direct, acts on impulse. Sera is verbally expressive --- sharp, indirect,
 acts through words. They'd either become unlikely friends or drive each other
 insane. Probably both.
 
-Key Moment
-----------
+## Key Moment
 
 Sometime during Proving 3, when tensions are high and Haldrin's manipulation is
 pressing, Sera says something cutting about the system --- the kind of thing
@@ -75,8 +70,7 @@ has to decide whether to distance himself from the girl who just painted a
 target on her back or to recognize that she's doing with words what he's about
 to do with actions.
 
-Strength
---------
+## Strength
 
 Speed --- physical and verbal. She's fast on her feet and fast with her mouth.
 Her rate-of-improvement across the Provings is what catches attention. She
@@ -84,16 +78,14 @@ adapts quickly, learns from failure immediately, and never makes the same
 mistake twice. The combination of verbal sharpness and physical capability means
 she's consistently underestimated, which she uses as an advantage.
 
-Weakness
---------
+## Weakness
 
 Her mouth. The same sarcasm that keeps people at a safe distance also keeps
 allies at a distance. She's hard to like until you realize the sharpness is
 armor. In team situations she has to learn that winning an argument isn't the
 same as winning cooperation.
 
-Thematic Function
------------------
+## Thematic Function
 
 Like Lusen, her presence in the trials grounds the later republic's politics ---
 Baret watched girls earn their standing alongside everyone else. But where Lusen
@@ -101,14 +93,11 @@ demonstrates quiet capability, Sera demonstrates that women who refuse to be
 quiet can also be capable. The system's failure to take her seriously is a
 preview of the systemic blindness Baret's republic will have to address.
 
-What's Missing
---------------
+## What's Missing
 
--   Her backstory --- why is she this way? What taught her that being sharp is
-    safer than being approachable?
--   Whether she survives into later books --- she has the personality to be a
-    recurring presence
--   Her relationship to Lusen --- the two girls in the cohort would have a
-    dynamic
--   Whether she plays any role in the rebellion or remains a trials-only
-    character
+- Her backstory --- why is she this way? What taught her that being sharp is
+  safer than being approachable?
+- Whether she survives into later books --- she has the personality to be a
+  recurring presence
+- Her relationship to Lusen --- the two girls in the cohort would have a dynamic
+- Whether she plays any role in the rebellion or remains a trials-only character

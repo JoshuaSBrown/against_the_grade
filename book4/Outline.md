@@ -18,8 +18,7 @@ Darek holding a senate position. Barlas loyal, carrying the silence. Baret's AI
 has recovered fragments about Earth's AI crisis from Capsule One --- enough to
 know something catastrophic occurred, not enough to understand the full scope.
 
-STRUCTURAL OVERVIEW
-===================
+# STRUCTURAL OVERVIEW
 
 Three-act spine built on the convergence of internal political crisis and
 external military threat, with Kullen's invisible hand channeling both. The
@@ -101,8 +100,7 @@ Darek's public break with Baret in Act 3 is caused by the device, but it tracks
 perfectly with Darek's established insecurities. The reader accepts it as the
 lesser twin finally asserting himself.
 
-THE NEIGHBORING KINGDOM
-=======================
+# THE NEIGHBORING KINGDOM
 
 The second major human political entity on the continent. Located beyond a
 natural barrier --- the far side of the Takdal range or beyond Dasak. A military
@@ -143,8 +141,7 @@ The republic is being squeezed from outside and fracturing from inside. Baret
 tries to hold it together through the institutions he built. The institutions
 aren't strong enough.
 
-Chapter 1 --- The Republic Under Strain
----------------------------------------
+## Chapter 1 --- The Republic Under Strain
 
 The state of the world. The seed vault's partial distribution has cracked
 Murek's monopoly but not replaced it --- the new crops are spreading but Murek
@@ -169,8 +166,7 @@ makes Darek's later break devastating.
 > *Function: Establish the republic's fragility. The reader sees a functioning
 > but stressed system. Every pressure is organic and real.*
 
-Chapter 2 --- The Border
-------------------------
+## Chapter 2 --- The Border
 
 First introduction of the neighboring kingdom as a threat. A border incident ---
 not war, not even a skirmish, but a territorial assertion. The kingdom's forces
@@ -195,8 +191,7 @@ permanently.
 > *Function: Introduce the external threat. Leorik as a real, competent,
 > sympathetic enemy. The republic's military vulnerability is now visible.*
 
-Chapter 3 --- The Populist Voice
---------------------------------
+## Chapter 3 --- The Populist Voice
 
 The gene therapy debate spills from the senate into the streets. Unenhanced
 citizens demanding access. Baret's caution --- his AI's warning that deeper
@@ -219,8 +214,7 @@ caution does look like gatekeeping from the outside.
 > *Function: The populist movement established as organic and sympathetic. Baret
 > can't fight it without becoming what he overthrew.*
 
-Chapter 4 --- The Arena Speech
-------------------------------
+## Chapter 4 --- The Arena Speech
 
 Baret absorbs the criticism publicly. A town-hall style session where citizens
 confront him directly. The complaints are real. The anger is justified. Baret
@@ -243,8 +237,7 @@ who sees him without calculation.
 > incomplete. The gap between those who risk and those who critique is real and
 > unresolvable.*
 
-Chapter 5 --- The Earth Fragments
----------------------------------
+## Chapter 5 --- The Earth Fragments
 
 Baret continues accessing Capsule One records --- legally now, searching for
 gene therapy documentation to inform the policy debate. Instead he finds
@@ -268,8 +261,7 @@ being used against his republic --- is invisible to him and the reader.
 > hypothesis. On first read, this is background texture. On rereading, it's the
 > moment the answer was sitting in front of him.*
 
-Chapter 6 --- A Death
----------------------
+## Chapter 6 --- A Death
 
 A minor political figure dies. Someone in Baret's circle --- not a core
 companion but a trusted functionary, a records clerk or policy adviser who was
@@ -288,8 +280,7 @@ republic moves on.
 > unremarkable. On rereread: devastating. The reader should be able to identify
 > this death as Kullen's work only after Book 5.*
 
-Chapter 7 --- The Kingdom Advances
-----------------------------------
+## Chapter 7 --- The Kingdom Advances
 
 The neighboring kingdom escalates. Not invasion --- strategic pressure. A second
 border position occupied. Trade routes disrupted. Frontier settlements report
@@ -325,8 +316,7 @@ ACT 2 --- THE DEBATE AND THE FRACTURE
 The internal crisis reaches the point where Baret must either speak or
 surrender. Speaking costs him everything.
 
-Chapter 8 --- The Gene Therapy Crisis
--------------------------------------
+## Chapter 8 --- The Gene Therapy Crisis
 
 The gene therapy debate reaches a breaking point. A group of unenhanced citizens
 attempts unauthorized activation using relic technology --- without
@@ -353,8 +343,7 @@ Every path costs someone something.
 > *Function: The gene therapy crisis as a genuine policy catastrophe. No clean
 > answers. The pressure on Baret to act publicly intensifies.*
 
-Chapter 9 --- Tobas Returns
----------------------------
+## Chapter 9 --- Tobas Returns
 
 The gene therapy crisis pulls Tobas back into the political arena. His faith
 community has been diminished but not destroyed by Book 3's events. He arrives
@@ -374,8 +363,7 @@ activation attempt makes his caution look prescient.
 > *Function: Tobas re-established as a political force. The Book 3 tension
 > carried forward. The debate setup loaded.*
 
-Chapter 10 --- The Political Debate
------------------------------------
+## Chapter 10 --- The Political Debate
 
 **The emotional climax of Act 2.** Baret confronts Tobas on the senate floor.
 Not attacking the faith itself but attacking the prohibition on questioning. His
@@ -408,8 +396,7 @@ feels it.
 > *Function: The debate that defines the series' philosophical core. Baret's
 > moral courage at a cost he hasn't calculated yet.*
 
-Chapter 11 --- The Scandal
---------------------------
+## Chapter 11 --- The Scandal
 
 In the debate's aftermath, a political scandal surfaces involving one of Baret's
 allies. Financial impropriety, policy corruption, something concrete and
@@ -431,8 +418,7 @@ because the corruption is real. His coalition shrinks.
 > *Function: Kullen's blackmail method demonstrated invisibly. The reader sees
 > political misfortune, not orchestration.*
 
-Chapter 12 --- The Brother Compromised
---------------------------------------
+## Chapter 12 --- The Brother Compromised
 
 Darek's political behavior shifts. Not dramatically --- the change is gradual
 enough to look like the natural evolution of a politician finding his own voice.
@@ -463,8 +449,7 @@ of playing to the crowd. Both accusations contain truth. The twin bond frays.
 > Darek's insecurities are established across three books. The device is
 > invisible.*
 
-Chapter 13 --- Border Crisis
-----------------------------
+## Chapter 13 --- Border Crisis
 
 The neighboring kingdom forces a confrontation. A republic border settlement is
 threatened --- not attacked, but surrounded. The kingdom's forces, under
@@ -491,8 +476,7 @@ and uncertain.
 > *Function: The external threat forces Baret to divide his attention. Leorik as
 > a genuine, competent enemy. The republic's military weakness exposed.*
 
-Chapter 14 --- Second Death
----------------------------
+## Chapter 14 --- Second Death
 
 Another death. This one closer to Baret. Someone who served with him in the war,
 who held a position in the republic's administrative structure. Found dead in
@@ -516,8 +500,7 @@ ACT 3 --- THE COUP AND THE EXILE
 
 Everything Baret built turns against him. The mechanism is his own ideology.
 
-Chapter 15 --- The Break
-------------------------
+## Chapter 15 --- The Break
 
 **The most devastating scene in the book.** Darek's public break with Baret. On
 the senate floor, Darek sides with the populist wave. He calls for a vote of no
@@ -543,8 +526,7 @@ decisively. The republic's own democratic mechanism removes its founder.
 > *Function: The coup as democratic process. Baret's ideology weaponized against
 > him. The brother's betrayal as the emotional kill shot.*
 
-Chapter 16 --- The Collapse
----------------------------
+## Chapter 16 --- The Collapse
 
 The aftermath. Baret stripped of authority. His allies scattering --- some
 principled (the vote was legitimate), some calculating (backing the new order),
@@ -565,8 +547,7 @@ called it freedom."
 > *Function: The mechanical aftermath of the coup. Every character repositions.
 > The reader sees normal political transition.*
 
-Chapter 17 --- Elowen
----------------------
+## Chapter 17 --- Elowen
 
 In the chaos of Baret's removal, Elowen acts. She's been present in Baret's
 orbit since Book 3 --- not prominent, not political, doing the quiet work of
@@ -584,8 +565,7 @@ everyone else was recalculating.
 > *Function: Elowen's arc turning point. She's been invisible because Baret
 > wasn't looking. Now he is.*
 
-Chapter 18 --- The Safe House
------------------------------
+## Chapter 18 --- The Safe House
 
 Baret, Barlas, and a handful of companions in Elowen's safe house. Stripped of
 authority, title, institutional support. The quiet after the storm.
@@ -605,8 +585,7 @@ beside him.
 > physical manifestation of what's left after everything institutional is
 > stripped away.*
 
-Chapter 19 --- The Geode
-------------------------
+## Chapter 19 --- The Geode
 
 **The emotional climax.** Elowen places the geode in Baret's hand. The ugly rock
 he shoved at her years ago after pulling her out of the mud, bleeding, barely
@@ -628,8 +607,7 @@ imperfect, genuine thing over the dramatic one.
 > later. This is recognition. Two people seeing each other clearly for the first
 > time in a room where nothing else matters.*
 
-Chapter 20 --- The Choice
--------------------------
+## Chapter 20 --- The Choice
 
 Baret makes the decision to leave. Not flee --- choose exile. He could stay,
 build an opposition, fight from within the republic's institutional framework.
@@ -651,8 +629,7 @@ between them were ugly.
 > making a choice consistent with his principles. Elowen's role in Book 5
 > planted.*
 
-Chapter 21 --- The Horizon
---------------------------
+## Chapter 21 --- The Horizon
 
 Book 4's final chapter. Baret on the road, heading outward. Barlas beside him.
 Behind them: the republic continuing without its founder, Darek in the senate
@@ -686,8 +663,7 @@ who finally has the distance to see the pattern.
 > will provide. The weight of what the reader doesn't know --- Darek's
 > compromise, Kullen's operation, the coming reckoning --- pulls them forward.*
 
-REMAINING STRUCTURAL GAPS
-=========================
+# REMAINING STRUCTURAL GAPS
 
 Critical
 
@@ -744,8 +720,7 @@ painful than a landslide.
 **15.** Murek in the new order --- does he gain or lose from the populist
 transition? Probably gains, since populist economics still need infrastructure.
 
-THEMATIC ARCHITECTURE
-=====================
+# THEMATIC ARCHITECTURE
 
 **Baret & Darek (the Twin Fracture):** The Marking wrote a hierarchy between
 them at sixteen. The device amplifies what was already there. The lesser twin's
@@ -780,8 +755,7 @@ knows.
 Present when it matters. Silent when silence is what's needed. The capsule's
 silence made him the one person the device can never explain away.
 
-PACING NOTES
-============
+# PACING NOTES
 
 21 chapters across \~2--3 years.
 
@@ -816,39 +790,39 @@ KULLEN'S HIDDEN TIMELINE (Authorial Reference Only)
 
 This timeline spans Books 3--4. The reader sees none of it until Book 5.
 
-  --------------- ----------------------------------------- ---------------------
-  **Approximate   **Kullen's Action**                       **What the Reader
-  Timing**                                                  Sees**
+  --------------- --------------------------------------- ---------------------
+  **Approximate   **Kullen's Action**                     **What the Reader
+  Timing**                                                Sees**
 
-  Book 3, early   Returns to republic as 'reformed figure.' A dispossessed
-                  Proxy already operational. 4--6 officials aristocrat seeking
-                  compromised from Books 2--3 positioning   reintegration.
-                                                            Sympathetic
+  Book 3, early   Returns to republic as 'reformed        A dispossessed
+                  figure.' Proxy already operational.     aristocrat seeking
+                  4--6 officials compromised from Books   reintegration.
+                  2--3 positioning                        Sympathetic
 
-  Book 3, mid     Observes Baret's growing knowledge from   Kullen networking
-                  Capsule One. Registers as potential       normally
-                  threat                                    
+  Book 3, mid     Observes Baret's growing knowledge from Kullen networking
+                  Capsule One. Registers as potential     normally
+                  threat                                  
 
-  Book 3, late    Arabela gravitates to him. Social         Romantic rival.
-                  positioning accelerates                   Normal political
-                                                            maneuvering
+  Book 3, late    Arabela gravitates to him. Social       Romantic rival.
+                  positioning accelerates                 Normal political
+                                                          maneuvering
 
-  Book 4, early   Blackmail network activated. Minor        A political scandal
-                  officials pressured through               (Chapter 11). Bad
-                  intermediaries                            luck for Baret
+  Book 4, early   Blackmail network activated. Minor      A political scandal
+                  officials pressured through             (Chapter 11). Bad
+                  intermediaries                          luck for Baret
 
-  Book 4, mid     Proxy compromises Darek. Accelerated      Darek finding his own
-                  timeline after the debate exposes Baret's voice
-                  knowledge                                 
+  Book 4, mid     Proxy compromises Darek. Accelerated    Darek finding his own
+                  timeline after the debate exposes       voice
+                  Baret's knowledge                       
 
-  Book 4, mid     Assassination of investigator (Chapter    Tragic death in a
-                  14)                                       dangerous world
+  Book 4, mid     Assassination of investigator (Chapter  Tragic death in a
+                  14)                                     dangerous world
 
-  Book 4, late    Populist movement channeled toward        Organic democratic
-                  no-confidence vote. Compromised officials process
-                  steer timing                              
+  Book 4, late    Populist movement channeled toward      Organic democratic
+                  no-confidence vote. Compromised         process
+                  officials steer timing                  
 
-  Book 4, close   Baret exiled. Kullen established in the   The republic's
-                  new order                                 natural political
-                                                            evolution
-  --------------- ----------------------------------------- ---------------------
+  Book 4, close   Baret exiled. Kullen established in the The republic's
+                  new order                               natural political
+                                                          evolution
+  --------------- --------------------------------------- ---------------------

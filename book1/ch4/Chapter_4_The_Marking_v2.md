@@ -1,15 +1,12 @@
-Against the Grade --- Book 1: Birthright
-========================================
+# Against the Grade --- Book 1: Birthright
 
-Chapter 4: The Marking
-----------------------
+## Chapter 4: The Marking
 
 ### Detailed Scene Outline v2
 
 --------------------------------------------------------------------------------
 
-Chapter Overview
-----------------
+## Chapter Overview
 
 **POV:** Baret, close third \[POV/person still open\] **Time:** Morning through
 evening. The day after arrival (Chapter 3). **Setting:** Pakran --- the town
@@ -47,8 +44,7 @@ neither of them chose.
 
 --------------------------------------------------------------------------------
 
-Chapter-Level Story Structure
------------------------------
+## Chapter-Level Story Structure
 
 ### 5 Commandments
 
@@ -125,8 +121,7 @@ is never good. The Provings begin next.
 
 --------------------------------------------------------------------------------
 
-Scene-by-Scene Breakdown
-------------------------
+## Scene-by-Scene Breakdown
 
 ### Scene 1: Pakran's Morning (Morning)
 
@@ -810,110 +805,108 @@ reconfiguration.
 
 --------------------------------------------------------------------------------
 
-Backstory Seed Inventory
-------------------------
+## Backstory Seed Inventory
 
-  -------------------------------------------------------------------------------
-  Seed                  Planted As                       Payoff
-  --------------------- -------------------------------- ------------------------
-  Market tax (systemic  Retainers collecting, exemptions System at scale,
-  oppression)           visible                          rebellion arc
+  ------------------------------------------------------------------------------
+  Seed                  Planted As                      Payoff
+  --------------------- ------------------------------- ------------------------
+  Market tax (systemic  Retainers collecting,           System at scale,
+  oppression)           exemptions visible              rebellion arc
 
-  Public punishment     Person in stocks for minor       System communicates
-                        offense                          through pain
+  Public punishment     Person in stocks for minor      System communicates
+                        offense                         through pain
 
-  Baret maps the system Structural thinking applied to   Series-wide strength
-                        oppression                       
+  Baret maps the system Structural thinking applied to  Series-wide strength
+                        oppression                      
 
-  Haldrin's standard    Carried always, the symbol of    Ch 22 (surrender and
-                        cost                             killing), series-wide
+  Haldrin's standard    Carried always, the symbol of   Ch 22 (surrender and
+                        cost                            killing), series-wide
 
-  Haldrin counting the  Specific names, specific numbers He's monstrous and
-  dead                                                   effective. Reader
-                                                         discomfort
+  Haldrin counting the  Specific names, specific        He's monstrous and
+  dead                  numbers                         effective. Reader
+                                                        discomfort
 
-  Tiered consequences   Cheating → lashing/danger.       The system's logic is
-                        Failure → labor/status. Success  sound. What Baret fights
-                        → treatment. Excellence →        is who the logic serves
-                        retainership/family benefits     
+  Tiered consequences   Cheating → lashing/danger.      The system's logic is
+                        Failure → labor/status. Success sound. What Baret fights
+                        → treatment. Excellence →       is who the logic serves
+                        retainership/family benefits    
 
-  Pairing-as-tool       Assessors assign combat matchups Proving 2 (expendable
-                                                         pairing)
+  Pairing-as-tool       Assessors assign combat         Proving 2 (expendable
+                        matchups                        pairing)
 
-  Baret's               Combat improvement across the    Key metric across all
-  rate-of-improvement   bout                             Provings
+  Baret's               Combat improvement across the   Key metric across all
+  rate-of-improvement   bout                            Provings
 
-  Sera's speed and      Strong across all three tests    Proving 3, strategic
-  capability                                             value, underestimation
+  Sera's speed and      Strong across all three tests   Proving 3, strategic
+  capability                                            value, underestimation
 
-  Kullen's polish /     Trained, smooth, advantaged AND  Protected son, Ch 22,
-  privilege             capable                          Book 5 arc
+  Kullen's polish /     Trained, smooth, advantaged AND Protected son, Ch 22,
+  privilege             capable                         Book 5 arc
 
-  Darek's social        Coaching his opponent, mixed     Value as bridge,
-  intelligence          combat marks                     vulnerability to Kullen
+  Darek's social        Coaching his opponent, mixed    Value as bridge,
+  intelligence          combat marks                    vulnerability to Kullen
 
-  Barlas's ferocity     Attacks rather than spars, raw   The bond, the killing
-                        energy                           
+  Barlas's ferocity     Attacks rather than spars, raw  The bond, the killing
+                        energy                          
 
-  Kasun's preparation   Resources = polish               Proving 3 trap, Murek's
-                                                         politics
+  Kasun's preparation   Resources = polish              Proving 3 trap, Murek's
+                                                        politics
 
-  Second inaction       Baret watches, does nothing,     Ch 6 breaking point
-  (child humiliated)    inside the system                
+  Second inaction       Baret watches, does nothing,    Ch 6 breaking point
+  (child humiliated)    inside the system               
 
-  The artifact as       Sacred relic, flat panel, glyph  Book 3 (Capsule 1
-  capsule technology    interface                        access), faith built on
-                                                         a machine
+  The artifact as       Sacred relic, flat panel, glyph Book 3 (Capsule 1
+  capsule technology    interface                       access), faith built on
+                                                        a machine
 
-  Priest's diagnostic   Trained physiological assessment Faith's institutional
-  reading                                                knowledge, Book 3-4
+  Priest's diagnostic   Trained physiological           Faith's institutional
+  reading               assessment                      knowledge, Book 3-4
 
-  Baret's palm tingling Strong conduit response,         Religious interpretation
-                        priest's follow-up               vs. bioengineering
-                                                         reality
+  Baret's palm tingling Strong conduit response,        Religious interpretation
+                        priest's follow-up              vs. bioengineering
+                                                        reality
 
-  Haldrin noting Baret  Lord's attention on a herder's   Rigged Proving 2, Baret
-                        son                              as target
+  Haldrin noting Baret  Lord's attention on a herder's  Rigged Proving 2, Baret
+                        son                             as target
 
-  Barlas as "adequate"  Functional marks, not            Capsule silence (Ch 10),
-                        exceptional                      the cruelest word
+  Barlas as "adequate"  Functional marks, not           Capsule silence (Ch 10),
+                        exceptional                     the cruelest word
 
-  Elowen present but    Background, Baret slides past    Ch 6 (geode), finale,
-  invisible                                              Book 4
+  Elowen present but    Background, Baret slides past   Ch 6 (geode), finale,
+  invisible                                             Book 4
 
-  Arabela noticed       Attraction, Kullen's orbit       Baret's blindness,
-                                                         Arabela's shift
+  Arabela noticed       Attraction, Kullen's orbit      Baret's blindness,
+                                                        Arabela's shift
 
-  Twin hierarchy        Marks + combat + artifact all    Series-wide wound, Book
-  (public,              confirm                          5 eruption
-  triple-confirmed)                                      
+  Twin hierarchy        Marks + combat + artifact all   Series-wide wound, Book
+  (public,              confirm                         5 eruption
+  triple-confirmed)                                     
 
-  Baret's strong mark   Lord files away the name         Baret becomes a
-  noted by Haldrin                                       variable, then a target
+  Baret's strong mark   Lord files away the name        Baret becomes a
+  noted by Haldrin                                      variable, then a target
 
-  Darek's generosity /  Support, humor, buried pain      Book 4 (Kullen
-  buried wound                                           exploits), Book 5
-                                                         (Baret's guilt)
+  Darek's generosity /  Support, humor, buried pain     Book 4 (Kullen
+  buried wound                                          exploits), Book 5
+                                                        (Baret's guilt)
 
-  Baret's emotional     Accepts surface, misses cost     Series-wide weakness
-  blindness                                              
+  Baret's emotional     Accepts surface, misses cost    Series-wide weakness
+  blindness                                             
 
-  Darek gravitates to   Two social people connect        Book 4 devastation
-  Kullen                                                 
+  Darek gravitates to   Two social people connect       Book 4 devastation
+  Kullen                                                
 
-  Barlas at the margins Mutual recognition, no contact   Proving 2 bond
+  Barlas at the margins Mutual recognition, no contact  Proving 2 bond
 
-  Kesal unremarked at   Present, background              Ch 13 reconfiguration
-  Pakran                                                 
+  Kesal unremarked at   Present, background             Ch 13 reconfiguration
+  Pakran                                                
 
-  Cohort forming by     Social dynamics emerging         Proving 1, Proving 3
-  mark/village                                           teams
-  -------------------------------------------------------------------------------
+  Cohort forming by     Social dynamics emerging        Proving 1, Proving 3
+  mark/village                                          teams
+  ------------------------------------------------------------------------------
 
 --------------------------------------------------------------------------------
 
-Notes and Flags
----------------
+## Notes and Flags
 
 ### The Chapter's Four-Movement Rhythm
 
@@ -975,42 +968,42 @@ Trust that Proving 1 (next chapter) develops these characters further.
 
 ### Open Decisions
 
--   The child humiliated during assessment --- name, village, specifics of
-    defiance and punishment.
--   Does this child appear again in the trials?
--   The specific form of the puzzle test.
--   The specific form of the obstacle course.
--   The priest --- named character who returns, or unnamed functionary?
--   Kesal's presence at the assessment --- is he in the room as one of Haldrin's
-    men, or elsewhere at Pakran?
--   The exact wording/content of Haldrin's speech (currently structural, not
-    written).
--   POV / person (series-wide).
+- The child humiliated during assessment --- name, village, specifics of
+  defiance and punishment.
+- Does this child appear again in the trials?
+- The specific form of the puzzle test.
+- The specific form of the obstacle course.
+- The priest --- named character who returns, or unnamed functionary?
+- Kesal's presence at the assessment --- is he in the room as one of Haldrin's
+  men, or elsewhere at Pakran?
+- The exact wording/content of Haldrin's speech (currently structural, not
+  written).
+- POV / person (series-wide).
 
 ### Locked Decisions
 
--   Haldrin enters with full fanfare, battle standard carried before him.
-    Elevated position throughout.
--   Haldrin's speech establishes tiered consequences: cheating (lashing +
-    dangerous labor), failure (frontier labor + reduced family status), success
-    (good placement + return to family), excellence
-    (apprenticeship/retainership + family benefits).
--   Three physical tests: training combat, a puzzle, a physical obstacle.
--   Baret does alright. Sera does well. Kullen does well. Darek mixed. Barlas
-    ferocious.
--   The artifact is a flat panel with inverted glyph patterns. Candidates place
-    palms on it.
--   The priest reads visual mark darkness (primary, unfakeable) and
-    physiological response to artifact contact (secondary, trained reading).
--   Assessment is private: candidates, priest, Haldrin's officials, Haldrin
-    elevated. No families.
--   Baret's marks are exceptionally dark. His artifact response is strong. The
-    priest examines him longer. Asks follow-up.
--   Haldrin notices Baret from his elevated position.
--   Darek's marks present but visibly lesser. Triple-confirmed across combat,
-    puzzle, and artifact.
--   Second inaction: child humiliated during assessment. Baret does nothing.
--   Darek's reaction: genuine support, humor, buried wound.
--   Elowen present but invisible to Baret. Arabela noticed.
--   Barlas and Baret: mutual recognition across the room, no contact.
--   Darek gravitates toward Kullen in the evening.
+- Haldrin enters with full fanfare, battle standard carried before him. Elevated
+  position throughout.
+- Haldrin's speech establishes tiered consequences: cheating (lashing +
+  dangerous labor), failure (frontier labor + reduced family status), success
+  (good placement + return to family), excellence (apprenticeship/retainership +
+  family benefits).
+- Three physical tests: training combat, a puzzle, a physical obstacle.
+- Baret does alright. Sera does well. Kullen does well. Darek mixed. Barlas
+  ferocious.
+- The artifact is a flat panel with inverted glyph patterns. Candidates place
+  palms on it.
+- The priest reads visual mark darkness (primary, unfakeable) and physiological
+  response to artifact contact (secondary, trained reading).
+- Assessment is private: candidates, priest, Haldrin's officials, Haldrin
+  elevated. No families.
+- Baret's marks are exceptionally dark. His artifact response is strong. The
+  priest examines him longer. Asks follow-up.
+- Haldrin notices Baret from his elevated position.
+- Darek's marks present but visibly lesser. Triple-confirmed across combat,
+  puzzle, and artifact.
+- Second inaction: child humiliated during assessment. Baret does nothing.
+- Darek's reaction: genuine support, humor, buried wound.
+- Elowen present but invisible to Baret. Arabela noticed.
+- Barlas and Baret: mutual recognition across the room, no contact.
+- Darek gravitates toward Kullen in the evening.

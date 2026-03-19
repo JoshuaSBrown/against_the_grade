@@ -85,8 +85,7 @@ without a peacetime ssets/Planet Surface.png skillset. Tobas and Murek have
 spent the gap years building real ssets/Planet Surface.png institutions. Baret
 is behind. ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\# Chapter 1 --- The Alliance ssets/Planet
-Surface.png
+ssets/Planet Surface.png \## Chapter 1 --- The Alliance ssets/Planet Surface.png
 
 ssets/Planet Surface.png Two years after the war. Baret arrives in Tobas's
 territory to formalize ssets/Planet Surface.png the alliance. The religious
@@ -121,7 +120,7 @@ the religious ssets/Planet Surface.png \> community as a real, functioning
 society. Plant both motivations for ssets/Planet Surface.png \> Baret's
 presence. Reintroduce the world two years on. ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\# Chapter 2 --- The Economic Grip ssets/Planet
+ssets/Planet Surface.png \## Chapter 2 --- The Economic Grip ssets/Planet
 Surface.png
 
 ssets/Planet Surface.png Murek's consolidation becomes visible. In the two years
@@ -150,7 +149,7 @@ the external ssets/Planet Surface.png \> pressure. Show Baret losing ground
 through no fault except being a ssets/Planet Surface.png \> revolutionary in a
 builder's world. ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\# Chapter 3 --- First Archive Session ssets/Planet
+ssets/Planet Surface.png \## Chapter 3 --- First Archive Session ssets/Planet
 Surface.png
 
 ssets/Planet Surface.png Tobas grants Baret supervised access to Capsule One's
@@ -181,7 +180,7 @@ data is ambiguous. ssets/Planet Surface.png \> The reader sees a believer inside
 ambiguity. Tobas's gatekeeping ssets/Planet Surface.png \> planted. ssets/Planet
 Surface.png
 
-ssets/Planet Surface.png \#\# Chapter 4 --- Leorik in Peacetime ssets/Planet
+ssets/Planet Surface.png \## Chapter 4 --- Leorik in Peacetime ssets/Planet
 Surface.png
 
 ssets/Planet Surface.png Leorik is ungovernable. The republic asks him to sit in
@@ -209,7 +208,7 @@ Haldrin's protection of ssets/Planet Surface.png \> Kesal is the thematic point.
 The republic must be different from ssets/Planet Surface.png \> feudalism.
 ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\# Chapter 5 --- The Dinner ssets/Planet Surface.png
+ssets/Planet Surface.png \## Chapter 5 --- The Dinner ssets/Planet Surface.png
 
 ssets/Planet Surface.png The political dinner scene. All three power players at
 the same table: ssets/Planet Surface.png Baret, Tobas, Murek. Baret is there as
@@ -250,7 +249,7 @@ strength. The dinner motivates the ssets/Planet Surface.png \> break-in ---
 Baret now suspects Tobas is hiding something specific ssets/Planet Surface.png
 \> about Capsule One. ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\# Chapter 6 --- Institutional Cracks ssets/Planet
+ssets/Planet Surface.png \## Chapter 6 --- Institutional Cracks ssets/Planet
 Surface.png
 
 ssets/Planet Surface.png Small institutional failures accumulate inside Tobas's
@@ -302,7 +301,7 @@ ssets/Planet Surface.png \> Function: Faith crisis Stage 1 intensifies. Kullen's
 return planted ssets/Planet Surface.png \> without ominous framing.
 Institutional cracks accumulating. ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\# Chapter 7 --- Second Archive Session and Suspicion
+ssets/Planet Surface.png \## Chapter 7 --- Second Archive Session and Suspicion
 ssets/Planet Surface.png
 
 ssets/Planet Surface.png Baret's second supervised session at Capsule One's
@@ -341,8 +340,7 @@ ssets/Planet Surface.png
 ssets/Planet Surface.png Baret compromises his own principles. The consequences
 multiply. ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\# Chapter 8 --- The Break-In ssets/Planet
-Surface.png
+ssets/Planet Surface.png \## Chapter 8 --- The Break-In ssets/Planet Surface.png
 
 ssets/Planet Surface.png Baret breaks into the restricted sections of Capsule
 One's archive. ssets/Planet Surface.png Alone or with minimal help from his AI
@@ -373,7 +371,7 @@ unilaterally who gets to know what. ssets/Planet Surface.png \> The reader
 should feel the hypocrisy and understand why he does it ssets/Planet Surface.png
 \> anyway. ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\# Chapter 9 --- The Production Logs ssets/Planet
+ssets/Planet Surface.png \## Chapter 9 --- The Production Logs ssets/Planet
 Surface.png
 
 ssets/Planet Surface.png **The heaviest chapter in the book. **Baret returns to
@@ -423,7 +421,7 @@ for Tobas) and seed vault (bomb for ssets/Planet Surface.png \> Murek). Baret
 walks out holding devastating weapons and the capacity ssets/Planet Surface.png
 \> to use neither. ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\# Chapter 10 --- The Silence After ssets/Planet
+ssets/Planet Surface.png \## Chapter 10 --- The Silence After ssets/Planet
 Surface.png
 
 ssets/Planet Surface.png Baret carries the secret. Functions. Governs.
@@ -459,8 +457,8 @@ Baret learns to hold ssets/Planet Surface.png \> two things simultaneously: the
 doctrine is wrong and the community it ssets/Planet Surface.png \> built is
 real. The seed vault thread activates. ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\# Chapter 11 --- The Practical Discovery
-ssets/Planet Surface.png
+ssets/Planet Surface.png \## Chapter 11 --- The Practical Discovery ssets/Planet
+Surface.png
 
 ssets/Planet Surface.png Baret leverages non-restricted Capsule One data to
 solve a concrete ssets/Planet Surface.png community problem --- agricultural
@@ -486,7 +484,7 @@ oligarch ssets/Planet Surface.png \> confrontation. The practical discovery is
 the legitimate face of what ssets/Planet Surface.png \> the break-in actually
 yielded. ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\# Chapter 12 --- The Leak ssets/Planet Surface.png
+ssets/Planet Surface.png \## Chapter 12 --- The Leak ssets/Planet Surface.png
 
 ssets/Planet Surface.png The seed vault information leaks. Baret brought in too
 many people. ssets/Planet Surface.png Someone talks. Murek's network picks it up
@@ -512,7 +510,7 @@ ssets/Planet Surface.png \> Function: The consequences of the break-in begin
 multiplying. Baret's ssets/Planet Surface.png \> secrecy is costing him
 practically, not just morally. ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\# Chapter 13 --- Escalation ssets/Planet Surface.png
+ssets/Planet Surface.png \## Chapter 13 --- Escalation ssets/Planet Surface.png
 
 ssets/Planet Surface.png Murek escalates from economic pressure to direct
 intimidation. Agents. ssets/Planet Surface.png Threats. People close to Baret
@@ -557,7 +555,7 @@ ssets/Planet Surface.png \> Function: Book 3's action engine at full speed.
 Baret squeezed from ssets/Planet Surface.png \> every side because of choices he
 made. ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\# Chapter 14 --- Leorik's Crime ssets/Planet
+ssets/Planet Surface.png \## Chapter 14 --- Leorik's Crime ssets/Planet
 Surface.png
 
 ssets/Planet Surface.png Leorik kills someone under the republic's legal
@@ -596,7 +594,7 @@ principles. The ssets/Planet Surface.png \> parallel to Haldrin/Kesal is the
 thematic point. Plants Leorik's ssets/Planet Surface.png \> return in Book 5.
 ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\# Chapter 15 --- The Third Pillar Falls ssets/Planet
+ssets/Planet Surface.png \## Chapter 15 --- The Third Pillar Falls ssets/Planet
 Surface.png
 
 ssets/Planet Surface.png Faith crisis Stage 3. Pillar 2 --- "relics are sacred
@@ -636,7 +634,7 @@ Surface.png
 ssets/Planet Surface.png Everything comes to a head. No clean victories.
 ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\# Chapter 16 --- The Oligarch Confrontation
+ssets/Planet Surface.png \## Chapter 16 --- The Oligarch Confrontation
 ssets/Planet Surface.png
 
 ssets/Planet Surface.png Baret confronts Murek directly. The argument: open
@@ -667,7 +665,7 @@ of material ssets/Planet Surface.png \> power. A different kind of defeat than
 the war --- and one his ssets/Planet Surface.png \> revolutionary instincts
 can't solve. ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\# Chapter 17 --- Arabela Leaves ssets/Planet
+ssets/Planet Surface.png \## Chapter 17 --- Arabela Leaves ssets/Planet
 Surface.png
 
 ssets/Planet Surface.png The political divergence with the oligarch is the
@@ -695,7 +693,7 @@ integration into ssets/Planet Surface.png \> the republic continues --- the
 reader sees a social climber, nothing ssets/Planet Surface.png \> more.
 ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\# Chapter 18 --- The Private Confrontation
+ssets/Planet Surface.png \## Chapter 18 --- The Private Confrontation
 ssets/Planet Surface.png
 
 ssets/Planet Surface.png The hinge between Book 3 and Book 4. Baret approaches
@@ -730,7 +728,7 @@ decision to protect his community, and ssets/Planet Surface.png \> that decision
 closed the conversation. The Book 4 public confrontation ssets/Planet
 Surface.png \> is now inevitable. ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\# Chapter 19 --- Elowen ssets/Planet Surface.png
+ssets/Planet Surface.png \## Chapter 19 --- Elowen ssets/Planet Surface.png
 
 ssets/Planet Surface.png Baret notices Elowen. Not as a romantic prospect --- as
 a person. She's ssets/Planet Surface.png been present in Tobas's community
@@ -753,7 +751,7 @@ Books 4--5. ssets/Planet Surface.png \> Contrast with Arabela --- Elowen is
 drawn to what Baret is, not what ssets/Planet Surface.png \> he represents.
 ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\# Chapter 20 --- The Seed Vault ssets/Planet
+ssets/Planet Surface.png \## Chapter 20 --- The Seed Vault ssets/Planet
 Surface.png
 
 ssets/Planet Surface.png Baret organizes an expedition to the seed vault
@@ -778,7 +776,7 @@ tangible change. ssets/Planet Surface.png \> Baret's material position genuinely
 strengthened. But possessing the ssets/Planet Surface.png \> knowledge and
 distributing it are different problems. ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\# Chapter 21 --- The Brother and the Companion
+ssets/Planet Surface.png \## Chapter 21 --- The Brother and the Companion
 ssets/Planet Surface.png
 
 ssets/Planet Surface.png Darek and Baret. The brothers in a quiet moment --- not
@@ -810,8 +808,7 @@ series. Both scenes ssets/Planet Surface.png \> remind the reader what Baret is
 fighting for beyond institutional ssets/Planet Surface.png \> abstractions.
 ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\# Chapter 22 --- The Horizon ssets/Planet
-Surface.png
+ssets/Planet Surface.png \## Chapter 22 --- The Horizon ssets/Planet Surface.png
 
 ssets/Planet Surface.png Book 3's final chapter. Not grief, not triumph.
 Assessment. ssets/Planet Surface.png
@@ -871,7 +868,7 @@ ssets/Planet Surface.png
 
 ssets/Planet Surface.png \# REMAINING STRUCTURAL GAPS ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\# Critical ssets/Planet Surface.png
+ssets/Planet Surface.png \## Critical ssets/Planet Surface.png
 
 ssets/Planet Surface.png **1. **The practical discovery specifics ---
 agricultural, medical, or ssets/Planet Surface.png resource solution? Must be
@@ -897,7 +894,7 @@ outline places them in the same ssets/Planet Surface.png break-in session
 (Chapter 9). Confirm this works for pacing or split ssets/Planet Surface.png
 across sessions. ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\# Important ssets/Planet Surface.png
+ssets/Planet Surface.png \## Important ssets/Planet Surface.png
 
 ssets/Planet Surface.png **6. **Interrupted Promise vocabulary --- the faith
 needs specific ssets/Planet Surface.png language for its three pillars before
@@ -922,7 +919,7 @@ ssets/Planet Surface.png **10. **The assassination attempt mechanics --- who,
 how, how Baret ssets/Planet Surface.png survives. Must feel deniable from
 Murek's perspective. ssets/Planet Surface.png
 
-ssets/Planet Surface.png \#\# Secondary ssets/Planet Surface.png
+ssets/Planet Surface.png \## Secondary ssets/Planet Surface.png
 
 ssets/Planet Surface.png **11. **Arabela's departure scene specifics ---
 conversation or drift? ssets/Planet Surface.png

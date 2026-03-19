@@ -1,5 +1,4 @@
-**LORD HALDRIN --- The Feudal Lord**
-------------------------------------
+## **LORD HALDRIN --- The Feudal Lord**
 
 **Status:** ⚠️ Function clear / ❌ Scene-level character missing
 
@@ -22,10 +21,10 @@ A loving father and a ruthless lord in the same breath.
 
 **Core Arc:**
 
--   **Book 1:** Primary antagonist. His system of brutal triage --- deciding who
-    is expendable --- is what Baret fights against. He's not evil; he's solving
-    a different problem. Surrenders after Baret's rebellion. Murdered by Baret's
-    companion after surrender.
+- **Book 1:** Primary antagonist. His system of brutal triage --- deciding who
+  is expendable --- is what Baret fights against. He's not evil; he's solving a
+  different problem. Surrenders after Baret's rebellion. Murdered by Baret's
+  companion after surrender.
 
 **What He Carries:** His battle standard. It goes with him everywhere --- to
 councils, to inspections, to meals. It's the symbol of what his family has held
@@ -49,12 +48,12 @@ impossibility.
 
 **What's Missing:**
 
--   His relationship to Baret before the rebellion --- does he even know Baret
-    exists?
--   The trial structure he runs --- what are the specific events?
--   His relationship with Kullen --- how does a hard, unwavering man raise his
-    son? (Kullen's inability to be vulnerable is a direct product of this)
--   His relationship to King Haldanur --- how does the lord serve the crown?
--   Whether the reader gets scenes from his perspective
--   The arranged marriage with Arabela's family --- what loyalty is Haldrin
-    securing?
+- His relationship to Baret before the rebellion --- does he even know Baret
+  exists?
+- The trial structure he runs --- what are the specific events?
+- His relationship with Kullen --- how does a hard, unwavering man raise his
+  son? (Kullen's inability to be vulnerable is a direct product of this)
+- His relationship to King Haldanur --- how does the lord serve the crown?
+- Whether the reader gets scenes from his perspective
+- The arranged marriage with Arabela's family --- what loyalty is Haldrin
+  securing?

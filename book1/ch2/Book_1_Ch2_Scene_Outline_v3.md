@@ -636,10 +636,10 @@ family members. More tension, more devastating on reread.
 
 **Maia Has Three Devastating Moments**
 
-\(1) Pulling Baret away from Kesal (Scene 2). (2) Performing warmth at the feast
-while carrying what she knows (Scene 3). (3) Receiving the escort news in front
-of the village (Scene 3). Each requires precision. The target: a rereader should
-feel physically ill at all three.
+\(1\) Pulling Baret away from Kesal (Scene 2). (2) Performing warmth at the
+feast while carrying what she knows (Scene 3). (3) Receiving the escort news in
+front of the village (Scene 3). Each requires precision. The target: a rereader
+should feel physically ill at all three.
 
 **Kesal Must Not Be Monstrous**
 

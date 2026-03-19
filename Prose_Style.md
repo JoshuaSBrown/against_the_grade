@@ -1,15 +1,12 @@
-AGAINST THE GRADE
-=================
+# AGAINST THE GRADE
 
-Prose Style Reference
----------------------
+## Prose Style Reference
 
 *Series-wide / All Books*
 
 --------------------------------------------------------------------------------
 
-1. Core Decisions
------------------
+## 1. Core Decisions
 
 ### Tense
 
@@ -44,8 +41,7 @@ in these scenes is earned by restraint in the scenes that precede them.
 
 --------------------------------------------------------------------------------
 
-2. Baret's Baseline Voice
--------------------------
+## 2. Baret's Baseline Voice
 
 ### Pre-Activation
 
@@ -59,12 +55,12 @@ baseline is already sophisticated, the upgrade lands flat.
 
 **Characteristics of pre-activation prose:**
 
--   Concrete nouns and physical observations --- what he sees, not what it means
--   Short to medium sentences that can lengthen when something registers
--   Pattern recognition shown through what he notices, never through analytical
-    language
--   Instinct without follow-through --- he clocks something, can't name it,
-    moves on
+- Concrete nouns and physical observations --- what he sees, not what it means
+- Short to medium sentences that can lengthen when something registers
+- Pattern recognition shown through what he notices, never through analytical
+  language
+- Instinct without follow-through --- he clocks something, can't name it, moves
+  on
 
 > **EXAMPLE --- Chapter 2, pre-activation:**
 >
@@ -94,12 +90,12 @@ same event read two different ways --- is where the horror of Chapter 13 lives.
 
 **Formatting rules for early AI voice:**
 
--   Italicised throughout
--   Separate paragraphs --- never inline with Baret's prose
--   Clinical register --- subset notation, confidence ratings, timeline
-    cross-references
--   No warmth, no personality --- it is a diagnostic tool, not a companion
--   Never uses the pronoun "we"
+- Italicised throughout
+- Separate paragraphs --- never inline with Baret's prose
+- Clinical register --- subset notation, confidence ratings, timeline
+  cross-references
+- No warmth, no personality --- it is a diagnostic tool, not a companion
+- Never uses the pronoun "we"
 
 > **EXAMPLE --- Chapter 13, post-activation:**
 >
@@ -173,8 +169,7 @@ This is the intermediate stage. By Book 4 the italics are gone entirely.*
 
 --------------------------------------------------------------------------------
 
-3. The V2 Disruption --- Book 5
--------------------------------
+## 3. The V2 Disruption --- Book 5
 
 ### The Installation
 
@@ -191,12 +186,12 @@ fracture as viscerally wrong.
 
 **Distinguishing the two AIs immediately post-installation:**
 
--   V2 uses ALL-CAPS headers and bureaucratic tactical-report register
--   V2 appears as separate paragraphs, as the original did in Book 1
--   The original AI's voice is now Baret's integrated prose --- it has no
-    separate tag
--   The contrast between the two is the contrast between Book 1 Baret and Book 5
-    Baret
+- V2 uses ALL-CAPS headers and bureaucratic tactical-report register
+- V2 appears as separate paragraphs, as the original did in Book 1
+- The original AI's voice is now Baret's integrated prose --- it has no separate
+  tag
+- The contrast between the two is the contrast between Book 1 Baret and Book 5
+  Baret
 
 > **EXAMPLE --- V2 installation:**
 >
@@ -265,8 +260,7 @@ notices and how quickly he arrives at conclusions.
 
 --------------------------------------------------------------------------------
 
-4. The Integration Arc --- Summary
-----------------------------------
+## 4. The Integration Arc --- Summary
 
 The prose style is not fixed --- it is a system that evolves across five books
 in direct proportion to the depth of Baret's symbiont integration. Each phase
@@ -293,31 +287,30 @@ has a distinct signature.
 
 --------------------------------------------------------------------------------
 
-5. Standing Rules
------------------
+## 5. Standing Rules
 
 ### Things the Prose Never Does
 
--   Names Baret's emotions directly --- the reader infers from what he notices
--   Lets the AI use the pronoun "we" at any stage --- it is a cognitive layer,
-    not a companion
--   Switches tense to solve a pacing problem
--   Gives the AI warmth or personality --- it becomes harder to distinguish from
-    Baret, not warmer
--   Signals the seam's disappearance explicitly --- the reader should feel it
-    without being told
+- Names Baret's emotions directly --- the reader infers from what he notices
+- Lets the AI use the pronoun "we" at any stage --- it is a cognitive layer, not
+  a companion
+- Switches tense to solve a pacing problem
+- Gives the AI warmth or personality --- it becomes harder to distinguish from
+  Baret, not warmer
+- Signals the seam's disappearance explicitly --- the reader should feel it
+  without being told
 
 ### Things the Prose Always Does
 
--   Grounds action in physical observation before inference
--   Shows Baret's emotional blindness through what he notices (angles,
-    positions, rhythms) rather than what he feels
--   Uses sentence length as a pacing tool --- short in action, longer in
-    deliberation
--   Plants reread details through texture, not emphasis --- the detail that
-    matters must not look like it matters
--   Reserves close interiority for scenes that have earned it through preceding
-    restraint
+- Grounds action in physical observation before inference
+- Shows Baret's emotional blindness through what he notices (angles, positions,
+  rhythms) rather than what he feels
+- Uses sentence length as a pacing tool --- short in action, longer in
+  deliberation
+- Plants reread details through texture, not emphasis --- the detail that
+  matters must not look like it matters
+- Reserves close interiority for scenes that have earned it through preceding
+  restraint
 
 ### The Invisible Diagnostic
 

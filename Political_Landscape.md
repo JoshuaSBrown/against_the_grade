@@ -1,13 +1,11 @@
-Political Landscape of Alinar
-=============================
+# Political Landscape of Alinar
 
 **Reference Document --- Against the Grade Series** **Timeline: \~1300 years
 post-landing \| Population: \~7 million**
 
 --------------------------------------------------------------------------------
 
-Overview
---------
+## Overview
 
 Human civilization on Alinar grew from a single point of origin --- Capsule 1
 (Paksut) in the mountainous northwest of the central continent. Over 1300 years,
@@ -26,8 +24,7 @@ geographic barrier that outlasted the political arrangements around it.
 
 --------------------------------------------------------------------------------
 
-The Biological Foundation of Political Power
---------------------------------------------
+## The Biological Foundation of Political Power
 
 Political power on Alinar cannot be understood separately from the symbiont
 system. All humans carry a biological second brain --- the symbiont ---
@@ -35,15 +32,15 @@ engineered into their DNA. It was designed to remain inert until an AI assistant
 was uploaded to it. After \~1300 years of genetic drift under roughly 8× Earth
 radiation, the population breaks down approximately as follows:
 
--   **\~15--25% functional:** Symbiont architecture intact enough to accept
-    activation if infrastructure existed. These bloodlines form the basis of the
-    aristocratic class, though most have never been activated and don't know
-    they could be.
--   **\~20--30% partially degraded:** Some architecture preserved, unpredictable
-    activation potential. The source of the "Trials" religious tradition ---
-    people who believe discipline and effort can awaken dormant capability.
--   **\~45--60% non-functional:** Architecture too degraded by accumulated
-    mutations. No activation possible regardless of access to infrastructure.
+- **\~15--25% functional:** Symbiont architecture intact enough to accept
+  activation if infrastructure existed. These bloodlines form the basis of the
+  aristocratic class, though most have never been activated and don't know they
+  could be.
+- **\~20--30% partially degraded:** Some architecture preserved, unpredictable
+  activation potential. The source of the "Trials" religious tradition ---
+  people who believe discipline and effort can awaken dormant capability.
+- **\~45--60% non-functional:** Architecture too degraded by accumulated
+  mutations. No activation possible regardless of access to infrastructure.
 
 This distribution is invisible to the population. Nobody understands the
 biology. What they see is that some bloodlines consistently produce stronger,
@@ -60,8 +57,7 @@ it manifests only as a subtle cognitive difference nobody has named.
 
 --------------------------------------------------------------------------------
 
-The Territories
----------------
+## The Territories
 
 ### Sacred Territory (\~44,000 km², \~400,000 people)
 
@@ -365,8 +361,7 @@ civilizational collision that drives the series' political arc.
 
 --------------------------------------------------------------------------------
 
-The Religious Landscape
------------------------
+## The Religious Landscape
 
 The Interrupted Promise is the dominant faith across all human territories, but
 after 1300 years of questioning, three heterodox traditions have developed
@@ -411,8 +406,7 @@ the original promise. This is not cynicism; it's fear dressed as conviction.
 
 --------------------------------------------------------------------------------
 
-The Fault Lines
----------------
+## The Fault Lines
 
 The political landscape is shaped by five overlapping fault lines that no single
 faction can resolve.
@@ -452,8 +446,7 @@ for Crown resources against a common enemy.
 
 --------------------------------------------------------------------------------
 
-Population Density Context
---------------------------
+## Population Density Context
 
 Medieval England at its peak (\~1300 CE) had 4--6 million people across
 \~130,000 km² --- roughly 30--45 people per km². That density supported a
@@ -478,8 +471,7 @@ to the Crown.
 
 --------------------------------------------------------------------------------
 
-Key Settlements
----------------
+## Key Settlements
 
   Settlement   Territory            Type             Population Est.   Notes
   ------------ -------------------- ---------------- ----------------- -------------------------------------
@@ -495,8 +487,7 @@ Key Settlements
 
 --------------------------------------------------------------------------------
 
-What This Map Means for the Series
-----------------------------------
+## What This Map Means for the Series
 
 The political landscape is designed so that Baret's journey across it mirrors
 the series' thematic progression. He begins in the geographic and cultural

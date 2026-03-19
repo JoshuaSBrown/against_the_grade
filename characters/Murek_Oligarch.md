@@ -1,5 +1,4 @@
-MUREK --- The Oligarch / Books 3--4 Antagonist
-----------------------------------------------
+## MUREK --- The Oligarch / Books 3--4 Antagonist
 
 **Status:** ⚠️ Thematic role established / ⚠️ Personality now sketched
 
@@ -43,12 +42,11 @@ inefficiency --- he has no patience for waste because waste nearly killed him.
 
 **Core Arc:**
 
--   **Books 3--4:** Overlapping antagonist with Tobas. His worldview:
-    productivity determines worth. Challenges Baret's economic assumptions
-    directly. Controls scarce resources. Baret tries persuasion and fails ---
-    Murek genuinely considers Baret's argument but rejects it because changing
-    his practices costs him power. No amount of moral clarity overcomes that
-    calculation.
+- **Books 3--4:** Overlapping antagonist with Tobas. His worldview: productivity
+  determines worth. Challenges Baret's economic assumptions directly. Controls
+  scarce resources. Baret tries persuasion and fails --- Murek genuinely
+  considers Baret's argument but rejects it because changing his practices costs
+  him power. No amount of moral clarity overcomes that calculation.
 
 **Thematic Role:** The antagonist who says "your values don't produce results."
 His meritocratic capitalism directly threatens Tobas's community (values people
@@ -56,10 +54,10 @@ by capability, not inherent worth). He uses anonymous information warfare.
 
 **What's Missing:**
 
--   What scarce resources he controls and how the economic system works
--   His relationship to Tobas (adversarial, uneasy alliance?)
--   His fate
--   His specific mechanical background --- what did he build that made him
-    wealthy?
--   Whether he has any personal connection to Baret, Kullen, or the other
-    principals
+- What scarce resources he controls and how the economic system works
+- His relationship to Tobas (adversarial, uneasy alliance?)
+- His fate
+- His specific mechanical background --- what did he build that made him
+  wealthy?
+- Whether he has any personal connection to Baret, Kullen, or the other
+  principals

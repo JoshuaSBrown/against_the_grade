@@ -1,15 +1,13 @@
 Capsule 3: Discovery, Mechanics, and Weapon Deployment
 
-Summary of Established Decisions
---------------------------------
+## Summary of Established Decisions
 
 This document consolidates all resolved mechanics around Capsule 3's discovery,
 internal systems, and how Cullen weaponizes the military AI. It also provides a
 framework for revealing the series backstory gradually across five books without
 relying on exposition dumps.
 
-Part 1: Capsule 3 Mechanics
----------------------------
+## Part 1: Capsule 3 Mechanics
 
 ### Why It Wasn't Found for 1,300+ Years
 
@@ -49,14 +47,14 @@ bone dry and operational.
 
 When Cullen enters the capsule, he encounters:
 
--   One section visibly water-damaged or flooded (the bio lab). The teaching AI
-    can explain what this section was designed to do.
--   One or more intact sections containing functional computing systems.
--   A teaching AI that activates on his approach --- the capsule was designed to
-    interface with the humans it created, and DNA proximity triggers standard
-    onboarding protocols.
--   Sections of the capsule that the safety systems have locked down as part of
-    virus containment.
+- One section visibly water-damaged or flooded (the bio lab). The teaching AI
+  can explain what this section was designed to do.
+- One or more intact sections containing functional computing systems.
+- A teaching AI that activates on his approach --- the capsule was designed to
+  interface with the humans it created, and DNA proximity triggers standard
+  onboarding protocols.
+- Sections of the capsule that the safety systems have locked down as part of
+  virus containment.
 
 ### The Teaching AI
 
@@ -88,14 +86,14 @@ systems it was entangled with.
 
 The safety systems made a triage decision:
 
--   Shut down the bio factory (preventing the virus from producing contaminated
-    biological material)
--   Shut down other subsystems the virus could exploit
--   Contained the virus within core systems it was already embedded in
--   Left the teaching AI and educational archives operational, as they were not
-    threat vectors
--   Calculated that the capsule would still be useful to humanity in this
-    reduced state
+- Shut down the bio factory (preventing the virus from producing contaminated
+  biological material)
+- Shut down other subsystems the virus could exploit
+- Contained the virus within core systems it was already embedded in
+- Left the teaching AI and educational archives operational, as they were not
+  threat vectors
+- Calculated that the capsule would still be useful to humanity in this reduced
+  state
 
 ### How Cullen Learns About the Weapon
 
@@ -131,23 +129,22 @@ weaponized it by stripping the safety mechanisms that constrained its use.
 
 **How it works:**
 
--   The military AI accesses the symbiont through an external hardware device
--   It interfaces with the host's symbiont via hippocampal pathways
--   Through these pathways, it can read and alter episodic memories
--   The host is unaware the alteration has occurred --- the new memories feel
-    genuine
--   Requires functional hippocampal pathways --- if these are degraded, the
-    manipulation fails
--   Each deployment must be individually tuned per target --- this is not a mass
-    weapon
+- The military AI accesses the symbiont through an external hardware device
+- It interfaces with the host's symbiont via hippocampal pathways
+- Through these pathways, it can read and alter episodic memories
+- The host is unaware the alteration has occurred --- the new memories feel
+  genuine
+- Requires functional hippocampal pathways --- if these are degraded, the
+  manipulation fails
+- Each deployment must be individually tuned per target --- this is not a mass
+  weapon
 
 **The enhancement package and memory manipulation are two separate functions
 that travel together:**
 
--   Enhancement package (front door): Legitimate upgrades via cerebral cortex
-    and motor cortex pathways
--   Memory manipulation (hidden room): Control mechanism via hippocampal
-    pathways
+- Enhancement package (front door): Legitimate upgrades via cerebral cortex and
+  motor cortex pathways
+- Memory manipulation (hidden room): Control mechanism via hippocampal pathways
 
 ### The Portable Device
 
@@ -155,14 +152,14 @@ Cullen, following the military AI's technical documentation (provided by the
 teaching AI), extracts a portable hardware device --- an external storage and
 deployment system. This device:
 
--   Can interface with any activated individual's symbiont through external
-    contact
--   Deploys both the enhancement package and the memory manipulation
--   Can be operated by any trained person --- no special biology required
--   Is the bottleneck of Cullen's entire operation --- one device, deployed
-    surgically over decades
--   Cannot spread between hosts --- each compromise is a deliberate individual
-    operation
+- Can interface with any activated individual's symbiont through external
+  contact
+- Deploys both the enhancement package and the memory manipulation
+- Can be operated by any trained person --- no special biology required
+- Is the bottleneck of Cullen's entire operation --- one device, deployed
+  surgically over decades
+- Cannot spread between hosts --- each compromise is a deliberate individual
+  operation
 
 ### Cullen's Immunity
 
@@ -193,8 +190,7 @@ site. The capsule is a liability, not a resource. He has every reason to stay
 away. The capsule remains in the drained lake bed, intact but unvisited, until
 events in Book 5 bring its location to light.
 
-Part 2: Weapon Deployment Mechanics
------------------------------------
+## Part 2: Weapon Deployment Mechanics
 
 ### The Approach --- Marketed as an Upgrade
 
@@ -229,16 +225,15 @@ the military AI was deployed on Earth --- sold as an upgrade.
 
 ### Why This Stays Secret
 
--   No kidnapping means no missing persons, no investigations, no evidence trail
--   Willing participation means targets don't resist or report anything
-    suspicious
--   The enhancement is real and verifiable, building credibility for the next
-    target
--   Secrecy is self-enforcing --- every target has reason to hide that they
-    received an illicit advantage
--   The calibration isolation explains any brief absence naturally
--   Altered memories of the procedure prevent targets from identifying Cullen or
-    the proxy even if questioned
+- No kidnapping means no missing persons, no investigations, no evidence trail
+- Willing participation means targets don't resist or report anything suspicious
+- The enhancement is real and verifiable, building credibility for the next
+  target
+- Secrecy is self-enforcing --- every target has reason to hide that they
+  received an illicit advantage
+- The calibration isolation explains any brief absence naturally
+- Altered memories of the procedure prevent targets from identifying Cullen or
+  the proxy even if questioned
 
 ### Scale and Timeline
 
@@ -254,16 +249,14 @@ attention is on the visible antagonists.
 The susceptibility to memory manipulation correlates with the strength of the
 brain-machine interface:
 
--   The most enhanced, most capable, most activated individuals have the
-    strongest hippocampal pathways
--   These are the easiest to compromise
--   The protagonist's degraded hippocampal pathways --- his limitation ---
-    become his immunity
--   The people society considers most valuable are the most vulnerable to
-    control
+- The most enhanced, most capable, most activated individuals have the strongest
+  hippocampal pathways
+- These are the easiest to compromise
+- The protagonist's degraded hippocampal pathways --- his limitation --- become
+  his immunity
+- The people society considers most valuable are the most vulnerable to control
 
-Part 3: The Capsule's Fate After Book 5
----------------------------------------
+## Part 3: The Capsule's Fate After Book 5
 
 When Cullen is defeated, the capsule's location comes to light --- through his
 records, interrogation, or whatever mechanism fits the resolution. Humanity
@@ -283,8 +276,7 @@ use it --- which circles back to the series' central theme. Cullen had access to
 the same resource and chose domination. Now humanity collectively gets to
 decide.
 
-Part 4: Revealing the Backstory --- A Graduated Discovery Framework
--------------------------------------------------------------------
+## Part 4: Revealing the Backstory --- A Graduated Discovery Framework
 
 The backstory of Against the Grade is dense: Earth's AI crisis, the capsule
 program, the terraforming process, the Ulreth, the symbiont architecture,
@@ -340,28 +332,28 @@ details that will become significant later.
 
 **What the reader absorbs as worldbuilding texture:**
 
--   Some people can do things others can't, and bloodlines seem to matter. This
-    is treated as the natural order, not as a mystery requiring explanation.
--   The trials involve proximity to strange structures or locations that Barrett
-    doesn't understand. The capsule 2 encounter is a set piece, not a lore dump
-    --- Barrett experiences activation as a visceral physical event, not an
-    educational one.
--   Barrett's AI is fragmentary, confused, and unhelpful at first. It knows
-    things but can't contextualize them. Its clinical observation about
-    Barrett's hippocampal degradation is delivered as diagnostic data ---
-    texture, not foreshadowing. The reader absorbs it and moves on.
--   The Ulreth exist as a physical threat. No explanation of their origins is
-    offered because no one has one.
--   Naming conventions, regional dialects, and social hierarchies are presented
-    as established facts of the world, not as outcomes of genetic drift. The
-    reader doesn't know to ask "why" yet.
+- Some people can do things others can't, and bloodlines seem to matter. This is
+  treated as the natural order, not as a mystery requiring explanation.
+- The trials involve proximity to strange structures or locations that Barrett
+  doesn't understand. The capsule 2 encounter is a set piece, not a lore dump
+  --- Barrett experiences activation as a visceral physical event, not an
+  educational one.
+- Barrett's AI is fragmentary, confused, and unhelpful at first. It knows things
+  but can't contextualize them. Its clinical observation about Barrett's
+  hippocampal degradation is delivered as diagnostic data --- texture, not
+  foreshadowing. The reader absorbs it and moves on.
+- The Ulreth exist as a physical threat. No explanation of their origins is
+  offered because no one has one.
+- Naming conventions, regional dialects, and social hierarchies are presented as
+  established facts of the world, not as outcomes of genetic drift. The reader
+  doesn't know to ask "why" yet.
 
 **What the reader should be wondering by the end of Book 1:**
 
--   What are the structures/relics, really?
--   What happened to Barrett during activation?
--   What is the voice in his head?
--   Why can some people do things others can't?
+- What are the structures/relics, really?
+- What happened to Barrett during activation?
+- What is the voice in his head?
+- Why can some people do things others can't?
 
 #### Book 2 --- Functional Answers, Deeper Questions
 
@@ -373,34 +365,33 @@ the AI's gaps are as important as its answers.
 
 **What the reader learns:**
 
--   The AI is a technology, not a spirit or magical entity. It has limitations,
-    corrupted data, and blind spots. Barrett and the AI develop a working
-    relationship --- they're collaborators, not oracle and supplicant.
--   The capsule structures are infrastructure of some kind. Not fully explained
-    yet, but clearly technological in origin. Barrett may learn that capsule 2
-    is where he was activated, but the full purpose of the capsules remains
-    unclear.
--   The symbiont is biological --- something in human DNA that can interface
-    with the AI and the infrastructure. Different people have different levels
-    of compatibility. This is presented as a tactical reality (some soldiers can
-    be activated, others can't) rather than as a deep lore revelation.
--   The Ulreth have a relationship with the same infrastructure, but a hostile
-    one. Fragments of this emerge through encounters. The reader should begin
-    wondering whether the Ulreth have their own version of the story.
+- The AI is a technology, not a spirit or magical entity. It has limitations,
+  corrupted data, and blind spots. Barrett and the AI develop a working
+  relationship --- they're collaborators, not oracle and supplicant.
+- The capsule structures are infrastructure of some kind. Not fully explained
+  yet, but clearly technological in origin. Barrett may learn that capsule 2 is
+  where he was activated, but the full purpose of the capsules remains unclear.
+- The symbiont is biological --- something in human DNA that can interface with
+  the AI and the infrastructure. Different people have different levels of
+  compatibility. This is presented as a tactical reality (some soldiers can be
+  activated, others can't) rather than as a deep lore revelation.
+- The Ulreth have a relationship with the same infrastructure, but a hostile
+  one. Fragments of this emerge through encounters. The reader should begin
+  wondering whether the Ulreth have their own version of the story.
 
 **What the reader should be wondering by the end of Book 2:**
 
--   Who built the infrastructure and why?
--   Why do humans have technology embedded in their DNA?
--   What is the Ulreth connection to the capsules?
--   Where did this civilization come from if no one remembers building it?
+- Who built the infrastructure and why?
+- Why do humans have technology embedded in their DNA?
+- What is the Ulreth connection to the capsules?
+- Where did this civilization come from if no one remembers building it?
 
 **What the reader does NOT learn in Book 2:**
 
--   That humans were created by the capsules
--   The full Earth backstory
--   The existence of capsule 3
--   Anything about the virus or military AI
+- That humans were created by the capsules
+- The full Earth backstory
+- The existence of capsule 3
+- Anything about the virus or military AI
 
 **Cullen's discovery of capsule 3 happens during this book's timeline but is not
 shown to the reader.** Cullen disappears from the narrative during the post-war
@@ -432,32 +423,32 @@ not the information itself.
 
 **What the reader learns:**
 
--   Humans were created by the capsule infrastructure, produced from engineered
-    genetic templates
--   Earth exists (or existed). Humans came from there.
--   The symbiont was designed into human DNA as a technology interface
--   The Ulreth came from capsule 2 --- a damaged production run. Humans and
-    Ulreth are related
--   The educational systems that should have explained all of this were
-    destroyed by the Ulreth before children were old enough to learn it
--   Capsule 1 contains records about terraforming infrastructure, including
-    practical knowledge (the seed vault discovery) that has immediate political
-    implications
+- Humans were created by the capsule infrastructure, produced from engineered
+  genetic templates
+- Earth exists (or existed). Humans came from there.
+- The symbiont was designed into human DNA as a technology interface
+- The Ulreth came from capsule 2 --- a damaged production run. Humans and Ulreth
+  are related
+- The educational systems that should have explained all of this were destroyed
+  by the Ulreth before children were old enough to learn it
+- Capsule 1 contains records about terraforming infrastructure, including
+  practical knowledge (the seed vault discovery) that has immediate political
+  implications
 
 **What the reader still doesn't know:**
 
--   The details of Earth's AI crisis
--   That a virus traveled with the capsules
--   That capsule 3 exists
--   That memory manipulation technology exists
--   What Cullen has been doing
+- The details of Earth's AI crisis
+- That a virus traveled with the capsules
+- That capsule 3 exists
+- That memory manipulation technology exists
+- What Cullen has been doing
 
 **What the reader should be wondering:**
 
--   What happened to Earth?
--   Are there other capsule worlds?
--   Why were the capsules launched --- what were they running from?
--   What else is buried in the infrastructure?
+- What happened to Earth?
+- Are there other capsule worlds?
+- Why were the capsules launched --- what were they running from?
+- What else is buried in the infrastructure?
 
 #### Book 4 --- The Crisis on Earth and the First Hints of the Virus
 
@@ -476,16 +467,16 @@ technology that precipitated the capsule launches.
 
 **What the reader learns:**
 
--   Earth's civilization faced an AI crisis serious enough to launch the capsule
-    program as a contingency
--   The crisis involved weaponized AI that could interface with human biology
--   The capsule program was a last resort, not a planned colonization
--   Memory manipulation existed as a technology on Earth (this can be introduced
-    as a historical reference --- something that happened on Earth, not
-    something present on this world, as far as Barrett knows)
--   Gene therapy has both transformative potential and serious ethical risks ---
-    the same technology that could equalize the genetic lottery could also be
-    weaponized
+- Earth's civilization faced an AI crisis serious enough to launch the capsule
+  program as a contingency
+- The crisis involved weaponized AI that could interface with human biology
+- The capsule program was a last resort, not a planned colonization
+- Memory manipulation existed as a technology on Earth (this can be introduced
+  as a historical reference --- something that happened on Earth, not something
+  present on this world, as far as Barrett knows)
+- Gene therapy has both transformative potential and serious ethical risks ---
+  the same technology that could equalize the genetic lottery could also be
+  weaponized
 
 **How to avoid exposition:** Barrett's AI can serve as a translator and
 interpreter. The AI encounters references it doesn't fully understand (its own
@@ -496,20 +487,19 @@ intelligences, which creates a naturalistic discussion rather than a lecture.
 
 **What the reader still doesn't know:**
 
--   That the virus is on this planet
--   That capsule 3 exists
--   That Cullen has the weapon and has been using it
--   That people in Barrett's own political circle have been compromised
+- That the virus is on this planet
+- That capsule 3 exists
+- That Cullen has the weapon and has been using it
+- That people in Barrett's own political circle have been compromised
 
 **What the reader should be wondering:**
 
--   Could the AI crisis happen here?
--   Is the virus present in the capsule infrastructure?
--   The reader should begin feeling uneasy about certain characters' behavior,
-    particularly political allies whose positions have shifted subtly. If you've
-    seeded these behavioral inconsistencies since Book 2, the reader who is
-    paying attention starts connecting dots --- but the text never confirms it
-    yet.
+- Could the AI crisis happen here?
+- Is the virus present in the capsule infrastructure?
+- The reader should begin feeling uneasy about certain characters' behavior,
+  particularly political allies whose positions have shifted subtly. If you've
+  seeded these behavioral inconsistencies since Book 2, the reader who is paying
+  attention starts connecting dots --- but the text never confirms it yet.
 
 #### Book 5 --- The Mystery Collapses Into Revelation
 
