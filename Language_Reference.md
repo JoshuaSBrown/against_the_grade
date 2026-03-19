@@ -839,54 +839,54 @@ makes his eventual intervention for Elowen in Chapter 6 land harder.
 
 ### Named Characters without Full Names Yet
 
-  ---------------------------------------------------------------------------------
-  Role         Name           Change from Original      System Notes
-  ------------ -------------- ------------------------- ---------------------------
-  Cousin       **Helowen**    Added initial H           /h/ onset (identity).
-                                                        He-lo-wen, CV-CV-CVC.
-                                                        Casual form: **Elowen**
+  --------------------------------------------------------------------------------
+  Role         Name           Change from Original     System Notes
+  ------------ -------------- ------------------------ ---------------------------
+  Cousin       **Helowen**    Added initial H          /h/ onset (identity).
+                                                       He-lo-wen, CV-CV-CVC.
+                                                       Casual form: **Elowen**
 
-  Betrothed    **Harabela**   Added initial H, dropped  /h/ onset
-                              double-l                  (identity/social).
-                                                        Ha-ra-be-la, CV-CV-CV-CV.
-                                                        Casual form: **Arabela**
+  Betrothed    **Harabela**   Added initial H, dropped /h/ onset
+                              double-l                 (identity/social).
+                                                       Ha-ra-be-la, CV-CV-CV-CV.
+                                                       Casual form: **Arabela**
 
-  Mother       **Maia**       No change                 /m/ onset (relations).
-                                                        Ma-ia, with vowel hiatus
-                                                        from lost /h/. Very old
-                                                        name
+  Mother       **Maia**       No change                /m/ onset (relations).
+                                                       Ma-ia, with vowel hiatus
+                                                       from lost /h/. Very old
+                                                       name
 
-  Companion    **Barlas**     No change                 /b/ onset (substance).
-                                                        Bar-las, CVC-CVC
+  Companion    **Barlas**     No change                /b/ onset (substance).
+                                                       Bar-las, CVC-CVC
 
-  Religious    **Tobas**      Dropped /i/               /t/ onset (terrain ---
-  leader                                                drifted
-                                                        descriptive-turned-name).
-                                                        To-bas, CV-CVC
+  Religious    **Tobas**      Dropped /i/              /t/ onset (terrain ---
+  leader                                               drifted
+                                                       descriptive-turned-name).
+                                                       To-bas, CV-CVC
 
-  Queen        **Lilemor**    Dropped double-l          /l/ onset (bonds).
-                                                        Li-le-mor, CV-CV-CVC
+  Queen        **Lilemor**    Dropped double-l         /l/ onset (bonds).
+                                                       Li-le-mor, CV-CV-CVC
 
-  Retainer     **Kesal**                                
+  Retainer     **Kesal**                               
 
-  Unassigned   **Ris** or     Stripped to core phonemes /r/ onset (movement). CVC
-               **Risen**                                or CV-CVC
+  Unassigned   **Ris** or     Stripped to core         /r/ onset (movement). CVC
+               **Risen**      phonemes                 or CV-CVC
 
-  Sheriff      **Hangus**     Added initial H           /h/ onset (abstract).
-                                                        Han-gus, CVC-CVC
+  Sheriff      **Hangus**     Added initial H          /h/ onset (abstract).
+                                                       Han-gus, CVC-CVC
 
-  Unassigned   **Leorik       Removed /f/               /l/ onset (bonds).
-               Nor'Gisnak**                             Le-o-rik, CV-V-CVC
+  Unassigned   **Leorik       Removed /f/              /l/ onset (bonds).
+               Nor'Gisnak**                            Le-o-rik, CV-V-CVC
 
-  Father       **Danik**      New                       /d/ onset (time). Da-nik,
-  (Baret's)                                             CV-CVC. A common name ---
-                                                        short, functional, nobody
-                                                        important
+  Father       **Danik**      New                      /d/ onset (time). Da-nik,
+  (Baret's)                                            CV-CVC. A common name ---
+                                                       short, functional, nobody
+                                                       important
 
-  Patronymic   **Nor'**       Replaces Tor              /n/ onset (living
-                                                        things/biology). CVC +
-                                                        apostrophe
-  ---------------------------------------------------------------------------------
+  Patronymic   **Nor'**       Replaces Tor             /n/ onset (living
+                                                       things/biology). CVC +
+                                                       apostrophe
+  --------------------------------------------------------------------------------
 
 ### Feminine Naming Convention: /h/-Drop
 
@@ -1125,9 +1125,9 @@ biological kingdom it belongs to.
 
 ### Ulreth-Adjacent Creatures --- /g/ (Conflict, Boundaries)
 
-  ----------------------------------------------------------------------------------
+  ---------------------------------------------------------------------------------
   Name         Root                Meaning     What It Is            Eroded Form
-  ------------ ------------------- ----------- --------------------- ---------------
+  ------------ ------------------- ----------- --------------------- --------------
   **Ginulr**   ginak (struggle) +  "The small  Small                 Ginulr
                Ulr (clipped        Ulreth      failed-terraforming   
                Ulreth)             struggle"   creature. Looks       
@@ -1146,7 +1146,7 @@ biological kingdom it belongs to.
                                                be worse. Territorial 
                                                apex predator even    
                                                the Ulreth avoid      
-  ----------------------------------------------------------------------------------
+  ---------------------------------------------------------------------------------
 
 ### Noble Animal Names (Used in Patronymics)
 
@@ -1572,31 +1572,34 @@ to technical roots as a modifier, creating compound diagnostic terms.
 
 ### Technical Compounds
 
-  ----------------------------------------------------------------------------------
-  Term          Components              Meaning           What It Actually Describes
-  ------------- ----------------------- ----------------- --------------------------
+  ---------------------------------------------------------------------------------
+  Term          Components              Meaning           What It Actually
+                                                          Describes
+  ------------- ----------------------- ----------------- -------------------------
   **Hulreth**   hul (kin) + reth        "Corrupted kin"   The Ulreth --- biological
-                (corrupted)                               terraformers that deviated
-                                                          from design. Eroded to
-                                                          **Ulreth** through
-                                                          /h/-drop
+                (corrupted)                               terraformers that
+                                                          deviated from design.
+                                                          Eroded to **Ulreth**
+                                                          through /h/-drop
 
   **Nareth**    na                      "Degraded         A diagnostic code for
-                (biological/living) +   biological        degraded symbiont pathways
-                reth (degraded)         system"           --- the reason 40--50% of
-                                                          people have non-functional
-                                                          glyphs. The engineers had
-                                                          a clinical term for what
+                (biological/living) +   biological        degraded symbiont
+                reth (degraded)         system"           pathways --- the reason
+                                                          40--50% of people have
+                                                          non-functional glyphs.
+                                                          The engineers had a
+                                                          clinical term for what
                                                           the faithful call "God's
                                                           silence"
 
   **Pareth**    pa (structural) + reth  "Corrupted        Failed or decayed capsule
-                (corrupted)             infrastructure"   components. The Bakdun ---
-                                                          the deep stones scattered
-                                                          across the landscape ---
-                                                          are **pareth** in the
+                (corrupted)             infrastructure"   components. The Bakdun
+                                                          --- the deep stones
+                                                          scattered across the
+                                                          landscape --- are
+                                                          **pareth** in the
                                                           engineering logs
-  ----------------------------------------------------------------------------------
+  ---------------------------------------------------------------------------------
 
 None of these terms are in common use except Ulreth --- and only because the
 robots screamed it often enough that terrified children couldn't forget it.

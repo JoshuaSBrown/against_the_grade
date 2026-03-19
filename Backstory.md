@@ -21,19 +21,30 @@ real. Civilisation imploded.
 
 ## The Capsules
 
-In the final stages of collapse, a group launched three capsules toward a
-distant planet identified through probe data as capable of supporting life. The
-capsules carried no living passengers. They were autonomous terraforming and
-bioengineering systems designed to rebuild human civilisation from raw materials
---- DNA templates, ecological blueprints, and the machinery to execute them.
+Earth had been preparing the planet for generations. Probes identified it as
+nearly habitable --- a world that needed a push, not creation from scratch.
+Terraforming systems were launched as a long-term project, landing on the
+surface to process atmosphere, seed microbial life, and deploy pioneer
+vegetation across a span of centuries.
 
-The decision to withhold Earth's history was deliberate. The architects of the
-launch had watched their civilisation destroy itself through the weaponisation
-of knowledge and technology. They designed the capsules to give humanity the
-biological tools to survive --- embedded language, cooperation instincts, basic
-survival capability written directly into DNA --- but stripped out all
-historical and technological context. No mythology of Earth. No record of what
-came before. A forced reset.
+The human capsules were the crisis response. In the final stages of the AI
+collapse, a group launched three autonomous bioengineering systems toward the
+same planet --- carrying no living passengers, only DNA templates, ecological
+blueprints, robotic caretaker systems, and the machinery to produce and raise a
+new human civilisation. The capsules waited dormant in orbit while the surface
+below them slowly became habitable, then descended once conditions crossed the
+threshold for safe landing. On the ground, they activated their biological
+production sequences --- fabricating wildlife in ecological succession, and
+eventually producing human children to emerge into an established world.
+
+The capsules carried a full educational program: a phased curriculum from basic
+childcare through complete historical and scientific knowledge transfer,
+including Earth's history and the circumstances of the launch. This was
+scheduled for delivery during adolescence, after the children had the cognitive
+maturity to process it. None of it was withheld by design. It was lost --- first
+to the Ulreth attack that destroyed Capsule One's educational systems before
+Phase Four was delivered, and then to thirteen centuries of mythologisation by
+descendants who never knew what they were missing.
 
 ### Capsule One [[Capsule1]]
 
@@ -124,7 +135,7 @@ works to anyone who asks the right questions.
 
 --------------------------------------------------------------------------------
 
-## The Ulreth
+## The Ulreth [[Ulreth]]
 
 The Ulreth are humanoid in appearance but divergent in every other respect ---
 stronger, faster to mature, and driven primarily by instinct rather than

@@ -251,7 +251,7 @@ generation time), developmental threshold effects, regulatory region
 vulnerability, and haploinsufficiency. This represents the large lowland
 population.
 
-  ---------------- -------------- ----------------------------------------------
+  ---------------- -------------- ---------------------------------------------
   **Tier**         **Population   **Description**
                    %**            
 
@@ -259,13 +259,13 @@ population.
                                   intact, clear hand mark, upload-ready
 
   Partially        \~15--25% C    onduit formed but one or more interface
-  Degraded                        subsystems degraded; mark present but function
-                                  limited or unreliable
+  Degraded                        subsystems degraded; mark present but
+                                  function limited or unreliable
 
   Non-Functional   \~40--50% C    onduit absent or broken; no mark or vestigial
                                   mark; symbiont brain may still be viable but
                                   no pathway to activate it
-  ---------------- -------------- ----------------------------------------------
+  ---------------- -------------- ---------------------------------------------
 
 Among those with formed conduits, subsystem integrity varies:
 
