@@ -816,35 +816,39 @@ KULLEN'S HIDDEN TIMELINE (Authorial Reference Only)
 
 This timeline spans Books 3--4. The reader sees none of it until Book 5.
 
-  --------------- ---------------------------------------------- -----------------------
-  **Approximate   **Kullen's Action**                            **What the Reader
-  Timing**                                                       Sees**
+  --------------- ----------------------------------------- ---------------------
+  **Approximate   **Kullen's Action**                       **What the Reader
+  Timing**                                                  Sees**
 
-  Book 3, early   Returns to republic as 'reformed figure.'      A dispossessed
-                  Proxy already operational. 4--6 officials      aristocrat seeking
-                  compromised from Books 2--3 positioning        reintegration.
-                                                                 Sympathetic
+  Book 3, early   Returns to republic as 'reformed figure.' A dispossessed
+                  Proxy already operational. 4--6 officials aristocrat seeking
+                  compromised from Books 2--3 positioning   reintegration.
+                                                            Sympathetic
 
-  Book 3, mid     Observes Baret's growing knowledge from        Kullen networking
-                  Capsule One. Registers as potential threat     normally
+  Book 3, mid     Observes Baret's growing knowledge from   Kullen networking
+                  Capsule One. Registers as potential       normally
+                  threat                                    
 
-  Book 3, late    Arabela gravitates to him. Social positioning  Romantic rival. Normal
-                  accelerates                                    political maneuvering
+  Book 3, late    Arabela gravitates to him. Social         Romantic rival.
+                  positioning accelerates                   Normal political
+                                                            maneuvering
 
-  Book 4, early   Blackmail network activated. Minor officials   A political scandal
-                  pressured through intermediaries               (Chapter 11). Bad luck
-                                                                 for Baret
+  Book 4, early   Blackmail network activated. Minor        A political scandal
+                  officials pressured through               (Chapter 11). Bad
+                  intermediaries                            luck for Baret
 
-  Book 4, mid     Proxy compromises Darek. Accelerated timeline  Darek finding his own
-                  after the debate exposes Baret's knowledge     voice
+  Book 4, mid     Proxy compromises Darek. Accelerated      Darek finding his own
+                  timeline after the debate exposes Baret's voice
+                  knowledge                                 
 
-  Book 4, mid     Assassination of investigator (Chapter 14)     Tragic death in a
-                                                                 dangerous world
+  Book 4, mid     Assassination of investigator (Chapter    Tragic death in a
+                  14)                                       dangerous world
 
-  Book 4, late    Populist movement channeled toward             Organic democratic
-                  no-confidence vote. Compromised officials      process
-                  steer timing                                   
+  Book 4, late    Populist movement channeled toward        Organic democratic
+                  no-confidence vote. Compromised officials process
+                  steer timing                              
 
-  Book 4, close   Baret exiled. Kullen established in the new    The republic's natural
-                  order                                          political evolution
-  --------------- ---------------------------------------------- -----------------------
+  Book 4, close   Baret exiled. Kullen established in the   The republic's
+                  new order                                 natural political
+                                                            evolution
+  --------------- ----------------------------------------- ---------------------

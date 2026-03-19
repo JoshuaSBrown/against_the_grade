@@ -48,50 +48,51 @@ Chapter-Level Story Structure
 
 ### 5 Commandments
 
-  -------------------------------------------------------------------------------
-  Element                          Description
-  -------------------------------- ----------------------------------------------
-  Inciting Incident                The between-Proving period begins. Candidates
-                                   are in barracks at the keep --- training
-                                   continues, cohort bonds forming through forced
-                                   proximity. No home visits. The keep is their
-                                   world now.
+  -----------------------------------------------------------------------------
+  Element                         Description
+  ------------------------------- ---------------------------------------------
+  Inciting Incident               The between-Proving period begins. Candidates
+                                  are in barracks at the keep --- training
+                                  continues, cohort bonds forming through
+                                  forced proximity. No home visits. The keep is
+                                  their world now.
 
-  Progressive Complication         Elowen's family is publicly ejected from the
-                                   keep. Her father --- old proud house, friend
-                                   of Murek, holder of traditional exemptions
-                                   from certain taxes --- has had those
-                                   exemptions revoked by Haldrin and been
-                                   demanded back-payment. The family can't pay.
-                                   The keep residence is seized. The ejection
-                                   happens in the keep courtyard, in full view of
-                                   the candidate cohort. Elowen and her family
-                                   walk out with their belongings while forty to
-                                   sixty teenagers watch from formation.
+  Progressive Complication        Elowen's family is publicly ejected from the
+                                  keep. Her father --- old proud house, friend
+                                  of Murek, holder of traditional exemptions
+                                  from certain taxes --- has had those
+                                  exemptions revoked by Haldrin and been
+                                  demanded back-payment. The family can't pay.
+                                  The keep residence is seized. The ejection
+                                  happens in the keep courtyard, in full view
+                                  of the candidate cohort. Elowen and her
+                                  family walk out with their belongings while
+                                  forty to sixty teenagers watch from
+                                  formation.
 
-  Crisis                           Does Baret react? He's standing in formation.
-                                   The entire cohort is watching. Haldrin's
-                                   apparatus is executing a legal process.
-                                   There's nothing to fight --- no villain, no
-                                   violence, just a family that can't pay a
-                                   number and a system that takes everything when
-                                   you can't.
+  Crisis                          Does Baret react? He's standing in formation.
+                                  The entire cohort is watching. Haldrin's
+                                  apparatus is executing a legal process.
+                                  There's nothing to fight --- no villain, no
+                                  violence, just a family that can't pay a
+                                  number and a system that takes everything
+                                  when you can't.
 
-  Climax                           Baret does nothing. Fourth inaction. The worst
-                                   one --- not because it's the most violent (the
-                                   Marking humiliation was more brutal) but
-                                   because the destruction is so complete and so
-                                   quiet. A family walked out of the keep
-                                   carrying their lives in bundles. Baret stood
-                                   and watched.
+  Climax                          Baret does nothing. Fourth inaction. The
+                                  worst one --- not because it's the most
+                                  violent (the Marking humiliation was more
+                                  brutal) but because the destruction is so
+                                  complete and so quiet. A family walked out of
+                                  the keep carrying their lives in bundles.
+                                  Baret stood and watched.
 
-  Resolution                       The ejection is complete. The cohort absorbs
-                                   another lesson. Barlas is visible at the edges
-                                   --- angry, isolated, hostile. Not a companion.
-                                   A problem. Baret carries four failures and can
-                                   feel the weight approaching something he can't
-                                   contain.
-  -------------------------------------------------------------------------------
+  Resolution                      The ejection is complete. The cohort absorbs
+                                  another lesson. Barlas is visible at the
+                                  edges --- angry, isolated, hostile. Not a
+                                  companion. A problem. Baret carries four
+                                  failures and can feel the weight approaching
+                                  something he can't contain.
+  -----------------------------------------------------------------------------
 
 ### Reader Hooks
 
@@ -121,32 +122,33 @@ Scene-by-Scene Breakdown
 **Value shift:** Proving 1 ends → Barracks reality (trapped inside the system) →
 Cohort dynamics under forced proximity
 
-  -------------------------------------------------------------------------------
-  Element                          Description
-  -------------------------------- ----------------------------------------------
-  Inciting Incident                Proving 1 concludes. The candidates don't go
-                                   home. They're placed in barracks at the keep
-                                   --- Haldrin's fortress. Training continues
-                                   between Provings. The trial year is immersive.
+  -----------------------------------------------------------------------------
+  Element                         Description
+  ------------------------------- ---------------------------------------------
+  Inciting Incident               Proving 1 concludes. The candidates don't go
+                                  home. They're placed in barracks at the keep
+                                  --- Haldrin's fortress. Training continues
+                                  between Provings. The trial year is
+                                  immersive.
 
-  Progressive Complication         Barracks life reveals the cohort under
-                                   pressure. Forty to sixty teenagers in close
-                                   quarters, ranked, competing, forming alliances
-                                   and enmities. No escape to village or family.
-                                   The keep walls are the world.
+  Progressive Complication        Barracks life reveals the cohort under
+                                  pressure. Forty to sixty teenagers in close
+                                  quarters, ranked, competing, forming
+                                  alliances and enmities. No escape to village
+                                  or family. The keep walls are the world.
 
-  Crisis                           Value-loading beat. The claustrophobia and
-                                   hierarchy settling in.
+  Crisis                          Value-loading beat. The claustrophobia and
+                                  hierarchy settling in.
 
-  Climax                           The barracks as a social world: who sleeps
-                                   where, who eats with whom, who's rising and
-                                   who's sinking after Proving 1 results.
+  Climax                          The barracks as a social world: who sleeps
+                                  where, who eats with whom, who's rising and
+                                  who's sinking after Proving 1 results.
 
-  Resolution                       The cohort has a geography now. And Baret is
-                                   increasingly visible within it --- his strong
-                                   marks and Proving 1 performance put him on the
-                                   map.
-  -------------------------------------------------------------------------------
+  Resolution                      The cohort has a geography now. And Baret is
+                                  increasingly visible within it --- his strong
+                                  marks and Proving 1 performance put him on
+                                  the map.
+  -----------------------------------------------------------------------------
 
 **Scene Detail:**
 
@@ -190,54 +192,55 @@ pressure has no release valve.
 **Value shift:** Routine keep life → Bureaucratic violence as public spectacle →
 Fourth inaction → Self-loathing peaks
 
-  -------------------------------------------------------------------------------
-  Element                          Description
-  -------------------------------- ----------------------------------------------
-  Inciting Incident                The candidates are assembled in the keep
-                                   courtyard --- possibly for training, for a
-                                   formation, for some routine purpose. Then the
-                                   ejection begins.
+  -----------------------------------------------------------------------------
+  Element                         Description
+  ------------------------------- ---------------------------------------------
+  Inciting Incident               The candidates are assembled in the keep
+                                  courtyard --- possibly for training, for a
+                                  formation, for some routine purpose. Then the
+                                  ejection begins.
 
-  Progressive Complication         Elowen's family is publicly removed from the
-                                   keep. Her father, from an old proud house, has
-                                   held traditional exemptions from certain taxes
-                                   --- reduced tributes, specific privileges that
-                                   predate Haldrin's lordship. These are the
-                                   remnants of the old order: not wealth, not
-                                   power, just the administrative recognition
-                                   that this family was here before the current
-                                   lord and retains certain rights. Haldrin has
-                                   revoked the exemptions and demanded
-                                   back-payment covering the years the exemptions
-                                   were in effect. The amount is calculated to be
-                                   unpayable --- the family has status but no
-                                   money. Old name, no resources. When the father
-                                   cannot meet the demand, the keep residence is
-                                   seized as payment. The family is ejected.
+  Progressive Complication        Elowen's family is publicly removed from the
+                                  keep. Her father, from an old proud house,
+                                  has held traditional exemptions from certain
+                                  taxes --- reduced tributes, specific
+                                  privileges that predate Haldrin's lordship.
+                                  These are the remnants of the old order: not
+                                  wealth, not power, just the administrative
+                                  recognition that this family was here before
+                                  the current lord and retains certain rights.
+                                  Haldrin has revoked the exemptions and
+                                  demanded back-payment covering the years the
+                                  exemptions were in effect. The amount is
+                                  calculated to be unpayable --- the family has
+                                  status but no money. Old name, no resources.
+                                  When the father cannot meet the demand, the
+                                  keep residence is seized as payment. The
+                                  family is ejected.
 
-  Crisis                           Baret is standing in formation with the
-                                   cohort. He watches Elowen's family walk out.
-                                   Does he react? There is nothing to fight. No
-                                   villain beating someone. No physical cruelty.
-                                   Just a family carrying bundles through a
-                                   courtyard, and a system that can destroy you
-                                   with arithmetic.
+  Crisis                          Baret is standing in formation with the
+                                  cohort. He watches Elowen's family walk out.
+                                  Does he react? There is nothing to fight. No
+                                  villain beating someone. No physical cruelty.
+                                  Just a family carrying bundles through a
+                                  courtyard, and a system that can destroy you
+                                  with arithmetic.
 
-  Climax                           Baret does nothing. Fourth inaction. The most
-                                   devastating one because the destruction is so
-                                   quiet. No one is being struck. No one is
-                                   screaming. A family is losing their home,
-                                   their status, their place in the world, and it
-                                   looks like an administrative process because
-                                   it is one. The paperwork is correct. The
-                                   demand is technically legal. The family simply
-                                   cannot pay.
+  Climax                          Baret does nothing. Fourth inaction. The most
+                                  devastating one because the destruction is so
+                                  quiet. No one is being struck. No one is
+                                  screaming. A family is losing their home,
+                                  their status, their place in the world, and
+                                  it looks like an administrative process
+                                  because it is one. The paperwork is correct.
+                                  The demand is technically legal. The family
+                                  simply cannot pay.
 
-  Resolution                       The courtyard empties. The ejection is
-                                   complete. The cohort returns to training. Life
-                                   in the keep continues as if nothing happened.
-                                   That normalcy is the worst part.
-  -------------------------------------------------------------------------------
+  Resolution                      The courtyard empties. The ejection is
+                                  complete. The cohort returns to training.
+                                  Life in the keep continues as if nothing
+                                  happened. That normalcy is the worst part.
+  -----------------------------------------------------------------------------
 
 **Scene Detail:**
 
@@ -328,32 +331,33 @@ out of capacity for self-contempt.
 **Value shift:** Post-ejection tension → Cohort dynamics intensifying → Barlas
 as hostile, isolated, dangerous
 
-  -------------------------------------------------------------------------------
-  Element                          Description
-  -------------------------------- ----------------------------------------------
-  Inciting Incident                Life in the barracks continues after the
-                                   ejection. The cohort is processing what they
-                                   saw. Training intensifies as Proving 2
-                                   approaches.
+  -----------------------------------------------------------------------------
+  Element                         Description
+  ------------------------------- ---------------------------------------------
+  Inciting Incident               Life in the barracks continues after the
+                                  ejection. The cohort is processing what they
+                                  saw. Training intensifies as Proving 2
+                                  approaches.
 
-  Progressive Complication         The barracks is a pressure cooker. Candidates
-                                   are forming alliances and enmities. Darek is
-                                   gravitating toward Kullen's warmth. Baret is
-                                   increasingly isolated in his observations and
-                                   self-loathing. And Barlas is a problem.
+  Progressive Complication        The barracks is a pressure cooker. Candidates
+                                  are forming alliances and enmities. Darek is
+                                  gravitating toward Kullen's warmth. Baret is
+                                  increasingly isolated in his observations and
+                                  self-loathing. And Barlas is a problem.
 
-  Crisis                           Value-loading beat. The cohort's social
-                                   architecture is solidifying.
+  Crisis                          Value-loading beat. The cohort's social
+                                  architecture is solidifying.
 
-  Climax                           The barracks world before Proving 2: who's
-                                   aligned with whom, who's dangerous, who's
-                                   vulnerable. The pressure is building toward
-                                   something.
+  Climax                          The barracks world before Proving 2: who's
+                                  aligned with whom, who's dangerous, who's
+                                  vulnerable. The pressure is building toward
+                                  something.
 
-  Resolution                       Proving 2 is announced. The candidates will be
-                                   paired and sent into the field. Baret doesn't
-                                   know yet that the pairing is a weapon.
-  -------------------------------------------------------------------------------
+  Resolution                      Proving 2 is announced. The candidates will
+                                  be paired and sent into the field. Baret
+                                  doesn't know yet that the pairing is a
+                                  weapon.
+  -----------------------------------------------------------------------------
 
 **Scene Detail:**
 
@@ -429,53 +433,53 @@ Elowen). - The approaching Proving 2. Payoff: Ch 8 (the rigged pairing).
 Backstory Seed Inventory
 ------------------------
 
-  -------------------------------------------------------------------------------
-  Seed               Planted As                         Payoff
-  ------------------ ---------------------------------- -------------------------
-  Ejection as        Tax revocation, back-payment,      The system destroys
-  bureaucratic       seizure                            through arithmetic.
-  violence                                              Baret's republic.
+  ------------------------------------------------------------------------------
+  Seed               Planted As                        Payoff
+  ------------------ --------------------------------- -------------------------
+  Ejection as        Tax revocation, back-payment,     The system destroys
+  bureaucratic       seizure                           through arithmetic.
+  violence                                             Baret's republic.
 
-  Elowen's composure Walking out with dignity, stoic    Ch 6 (teens target the
-  in courtyard                                          composure), Book 4 (token
-                                                        return)
+  Elowen's composure Walking out with dignity, stoic   Ch 6 (teens target the
+  in courtyard                                         composure), Book 4 (token
+                                                       return)
 
-  Murek's calculated Doesn't defend his friend          Ch 20 (speaks only for
-  silence                                               Kasun). Never Baret's
-                                                        ally.
+  Murek's calculated Doesn't defend his friend         Ch 20 (speaks only for
+  silence                                              Kasun). Never Baret's
+                                                       ally.
 
-  Fourth inaction    No one to fight, just paperwork    Ch 6 breaking point. The
-  (different in                                         ledger is full.
-  kind)                                                 
+  Fourth inaction    No one to fight, just paperwork   Ch 6 breaking point. The
+  (different in                                        ledger is full.
+  kind)                                                
 
-  Barlas hostile and Fights, eats alone, unpredictable  Proving 2 bond is earned
-  isolated           anger                              from nothing. Ch 22
-                                                        killing.
+  Barlas hostile and Fights, eats alone, unpredictable Proving 2 bond is earned
+  isolated           anger                             from nothing. Ch 22
+                                                       killing.
 
-  Barlas's anger has Personal, specific, deeper than    Ch 22 (Haldrin doesn't
-  roots              competition                        know who Barlas is).
-                                                        Reread devastation.
+  Barlas's anger has Personal, specific, deeper than   Ch 22 (Haldrin doesn't
+  roots              competition                       know who Barlas is).
+                                                       Reread devastation.
 
-  Darek toward       Warmth meeting warmth in           Book 4 exploitation
-  Kullen in barracks claustrophobia                     
+  Darek toward       Warmth meeting warmth in          Book 4 exploitation
+  Kullen in barracks claustrophobia                    
 
-  The twin drift     Brothers spending less time        Series-wide wall
-                     together                           
+  The twin drift     Brothers spending less time       Series-wide wall
+                     together                          
 
-  Town access as     Candidates earn limited freedom    Ch 6 (Baret finds Elowen
-  privilege                                             in town)
+  Town access as     Candidates earn limited freedom   Ch 6 (Baret finds Elowen
+  privilege                                            in town)
 
-  Maia's absence     Can't reach Baret in barracks      Baret without his anchor.
-                                                        Isolation amplifies
-                                                        pressure.
+  Maia's absence     Can't reach Baret in barracks     Baret without his anchor.
+                                                       Isolation amplifies
+                                                       pressure.
 
-  The ejection as    Haldrin destroying an ally to warn Murek's political
-  message to Murek                                      calculations across Book
-                                                        1
+  The ejection as    Haldrin destroying an ally to     Murek's political
+  message to Murek   warn                              calculations across Book
+                                                       1
 
-  Barracks as social Forced proximity, no escape        Cohort bonds and enmities
-  pressure cooker                                       matter in Proving 2 and 3
-  -------------------------------------------------------------------------------
+  Barracks as social Forced proximity, no escape       Cohort bonds and enmities
+  pressure cooker                                      matter in Proving 2 and 3
+  ------------------------------------------------------------------------------
 
 --------------------------------------------------------------------------------
 

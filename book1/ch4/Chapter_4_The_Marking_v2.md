@@ -52,50 +52,50 @@ Chapter-Level Story Structure
 
 ### 5 Commandments
 
-  -------------------------------------------------------------------------------
-  Element                          Description
-  -------------------------------- ----------------------------------------------
-  Inciting Incident                The morning of the Marking. Baret walks
-                                   through Pakran and sees the town's oppression
-                                   firsthand --- retainers collecting market tax
-                                   with collaborator stalls exempted, and someone
-                                   in public punishment for a minor offense. This
-                                   is not Tanapun's one patrol. This is the
-                                   system at scale.
+  -----------------------------------------------------------------------------
+  Element                         Description
+  ------------------------------- ---------------------------------------------
+  Inciting Incident               The morning of the Marking. Baret walks
+                                  through Pakran and sees the town's oppression
+                                  firsthand --- retainers collecting market tax
+                                  with collaborator stalls exempted, and
+                                  someone in public punishment for a minor
+                                  offense. This is not Tanapun's one patrol.
+                                  This is the system at scale.
 
-  Progressive Complication         Three layers: (1) Haldrin's entrance and
-                                   speech establish that failure means frontier
-                                   labor and reduced family status, cheating
-                                   means lashing and dangerous work. The stakes
-                                   are total. (2) Physical tests reveal emerging
-                                   hierarchy --- Baret does alright, Sera excels,
-                                   Kullen is polished, Darek is mixed. (3) The
-                                   glyph assessment with the sacred artifact
-                                   writes the twin hierarchy. The priest's
-                                   extended examination of Baret catches
-                                   Haldrin's attention.
+  Progressive Complication        Three layers: (1) Haldrin's entrance and
+                                  speech establish that failure means frontier
+                                  labor and reduced family status, cheating
+                                  means lashing and dangerous work. The stakes
+                                  are total. (2) Physical tests reveal emerging
+                                  hierarchy --- Baret does alright, Sera
+                                  excels, Kullen is polished, Darek is mixed.
+                                  (3) The glyph assessment with the sacred
+                                  artifact writes the twin hierarchy. The
+                                  priest's extended examination of Baret
+                                  catches Haldrin's attention.
 
-  Crisis                           Does Baret acknowledge the hierarchy that's
-                                   been written between him and his brother, or
-                                   does he pretend it doesn't exist? And
-                                   underneath: does Baret speak up when a child
-                                   is humiliated during assessment, or does he
-                                   submit like everyone else?
+  Crisis                          Does Baret acknowledge the hierarchy that's
+                                  been written between him and his brother, or
+                                  does he pretend it doesn't exist? And
+                                  underneath: does Baret speak up when a child
+                                  is humiliated during assessment, or does he
+                                  submit like everyone else?
 
-  Climax                           Baret submits on both counts. He does nothing
-                                   when a child is humiliated. He doesn't address
-                                   the ranking with Darek. The system has
-                                   measured them and Baret accepted its verdict
-                                   without resistance on any front.
+  Climax                          Baret submits on both counts. He does nothing
+                                  when a child is humiliated. He doesn't
+                                  address the ranking with Darek. The system
+                                  has measured them and Baret accepted its
+                                  verdict without resistance on any front.
 
-  Resolution                       Evening. Darek offers genuine support for
-                                   Baret's strong marks --- congratulations,
-                                   warmth, humor. The reader sees the wound
-                                   underneath. The cohort is forming. Baret has
-                                   been publicly identified as talented, his
-                                   brother as lesser, and he carries all of it
-                                   and speaks about none of it.
-  -------------------------------------------------------------------------------
+  Resolution                      Evening. Darek offers genuine support for
+                                  Baret's strong marks --- congratulations,
+                                  warmth, humor. The reader sees the wound
+                                  underneath. The cohort is forming. Baret has
+                                  been publicly identified as talented, his
+                                  brother as lesser, and he carries all of it
+                                  and speaks about none of it.
+  -----------------------------------------------------------------------------
 
 ### Reader Hooks
 
@@ -132,31 +132,31 @@ Scene-by-Scene Breakdown
 
 **Value shift:** Overwhelmed newcomer → Shock (oppression at scale)
 
-  -------------------------------------------------------------------------------
-  Element                          Description
-  -------------------------------- ----------------------------------------------
-  Inciting Incident                Baret and Darek walk through Pakran on the
-                                   morning of the Marking, heading toward the
-                                   fortress. First real daylight experience of
-                                   the town.
+  -----------------------------------------------------------------------------
+  Element                         Description
+  ------------------------------- ---------------------------------------------
+  Inciting Incident               Baret and Darek walk through Pakran on the
+                                  morning of the Marking, heading toward the
+                                  fortress. First real daylight experience of
+                                  the town.
 
-  Progressive Complication         Pakran's oppression is visible, systemic,
-                                   casual. Two specific forms: retainers
-                                   collecting market tax from stalls while
-                                   collaborator stalls are visibly exempted, and
-                                   someone in public punishment for a minor
-                                   offense.
+  Progressive Complication        Pakran's oppression is visible, systemic,
+                                  casual. Two specific forms: retainers
+                                  collecting market tax from stalls while
+                                  collaborator stalls are visibly exempted, and
+                                  someone in public punishment for a minor
+                                  offense.
 
-  Crisis                           No single crisis --- value-loading beat. Baret
-                                   absorbing the system at scale.
+  Crisis                          No single crisis --- value-loading beat.
+                                  Baret absorbing the system at scale.
 
-  Climax                           Baret registers the oppression as
-                                   infrastructure. He's learning to see the
-                                   system at a larger scale.
+  Climax                          Baret registers the oppression as
+                                  infrastructure. He's learning to see the
+                                  system at a larger scale.
 
-  Resolution                       They reach the fortress. The Marking is about
-                                   to begin.
-  -------------------------------------------------------------------------------
+  Resolution                      They reach the fortress. The Marking is about
+                                  to begin.
+  -----------------------------------------------------------------------------
 
 **Scene Detail:**
 
@@ -189,35 +189,35 @@ might be a tighter version of the aggression that defines him.
 
 **Value shift:** Nervous anticipation → Fear (the stakes made real and total)
 
-  -------------------------------------------------------------------------------
-  Element                          Description
-  -------------------------------- ----------------------------------------------
-  Inciting Incident                The cohort assembles in the fortress
-                                   assessment hall. Private --- only candidates,
-                                   Haldrin's officials, assessors. No families.
-                                   The space is enclosed, the fortress walls
-                                   above, the lord's authority in stone around
-                                   them.
+  -----------------------------------------------------------------------------
+  Element                         Description
+  ------------------------------- ---------------------------------------------
+  Inciting Incident               The cohort assembles in the fortress
+                                  assessment hall. Private --- only candidates,
+                                  Haldrin's officials, assessors. No families.
+                                  The space is enclosed, the fortress walls
+                                  above, the lord's authority in stone around
+                                  them.
 
-  Progressive Complication         Haldrin enters with full fanfare. Battle
-                                   standard carried before him. The room changes.
-                                   Then he speaks --- and the consequences are
-                                   tiered, specific, and total.
+  Progressive Complication        Haldrin enters with full fanfare. Battle
+                                  standard carried before him. The room
+                                  changes. Then he speaks --- and the
+                                  consequences are tiered, specific, and total.
 
-  Crisis                           Value-loading beat. The candidates absorb what
-                                   they've just been told. The implicit crisis:
-                                   can I survive this? What happens to my family
-                                   if I fail?
+  Crisis                          Value-loading beat. The candidates absorb
+                                  what they've just been told. The implicit
+                                  crisis: can I survive this? What happens to
+                                  my family if I fail?
 
-  Climax                           The speech ends. The room is silent. Haldrin
-                                   takes his elevated position --- dais or
-                                   balcony overlooking the assessment floor,
-                                   standard beside him. He will watch everything
-                                   that follows from above.
+  Climax                          The speech ends. The room is silent. Haldrin
+                                  takes his elevated position --- dais or
+                                  balcony overlooking the assessment floor,
+                                  standard beside him. He will watch everything
+                                  that follows from above.
 
-  Resolution                       The physical tests are announced. The
-                                   assessment begins.
-  -------------------------------------------------------------------------------
+  Resolution                      The physical tests are announced. The
+                                  assessment begins.
+  -----------------------------------------------------------------------------
 
 **Scene Detail:**
 
@@ -331,33 +331,34 @@ Payoff: Series-wide strength. He sees systems.
 **Value shift:** Nervous energy → Hierarchy emerging through performance →
 Second inaction
 
-  -------------------------------------------------------------------------------
-  Element                          Description
-  -------------------------------- ----------------------------------------------
-  Inciting Incident                The physical tests begin. Three assessments
-                                   conducted on the hall floor while Haldrin
-                                   watches from above. The cohort discovers that
-                                   the Marking isn't just a glyph reading --- you
-                                   have to earn your place through demonstrated
-                                   capability.
+  -----------------------------------------------------------------------------
+  Element                         Description
+  ------------------------------- ---------------------------------------------
+  Inciting Incident               The physical tests begin. Three assessments
+                                  conducted on the hall floor while Haldrin
+                                  watches from above. The cohort discovers that
+                                  the Marking isn't just a glyph reading ---
+                                  you have to earn your place through
+                                  demonstrated capability.
 
-  Progressive Complication         Three tests reveal the cohort's emerging
-                                   hierarchy. A child from an original family is
-                                   humiliated during or between tests for minor
-                                   defiance --- second witnessed injustice. Baret
-                                   watches. Does nothing.
+  Progressive Complication        Three tests reveal the cohort's emerging
+                                  hierarchy. A child from an original family is
+                                  humiliated during or between tests for minor
+                                  defiance --- second witnessed injustice.
+                                  Baret watches. Does nothing.
 
-  Crisis                           Does Baret intervene when the child is
-                                   humiliated, here on the system's own ground
-                                   with the lord watching from above?
+  Crisis                          Does Baret intervene when the child is
+                                  humiliated, here on the system's own ground
+                                  with the lord watching from above?
 
-  Climax                           Baret does nothing. The system demonstrated
-                                   what resistance costs. He absorbed the lesson.
+  Climax                          Baret does nothing. The system demonstrated
+                                  what resistance costs. He absorbed the
+                                  lesson.
 
-  Resolution                       The physical tests conclude. Performance
-                                   rankings are taking shape. The glyph
-                                   assessment is next.
-  -------------------------------------------------------------------------------
+  Resolution                      The physical tests conclude. Performance
+                                  rankings are taking shape. The glyph
+                                  assessment is next.
+  -----------------------------------------------------------------------------
 
 **Scene Detail:**
 
@@ -517,39 +518,40 @@ Payoff: Second inaction. Ch 6 breaking point.
 **Value shift:** Physical competition → Solemn ritual → The twin hierarchy
 written on their bodies → Haldrin notices Baret
 
-  -------------------------------------------------------------------------------
-  Element                          Description
-  -------------------------------- ----------------------------------------------
-  Inciting Incident                The physical tests end. The tone shifts. A
-                                   priest enters --- brought by the faith, not by
-                                   Haldrin. The artifact is produced with ritual
-                                   precision. The glyph assessment begins.
+  -----------------------------------------------------------------------------
+  Element                         Description
+  ------------------------------- ---------------------------------------------
+  Inciting Incident               The physical tests end. The tone shifts. A
+                                  priest enters --- brought by the faith, not
+                                  by Haldrin. The artifact is produced with
+                                  ritual precision. The glyph assessment
+                                  begins.
 
-  Progressive Complication         Candidates assessed one by one. Visual
-                                   examination of mark darkness, then palms
-                                   placed on the artifact. The priest reads
-                                   physiological responses. The cohort watches
-                                   each other's assessment. The hierarchy is
-                                   written in real time. Then the twins are
-                                   assessed back to back. Baret's response is
-                                   strong --- the priest takes longer, asks a
-                                   follow-up. Haldrin notices from above.
+  Progressive Complication        Candidates assessed one by one. Visual
+                                  examination of mark darkness, then palms
+                                  placed on the artifact. The priest reads
+                                  physiological responses. The cohort watches
+                                  each other's assessment. The hierarchy is
+                                  written in real time. Then the twins are
+                                  assessed back to back. Baret's response is
+                                  strong --- the priest takes longer, asks a
+                                  follow-up. Haldrin notices from above.
 
-  Crisis                           The ranking is written. Baret's marks are
-                                   among the strongest. Darek's are lesser.
-                                   Everyone in the room saw the difference.
+  Crisis                          The ranking is written. Baret's marks are
+                                  among the strongest. Darek's are lesser.
+                                  Everyone in the room saw the difference.
 
-  Climax                           The assessment completes. The hierarchy is
-                                   public knowledge within the cohort. Baret has
-                                   been identified as exceptional by the priest
-                                   and noted by the lord. Darek has been
-                                   identified as adequate. The distance between
-                                   them is now measured and witnessed.
+  Climax                          The assessment completes. The hierarchy is
+                                  public knowledge within the cohort. Baret has
+                                  been identified as exceptional by the priest
+                                  and noted by the lord. Darek has been
+                                  identified as adequate. The distance between
+                                  them is now measured and witnessed.
 
-  Resolution                       The candidates are dismissed. The formal
-                                   Marking is complete. What follows is the human
-                                   cost of what just happened.
-  -------------------------------------------------------------------------------
+  Resolution                      The candidates are dismissed. The formal
+                                  Marking is complete. What follows is the
+                                  human cost of what just happened.
+  -----------------------------------------------------------------------------
 
 **Scene Detail:**
 
@@ -725,31 +727,32 @@ overlooks Elowen.
 **Value shift:** Public ranking settles → Darek's genuine support (covering the
 wound) → Cohort forming
 
-  -------------------------------------------------------------------------------
-  Element                          Description
-  -------------------------------- ----------------------------------------------
-  Inciting Incident                Evening after the Marking. Candidates in their
-                                   quarters. Rankings settling into the cohort's
-                                   social fabric. Everyone knows where everyone
-                                   stands.
+  -----------------------------------------------------------------------------
+  Element                         Description
+  ------------------------------- ---------------------------------------------
+  Inciting Incident               Evening after the Marking. Candidates in
+                                  their quarters. Rankings settling into the
+                                  cohort's social fabric. Everyone knows where
+                                  everyone stands.
 
-  Progressive Complication         Darek addresses the ranking. Offers genuine
-                                   support --- congratulations, warmth, humor.
-                                   The support is real. The wound underneath is
-                                   real. Darek buries it.
+  Progressive Complication        Darek addresses the ranking. Offers genuine
+                                  support --- congratulations, warmth, humor.
+                                  The support is real. The wound underneath is
+                                  real. Darek buries it.
 
-  Crisis                           Does Baret acknowledge the wound he can see in
-                                   his brother, or accept the offered surface?
+  Crisis                          Does Baret acknowledge the wound he can see
+                                  in his brother, or accept the offered
+                                  surface?
 
-  Climax                           Baret accepts the surface. Takes Darek's
-                                   congratulations at face value --- not callous,
-                                   but emotionally blind. Darek's gift accepted
-                                   without the cost being seen.
+  Climax                          Baret accepts the surface. Takes Darek's
+                                  congratulations at face value --- not
+                                  callous, but emotionally blind. Darek's gift
+                                  accepted without the cost being seen.
 
-  Resolution                       The cohort forming around them. The Provings
-                                   begin soon. Baret is alone with his
-                                   observations in a room full of people.
-  -------------------------------------------------------------------------------
+  Resolution                      The cohort forming around them. The Provings
+                                  begin soon. Baret is alone with his
+                                  observations in a room full of people.
+  -----------------------------------------------------------------------------
 
 **Scene Detail:**
 
@@ -810,101 +813,102 @@ reconfiguration.
 Backstory Seed Inventory
 ------------------------
 
-  ----------------------------------------------------------------------------------
-  Seed                  Planted As                         Payoff
-  --------------------- ---------------------------------- -------------------------
-  Market tax (systemic  Retainers collecting, exemptions   System at scale,
-  oppression)           visible                            rebellion arc
+  -------------------------------------------------------------------------------
+  Seed                  Planted As                       Payoff
+  --------------------- -------------------------------- ------------------------
+  Market tax (systemic  Retainers collecting, exemptions System at scale,
+  oppression)           visible                          rebellion arc
 
-  Public punishment     Person in stocks for minor offense System communicates
-                                                           through pain
+  Public punishment     Person in stocks for minor       System communicates
+                        offense                          through pain
 
-  Baret maps the system Structural thinking applied to     Series-wide strength
-                        oppression                         
+  Baret maps the system Structural thinking applied to   Series-wide strength
+                        oppression                       
 
-  Haldrin's standard    Carried always, the symbol of cost Ch 22 (surrender and
-                                                           killing), series-wide
+  Haldrin's standard    Carried always, the symbol of    Ch 22 (surrender and
+                        cost                             killing), series-wide
 
-  Haldrin counting the  Specific names, specific numbers   He's monstrous and
-  dead                                                     effective. Reader
-                                                           discomfort
+  Haldrin counting the  Specific names, specific numbers He's monstrous and
+  dead                                                   effective. Reader
+                                                         discomfort
 
-  Tiered consequences   Cheating → lashing/danger. Failure The system's logic is
-                        → labor/status. Success →          sound. What Baret fights
-                        treatment. Excellence →            is who the logic serves
-                        retainership/family benefits       
+  Tiered consequences   Cheating → lashing/danger.       The system's logic is
+                        Failure → labor/status. Success  sound. What Baret fights
+                        → treatment. Excellence →        is who the logic serves
+                        retainership/family benefits     
 
-  Pairing-as-tool       Assessors assign combat matchups   Proving 2 (expendable
-                                                           pairing)
+  Pairing-as-tool       Assessors assign combat matchups Proving 2 (expendable
+                                                         pairing)
 
-  Baret's               Combat improvement across the bout Key metric across all
-  rate-of-improvement                                      Provings
+  Baret's               Combat improvement across the    Key metric across all
+  rate-of-improvement   bout                             Provings
 
-  Sera's speed and      Strong across all three tests      Proving 3, strategic
-  capability                                               value, underestimation
+  Sera's speed and      Strong across all three tests    Proving 3, strategic
+  capability                                             value, underestimation
 
-  Kullen's polish /     Trained, smooth, advantaged AND    Protected son, Ch 22,
-  privilege             capable                            Book 5 arc
+  Kullen's polish /     Trained, smooth, advantaged AND  Protected son, Ch 22,
+  privilege             capable                          Book 5 arc
 
-  Darek's social        Coaching his opponent, mixed       Value as bridge,
-  intelligence          combat marks                       vulnerability to Kullen
+  Darek's social        Coaching his opponent, mixed     Value as bridge,
+  intelligence          combat marks                     vulnerability to Kullen
 
-  Barlas's ferocity     Attacks rather than spars, raw     The bond, the killing
-                        energy                             
+  Barlas's ferocity     Attacks rather than spars, raw   The bond, the killing
+                        energy                           
 
-  Kasun's preparation   Resources = polish                 Proving 3 trap, Murek's
-                                                           politics
+  Kasun's preparation   Resources = polish               Proving 3 trap, Murek's
+                                                         politics
 
-  Second inaction       Baret watches, does nothing,       Ch 6 breaking point
-  (child humiliated)    inside the system                  
+  Second inaction       Baret watches, does nothing,     Ch 6 breaking point
+  (child humiliated)    inside the system                
 
-  The artifact as       Sacred relic, flat panel, glyph    Book 3 (Capsule 1
-  capsule technology    interface                          access), faith built on a
-                                                           machine
+  The artifact as       Sacred relic, flat panel, glyph  Book 3 (Capsule 1
+  capsule technology    interface                        access), faith built on
+                                                         a machine
 
-  Priest's diagnostic   Trained physiological assessment   Faith's institutional
-  reading                                                  knowledge, Book 3-4
+  Priest's diagnostic   Trained physiological assessment Faith's institutional
+  reading                                                knowledge, Book 3-4
 
-  Baret's palm tingling Strong conduit response, priest's  Religious interpretation
-                        follow-up                          vs. bioengineering
-                                                           reality
+  Baret's palm tingling Strong conduit response,         Religious interpretation
+                        priest's follow-up               vs. bioengineering
+                                                         reality
 
-  Haldrin noting Baret  Lord's attention on a herder's son Rigged Proving 2, Baret
-                                                           as target
+  Haldrin noting Baret  Lord's attention on a herder's   Rigged Proving 2, Baret
+                        son                              as target
 
-  Barlas as "adequate"  Functional marks, not exceptional  Capsule silence (Ch 10),
-                                                           the cruelest word
+  Barlas as "adequate"  Functional marks, not            Capsule silence (Ch 10),
+                        exceptional                      the cruelest word
 
-  Elowen present but    Background, Baret slides past      Ch 6 (geode), finale,
-  invisible                                                Book 4
+  Elowen present but    Background, Baret slides past    Ch 6 (geode), finale,
+  invisible                                              Book 4
 
-  Arabela noticed       Attraction, Kullen's orbit         Baret's blindness,
-                                                           Arabela's shift
+  Arabela noticed       Attraction, Kullen's orbit       Baret's blindness,
+                                                         Arabela's shift
 
-  Twin hierarchy        Marks + combat + artifact all      Series-wide wound, Book 5
-  (public,              confirm                            eruption
-  triple-confirmed)                                        
+  Twin hierarchy        Marks + combat + artifact all    Series-wide wound, Book
+  (public,              confirm                          5 eruption
+  triple-confirmed)                                      
 
-  Baret's strong mark   Lord files away the name           Baret becomes a variable,
-  noted by Haldrin                                         then a target
+  Baret's strong mark   Lord files away the name         Baret becomes a
+  noted by Haldrin                                       variable, then a target
 
-  Darek's generosity /  Support, humor, buried pain        Book 4 (Kullen exploits),
-  buried wound                                             Book 5 (Baret's guilt)
+  Darek's generosity /  Support, humor, buried pain      Book 4 (Kullen
+  buried wound                                           exploits), Book 5
+                                                         (Baret's guilt)
 
-  Baret's emotional     Accepts surface, misses cost       Series-wide weakness
-  blindness                                                
+  Baret's emotional     Accepts surface, misses cost     Series-wide weakness
+  blindness                                              
 
-  Darek gravitates to   Two social people connect          Book 4 devastation
-  Kullen                                                   
+  Darek gravitates to   Two social people connect        Book 4 devastation
+  Kullen                                                 
 
-  Barlas at the margins Mutual recognition, no contact     Proving 2 bond
+  Barlas at the margins Mutual recognition, no contact   Proving 2 bond
 
-  Kesal unremarked at   Present, background                Ch 13 reconfiguration
-  Pakran                                                   
+  Kesal unremarked at   Present, background              Ch 13 reconfiguration
+  Pakran                                                 
 
-  Cohort forming by     Social dynamics emerging           Proving 1, Proving 3
-  mark/village                                             teams
-  ----------------------------------------------------------------------------------
+  Cohort forming by     Social dynamics emerging         Proving 1, Proving 3
+  mark/village                                           teams
+  -------------------------------------------------------------------------------
 
 --------------------------------------------------------------------------------
 

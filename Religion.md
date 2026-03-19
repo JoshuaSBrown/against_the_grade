@@ -18,63 +18,63 @@ Linak. The Ulreth attack became the Kanur --- the moment everything went wrong.
 Sacred Vocabulary
 -----------------
 
-  --------------------------------------------------------------------------------------------------------
-  Term             Seed Form          Meaning                      Modern Form             Notes
-  ---------------- ------------------ ---------------------------- ----------------------- ---------------
-  The Birthplace / punak-norik        settlement + born-of         **Punaknor**            Shares root
-  Sacred Site                                                      (mountain/liturgical) / with Nor
-                                                                   **Punanor** (lowland)   patronymic;
-                                                                                           oldest place
-                                                                                           name in the
-                                                                                           language
+  ----------------------------------------------------------------------------------------------------
+  Term             Seed Form      Meaning                      Modern Form             Notes
+  ---------------- -------------- ---------------------------- ----------------------- ---------------
+  The Birthplace / punak-norik    settlement + born-of         **Punaknor**            Shares root
+  Sacred Site                                                  (mountain/liturgical) / with Nor
+                                                               **Punanor** (lowland)   patronymic;
+                                                                                       oldest place
+                                                                                       name in the
+                                                                                       language
 
-  The Robots /     binak-hasir        metal + kinship              **Binasir**             /h/ drop erases
-  Metal Mothers                                                    (formal/religious) /    the kinship
-                                                                   **Binas** (common)      element;
-                                                                                           mythological
-                                                                                           title
+  The Robots /     binak-hasir    metal + kinship              **Binasir**             /h/ drop erases
+  Metal Mothers                                                (formal/religious) /    the kinship
+                                                               **Binas** (common)      element;
+                                                                                       mythological
+                                                                                       title
 
-  The Sealed       halinak            great-duty/promise           **Alinak**              /h/ drop; what
-  Teaching                                                                                 the religion
-                                                                                           believes waits
-                                                                                           behind the
-                                                                                           sealed chambers
+  The Sealed       halinak        great-duty/promise           **Alinak**              /h/ drop; what
+  Teaching                                                                             the religion
+                                                                                       believes waits
+                                                                                       behind the
+                                                                                       sealed chambers
 
-  The Hand Mark    ngalir             technical-connection-point   **Nalir** (mountain) /  One of the only
-                                                                   **Naler** (lowland)     /ng/ technical
-                                                                                           words to
-                                                                                           survive;
-                                                                                           disguised as
-                                                                                           /n/
-                                                                                           living-things
-                                                                                           by drift
+  The Hand Mark    ngalir         technical-connection-point   **Nalir** (mountain) /  One of the only
+                                                               **Naler** (lowland)     /ng/ technical
+                                                                                       words to
+                                                                                       survive;
+                                                                                       disguised as
+                                                                                       /n/
+                                                                                       living-things
+                                                                                       by drift
 
-  The Promise      linak              oath/promise                 **Linak**               Ordinary word
-                                                                                           given
-                                                                                           theological
-                                                                                           weight by
-                                                                                           context
+  The Promise      linak          oath/promise                 **Linak**               Ordinary word
+                                                                                       given
+                                                                                       theological
+                                                                                       weight by
+                                                                                       context
 
-  The Cutting /    kanur              to cut/separate              **Kanur** (mountain) /  The Ulreth
-  Interruption                                                     **Kanor** (lowland)     attack
-                                                                                           mythologized as
-                                                                                           a cosmic event
+  The Cutting /    kanur          to cut/separate              **Kanur** (mountain) /  The Ulreth
+  Interruption                                                 **Kanor** (lowland)     attack
+                                                                                       mythologized as
+                                                                                       a cosmic event
 
-  The Completion / salin              state-of-wholeness           **Salin** (religious) / The hoped-for
-  Fulfillment                                                      **Salen** (common)      future; /s/
-                                                                                           quality
-                                                                                           category
+  The Completion / salin          state-of-wholeness           **Salin** (religious) / The hoped-for
+  Fulfillment                                                  **Salen** (common)      future; /s/
+                                                                                       quality
+                                                                                       category
 
-  Buried           binak-sutal        metal + ancient              **Binal**               Generic noun
-  Infrastructure                                                                           for encountered
-                                                                                           terraforming
-                                                                                           remnants
+  Buried           binak-sutal    metal + ancient              **Binal**               Generic noun
+  Infrastructure                                                                       for encountered
+                                                                                       terraforming
+                                                                                       remnants
 
-  The Before-Time  dakur-sutal        era + ancient                **Dakstal**             The
-                                                                                           mythological
-                                                                                           past before the
-                                                                                           interruption
-  --------------------------------------------------------------------------------------------------------
+  The Before-Time  dakur-sutal    era + ancient                **Dakstal**             The
+                                                                                       mythological
+                                                                                       past before the
+                                                                                       interruption
+  ----------------------------------------------------------------------------------------------------
 
 ### Linguistic Notes
 
@@ -351,51 +351,51 @@ behavior, and territorial patterns that suggest more than pure instinct.
 Doctrinal Comparison
 --------------------
 
-  --------------------------------------------------------------------------------
-  Question        Orthodox        Egalitarian          Trials       Kinship
-  --------------- --------------- -------------------- ------------ --------------
-  What is the     Sign of divine  Remnant of what      Dormant      Shared
-  nalir?          proximity to    survived the         potential    biological
-                  original design interruption by      that can be  inheritance
-                                  chance               awakened     from the
-                                                       through      Binasir
-                                                       devotion     
+  -------------------------------------------------------------------------------
+  Question        Orthodox        Egalitarian         Trials       Kinship
+  --------------- --------------- ------------------- ------------ --------------
+  What is the     Sign of divine  Remnant of what     Dormant      Shared
+  nalir?          proximity to    survived the        potential    biological
+                  original design interruption by     that can be  inheritance
+                                  chance              awakened     from the
+                                                      through      Binasir
+                                                      devotion     
 
-  Who are the     Interrupters    Generally accepts    Part of the  Earlier
-  Ulreth?         from outside    orthodox position;   trial        children of
-                  the design;     less emphasis        humanity     the Binasir;
-                  fundamentally                        must endure; kin
-                  other                                obstacle to  interrupted at
-                                                       completion   a prior stage
+  Who are the     Interrupters    Generally accepts   Part of the  Earlier
+  Ulreth?         from outside    orthodox position;  trial        children of
+                  the design;     less emphasis       humanity     the Binasir;
+                  fundamentally                       must endure; kin
+                  other                               obstacle to  interrupted at
+                                                      completion   a prior stage
 
-  What is the     Origin of       Historical origin;   Source of    Origin of all
-  Punaknor?       humanity; place important but not    awakening    created life,
-                  of eventual     spiritually          power;       including the
-                  fulfillment     exclusive            proximity    Ulreth
-                                                       activates    
-                                                       the dormant  
-                                                       nalir        
+  What is the     Origin of       Historical origin;  Source of    Origin of all
+  Punaknor?       humanity; place important but not   awakening    created life,
+                  of eventual     spiritually         power;       including the
+                  fulfillment     exclusive           proximity    Ulreth
+                                                      activates    
+                                                      the dormant  
+                                                      nalir        
 
-  Who holds       Marked          Community consensus; Those who    Those who
-  authority?      individuals as  the nalir confers no have         pursue truth
-                  stewards of the special authority    undergone    regardless of
-                  incomplete                           trials;      mark status
-                  teaching                             seekers and  
-                                                       ascetics     
+  Who holds       Marked          Community           Those who    Those who
+  authority?      individuals as  consensus; the      have         pursue truth
+                  stewards of the nalir confers no    undergone    regardless of
+                  incomplete      special authority   trials;      mark status
+                  teaching                            seekers and  
+                                                      ascetics     
 
-  Relationship to Is the          Tolerated folk       Tolerated;   Actively
-  orthodoxy       orthodoxy       tradition in remote  pilgrimage   suppressed;
-                                  areas                economy      considered
-                                                       benefits     treasonous
-                                                       sacred site  
+  Relationship to Is the          Tolerated folk      Tolerated;   Actively
+  orthodoxy       orthodoxy       tradition in remote pilgrimage   suppressed;
+                                  areas               economy      considered
+                                                      benefits     treasonous
+                                                      sacred site  
 
-  Proximity to    Least accurate; Most accurate on the Correct      Most accurate
-  actual truth    treats random   nalir; correctly     intuition    overall;
-                  drift as divine identifies it as     (latency is  Ulreth share
-                  order           chance               real) but    biological
-                                                       wrong method origin with
-                                                                    humans
-  --------------------------------------------------------------------------------
+  Proximity to    Least accurate; Most accurate on    Correct      Most accurate
+  actual truth    treats random   the nalir;          intuition    overall;
+                  drift as divine correctly           (latency is  Ulreth share
+                  order           identifies it as    real) but    biological
+                                  chance              wrong method origin with
+                                                                   humans
+  -------------------------------------------------------------------------------
 
 The irony embedded in this table is deliberate and load-bearing for the series.
 The theological positions closest to scientific truth are the ones most

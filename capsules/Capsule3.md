@@ -1,4 +1,4 @@
-apsule 3: Discovery, Mechanics, and Weapon Deployment
+Capsule 3: Discovery, Mechanics, and Weapon Deployment
 
 Summary of Established Decisions
 --------------------------------

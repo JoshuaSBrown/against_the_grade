@@ -344,31 +344,32 @@ gap, indifferent to human politics.
 
 The Ulreth thread escalates in parallel with the political evolution:
 
-  --------------------------------------------------------------------------------
-  Book                       Ulreth Function            Scale
-  -------------------------- -------------------------- --------------------------
-  1                          Immediate physical threat; Local --- one village, one
-                             justifies feudal system    lord's territory
+  -----------------------------------------------------------------------------
+  Book                      Ulreth Function           Scale
+  ------------------------- ------------------------- -------------------------
+  1                         Immediate physical        Local --- one village,
+                            threat; justifies feudal  one lord's territory
+                            system                    
 
-  2                          Consequence of             Personal --- father's
-                             protagonist's choices;     death, Baret's guilt
-                             ambiguous encounter seeds  
-                             doubt                      
+  2                         Consequence of            Personal --- father's
+                            protagonist's choices;    death, Baret's guilt
+                            ambiguous encounter seeds 
+                            doubt                     
 
-  3                          Political detonation via   Institutional ---
-                             shared-origin discovery    threatens religious
-                             from Capsule One data      doctrine, economic plans,
-                                                        frontier identity
+  3                         Political detonation via  Institutional ---
+                            shared-origin discovery   threatens religious
+                            from Capsule One data     doctrine, economic plans,
+                                                      frontier identity
 
-  4                          Populist wedge issue;      National --- splits
-                             exile encounter grounds    coalitions, weaponized by
-                             the abstraction            Kullen's movement
+  4                         Populist wedge issue;     National --- splits
+                            exile encounter grounds   coalitions, weaponized by
+                            the abstraction           Kullen's movement
 
-  5                          Civilizational consequence Existential --- frontier
-                             of engineered              defense crumbles, Ulreth
-                             institutional collapse     expand, father-son pattern
-                                                        rhymes
-  --------------------------------------------------------------------------------
+  5                         Civilizational            Existential --- frontier
+                            consequence of engineered defense crumbles, Ulreth
+                            institutional collapse    expand, father-son
+                                                      pattern rhymes
+  -----------------------------------------------------------------------------
 
 8. Thematic Function
 --------------------

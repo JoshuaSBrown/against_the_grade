@@ -264,20 +264,21 @@ generation time), developmental threshold effects, regulatory region
 vulnerability, and haploinsufficiency. This represents the large lowland
 population.
 
-  ---------------- -------------- ----------------------------------------------------------
+  ---------------- -------------- --------------------------------------------------
   **Tier**         **Population   **Description**
                    %**            
 
-  Fully Functional \~30--40% C    onduit formed, all three interface subsystems intact,
-                                  clear hand mark, upload-ready
+  Fully Functional \~30--40% C    onduit formed, all three interface subsystems
+                                  intact, clear hand mark, upload-ready
 
   Partially        \~15--25% C    onduit formed but one or more interface subsystems
-  Degraded                        degraded; mark present but function limited or unreliable
+  Degraded                        degraded; mark present but function limited or
+                                  unreliable
 
-  Non-Functional   \~40--50% C    onduit absent or broken; no mark or vestigial mark;
-                                  symbiont brain may still be viable but no pathway to
-                                  activate it
-  ---------------- -------------- ----------------------------------------------------------
+  Non-Functional   \~40--50% C    onduit absent or broken; no mark or vestigial
+                                  mark; symbiont brain may still be viable but no
+                                  pathway to activate it
+  ---------------- -------------- --------------------------------------------------
 
 Among those with formed conduits, subsystem integrity varies:
 
@@ -354,27 +355,27 @@ particles.
 4.2 Radiation Level Justification
 ---------------------------------
 
-  ---------------- ------------------------- ----------------------------------------
-  **Multiplier**   **Earth Equivalent**      **Scenario**
+  ---------------- ----------------------- -------------------------------------
+  **Multiplier**   **Earth Equivalent**    **Scenario**
 
-  1x               Standard Earth            Strong magnetosphere, full ozone, stable
-                                             star
+  1x               Standard Earth          Strong magnetosphere, full ozone,
+                                           stable star
 
-  2--3x            High altitude / depleted  One factor degraded
-                   ozone                     
+  2--3x            High altitude /         One factor degraded
+                   depleted ozone          
 
-  5x               Weak magnetosphere OR     Moderate --- one major factor absent
-                   thin ozone                
+  5x               Weak magnetosphere OR   Moderate --- one major factor absent
+                   thin ozone              
 
-  8x               Weak magnetosphere AND    Recommended for narrative --- aggressive
-                   thin ozone                but defensible
+  8x               Weak magnetosphere AND  Recommended for narrative ---
+                   thin ozone              aggressive but defensible
 
-  10x              No magnetosphere, thin    Upper plausible bound with atmosphere
-                   ozone                     
+  10x              No magnetosphere, thin  Upper plausible bound with atmosphere
+                   ozone                   
 
-  20x              Mars-like (reduced by     Implausible if atmosphere is breathable
-                   atmosphere)               
-  ---------------- ------------------------- ----------------------------------------
+  20x              Mars-like (reduced by   Implausible if atmosphere is
+                   atmosphere)             breathable
+  ---------------- ----------------------- -------------------------------------
 
 **Recommended:** 8x Earth radiation. This produces the narrative-required
 population distribution (\~30--40% functional, \~40--50% non-functional) while
@@ -417,36 +418,40 @@ Each component of the symbiont system is evaluated against current neuroscience,
 bioengineering, and biology research (as of 2025). Ratings assume a civilization
 significantly more advanced than current Earth.
 
-  ---------------- ------------ ---------------------------------------------------------
+  ---------------- ------------ --------------------------------------------------
   **Component**    **Rating**   **Key Scientific Basis**
 
-  Second brain     7/10         Enteric nervous system (500M neurons), cerebral organoids
-  organ                         implanted in animal brains forming functional connections
+  Second brain     7/10         Enteric nervous system (500M neurons), cerebral
+  organ                         organoids implanted in animal brains forming
+                                functional connections
 
-  Vegetative       8/10         Stem cell quiescence, immune memory cells, epigenetic
-  dormancy                      silencing
+  Vegetative       8/10         Stem cell quiescence, immune memory cells,
+  dormancy                      epigenetic silencing
 
   Brain-to-brain   6/10         Corpus callosum (200--250M axons), experimental
-  interface                     brain-to-brain interfaces, organoid integration studies
+  interface                     brain-to-brain interfaces, organoid integration
+                                studies
 
   Neural conduit   8/10         Median nerve pathway, axon guidance cues (netrins,
-  to hands                      semaphorins, ephrins), peripheral nerve regeneration
+  to hands                      semaphorins, ephrins), peripheral nerve
+                                regeneration
 
   Visible hand     9/10         Vascularization differences, innervation density,
   mark                          engineered pigment proteins
 
-  AI upload (boot  6/10         Long-term potentiation/depression, cochlear/retinal
-  sequence)                     implants, pre-patterned architecture model
+  AI upload (boot  6/10         Long-term potentiation/depression,
+  sequence)                     cochlear/retinal implants, pre-patterned
+                                architecture model
 
-  Cognitive        7/10         Parallel neural processing, corpus callosum bandwidth,
-  enhancement                   internal monologue routing
+  Cognitive        7/10         Parallel neural processing, corpus callosum
+  enhancement                   bandwidth, internal monologue routing
 
-  Motor cortex     6/10         Cerebellar motor correction, competing motor systems,
-  override                      body model calibration
+  Motor cortex     6/10         Cerebellar motor correction, competing motor
+  override                      systems, body model calibration
 
-  Memory           4/10         Memory reconsolidation research, propranolol studies,
-  manipulation                  hippocampal lability window
-  ---------------- ------------ ---------------------------------------------------------
+  Memory           4/10         Memory reconsolidation research, propranolol
+  manipulation                  studies, hippocampal lability window
+  ---------------- ------------ --------------------------------------------------
 
 **Overall:** 6--7/10 for an advanced civilization. The weakest links are the
 upload mechanism and memory manipulation, both of which require the most

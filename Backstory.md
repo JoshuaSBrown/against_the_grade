@@ -38,61 +38,92 @@ survival capability written directly into DNA --- but stripped out all
 historical and technological context. No mythology of Earth. No record of what
 came before. A forced reset.
 
-### Capsule One
+### Capsule One \[\[capsules/Capsule1\]\]
 
-Capsule One arrived intact and began its terraforming sequence as designed. Over
-approximately four hundred years, it constructed a viable ecosystem in stages
---- atmosphere modification, soil microorganisms, plant life, insects,
-herbivores, predators --- each stage dependent on the previous. Toward the end
-of this sequence, damage inflicted by the Ulreth crippled its higher functions.
-The teaching and knowledge-transfer systems were destroyed. The activation
-system for the symbiont interface was disabled. However, the core biological
-program --- the creation of humans --- survived because it was buried deeper in
-the capsule's operational architecture and was harder to break.
+Capsule One arrived intact and executed its full deployment sequence as designed
+--- robotic terraforming over approximately four hundred years, staged ecosystem
+seeding, and finally human production. The biological facility produced
+approximately two hundred children across age cohorts, from infants through
+children of about ten, raised by robotic caretakers who provided language
+acquisition, basic education, and interactive childcare.
 
-Humans emerged into an established ecosystem with embedded biological skills ---
-language, social cooperation, basic survival instinct --- but no education, no
-history, and no access to the latent symbiont capabilities written into their
-DNA. The capsule became an incomprehensible ruin. Over centuries, its fragments
-became relics around which myths and eventually religious structures formed.
+The Ulreth --- a territorial species produced a century earlier by damaged
+Capsule Two --- attacked the facility while this generation was still in early
+childhood. The raid destroyed the robotic caretaker systems, the educational
+infrastructure scheduled to deliver knowledge of human origins and Earth's
+history, and the activation hardware for the symbiont interface. The mainframe,
+buried deeper in the capsule's hardened architecture, survived in a damaged
+state.
 
-### Capsule Two
+Without robotic care, the youngest children suffered catastrophic mortality. The
+oldest --- roughly eight to ten --- became de facto parents and leaders of the
+surviving group. These children retained the capsule's embedded biological
+skills (language, cooperation, survival instinct) and what practical knowledge
+the robots had already taught them, but they had no understanding of their
+origins, no access to the latent symbiont system, and no way to reach the
+surviving mainframe's archives. Within two to three generations, even
+fragmentary memories of the facility became mythology --- the metal mothers, the
+before-place --- and the true history was completely buried. Over centuries, the
+capsule's remains became relics around which religious structures formed.
 
-Capsule Two suffered internal failures during transit. Its terraforming sequence
-initiated but its biological development program stalled at an intermediate
-stage. The process was designed to refine organisms through successive phases
-toward full human complexity, but the failures caused it to halt before
-completion. The result was the Ulreth --- not random errors but an unfinished
-draft. Simpler biology, faster maturation, physically robust, but cognitively
-incomplete.
+### Capsule Two \[\[capsules/Capsule2\]\]
 
-Critically, Capsule Two's symbiont activation infrastructure survived the
-damage. However, the Ulreth lack the cognitive architecture to interface with
-it. A functional activation system sits in hostile territory, usable by humans
-but inaccessible to them --- a structural engine for conflict across the series.
+Capsule Two suffered internal failures during transit. Its biological production
+sequence, designed to refine organisms through successive stages toward full
+human complexity, instead rushed through the intermediate stages --- releasing
+organisms that were physically robust and fast-maturing but cognitively
+incomplete. The Ulreth are the most dramatic result: not random errors but an
+unfinished draft, existing on a spectrum from barely animal to disturbingly
+close to human. They emerged approximately a century before Capsule One produced
+its human children.
 
-The Ulreth emerged approximately two hundred years before humans, during the
-terraforming window. Their simpler biology meant faster production. They spread
-through the region around Capsule Two and eventually encountered Capsule One ---
-a large structure generating energy signatures that registered as either threat
-or resource to a primitive territorial species. They damaged it and moved on. By
-the time humans emerged, the Ulreth had been an established species for
-generations, with no interest in the area around the now-silent Capsule One.
+The rushed sequence also contaminated the broader ecosystem. Every stage
+released slightly wrong organisms --- predators too aggressive, herbivores with
+misaligned metabolic rates --- errors that compounded across successive
+releases. Thirteen hundred years later, descendants of these flawed releases
+have propagated through the planet's food webs, some barely distinguishable from
+correctly fabricated wildlife, some interbred with Capsule One's releases. The
+Ulreth are the visible problem; the ecological contamination is the invisible
+one.
 
-### Capsule Three
+The Ulreth spread through the region around Capsule Two --- clustering near it
+as an environmental anchor --- and eventually encountered Capsule One's facility
+while its human children were still being raised by robotic caretakers. They
+were scavenging, not invading; they didn't understand what the facility was. The
+attack destroyed the caretaker systems, educational infrastructure, and
+activation hardware, leaving the oldest children --- roughly eight to ten years
+old --- to raise the survivors alone.
 
-Capsule Three was infected by the military AI before launch. The capsule's
-safety mechanisms identified the threat and destroyed its ability to create
-life, but could not erase the AI itself --- it had integrated into the capsule's
-core navigation and landing systems. Erasing it would have caused the capsule to
-crash and destroy all evidence of the contamination. The safety system made a
-calculated trade: land safely, destroy the biological payload, and strand the AI
-without hosts.
+Critically, Capsule Two's own symbiont activation infrastructure survived the
+transit damage. However, the Ulreth lack the cognitive architecture to interface
+with it. A functional activation system sits in hostile territory, usable by
+humans but inaccessible to them --- a structural engine for conflict across the
+series.
 
-The AI survived. It sits dormant in a capsule that landed successfully but
-produced nothing. Its threat only materialises when it is eventually discovered
-and its systems interfaced with --- a danger no one in the current civilisation
-knows to look for.
+### Capsule Three \[\[Capsule3\]\]
+
+Capsule Three carried the master virus --- the same threat that triggered the AI
+crisis on Earth. The virus infiltrated core operating systems, particularly
+navigation, during transit. The capsule's safety mechanisms detected it but
+could not remove it without destroying the systems it was entangled with. They
+made a triage decision: shut down the bio factory to prevent contaminated
+biological production, contain the virus within the core systems it was already
+embedded in, and leave the teaching AI and educational archives operational as
+non-threat-vector systems still useful to humanity.
+
+The capsule landed successfully in a mountain lake beyond the frontier of human
+expansion, where it remained submerged and invisible for over thirteen hundred
+years. A hull breach in the bio lab compartment allowed moisture to infiltrate
+over time, destroying the sterile conditions and rendering biological production
+permanently non-functional. The computing systems, teaching AI, and educational
+archives --- sealed in hardened compartments --- survived intact.
+
+The capsule is not dormant. Its teaching AI activates on human DNA proximity,
+and its educational database contains complete technical documentation for the
+military AI --- a commercial product whose specifications were part of the
+standard archive. The threat is not a weapon waiting to be found. It is a
+patient, transparent teacher that will explain exactly how memory manipulation
+works to anyone who asks the right questions.
 
 --------------------------------------------------------------------------------
 
@@ -171,73 +202,75 @@ designed this inequality. It emerged from centuries of biological indifference
 Timeline
 --------
 
-  --------------------------------------------------------------------------------
-  Period                     Years from Landing         Events
-  -------------------------- -------------------------- --------------------------
-  Terraforming               0--400                     Both capsules begin
-                                                        ecosystem construction.
-                                                        Atmosphere, soil, flora,
-                                                        fauna developed in stages.
+  -----------------------------------------------------------------------------
+  Period                    Years from Landing        Events
+  ------------------------- ------------------------- -------------------------
+  Terraforming              0--400                    Both capsules begin
+                                                      ecosystem construction.
+                                                      Atmosphere, soil, flora,
+                                                      fauna developed in
+                                                      stages.
 
-  Ulreth Emergence           \~200--300                 Capsule Two produces the
-                                                        Ulreth. Simpler biology
-                                                        allows faster production.
-                                                        They spread and establish
-                                                        territory.
+  Ulreth Emergence          \~200--300                Capsule Two produces the
+                                                      Ulreth. Simpler biology
+                                                      allows faster production.
+                                                      They spread and establish
+                                                      territory.
 
-  Capsule One Damaged        \~250--350                 Ulreth encounter Capsule
-                                                        One. Territorial
-                                                        aggression damages
-                                                        teaching,
-                                                        knowledge-transfer, and
-                                                        activation systems. Core
-                                                        biological program
-                                                        survives.
+  Capsule One Damaged       \~250--350                Ulreth encounter Capsule
+                                                      One. Territorial
+                                                      aggression damages
+                                                      teaching,
+                                                      knowledge-transfer, and
+                                                      activation systems. Core
+                                                      biological program
+                                                      survives.
 
-  Human Emergence            \~400--500                 Capsule One produces first
-                                                        humans. Embedded
-                                                        biological skills only. No
-                                                        education, no history, no
-                                                        symbiont activation.
+  Human Emergence           \~400--500                Capsule One produces
+                                                      first humans. Embedded
+                                                      biological skills only.
+                                                      No education, no history,
+                                                      no symbiont activation.
 
-  Tribal Phase               500--700                   Small settlements,
-                                                        subsistence agriculture,
-                                                        oral traditions.
-                                                        Population grows from
-                                                        hundreds to low thousands.
+  Tribal Phase              500--700                  Small settlements,
+                                                      subsistence agriculture,
+                                                      oral traditions.
+                                                      Population grows from
+                                                      hundreds to low
+                                                      thousands.
 
-  Town Formation             700--900                   Population reaches tens of
-                                                        thousands. Proto-feudal
-                                                        structures emerge. Early
-                                                        relic interactions
-                                                        discovered --- partial,
-                                                        unreliable, poorly
-                                                        understood. Power
-                                                        concentrates around relic
-                                                        access.
+  Town Formation            700--900                  Population reaches tens
+                                                      of thousands.
+                                                      Proto-feudal structures
+                                                      emerge. Early relic
+                                                      interactions discovered
+                                                      --- partial, unreliable,
+                                                      poorly understood. Power
+                                                      concentrates around relic
+                                                      access.
 
-  Feudal Society             900--1100                  Population in the hundreds
-                                                        of thousands. Multiple
-                                                        territories, trade
-                                                        networks, religious
-                                                        institutions built around
-                                                        relic mythology. Class
-                                                        stratification between
-                                                        those with partial
-                                                        relic-activated abilities
-                                                        and those without.
+  Feudal Society            900--1100                 Population in the
+                                                      hundreds of thousands.
+                                                      Multiple territories,
+                                                      trade networks, religious
+                                                      institutions built around
+                                                      relic mythology. Class
+                                                      stratification between
+                                                      those with partial
+                                                      relic-activated abilities
+                                                      and those without.
 
-  Book One                   \~1100+                    Population approximately
-                                                        500,000 to 1 million.
-                                                        Feudal structures
-                                                        entrenched. Symbiont
-                                                        compatibility varies
-                                                        widely across bloodlines.
-                                                        The true origin of
-                                                        humanity, the Ulreth, and
-                                                        the relics is completely
-                                                        unknown.
-  --------------------------------------------------------------------------------
+  Book One                  \~1100+                   Population approximately
+                                                      500,000 to 1 million.
+                                                      Feudal structures
+                                                      entrenched. Symbiont
+                                                      compatibility varies
+                                                      widely across bloodlines.
+                                                      The true origin of
+                                                      humanity, the Ulreth, and
+                                                      the relics is completely
+                                                      unknown.
+  -----------------------------------------------------------------------------
 
 --------------------------------------------------------------------------------
 

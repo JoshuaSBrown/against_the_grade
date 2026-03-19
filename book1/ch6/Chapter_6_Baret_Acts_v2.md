@@ -47,56 +47,57 @@ Chapter-Level Story Structure
 
 ### 5 Commandments
 
-  -------------------------------------------------------------------------------
-  Element                          Description
-  -------------------------------- ----------------------------------------------
-  Inciting Incident                Candidates earn their first town access after
-                                   Proving 1. Baret walks through Pakran for the
-                                   first time since the Marking --- not as a
-                                   candidate being processed but as a teenager
-                                   with a few hours of freedom. He encounters a
-                                   group of teenagers cornering Elowen in a
-                                   semi-public space.
+  -----------------------------------------------------------------------------
+  Element                         Description
+  ------------------------------- ---------------------------------------------
+  Inciting Incident               Candidates earn their first town access after
+                                  Proving 1. Baret walks through Pakran for the
+                                  first time since the Marking --- not as a
+                                  candidate being processed but as a teenager
+                                  with a few hours of freedom. He encounters a
+                                  group of teenagers cornering Elowen in a
+                                  semi-public space.
 
-  Progressive Complication         Elowen has been ejected from the keep with her
-                                   family. She's somewhere in Pakran now --- town
-                                   lodgings, relatives, whatever diminished
-                                   circumstances the family found. The keep's
-                                   protection is gone. A retainer's child is
-                                   among the teenagers targeting her (not Kesal's
-                                   child --- a different retainer). The
-                                   harassment escalates. They're targeting her
-                                   composure --- the stoicism that held through
-                                   the courtyard ejection is what they want to
-                                   crack.
+  Progressive Complication        Elowen has been ejected from the keep with
+                                  her family. She's somewhere in Pakran now ---
+                                  town lodgings, relatives, whatever diminished
+                                  circumstances the family found. The keep's
+                                  protection is gone. A retainer's child is
+                                  among the teenagers targeting her (not
+                                  Kesal's child --- a different retainer). The
+                                  harassment escalates. They're targeting her
+                                  composure --- the stoicism that held through
+                                  the courtyard ejection is what they want to
+                                  crack.
 
-  Crisis                           Does Baret intervene? The rational calculation
-                                   is clear: the retainer's child is among the
-                                   bullies. Intervening means humiliating someone
-                                   connected to Haldrin's apparatus. On the eve
-                                   of Proving 2, with Baret already noted for
-                                   strong marks, with Maia's fear a memory he
-                                   can't shake. Everything rational says no.
+  Crisis                          Does Baret intervene? The rational
+                                  calculation is clear: the retainer's child is
+                                  among the bullies. Intervening means
+                                  humiliating someone connected to Haldrin's
+                                  apparatus. On the eve of Proving 2, with
+                                  Baret already noted for strong marks, with
+                                  Maia's fear a memory he can't shake.
+                                  Everything rational says no.
 
-  Climax                           Baret moves. He doesn't make a speech. He
-                                   doesn't announce himself. He's been still for
-                                   five chapters and when he breaks, the break is
-                                   physical --- stepping between Elowen and the
-                                   group, body-first. The fight that follows is
-                                   ugly, real, unheroic. He's 16, capable but
-                                   this is a brawl, not a duel. He takes hits. He
-                                   holds through endurance, not skill.
+  Climax                          Baret moves. He doesn't make a speech. He
+                                  doesn't announce himself. He's been still for
+                                  five chapters and when he breaks, the break
+                                  is physical --- stepping between Elowen and
+                                  the group, body-first. The fight that follows
+                                  is ugly, real, unheroic. He's 16, capable but
+                                  this is a brawl, not a duel. He takes hits.
+                                  He holds through endurance, not skill.
 
-  Resolution                       The teenagers scatter. Baret gives Elowen the
-                                   geode --- "It's better than it looks." Gone.
-                                   Forgotten by him. Kept by her forever. The
-                                   social cost crystallizes: the retainer's child
-                                   was humiliated. A political event. From
-                                   somewhere in the town, Barlas saw some or all
-                                   of it --- not a friend's recognition but a
-                                   hostile observer registering something he
-                                   understands.
-  -------------------------------------------------------------------------------
+  Resolution                      The teenagers scatter. Baret gives Elowen the
+                                  geode --- "It's better than it looks." Gone.
+                                  Forgotten by him. Kept by her forever. The
+                                  social cost crystallizes: the retainer's
+                                  child was humiliated. A political event. From
+                                  somewhere in the town, Barlas saw some or all
+                                  of it --- not a friend's recognition but a
+                                  hostile observer registering something he
+                                  understands.
+  -----------------------------------------------------------------------------
 
 ### Reader Hooks
 
@@ -131,41 +132,43 @@ Scene-by-Scene Breakdown
 **Value shift:** Barracks claustrophobia → Relief (freedom, the town) → The town
 reveals Elowen's new reality
 
-  -------------------------------------------------------------------------------
-  Element                          Description
-  -------------------------------- ----------------------------------------------
-  Inciting Incident                Candidates granted town access. First time
-                                   outside the keep walls since arriving. Baret,
-                                   Darek, Sera, Garik, and the cohort filter into
-                                   Pakran's streets with a few hours of freedom.
+  -----------------------------------------------------------------------------
+  Element                         Description
+  ------------------------------- ---------------------------------------------
+  Inciting Incident               Candidates granted town access. First time
+                                  outside the keep walls since arriving. Baret,
+                                  Darek, Sera, Garik, and the cohort filter
+                                  into Pakran's streets with a few hours of
+                                  freedom.
 
-  Progressive Complication         The town is different from the keep. Louder,
-                                   messier, the real texture of Pakran's life.
-                                   The candidates are visible --- keep uniforms
-                                   or markings that identify them as trial
-                                   candidates. Through Baret's POV: the town he
-                                   saw briefly during the Marking, now
-                                   experienced at ground level. The market tax is
-                                   still being collected. The punishment posts
-                                   still occupied. The system's infrastructure
-                                   visible everywhere.
+  Progressive Complication        The town is different from the keep. Louder,
+                                  messier, the real texture of Pakran's life.
+                                  The candidates are visible --- keep uniforms
+                                  or markings that identify them as trial
+                                  candidates. Through Baret's POV: the town he
+                                  saw briefly during the Marking, now
+                                  experienced at ground level. The market tax
+                                  is still being collected. The punishment
+                                  posts still occupied. The system's
+                                  infrastructure visible everywhere.
 
-  Crisis                           Value-loading beat. Baret absorbing the town.
+  Crisis                          Value-loading beat. Baret absorbing the town.
 
-  Climax                           Baret registers something that doesn't belong:
-                                   Elowen. Not at the keep. In the town. The
-                                   ejection's aftermath --- she's here now,
-                                   somewhere below the keep walls, in the streets
-                                   where the system's protection doesn't reach
-                                   former residents. The girl who walked through
-                                   the courtyard with composure is now navigating
-                                   a world without the keep's walls around her.
+  Climax                          Baret registers something that doesn't
+                                  belong: Elowen. Not at the keep. In the town.
+                                  The ejection's aftermath --- she's here now,
+                                  somewhere below the keep walls, in the
+                                  streets where the system's protection doesn't
+                                  reach former residents. The girl who walked
+                                  through the courtyard with composure is now
+                                  navigating a world without the keep's walls
+                                  around her.
 
-  Resolution                       Baret moves through the town. He's not looking
-                                   for Elowen. He encounters the scene by
-                                   accident --- the way most important moments
-                                   arrive.
-  -------------------------------------------------------------------------------
+  Resolution                      Baret moves through the town. He's not
+                                  looking for Elowen. He encounters the scene
+                                  by accident --- the way most important
+                                  moments arrive.
+  -----------------------------------------------------------------------------
 
 **Scene Detail:**
 
@@ -202,43 +205,43 @@ physical consequences.
 **Value shift:** Routine town visit → Recognition (Elowen cornered) → The
 pressure builds to breaking
 
-  -------------------------------------------------------------------------------
-  Element                          Description
-  -------------------------------- ----------------------------------------------
-  Inciting Incident                Baret encounters the scene: a group of
-                                   teenagers surrounding Elowen in a semi-public
-                                   space --- a side street, a market edge,
-                                   somewhere between public enough to be deniable
-                                   and private enough for cruelty.
+  -----------------------------------------------------------------------------
+  Element                         Description
+  ------------------------------- ---------------------------------------------
+  Inciting Incident               Baret encounters the scene: a group of
+                                  teenagers surrounding Elowen in a semi-public
+                                  space --- a side street, a market edge,
+                                  somewhere between public enough to be
+                                  deniable and private enough for cruelty.
 
-  Progressive Complication         The harassment. Not physical violence (yet)
-                                   --- social cruelty. Mockery about her family's
-                                   fall, her father's humiliation, her diminished
-                                   circumstances. A retainer's child is leading
-                                   or prominent in the group --- someone with
-                                   social protection doing what hierarchy
-                                   enables. They're targeting Elowen's composure.
-                                   The same stoicism that held through the
-                                   courtyard ejection is what they want to see
-                                   crack. A person who won't break is an
-                                   invitation to people who want to make her
-                                   break.
+  Progressive Complication        The harassment. Not physical violence (yet)
+                                  --- social cruelty. Mockery about her
+                                  family's fall, her father's humiliation, her
+                                  diminished circumstances. A retainer's child
+                                  is leading or prominent in the group ---
+                                  someone with social protection doing what
+                                  hierarchy enables. They're targeting Elowen's
+                                  composure. The same stoicism that held
+                                  through the courtyard ejection is what they
+                                  want to see crack. A person who won't break
+                                  is an invitation to people who want to make
+                                  her break.
 
-  Crisis                           Baret is watching. Again. The pattern. Four
-                                   times before this, he watched and did nothing.
-                                   Maia's voice. The calculation. The cost. He
-                                   can feel his own body not moving the way it
-                                   hasn't moved four times before. But this time
-                                   is different. He knows this person. He watched
-                                   her walk through the courtyard. He's carrying
-                                   four failures and the self-loathing has
-                                   nowhere left to go.
+  Crisis                          Baret is watching. Again. The pattern. Four
+                                  times before this, he watched and did
+                                  nothing. Maia's voice. The calculation. The
+                                  cost. He can feel his own body not moving the
+                                  way it hasn't moved four times before. But
+                                  this time is different. He knows this person.
+                                  He watched her walk through the courtyard.
+                                  He's carrying four failures and the
+                                  self-loathing has nowhere left to go.
 
-  Climax                           He moves.
+  Climax                          He moves.
 
-  Resolution                       Baret is between Elowen and the group.
-                                   Everything changes.
-  -------------------------------------------------------------------------------
+  Resolution                      Baret is between Elowen and the group.
+                                  Everything changes.
+  -----------------------------------------------------------------------------
 
 **Scene Detail:**
 
@@ -288,31 +291,31 @@ starts the same way).
 **Value shift:** Confrontation → Violence (ugly, real) → Baret bloody but
 standing
 
-  -------------------------------------------------------------------------------
-  Element                          Description
-  -------------------------------- ----------------------------------------------
-  Inciting Incident                Baret is between Elowen and the group. The
-                                   retainer's child challenges or pushes. The
-                                   confrontation turns physical.
+  -----------------------------------------------------------------------------
+  Element                         Description
+  ------------------------------- ---------------------------------------------
+  Inciting Incident               Baret is between Elowen and the group. The
+                                  retainer's child challenges or pushes. The
+                                  confrontation turns physical.
 
-  Progressive Complication         The fight is not heroic. Baret is 16,
-                                   mountain-tough, weapon-trained like every
-                                   frontier kid. But this is a brawl, not a duel.
-                                   Multiple opponents. He takes hits. He gets
-                                   bloodied.
+  Progressive Complication        The fight is not heroic. Baret is 16,
+                                  mountain-tough, weapon-trained like every
+                                  frontier kid. But this is a brawl, not a
+                                  duel. Multiple opponents. He takes hits. He
+                                  gets bloodied.
 
-  Crisis                           Can Baret hold?
+  Crisis                          Can Baret hold?
 
-  Climax                           He holds. Not by winning elegantly but by
-                                   refusing to go down. Herder endurance --- the
-                                   same consistency the assessors noted. He
-                                   doesn't need to beat all of them. He needs to
-                                   make it cost more to continue than to stop.
-                                   The group backs off or scatters.
+  Climax                          He holds. Not by winning elegantly but by
+                                  refusing to go down. Herder endurance --- the
+                                  same consistency the assessors noted. He
+                                  doesn't need to beat all of them. He needs to
+                                  make it cost more to continue than to stop.
+                                  The group backs off or scatters.
 
-  Resolution                       Baret is standing. Bloodied, bruised,
-                                   breathing hard. Elowen is behind him.
-  -------------------------------------------------------------------------------
+  Resolution                      Baret is standing. Bloodied, bruised,
+                                  breathing hard. Elowen is behind him.
+  -----------------------------------------------------------------------------
 
 **Scene Detail:**
 
@@ -342,34 +345,35 @@ her. This has never happened. Her composure cracks slightly under the shock.
 **Value shift:** Post-fight rawness → A small gesture → The moment he forgets
 and she remembers forever
 
-  -------------------------------------------------------------------------------
-  Element                          Description
-  -------------------------------- ----------------------------------------------
-  Inciting Incident                The fight is over. Baret turns to Elowen.
-                                   She's shaken, composure cracked. He's bloody,
-                                   breathing hard.
+  -----------------------------------------------------------------------------
+  Element                         Description
+  ------------------------------- ---------------------------------------------
+  Inciting Incident               The fight is over. Baret turns to Elowen.
+                                  She's shaken, composure cracked. He's bloody,
+                                  breathing hard.
 
-  Progressive Complication         The moment is awkward. Baret doesn't know what
-                                   to say. He's not emotionally fluent. He just
-                                   fought a brawl and has no words for any of it.
+  Progressive Complication        The moment is awkward. Baret doesn't know
+                                  what to say. He's not emotionally fluent. He
+                                  just fought a brawl and has no words for any
+                                  of it.
 
-  Crisis                           How does Baret handle this moment?
+  Crisis                          How does Baret handle this moment?
 
-  Climax                           He reaches into his pocket. The geode from
-                                   Chapter 1 --- the rock he cracked open on the
-                                   mountain with Darek, crystal inside, pocketed
-                                   and carried without thinking. He gives it to
-                                   her. "It's better than it looks." Not
-                                   romantic. Not calculated. A boy who just got
-                                   punched in the face handing a rock to a girl
-                                   having the worst weeks of her life because
-                                   it's in his pocket and he doesn't know what
-                                   else to do.
+  Climax                          He reaches into his pocket. The geode from
+                                  Chapter 1 --- the rock he cracked open on the
+                                  mountain with Darek, crystal inside, pocketed
+                                  and carried without thinking. He gives it to
+                                  her. "It's better than it looks." Not
+                                  romantic. Not calculated. A boy who just got
+                                  punched in the face handing a rock to a girl
+                                  having the worst weeks of her life because
+                                  it's in his pocket and he doesn't know what
+                                  else to do.
 
-  Resolution                       She takes it. He leaves. Gone. Forgotten. He
-                                   won't think about this moment again. She will
-                                   think about it for years.
-  -------------------------------------------------------------------------------
+  Resolution                      She takes it. He leaves. Gone. Forgotten. He
+                                  won't think about this moment again. She will
+                                  think about it for years.
+  -----------------------------------------------------------------------------
 
 **Scene Detail:**
 
@@ -400,52 +404,52 @@ Payoff: Book 1 finale (Elowen holding geode), Book 4.
 **Value shift:** Relief → Immediate political fallout → Barlas's distant
 recognition → Sera's recalibration
 
-  -------------------------------------------------------------------------------
-  Element                          Description
-  -------------------------------- ----------------------------------------------
-  Inciting Incident                The fight is over. News spreads. The
-                                   retainer's child was humiliated.
+  -----------------------------------------------------------------------------
+  Element                         Description
+  ------------------------------- ---------------------------------------------
+  Inciting Incident               The fight is over. News spreads. The
+                                  retainer's child was humiliated.
 
-  Progressive Complication         The social cost crystallizes. In a feudal
-                                   system, humiliating a retainer's child is a
-                                   political event. The complaint will reach
-                                   Haldrin. Baret just made himself visible in
-                                   exactly the way Maia feared.
+  Progressive Complication        The social cost crystallizes. In a feudal
+                                  system, humiliating a retainer's child is a
+                                  political event. The complaint will reach
+                                  Haldrin. Baret just made himself visible in
+                                  exactly the way Maia feared.
 
-  Crisis                           Value-loading beat. Consequences are coming.
+  Crisis                          Value-loading beat. Consequences are coming.
 
-  Climax                           Two observations matter: **Barlas** saw some
-                                   or all of it. Not from nearby --- from across
-                                   a street, from a distance, from whatever
-                                   hostile remove the angry kid maintains from
-                                   everyone. He didn't intervene. He didn't
-                                   approach. He doesn't approach now. But through
-                                   Baret's POV --- or from the periphery of the
-                                   scene --- Barlas registered what happened. Not
-                                   as friendship, not as admiration. As
-                                   recognition. The angry kid who fights everyone
-                                   for reasons nobody understands watched someone
-                                   fight for a reason he understands
-                                   instinctively: because not fighting was
-                                   impossible. Barlas doesn't come closer.
-                                   Doesn't speak. But something shifted. The
-                                   reader doesn't know what yet. Neither does
-                                   Baret. **Sera** registers the shift from
-                                   wherever she is. She told Baret "you were
-                                   closer than me." She's been reading him as a
-                                   coward. Now he's acted. She's not surprised
-                                   --- she's been waiting. Her estimation
-                                   changes. Not overt. A glance, a shift,
-                                   something the reader catches through Baret's
-                                   POV.
+  Climax                          Two observations matter: **Barlas** saw some
+                                  or all of it. Not from nearby --- from across
+                                  a street, from a distance, from whatever
+                                  hostile remove the angry kid maintains from
+                                  everyone. He didn't intervene. He didn't
+                                  approach. He doesn't approach now. But
+                                  through Baret's POV --- or from the periphery
+                                  of the scene --- Barlas registered what
+                                  happened. Not as friendship, not as
+                                  admiration. As recognition. The angry kid who
+                                  fights everyone for reasons nobody
+                                  understands watched someone fight for a
+                                  reason he understands instinctively: because
+                                  not fighting was impossible. Barlas doesn't
+                                  come closer. Doesn't speak. But something
+                                  shifted. The reader doesn't know what yet.
+                                  Neither does Baret. **Sera** registers the
+                                  shift from wherever she is. She told Baret
+                                  "you were closer than me." She's been reading
+                                  him as a coward. Now he's acted. She's not
+                                  surprised --- she's been waiting. Her
+                                  estimation changes. Not overt. A glance, a
+                                  shift, something the reader catches through
+                                  Baret's POV.
 
-  Resolution                       Baret is carrying the weight of what he did.
-                                   Not regret --- certainty. He broke the
-                                   pattern. The self-loathing is gone, replaced
-                                   by something more dangerous: the knowledge
-                                   that action is possible and the system's
-                                   response is coming.
-  -------------------------------------------------------------------------------
+  Resolution                      Baret is carrying the weight of what he did.
+                                  Not regret --- certainty. He broke the
+                                  pattern. The self-loathing is gone, replaced
+                                  by something more dangerous: the knowledge
+                                  that action is possible and the system's
+                                  response is coming.
+  -----------------------------------------------------------------------------
 
 **Scene Detail:**
 
@@ -486,44 +490,44 @@ as threshold, not calculation. The Sorting rebellion.
 Backstory Seed Inventory
 ------------------------
 
-  -------------------------------------------------------------------------------
-  Seed               Planted As                         Payoff
-  ------------------ ---------------------------------- -------------------------
-  The geode exchange Pretty rock, throwaway gesture,    Book 4 token return,
-                     "It's better than it looks"        series-defining object
+  ------------------------------------------------------------------------------
+  Seed               Planted As                        Payoff
+  ------------------ --------------------------------- -------------------------
+  The geode exchange Pretty rock, throwaway gesture,   Book 4 token return,
+                     "It's better than it looks"       series-defining object
 
-  Baret forgets,     He leaves, she keeps it            Book 1 finale (geode),
-  Elowen remembers                                      Book 4
+  Baret forgets,     He leaves, she keeps it           Book 1 finale (geode),
+  Elowen remembers                                     Book 4
 
-  Barlas's distant   Hostile observer, something        Proving 2 bond
-  recognition        shifted                            foundation, Ch 22 killing
+  Barlas's distant   Hostile observer, something       Proving 2 bond
+  recognition        shifted                           foundation, Ch 22 killing
 
-  Sera recalibrates  "You were closer" → he finally     Proving 3 trust, cohort
-                     acted                              dynamics
+  Sera recalibrates  "You were closer" → he finally    Proving 3 trust, cohort
+                     acted                             dynamics
 
-  Retainer's child   Political event in feudal system   Ch 7 consequences,
-  humiliated                                            Proving 2 rigging
+  Retainer's child   Political event in feudal system  Ch 7 consequences,
+  humiliated                                           Proving 2 rigging
 
-  Baret's threshold  Not a decision, a breaking point   Sorting rebellion (Ch
-  pattern                                               20), series-wide
+  Baret's threshold  Not a decision, a breaking point  Sorting rebellion (Ch
+  pattern                                              20), series-wide
 
-  Certainty          The pattern broke, no regret       Leadership style ---
-  replacing                                             conviction, not
-  self-loathing                                         calculation
+  Certainty          The pattern broke, no regret      Leadership style ---
+  replacing                                            conviction, not
+  self-loathing                                        calculation
 
-  The fight as       Ugly brawl, takes hits, frontier   Contrast with AI-enhanced
-  unheroic           basic                              Proving 3
+  The fight as       Ugly brawl, takes hits, frontier  Contrast with AI-enhanced
+  unheroic           basic                             Proving 3
 
-  Elowen's composure Someone fought for her, never      Character arc --- penance
-  cracking           happened before                    meets grace
+  Elowen's composure Someone fought for her, never     Character arc --- penance
+  cracking           happened before                   meets grace
 
-  Maia's fear        Baret did exactly what she feared  Ch 7 (consequences),
-  justified                                             Kesal thread (reread)
+  Maia's fear        Baret did exactly what she feared Ch 7 (consequences),
+  justified                                            Kesal thread (reread)
 
-  Town access        Privilege after Proving 1          The system created the
-  creating the                                          conditions for its own
-  conditions                                            challenge
-  -------------------------------------------------------------------------------
+  Town access        Privilege after Proving 1         The system created the
+  creating the                                         conditions for its own
+  conditions                                           challenge
+  ------------------------------------------------------------------------------
 
 --------------------------------------------------------------------------------
 
