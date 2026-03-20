@@ -21,7 +21,7 @@ real. Civilisation imploded.
 
 ## The Capsules
 
-Earth had been preparing the planet for generations. Probes identified it as
+Earth had been preparing the planet for generations. Probes identified it as a
 nearly habitable --- a world that needed a push, not creation from scratch.
 Terraforming systems were launched as a long-term project, landing on the
 surface to process atmosphere, seed microbial life, and deploy pioneer
@@ -137,35 +137,68 @@ works to anyone who asks the right questions.
 
 ## The Ulreth [[Ulreth]]
 
-The Ulreth are humanoid in appearance but divergent in every other respect ---
-stronger, faster to mature, and driven primarily by instinct rather than
-cognition. They are the product of a damaged terraforming capsule that stalled
-during its biological development sequence. Where the process was designed to
-refine organisms through successive stages toward full human complexity, the
-capsule's failures caused it to halt at an intermediate phase. The Ulreth are
-not a mistake in the sense of randomness --- they are an unfinished draft.
+The Ulreth are not a separate species. They are an unfinished draft ---
+intermediate-stage organisms from Capsule Two's rushed biological production
+sequence. The capsule, damaged in transit, accelerated through stages that were
+designed to refine organisms toward full human complexity, releasing organisms
+that should never have existed independently. The Ulreth are the most dramatic
+result, but not the only one --- every stage of the sequence released slightly
+wrong organisms, from predators that were too aggressive to herbivores with
+misaligned metabolic rates. These errors have been propagating through the
+planet's food webs for over a millennium. The Ulreth are the visible problem;
+the ecological contamination is the invisible one.
 
-They exist on a spectrum. Some are barely distinguishable from animals ---
-territorial, non-verbal, operating on pure aggression. Others are disturbingly
-close to human, capable of rudimentary speech, basic tool use, and behaviours
-that resemble emotion. This spectrum is not well understood by the humans who
-encounter them, and it forces an uncomfortable question: where exactly does the
-line fall between beast and person?
+They look human. Not metaphorically, not at a stretch --- at a distance or in
+poor light, an Ulreth could be mistaken for a person. The body plan is
+recognisably human: upright posture, bilateral symmetry, proportional limbs,
+faces with eyes and mouths that sit where a human's would. Up close, the
+differences emerge --- proportions slightly wrong, movement patterns that don't
+read as human, expressions that approximate human affect without quite landing
+--- but the resemblance is close enough to be viscerally uncomfortable. This is
+because they are products of the same biological sequence that produced humans,
+terminated before completion. They are not a different design. They are an
+earlier draft of the same one.
 
-The Ulreth mature rapidly but burn out fast. Their lifespans are short, their
-bodies disposable. This drives their aggressive proliferation --- not as
-strategy but as biological necessity. They do not value individual life because
-individually they are expendable, which makes negotiation with them functionally
-impossible. Despite their numbers and physical superiority, they remain bound by
-the limits of a pre-agricultural species. They spread wide across vast territory
-but cannot sustain dense populations, which is why a slower-developing human
-civilisation with farming and cooperation has survived alongside them.
+They exist on a spectrum, and that spectrum tracks with how far along the
+production sequence their lineage was when it was released. The majority operate
+at a high-animal level --- pack coordination, territorial behavior, learned
+hunting patterns. These are physically the most divergent from human appearance:
+heavier, rougher, moving in ways that read as animal despite the human frame.
+The upper end of the spectrum --- roughly ten to fifteen percent --- are the
+ones that unsettle anyone who sees them. They look more human, move more
+fluidly, and display behaviors that don't fit any animal category: tool crafting
+with observable forethought, cooperative behavior suggesting planning rather
+than instinct, flanking maneuvers that require anticipating human responses, and
+something resembling mourning --- lingering near their dead, vocalizations that
+change character, behavior that serves no survival purpose. They produce
+repeated sounds with apparent contextual meaning, though no human has decoded
+them. Frontier veterans who have spent decades listening know the sounds mean
+something. Most who hear this described dismiss it as animal noise.
+
+What keeps the "just animals" position tenable are the critical absences: no
+fire, no architecture beyond temporary shelters, no art, no agriculture, no food
+storage. These absences do the psychological work that appearance cannot. A
+creature that looks human but uses no fire and builds nothing permanent can be
+categorised as animal --- and for people who kill them regularly, that
+categorisation is not just theological convenience but emotional survival. The
+near-sapient behaviors are episodic and ambiguous enough that anyone who wants
+to can explain them away. Anyone who can't stops sleeping well.
+
+The Ulreth mature rapidly, burn out fast, and proliferate aggressively ---
+r-strategists producing many offspring with high mortality. Despite their
+numbers and physical robustness, they remain bound by the limits of a
+pre-agricultural species. They spread across vast territory but cannot sustain
+dense populations, which is why a slower-developing human civilisation with
+farming and cooperation has survived alongside them. Whether negotiation with
+near-sapient creatures is possible, and whether their apparent indifference to
+individual death is real or a projection by humans who find it convenient, are
+questions the series deliberately leaves unresolved.
 
 Their existence poses a question that gains weight as the series progresses: if
-the Ulreth are unfinished humans moving upward on the spectrum, what happens
-when humans begin unlocking latent capabilities and interfacing with ancient
-technology? Are they becoming something beyond human --- moving up their own
-spectrum in a different direction?
+the Ulreth and humans share a biological origin --- both products of the same
+capsule technology launched from Earth --- then where exactly does the line fall
+between beast and person? Every faction in the story gets this wrong in a
+different way, and the answer never arrives.
 
 --------------------------------------------------------------------------------
 
@@ -181,12 +214,12 @@ racial and regional diversity in the present era is not the product of thousands
 of years of environmental adaptation but the recombination and geographic
 separation of traits that were engineered into the founding population.
 
-### Symbiont Degradation
+### Symbiont Degradation [[Science_Reference]]
 
 The symbiont interface was engineered as a universal human capability --- every
 individual produced by the capsule carried the full genetic architecture for it.
 But the system that would have activated and maintained this architecture was
-destroyed before humans ever emerged. For over seven hundred years, the
+destroyed before humans ever emerged. For over thirteen hundred years, the
 interface served no function. It provided no survival advantage, no reproductive
 benefit, no visible trait. In biological terms, it was dead code --- complex
 genetic sequences that natural selection could neither reward nor punish.
@@ -205,92 +238,36 @@ designed this inequality. It emerged from centuries of biological indifference
 
 --------------------------------------------------------------------------------
 
-## Timeline
+## Timeline [[Timeline]]
 
-  -----------------------------------------------------------------------------
-  Period                    Years from Landing        Events
-  ------------------------- ------------------------- -------------------------
-  Terraforming              0--400                    Both capsules begin
-                                                      ecosystem construction.
-                                                      Atmosphere, soil, flora,
-                                                      fauna developed in
-                                                      stages.
-
-  Ulreth Emergence          \~200--300                Capsule Two produces the
-                                                      Ulreth. Simpler biology
-                                                      allows faster production.
-                                                      They spread and establish
-                                                      territory.
-
-  Capsule One Damaged       \~250--350                Ulreth encounter Capsule
-                                                      One. Territorial
-                                                      aggression damages
-                                                      teaching,
-                                                      knowledge-transfer, and
-                                                      activation systems. Core
-                                                      biological program
-                                                      survives.
-
-  Human Emergence           \~400--500                Capsule One produces
-                                                      first humans. Embedded
-                                                      biological skills only.
-                                                      No education, no history,
-                                                      no symbiont activation.
-
-  Tribal Phase              500--700                  Small settlements,
-                                                      subsistence agriculture,
-                                                      oral traditions.
-                                                      Population grows from
-                                                      hundreds to low
-                                                      thousands.
-
-  Town Formation            700--900                  Population reaches tens
-                                                      of thousands.
-                                                      Proto-feudal structures
-                                                      emerge. Early relic
-                                                      interactions discovered
-                                                      --- partial, unreliable,
-                                                      poorly understood. Power
-                                                      concentrates around relic
-                                                      access.
-
-  Feudal Society            900--1100                 Population in the
-                                                      hundreds of thousands.
-                                                      Multiple territories,
-                                                      trade networks, religious
-                                                      institutions built around
-                                                      relic mythology. Class
-                                                      stratification between
-                                                      those with partial
-                                                      relic-activated abilities
-                                                      and those without.
-
-  Book One                  \~1100+                   Population approximately
-                                                      500,000 to 1 million.
-                                                      Feudal structures
-                                                      entrenched. Symbiont
-                                                      compatibility varies
-                                                      widely across bloodlines.
-                                                      The true origin of
-                                                      humanity, the Ulreth, and
-                                                      the relics is completely
-                                                      unknown.
-  -----------------------------------------------------------------------------
+| Period | Years from Landing | Events |
+|---------------------------|---------------------------|---------------------------|
+| Terraforming | 0--400 | All three capsules arrive. Robotic terraforming phase --- atmospheric processing, soil creation, microbial life, pioneer vegetation. Pure infrastructure. |
+| Ulreth Emergence | \~100--200 | Capsule Two, damaged and rushing its sequence, produces the Ulreth early. They spread territorially. |
+| Continued Ecosystem Seeding | \~300--400 | Capsule One continues correct sequencing. Staged ecological packages: simple organisms first, then progressively complex fauna. |
+| Human Production | \~400--406 | Capsule One produces approximately 200 children across age cohorts. Robotic caretakers raise them. Language acquisition, basic education, environmental knowledge. |
+| The Attack | \~406 | Ulreth encounter and attack Capsule One's facility. Robotic caretakers, educational infrastructure, and activation infrastructure destroyed. Mainframe and biological core survive in hardened architecture. Youngest children die. Oldest (\~8--10) become de facto parents. |
+| Founding Mythology | \~406--500 | Fragmentary memories of the facility become mythology. "The metal mothers." "The before-place." True history completely buried within 2--3 generations. |
+| Settlement Phase | \~500--700 | Population grows slowly under high-mortality conditions. Subsistence communities. Oral tradition dominates. Seed language begins diverging into regional dialects. |
+| Proto-Feudal Phase | \~700--900 | Population reaches tens of thousands. Agricultural surplus enables specialisation. Strongmen identify symbiont-capable bloodlines, build hierarchies. The Interrupted Promise crystallises as formal religion --- three pillars: origin, activation, prohibition-on-understanding. |
+| Feudal Consolidation | \~900--1,100 | Population reaches hundreds of thousands. Regional lords, a monarchy. Trade networks. Capsule One incorporated into later construction --- armour walls repurposed as foundations, chambers as ceremonial spaces. Accessing it is a political problem, not an exploration problem. |
+| Late Feudal / Pre-Story | \~1,100--1,200 | Population 4--8 million. 2--3 complete cycles of empire-building and collapse. Symbiont degradation now severe: \~15--25% functional, \~20--30% partial, \~45--60% non-functional. Noble families increasingly perform symbiont status rather than demonstrate it. |
+| Book One | \~1,300 | Approximately 900 years after human emergence. Haldrin's trial system established \~50 years prior. Tanapun conquered \~30 years prior. Baret is 16. |
 
 --------------------------------------------------------------------------------
 
 ## Open Questions
 
-- **Capsule Three discovery:** How and when is the dormant military AI capsule
-  found? What triggers its threat?
-- **Capsule Two access:** How do humans first learn of a second capsule in
-  Ulreth territory? What drives the expedition?
-- **Founding cohort structure:** Were all two hundred humans produced
-  simultaneously or in cohorts over decades? Cohorts would create natural
-  age-based hierarchies from the start.
+- **Capsule Three discovery mechanism:** Kullen discovers it during exile (Years
+  2--3 of the story timeline). What leads him to it? Current gap: the capsule
+  has sat undiscovered for \~1,300 years and a single exile finds it within a
+  year. A breadcrumb trail through Haldrin's family lore would be stronger than
+  coincidence.
 - **Ulreth cognitive ceiling:** Is the spectrum fixed or are the Ulreth still
   slowly evolving? Could they eventually reach human-level cognition without
   intervention?
-- **Capsule One residual function:** Is the capsule fully inert or do some
-  subsystems still flicker, producing the partial activations and relic
-  interactions that seed the religious tradition?
+- **Capsule One residual function:** The mainframe survived in hardened
+  architecture. Is it fully inert by the story's era, or do some subsystems
+  still flicker? The capsule has been incorporated into later construction and
+  is accessible within religious territory --- its current functional state
+  affects what Baret finds when he accesses it.

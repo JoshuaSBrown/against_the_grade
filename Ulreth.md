@@ -36,10 +36,20 @@ Interrupted Promise faith.
 
 ### Physical Characteristics
 
-The Ulreth are physically robust, territorial, and instinct-driven. They exist
-on a biological spectrum from barely animal to disturbingly close to human.
-Short lifespans drive aggressive proliferation --- they are r-strategists,
-producing many offspring with high mortality.
+The Ulreth look human. Not metaphorically, not at a stretch --- at a distance or
+in poor light, an Ulreth could be mistaken for a person. The body plan is
+recognisably human: upright posture, bilateral symmetry, proportional limbs,
+faces with eyes and mouths that sit where a human's would. Up close, the
+differences emerge --- proportions slightly wrong, movement patterns that don't
+read as human, expressions that approximate human affect without quite landing
+--- but the resemblance is close enough to be viscerally uncomfortable. This is
+because they are products of the same biological sequence that produced humans,
+terminated before completion. They are not a different design. They are an
+earlier draft of the same one.
+
+They are physically robust, territorial, and instinct-driven. Short lifespans
+drive aggressive proliferation --- they are r-strategists, producing many
+offspring with high mortality.
 
 They lack the cognitive architecture for the symbiont interface. Capsule Two's
 activation infrastructure exists and is functional, but the Ulreth are the wrong
@@ -50,9 +60,14 @@ reaching the stage where symbiont compatibility would have been encoded.
 
 **Decided: Near-sapient (early hominin level) at the upper end.**
 
-Most Ulreth operate at a high-animal level --- pack coordination, territorial
-behavior, learned hunting patterns. The outliers, roughly 10--15% of the
-population, display behaviors that unsettle anyone who witnesses them:
+The spectrum is not purely behavioral --- it tracks with how far along the
+production sequence each individual's lineage was when it was released. Most
+Ulreth operate at a high-animal level --- pack coordination, territorial
+behavior, learned hunting patterns. These are physically the most divergent from
+human appearance: heavier, rougher, moving in ways that read as animal despite
+the human frame. The outliers, roughly 10--15% of the population, look more
+human, move more fluidly, and display behaviors that unsettle anyone who
+witnesses them:
 
 **Tool crafting, not just tool use.** Shaping materials into implements with
 observable forethought. Not sophisticated --- no hafting, no composite tools ---
@@ -74,9 +89,12 @@ most who hear it described dismiss it as animal noise.
 
 **Critical absences.** No fire. No architecture beyond temporary shelters. No
 art. No visible ritual beyond death-related behavior. No agriculture or food
-storage. These absences are what let mainstream human society maintain the
-"they're just animals" position. The near-sapient behaviors are episodic and
-ambiguous enough that anyone who wants to can explain them away.
+storage. These absences do the psychological work that appearance cannot. A
+creature that looks human but uses no fire and builds nothing permanent can be
+categorised as animal --- and for people who kill them regularly, that
+categorisation is not just theological convenience but emotional survival. The
+near-sapient behaviors are episodic and ambiguous enough that anyone who wants
+to can explain them away. Anyone who can't stops sleeping well.
 
 ## 3. Population and Territory
 
@@ -117,12 +135,12 @@ The carrying density is the primary adjustable parameter. The degraded Capsule
 Two ecosystem --- every stage of its rushed biological sequence released
 slightly wrong organisms --- provides justification for lower density:
 
-  Carrying Density   Total Population   Ratio (vs 8M humans)   Narrative Scale
-  ------------------ ------------------ ---------------------- -----------------------------------
-  0.25 / sq mi       \~2,700,000        2.9:1                  Civilizational existential threat
-  0.10 / sq mi       \~1,090,000        7.3:1                  Major regional power
-  0.05 / sq mi       \~545,000          14.7:1                 Serious frontier problem
-  0.025 / sq mi      \~273,000          29.3:1                 Persistent military challenge
+| Carrying Density | Total Population | Ratio (vs 8M humans) | Narrative Scale |
+|:---|:---|:---|:---|
+| 0.25 / sq mi | \~2,700,000 | 2.9:1 | Civilizational existential threat |
+| 0.10 / sq mi | \~1,090,000 | 7.3:1 | Major regional power |
+| 0.05 / sq mi | \~545,000 | 14.7:1 | Serious frontier problem |
+| 0.025 / sq mi | \~273,000 | 29.3:1 | Persistent military challenge |
 
 **Decision needed:** Which population scale best serves the story? The larger
 the Ulreth population, the more justified Haldrin's defensive posture and the
@@ -139,14 +157,20 @@ finds distasteful or delusional depending on which direction those opinions go.
 **Dominant frontier view: dangerous pests, kill on sight.** Most border
 communities have lost people to Ulreth raids. They don't philosophize about
 Ulreth intelligence because abstract questions feel obscene when your neighbor
-was dragged out of a farmstead at night. This view aligns with the feudal lord's
-military posture.
+was dragged out of a farmstead at night. The visual resemblance makes this
+posture psychologically costly --- killing something that looks human requires
+maintaining the fiction that it is not, and that fiction must be reinforced
+daily. This view aligns with the feudal lord's military posture and depends on
+it. The institutional framework that says "they are animals" is what lets
+frontier soldiers function.
 
 **Minority frontier view: something's wrong with the story we tell ourselves.**
 Old scouts, veteran soldiers, hunters who've spent decades in the borderlands.
 They don't necessarily have a coherent theory --- they just know that what
-they've seen doesn't match "dangerous animal." These people are the living
-source material for the Kinship heresy, whether or not they've ever heard of it.
+they've seen doesn't match "dangerous animal." These are the people who looked
+too closely at human-looking faces while killing them and couldn't maintain the
+psychological fiction. They are the living source material for the Kinship
+heresy, whether or not they've ever heard of it.
 
 **Urban society's view: irrelevant frontier problem.** People in the capital and
 secondary cities have never seen a Ulreth. The border conflict is a distant tax
@@ -189,12 +213,16 @@ Ulreth are alive, then the Ulreth are part of the design.
 
 **Why it's suppressed:** Orthodox doctrine requires the Ulreth to be
 fundamentally other --- not part of the design, not children of the metal
-mothers, not deserving of moral consideration. The Ulreth-as-interrupters is not
-just a theological point. It is the justification for territorial expansion, for
-violence against Ulreth populations, for treating an entire species as a threat
-to be managed rather than a people to be understood. A tradition that says "they
-are our kin" is not just heretical. It is politically treasonous because it
-undermines the moral framework that permits organized violence against them.
+mothers, not deserving of moral consideration. The visual resemblance between
+Ulreth and humans makes this position harder to sustain and the suppression more
+aggressive --- the doctrine is not merely theological but psychological,
+maintaining a fiction that an entire frontier society depends on to function.
+The Ulreth-as-interrupters is not just a theological point. It is the
+justification for territorial expansion, for violence against Ulreth
+populations, for treating an entire species as a threat to be managed rather
+than a people to be understood. A tradition that says "they are our kin" is not
+just heretical. It is politically treasonous because it undermines the moral
+framework that permits organized violence against them.
 
 **Narrative function:** The Kinship heresy is closer to the truth than any other
 theological position. When Baret discovers the shared capsule origin, this
@@ -234,7 +262,10 @@ organized defense. Baret's triumph created the conditions for the attack.
 fit the "mindless monster" narrative. \[Gap: specific encounter not yet decided.
 Options: mourning behavior over Ulreth dead from the village raid; a
 near-sapient individual making a deliberate non-hostile choice; tool crafting
-beyond animal capability; proto-communication.\]
+beyond animal capability; proto-communication. Note: the Ulreth's visual
+resemblance to humans raises the stakes of any of these options significantly
+--- Baret is watching human-looking creatures display behavior that contradicts
+the "animal" categorisation.\]
 
 **Capsule Two access.** The Ulreth's territorial presence around Capsule Two
 becomes a geopolitical problem. Who gets to make the dangerous journey through
@@ -336,32 +367,13 @@ gap, indifferent to human politics.
 
 The Ulreth thread escalates in parallel with the political evolution:
 
-  -----------------------------------------------------------------------------
-  Book                      Ulreth Function           Scale
-  ------------------------- ------------------------- -------------------------
-  1                         Immediate physical        Local --- one village,
-                            threat; justifies feudal  one lord's territory
-                            system                    
-
-  2                         Consequence of            Personal --- father's
-                            protagonist's choices;    death, Baret's guilt
-                            ambiguous encounter seeds 
-                            doubt                     
-
-  3                         Political detonation via  Institutional ---
-                            shared-origin discovery   threatens religious
-                            from Capsule One data     doctrine, economic plans,
-                                                      frontier identity
-
-  4                         Populist wedge issue;     National --- splits
-                            exile encounter grounds   coalitions, weaponized by
-                            the abstraction           Kullen's movement
-
-  5                         Civilizational            Existential --- frontier
-                            consequence of engineered defense crumbles, Ulreth
-                            institutional collapse    expand, father-son
-                                                      pattern rhymes
-  -----------------------------------------------------------------------------
+| Book | Ulreth Function | Scale |
+|:-------------------------|:-------------------------|:-------------------------|
+| 1 | Immediate physical threat; justifies feudal system | Local --- one village, one lord's territory |
+| 2 | Consequence of protagonist's choices; ambiguous encounter seeds doubt | Personal --- father's death, Baret's guilt |
+| 3 | Political detonation via shared-origin discovery from Capsule One data | Institutional --- threatens religious doctrine, economic plans, frontier identity |
+| 4 | Populist wedge issue; exile encounter grounds the abstraction | National --- splits coalitions, weaponized by Kullen's movement |
+| 5 | Civilizational consequence of engineered institutional collapse | Existential --- frontier defense crumbles, Ulreth expand, father-son pattern rhymes |
 
 ## 8. Thematic Function
 
@@ -389,9 +401,10 @@ tension is exactly the kind of costly compromise the series ending is built for.
 The Ulreth never change across five books. They are 2.7 million near-sapient
 creatures doing what they've always done --- expanding into available territory,
 competing for resources. Every human faction projects its own politics onto
-them. The species that is genuinely beyond human categories of freedom and
-equality becomes the mirror in which every human system reveals its failure
-mode.
+them. A species that is visually inside human categories but behaviorally
+outside them --- close enough to look like people, far enough to defy every
+framework humans use to categorise personhood --- becomes the mirror in which
+every human system reveals its failure mode.
 
 ## 9. Open Gaps
 
@@ -420,11 +433,26 @@ mode.
   relationship to the Ulreth landmass (same connected body? across a strait?
   different continent entirely?) affects the border conflict's physical
   geography.
+- **Physical spectrum specificity.** The lower end of the Ulreth spectrum is
+  described as heavier, rougher, moving in ways that read as animal despite the
+  human frame. The upper end passes for human at a distance. Decision needed:
+  could someone mistake a lower-spectrum Ulreth for human, or only the upper
+  end? If even the most animal-like ones have recognisably human faces, the
+  psychological burden on frontier society is universal. If only the upper end
+  passes, most encounters are with obviously-not-human creatures and the
+  disturbing resemblance is rarer. This affects how the frontier culture
+  functions and how the Kinship heresy spreads.
 
 ## 10. Consistency Checklist
 
 - [ ] The Ulreth are intermediate-stage organisms from Capsule Two's rushed
   biological sequence --- not a separate species, not random wildlife
+- [ ] The Ulreth look human --- at a distance or in poor light, mistakable for a
+  person. Differences emerge up close: proportions slightly wrong, movement
+  patterns that don't read as human, expressions that approximate without
+  landing
+- [ ] The physical spectrum tracks with production sequence stage --- more
+  divergent at the lower end, more human-looking at the upper end
 - [ ] Near-sapient at the upper end (10--15% of population), high-animal level
   for the majority
 - [ ] Produced approximately a century before humans --- already established and
@@ -444,3 +472,5 @@ mode.
   constant against which every human system is measured
 - [ ] The Ulreth question remains unresolved at series end --- part of the
   costly compromise
+- [ ] The visual resemblance makes the "fundamentally other" doctrine a
+  psychological fiction that frontier society actively maintains to function

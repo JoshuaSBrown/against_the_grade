@@ -100,7 +100,7 @@ are disrupted at any stage, the axon misroutes, terminates early, or fails to
 form entirely. This threshold behavior is why the conduit is the most vulnerable
 component to genetic drift.
 
-## 1.4 The Hand Mark
+## 1.4 The Hand Mark - Glyph
 
 Where the conduit terminates, the dense cluster of specialized neurons produces
 a visible biological mark on the palm. This results from different
@@ -158,17 +158,15 @@ activation or AI upload. Always active in every human from birth, regardless of
 symbiont status. These are the biological equivalent of firmware --- they run on
 the base hardware and do not require the symbiont at all.
 
-**Examples:** Language acquisition (a shared linguistic framework enabling
-mutual intelligibility across populations from different capsules), basic
-cooperation instincts, fundamental survival behaviors calibrated to the planet's
-specific conditions, intuitive identification of edible versus toxic flora and
-fauna from the terraforming ecosystem.
+**Examples:** Basic cooperation instincts, fundamental survival behaviors
+calibrated to the planet's specific conditions, intuitive identification of
+edible versus toxic flora and fauna from the terraforming ecosystem.
 
 **Engineering Design:** Built with redundancy and error correction because these
 systems had to function without maintenance. The terraforming engineers
 anticipated elevated radiation and ensured survival-critical capabilities would
 be robust across generations. This is why embedded skills remain largely intact
-after 700 years while the symbiont interface has degraded.
+after 1300 years while the symbiont interface has degraded.
 
 ## 2.2 Latent Skills (Dormant)
 
@@ -188,7 +186,7 @@ The symbiont interface was engineered as a universal human capability. Every
 individual produced by the capsule carried the full genetic architecture. But
 the system that would have maintained this architecture --- the educational and
 genetic calibration robots --- was destroyed by the Ulreth before humans
-emerged. For over 700 years, the interface served no function and was invisible
+emerged. For over 1300 years, the interface served no function and was invisible
 to natural selection. Complex systems that go unmaintained degrade.
 
 ## 3.1 Core Mechanism: Neutral Mutation Accumulation
@@ -209,10 +207,16 @@ interface is far more complex than an eye.
 base pair per generation assumes a mature magnetosphere, a fully developed ozone
 layer, and billions of years of geodynamo stability. A terraformed planet lacks
 one or more of these protections. Terraforming can reshape atmosphere and
-surface but cannot spin up a planetary magnetic dynamo. Combined with a thin
-ozone layer (only 700 years of oxygen chemistry), the planet's surface radiation
-is estimated at 5--10x Earth levels. At 8x Earth radiation, the effective
-mutation rate is approximately 9.6×10⁻⁸ per base pair per generation.
+surface but cannot spin up a planetary magnetic dynamo. After 1,300 years of
+oxygen chemistry the ozone layer provides reasonable UV attenuation, but ozone
+is irrelevant to charged-particle radiation --- galactic cosmic rays and solar
+energetic particles are deflected by a magnetosphere, not filtered by
+atmospheric chemistry. Without that magnetic shield, chronic GCR flux and
+periodic solar-particle events reach the surface largely unimpeded. Combined
+with an atmospheric column density still slightly below Earth-standard, the
+planet's effective mutagenic radiation load is estimated at 5--10× Earth levels.
+At 8× Earth radiation, the effective mutation rate is approximately 9.6×10⁻⁸ per
+base pair per generation.
 
 **2. Developmental Threshold Effects:** The neural conduit is not just a set of
 proteins. It is a developmental structure that must form correctly during
@@ -240,50 +244,35 @@ mutations, creating regional patchwork: one community has degraded hippocampal
 genes, another has degraded motor cortex genes, another is mostly intact.
 
 **6. Shorter Generation Time:** In a medieval society with reproduction at
-16--18 years, 700 years produces approximately 38--44 generations rather than
-the 30 generations assumed at modern generation times. More generations means
+16--18 years, 1,300 years produces approximately 72--81 generations rather than
+the 52 generations assumed at modern generation times. More generations means
 more opportunities for mutation accumulation.
 
 ## 3.3 Population Distribution (8x Radiation Model)
 
-The following distribution uses 8x Earth radiation, 38 generations (18-year
+The following distribution uses 8x Earth radiation, 72 generations (18-year
 generation time), developmental threshold effects, regulatory region
 vulnerability, and haploinsufficiency. This represents the large lowland
 population.
 
-  ---------------- -------------- ---------------------------------------------
-  **Tier**         **Population   **Description**
-                   %**            
-
-  Fully Functional \~30--40% C    onduit formed, all three interface subsystems
-                                  intact, clear hand mark, upload-ready
-
-  Partially        \~15--25% C    onduit formed but one or more interface
-  Degraded                        subsystems degraded; mark present but
-                                  function limited or unreliable
-
-  Non-Functional   \~40--50% C    onduit absent or broken; no mark or vestigial
-                                  mark; symbiont brain may still be viable but
-                                  no pathway to activate it
-  ---------------- -------------- ---------------------------------------------
+| **Tier** | **Population %** | **Description** |
+|---------------------------|---------------------------|---------------------------|
+| Fully Functional | \~10--15% | Conduit formed, all three interface subsystems intact, clear hand mark, upload-ready |
+| Partially Degraded | \~20--30% | Conduit formed but one or more interface subsystems degraded; mark present but function limited or unreliable |
+| Non-Functional | \~55--65% | Conduit absent or broken; no mark or vestigial mark; symbiont brain may still be viable but no pathway to activate it |
 
 Among those with formed conduits, subsystem integrity varies:
 
-  ------------------------- ----------------------------- ----------------------
-  **Interface Subsystem**   **% Intact (8x Radiation)**   **Genes Involved**
-
-  Cerebral Cortex           \~85% 1                       5 genes
-
-  Motor Cortex              \~88% 1                       2 genes
-
-  Hippocampal               \~90% 1                       0 genes
-  ------------------------- ----------------------------- ----------------------
+| **Interface Subsystem** | **% Intact (8x Radiation)** | **Genes Involved** |
+|-------------------------|-----------------------------|--------------------|
+| Cerebral Cortex         | \~65%                       | 15 genes           |
+| Motor Cortex            | \~70%                       | 12 genes           |
+| Hippocampal             | \~75%                       | 10 genes           |
 
 Note: The hippocampal interface has the fewest genes and therefore the highest
-individual retention rate. However, in small isolated communities, founder
-effects can fix any specific subsystem's genes as damaged regardless of size.
-Barrett's mountain community has hippocampal genes fixed as non-functional due
-to a bottleneck event approximately 15--20 generations ago.
+individual retention rate. This actually serves the purposes of the story,
+because it should not have been a problem Kullen runs into before deploying it
+on Baret, it should work on his brother.
 
 ## 3.4 Small Isolated Communities
 
@@ -323,10 +312,11 @@ planet happened to already possess one, the surface receives unfiltered solar
 wind and cosmic radiation. Mars, lacking a magnetosphere, experiences 60x
 Earth's surface radiation.
 
-**Incomplete Ozone Layer:** Ozone requires free oxygen and UV to form O₃. Even
-with a terraformed oxygen atmosphere, full ozone equilibrium takes decades to
-centuries. At 700 years, the ozone layer may be present but thinner than
-Earth's.
+**Incomplete Ozone Layer:** Ozone requires free oxygen and UV to form O₃. After
+1,300 years of oxygen photochemistry, the ozone layer provides reasonable UV
+attenuation but remains thinner than Earth's mature equilibrium. However, ozone
+filters UV only --- it does not attenuate charged-particle radiation (GCR, solar
+energetic particles), which is governed by the magnetosphere.
 
 **Geological Radioactivity:** A young, volcanically active planet has more
 surface radioactive material (radon, uranium, thorium in soils), adding chronic
@@ -338,32 +328,19 @@ particles.
 
 ## 4.2 Radiation Level Justification
 
-  ---------------- ----------------------- -------------------------------------
-  **Multiplier**   **Earth Equivalent**    **Scenario**
-
-  1x               Standard Earth          Strong magnetosphere, full ozone,
-                                           stable star
-
-  2--3x            High altitude /         One factor degraded
-                   depleted ozone          
-
-  5x               Weak magnetosphere OR   Moderate --- one major factor absent
-                   thin ozone              
-
-  8x               Weak magnetosphere AND  Recommended for narrative ---
-                   thin ozone              aggressive but defensible
-
-  10x              No magnetosphere, thin  Upper plausible bound with atmosphere
-                   ozone                   
-
-  20x              Mars-like (reduced by   Implausible if atmosphere is
-                   atmosphere)             breathable
-  ---------------- ----------------------- -------------------------------------
+| **Multiplier** | **Earth Equivalent** | **Scenario** |
+|---------------------------|---------------------------|---------------------------|
+| 1x | Standard Earth | Strong magnetosphere, full ozone, stable star |
+| 2--3x | High altitude / depleted ozone | One factor degraded |
+| 5x | Weak magnetosphere OR thin ozone | Moderate --- one major factor absent |
+| 8x | Weak magnetosphere, moderate ozone, no GCR shielding | Recommended for narrative --- aggressive but defensible |
+| 10x | No magnetosphere, thin ozone | Upper plausible bound with atmosphere |
+| 20x | Mars-like (reduced by atmosphere) | Implausible if atmosphere is breathable |
 
 **Recommended:** 8x Earth radiation. This produces the narrative-required
-population distribution (\~30--40% functional, \~40--50% non-functional) while
+population distribution (\~10--15% functional, \~55--65% non-functional) while
 remaining scientifically defensible for a planet with a breathable atmosphere
-but weak magnetosphere and thin ozone.
+but weak magnetosphere and limited GCR shielding.
 
 ## 4.3 Human Viability at 8x Radiation
 
@@ -398,40 +375,17 @@ Each component of the symbiont system is evaluated against current neuroscience,
 bioengineering, and biology research (as of 2025). Ratings assume a civilization
 significantly more advanced than current Earth.
 
-  ---------------- ------------ -----------------------------------------------
-  **Component**    **Rating**   **Key Scientific Basis**
-
-  Second brain     7/10         Enteric nervous system (500M neurons), cerebral
-  organ                         organoids implanted in animal brains forming
-                                functional connections
-
-  Vegetative       8/10         Stem cell quiescence, immune memory cells,
-  dormancy                      epigenetic silencing
-
-  Brain-to-brain   6/10         Corpus callosum (200--250M axons), experimental
-  interface                     brain-to-brain interfaces, organoid integration
-                                studies
-
-  Neural conduit   8/10         Median nerve pathway, axon guidance cues
-  to hands                      (netrins, semaphorins, ephrins), peripheral
-                                nerve regeneration
-
-  Visible hand     9/10         Vascularization differences, innervation
-  mark                          density, engineered pigment proteins
-
-  AI upload (boot  6/10         Long-term potentiation/depression,
-  sequence)                     cochlear/retinal implants, pre-patterned
-                                architecture model
-
-  Cognitive        7/10         Parallel neural processing, corpus callosum
-  enhancement                   bandwidth, internal monologue routing
-
-  Motor cortex     6/10         Cerebellar motor correction, competing motor
-  override                      systems, body model calibration
-
-  Memory           4/10         Memory reconsolidation research, propranolol
-  manipulation                  studies, hippocampal lability window
-  ---------------- ------------ -----------------------------------------------
+| **Component** | **Rating** | **Key Scientific Basis** |
+|---------------------------|---------------------------|---------------------------|
+| Second brain organ | 7/10 | Enteric nervous system (500M neurons), cerebral organoids implanted in animal brains forming functional connections |
+| Vegetative dormancy | 8/10 | Stem cell quiescence, immune memory cells, epigenetic silencing |
+| Brain-to-brain interface | 6/10 | Corpus callosum (200--250M axons), experimental brain-to-brain interfaces, organoid integration studies |
+| Neural conduit to hands | 8/10 | Median nerve pathway, axon guidance cues (netrins, semaphorins, ephrins), peripheral nerve regeneration |
+| Visible hand mark | 9/10 | Vascularization differences, innervation density, engineered pigment proteins |
+| AI upload (boot sequence) | 6/10 | Long-term potentiation/depression, cochlear/retinal implants, pre-patterned architecture model |
+| Cognitive enhancement | 7/10 | Parallel neural processing, corpus callosum bandwidth, internal monologue routing |
+| Motor cortex override | 6/10 | Cerebellar motor correction, competing motor systems, body model calibration |
+| Memory manipulation | 4/10 | Memory reconsolidation research, propranolol studies, hippocampal lability window |
 
 **Overall:** 6--7/10 for an advanced civilization. The weakest links are the
 upload mechanism and memory manipulation, both of which require the most
@@ -483,12 +437,12 @@ itself into the capsule's core navigation and landing systems. Safety mechanisms
 destroyed the capsule's biological payload but could not erase the AI without
 crashing the capsule.
 
-## 6.2 700-Year Dormancy
+## 6.2 1,300-Year Dormancy
 
-The military AI has been sitting in Capsule Three's systems for over 700 years.
-This requires a long-duration power source --- nuclear or geothermal tap ---
-maintaining the capsule's core systems in low-power state. The AI is dormant in
-unpowered storage until Cullen arrives and reactivates the capsule's systems.
+The military AI has been sitting in Capsule Three's systems for over 1,300
+years. This requires a long-duration power source --- nuclear or geothermal tap
+--- maintaining the capsule's core systems in low-power state. The AI is dormant
+in unpowered storage until Cullen arrives and reactivates the capsule's systems.
 
 ## 6.3 Functional Design
 
@@ -496,15 +450,8 @@ The military AI is not sentient and does not have its own will. It is a tool
 functioning exactly as designed --- its design is simply monstrous. It was built
 to compromise enemy combatants by altering memories and rewriting loyalties. It
 has operational parameters, targeting protocols, and a mission architecture
-optimized for propagation through command structures.
-
-**Critical Danger:** The AI's built-in deployment logic may not limit itself to
-the user's target list. It was designed to propagate from compromised hosts to
-adjacent high-value targets automatically. Cullen points it at specific
-officials, but the AI's operational parameters may expand the target set beyond
-his intent. The son is making exactly the same mistake Earth made.
-
-## 6.4 Susceptibility and Immunity
+optimized for propagation through command structures. \## 6.4 Susceptibility and
+Immunity
 
 Susceptibility to the military AI correlates with the strength of the
 hippocampal interface. The people most connected to the benign technology ---
@@ -541,19 +488,19 @@ educational robots did not get to finish theirs.
 
 ## 7.2 The Three Capsules
 
-**Capsule One:** Arrived intact. Successfully produced approximately 200 human
+**[[Capsule1]]:** Arrived intact. Successfully produced approximately 200 human
 children across age cohorts (up to age 10). Educational infrastructure was
 destroyed by the Ulreth before children reached the age for receiving historical
 context, leaving survivors with language and basic skills but no knowledge of
 their origins.
 
-**Capsule Two (Damaged):** Errors in its code caused the developmental sequence
+**[[Capsule2]] (Damaged):** Errors in its code caused the developmental sequence
 to produce a sub-human species --- the Ulreth. Primitive, instinctual, and
 aggressive. Failed terraforming organisms, not a mythological beast race. The
 Ulreth attacked Capsule One's educational infrastructure before human children
 emerged.
 
-**Capsule Three (Infected):** Carrying the military AI virus. Safety mechanisms
+**[[Capsule3]] (Infected):** Carrying the military AI virus. Safety mechanisms
 destroyed life-creation capability but could not erase the AI, which had
 integrated into core navigation systems. Landed intact with dormant AI in
 storage. Located beyond the frontier of human expansion, eventually discovered
@@ -574,7 +521,7 @@ head. Decision needed: can Barrett always distinguish his own thoughts from the
 AI's communication? In high-stress scenes, whose judgment drives decisions? Does
 the AI have a distinct 'tone' or personality in its communication?
 
-**2. Capsule Three Power Source:** The military AI has been dormant for 700+
+**2. Capsule Three Power Source:** The military AI has been dormant for 1,300+
 years. What powers the capsule's core systems? Nuclear or geothermal are most
 plausible. Should be stated explicitly in the text.
 
@@ -595,5 +542,5 @@ sensory language.
 **6. Population Growth Recalculation:** The radiation model produces shorter
 lifespans and slightly lower fertility. The existing population growth
 calculations (based on 1--1.5% annual growth) may need downward adjustment,
-potentially reducing the 700-year population from millions to hundreds of
+potentially reducing the 1,300-year population from millions to hundreds of
 thousands.
