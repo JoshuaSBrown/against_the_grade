@@ -17,7 +17,7 @@ him. He is not governing, not ssets/Planet Surface.png holding office. He\'s the
 founder of a republic that rejected him. The ssets/Planet Surface.png chapter
 establishes his daily reality --- bitter, restless, watching ssets/Planet
 Surface.png from the outside through Elowen\'s intelligence reports funneled to
-his ssets/Planet Surface.png AI. Dalin is estranged. His war companions are
+his ssets/Planet Surface.png AI. Darek is estranged. His war companions are
 scattered. Some absorbed ssets/Planet Surface.png into the new order, some
 drifted away, some he pushed away himself. The ssets/Planet Surface.png republic
 continues without him and from the outside, it functions. ssets/Planet
@@ -45,7 +45,7 @@ with. ssets/Planet Surface.png
 ssets/Planet Surface.png Reader experience: We meet a diminished Baret. The
 revolutionary fire is ssets/Planet Surface.png gone. He\'s older, angrier, and
 nursing years of resentment --- ssets/Planet Surface.png particularly toward
-Dalin, whose Book 4 decision he\'s never forgiven. ssets/Planet Surface.png His
+Darek, whose Book 4 decision he\'s never forgiven. ssets/Planet Surface.png His
 knowledge of the backstory is established naturally --- not as ssets/Planet
 Surface.png exposition but as the furniture of his thinking. The gaps in his
 ssets/Planet Surface.png knowledge register as accepted limitations, not active
@@ -313,12 +313,12 @@ coming. ssets/Planet Surface.png The physical raids keep the pacing active
 between the analytical ssets/Planet Surface.png pattern-recognition work.
 ssets/Planet Surface.png
 
-ssets/Planet Surface.png **Chapter 8 --- Dalin** The pattern forces Baret to
-look backward. ssets/Planet Surface.png Dalin\'s decision in Book 4 --- the one
+ssets/Planet Surface.png **Chapter 8 --- Darek** The pattern forces Baret to
+look backward. ssets/Planet Surface.png Darek\'s decision in Book 4 --- the one
 that caused the escape, the one ssets/Planet Surface.png Baret has nursed
 resentment over for years --- fits the same profile. A ssets/Planet Surface.png
-decision that contradicted everything Dalin was, serving a political
-ssets/Planet Surface.png trajectory Dalin had no reason to serve. ssets/Planet
+decision that contradicted everything Darek was, serving a political
+ssets/Planet Surface.png trajectory Darek had no reason to serve. ssets/Planet
 Surface.png
 
 ssets/Planet Surface.png Baret has been angry at his brother for years over
@@ -398,7 +398,7 @@ ssets/Planet Surface.png
 
 ssets/Planet Surface.png He doesn\'t yet know how the device works technically.
 What he knows is ssets/Planet Surface.png the pattern: that someone is
-compromising people, that Dalin was a ssets/Planet Surface.png victim, that
+compromising people, that Darek was a ssets/Planet Surface.png victim, that
 Leorik was destroyed by it, and that the republic he built ssets/Planet
 Surface.png has been hollowed out from within. ssets/Planet Surface.png
 
@@ -408,7 +408,7 @@ built has been imperfect, every ssets/Planet Surface.png victory has created new
 problems, and the person dismantling our ssets/Planet Surface.png republic
 isn\'t wrong that human systems fail. But whatever is being ssets/Planet
 Surface.png done to people\'s minds --- whatever turned Leorik into something he
-ssets/Planet Surface.png wasn\'t and made Dalin betray his own values --- that
+ssets/Planet Surface.png wasn\'t and made Darek betray his own values --- that
 is worse than ssets/Planet Surface.png failure. The right to make mistakes, to
 govern badly, to choose wrong, ssets/Planet Surface.png is what makes us free.
 That\'s worth fighting for even knowing the next ssets/Planet Surface.png
@@ -669,13 +669,13 @@ survive simultaneously. ssets/Planet Surface.png
 
 ssets/Planet Surface.png He leaves behind not just a republic and colleagues but
 Elowen --- the ssets/Planet Surface.png woman who chose the quiet, difficult
-version of him over the dramatic ssets/Planet Surface.png one --- and Dalin, the
+version of him over the dramatic ssets/Planet Surface.png one --- and Darek, the
 brother he needs to make things right with. The ssets/Planet Surface.png
 colleagues he rallied carry forward what he built, knowing it\'s ssets/Planet
 Surface.png imperfect, knowing the vulnerability is permanent. ssets/Planet
 Surface.png
 
-ssets/Planet Surface.png If he survives: the reunion with Dalin. The apology
+ssets/Planet Surface.png If he survives: the reunion with Darek. The apology
 that can\'t undo ssets/Planet Surface.png years of misdirected anger but is the
 only honest beginning of repair. ssets/Planet Surface.png The recognition that
 Elowen saw him clearly when he couldn\'t see ssets/Planet Surface.png himself.
@@ -883,9 +883,9 @@ Surface.png
 
 ssets/Planet Surface.png - Does Baret live or die? This is the largest open
 question in the ssets/Planet Surface.png series ssets/Planet Surface.png - If he
-lives: the Dalin reunion needs to be written. What does that ssets/Planet
+lives: the Darek reunion needs to be written. What does that ssets/Planet
 Surface.png scene look like? ssets/Planet Surface.png - If he dies: who carries
-the thematic weight forward? Elowen? Dalin? ssets/Planet Surface.png The
+the thematic weight forward? Elowen? Darek? ssets/Planet Surface.png The
 companions collectively? ssets/Planet Surface.png
 
 ssets/Planet Surface.png \### []{#anchor}The Epilogue Question ssets/Planet
@@ -904,7 +904,7 @@ ssets/Planet Surface.png \### []{#anchor}Kullen\'s Hidden Timeline (Reference
 Only) ssets/Planet Surface.png
 
 | ets/Plan | et Surface.png |
-|:---|:---|
+|:---------------------------------------|:---------------------------------------|
 | ets/Plan | et Surface.png |
 | 1-2 | Dispossessed by Baret\'s revolution. Exiled. Drifts outward |
 | ets/Plan | et Surface.png |
@@ -918,7 +918,7 @@ Only) ssets/Planet Surface.png
 | ets/Plan | et Surface.png |
 | 7-16 | Proxy compromises officials one by one. Serik compromised during this period. Compromises key officials and military officers |
 | ets/Plan | et Surface.png |
-| \~8-9 | Compromises Dalin |
+| \~8-9 | Compromises Darek |
 | ets/Plan | et Surface.png |
 | 9-16 | Continues operations during Baret\'s exile. Channels genuine popular discontent into coordinated populist control |
 | ets/Plan | et Surface.png |
