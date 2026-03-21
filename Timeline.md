@@ -13,7 +13,7 @@ capability is weaponized, destroying institutional trust across governments and
 organizations. In the terminal phase, a group launches three identical capsules
 toward a distant terraformable planet as a survival contingency.
 
-Transit time from Earth to Alinar: unknown (decades to centuries). All three
+Transit time from Earth to Ekren: unknown (decades to centuries). All three
 capsules carry identical equipment: biological production facility, robotic
 caretaker systems, educational curriculum, mainframe (teaching AI, symbiont
 upload templates, historical archives), activation infrastructure, and life
@@ -39,7 +39,7 @@ design documentation.
 
 | Approximate Period | Event |
 |----------------------------------------|----------------------------------------|
-| Year 0 (capsule landing) | All three capsules arrive at Alinar. Terraforming begins --- atmospheric processing, soil creation, microbial life, pioneer vegetation. |
+| Year 0 (capsule landing) | All three capsules arrive at Ekren. Terraforming begins --- atmospheric processing, soil creation, microbial life, pioneer vegetation. |
 | Years 0--400 | Robotic terraforming phase. Autonomous machines process atmosphere, build soil, seed ecosystems. Pure infrastructure. No biological organisms produced yet. |
 | \~Year 100--200 | Capsule 2, damaged and rushing its sequence, begins producing organisms early. The Ulreth emerge --- crude, fast-maturing, physically robust intermediate-stage organisms. Not errors; an unfinished draft. They spread territorially. |
 | \~Years 300--400 | Capsule 1 continues correct sequencing. Staged ecological packages: simple organisms first, then progressively complex fauna. Ecosystem builds layer by layer. |

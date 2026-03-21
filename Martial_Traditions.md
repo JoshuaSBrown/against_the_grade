@@ -2,13 +2,13 @@
 
 ## Technology Level
 
-Alinar's civilization developed from a zero-knowledge starting point ---
-children under ten with no technical education, supplemented only by
-DNA-embedded survival instincts calibrated to the planet. Over \~1,300 years of
-independent development, the population rediscovered fire management, basic
-metallurgy, agriculture, and animal domestication before any weapons technology
-could emerge. The DNA-embedded survival instincts dramatically compressed the
-earliest stages of this process compared to Earth's timeline.
+Ekren's civilization developed from a zero-knowledge starting point --- children
+under ten with no technical education, supplemented only by DNA-embedded
+survival instincts calibrated to the planet. Over \~1,300 years of independent
+development, the population rediscovered fire management, basic metallurgy,
+agriculture, and animal domestication before any weapons technology could
+emerge. The DNA-embedded survival instincts dramatically compressed the earliest
+stages of this process compared to Earth's timeline.
 
 At \~1,300 years with those advantages, the civilization has reached
 high-quality steel production, early plate armor for wealthy elites, and
@@ -21,7 +21,7 @@ on local materials and the specific pressures of the Ulreth threat.
 
 ## The Two Fundamental Combat Problems
 
-Every technique on Alinar is a response to one of two very different combat
+Every technique on Ekren is a response to one of two very different combat
 problems. The techniques that work against one problem are often wrong for the
 other. This tension is where the class and cultural divide in martial tradition
 originates.

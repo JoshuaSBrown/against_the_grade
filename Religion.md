@@ -2,7 +2,7 @@
 
 ## Summary
 
-The dominant faith of Alinar emerged from the fragmented childhood memories of
+The dominant faith of Ekren emerged from the fragmented childhood memories of
 the first surviving generation of humans --- children aged roughly six to ten
 who remembered being cared for by machines in a warm facility, taught a language
 and basic skills, and then violently separated from that environment by the
@@ -55,7 +55,7 @@ aware of:
 
 Most Earth religions are built on either creation narratives (we were made by a
 god) or fall narratives (we had paradise and lost it through transgression). The
-founding trauma of Alinar is neither. It is **interruption**. The children were
+founding trauma of Ekren is neither. It is **interruption**. The children were
 not expelled from the facility for disobedience. They were not told they had
 failed. The caretakers simply stopped. The warm place became dangerous. They
 were forced out by violence they did not cause and did not understand.
@@ -299,7 +299,7 @@ behavior, and territorial patterns that suggest more than pure instinct.
 ## Doctrinal Comparison
 
 | Question | Orthodox | Egalitarian | Trials | Kinship |
-|:---------------|:---------------|:-------------------|:------------|:--------------|
+|:---------------|:---------------|:-------------------|:-------------|:--------------|
 | What is the nalir? | Sign of divine proximity to original design | Remnant of what survived the interruption by chance | Dormant potential that can be awakened through devotion | Shared biological inheritance from the Binasir |
 | Who are the Ulreth? | Interrupters from outside the design; fundamentally other | Generally accepts orthodox position; less emphasis | Part of the trial humanity must endure; obstacle to completion | Earlier children of the Binasir; kin interrupted at a prior stage |
 | What is the Punaknor? | Origin of humanity; place of eventual fulfillment | Historical origin; important but not spiritually exclusive | Source of awakening power; proximity activates the dormant nalir | Origin of all created life, including the Ulreth |

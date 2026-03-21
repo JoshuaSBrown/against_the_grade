@@ -1,4 +1,4 @@
-# Political Landscape of Alinar
+# Political Landscape of Ekren
 
 **Reference Document --- Against the Grade Series** **Timeline: \~1300 years
 post-landing \| Population: \~7 million**
@@ -7,7 +7,7 @@ post-landing \| Population: \~7 million**
 
 ## Overview
 
-Human civilization on Alinar grew from a single point of origin --- Capsule 1
+Human civilization on Ekren grew from a single point of origin --- Capsule 1
 (Paksut) in the mountainous northwest of the central continent. Over 1300 years,
 population expanded primarily eastward and southward along river valleys,
 constrained by mountain ranges, coastlines, and the persistent Ulreth threat
@@ -26,7 +26,7 @@ geographic barrier that outlasted the political arrangements around it.
 
 ## The Biological Foundation of Political Power
 
-Political power on Alinar cannot be understood separately from the symbiont
+Political power on Ekren cannot be understood separately from the symbiont
 system. All humans carry a biological second brain --- the symbiont ---
 engineered into their DNA. It was designed to remain inert until an AI assistant
 was uploaded to it. After \~1300 years of genetic drift under roughly 8× Earth
@@ -176,7 +176,7 @@ approaching the NE land bridge.
 through the land bridge from the northeast, which means the Frontier Marches
 exist in a state of constant military readiness. The Marcher Lords are the most
 capable military commanders in human civilization because failure means Ulreth
-incursions into the interior. This is the shield of settled Alinar, and everyone
+incursions into the interior. This is the shield of settled Ekren, and everyone
 who lives here knows it.
 
 **Power base:** Military capability and geographic necessity. The Marcher Lords
@@ -453,7 +453,7 @@ Medieval England at its peak (\~1300 CE) had 4--6 million people across
 functioning centralized state with tax collection, courts, a road network, and
 military projection to every corner.
 
-The human territories of Alinar have \~7 million across \~1,486,000 km² of
+The human territories of Ekren have \~7 million across \~1,486,000 km² of
 claimed territory --- roughly 4.7 people per km² overall. But this is misleading
 because population clusters heavily along river valleys and in the Southern
 Heartland. Effective density in the settled core (the Crown Lands, southern
@@ -473,17 +473,17 @@ to the Crown.
 
 ## Key Settlements
 
-  Settlement   Territory            Type             Population Est.   Notes
-  ------------ -------------------- ---------------- ----------------- -------------------------------------
-  Punsak       Crown Lands          Capital          50,000--80,000    River convergence, political center
-  Punasir      Crown Lands          City             15,000--25,000    River city, major trade hub
-  Paksut       Sacred Territory     Sacred site      5,000--10,000     Capsule 1, religious center
-  Hakundal     Sacred Territory     Temple complex   3,000--5,000      Sacred name for Paksut complex
-  Pakur        Sacred Territory     Village          \~300             Baret's mountain home, fortified
-  Pakdan       Frontier Marches     Fortress city    8,000--12,000     Primary frontier military base
-  Pundis       Southern Heartland   City             20,000--35,000    Agricultural center, plains city
-  Pasnal       Trade Corridor       Port city        15,000--25,000    Primary trade port
-  Taksir       Deep South           Town             2,000--4,000      Southern frontier settlement
+| Settlement | Territory | Type | Population Est. | Notes |
+|:---|:---|:---|:---|:---|
+| Punsak | Crown Lands | Capital | 50,000--80,000 | River convergence, political center |
+| Punasir | Crown Lands | City | 15,000--25,000 | River city, major trade hub |
+| Paksut | Sacred Territory | Sacred site | 5,000--10,000 | Capsule 1, religious center |
+| Hakundal | Sacred Territory | Temple complex | 3,000--5,000 | Sacred name for Paksut complex |
+| Pakur | Sacred Territory | Village | \~300 | Baret's mountain home, fortified |
+| Pakdan | Frontier Marches | Fortress city | 8,000--12,000 | Primary frontier military base |
+| Pundis | Southern Heartland | City | 20,000--35,000 | Agricultural center, plains city |
+| Pasnal | Trade Corridor | Port city | 15,000--25,000 | Primary trade port |
+| Taksir | Deep South | Town | 2,000--4,000 | Southern frontier settlement |
 
 --------------------------------------------------------------------------------
 
@@ -504,5 +504,5 @@ vision can ever fully succeed. The territory is too large for centralized
 control, the threats are too persistent for isolationism, and the biological
 inequality is too embedded for any system --- feudal, religious, republican, or
 authoritarian --- to resolve. The question "does freedom require equality?"
-doesn't have an answer on Alinar. It has competing answers, each with territory,
+doesn't have an answer on Ekren. It has competing answers, each with territory,
 armies, and sincere believers behind them.

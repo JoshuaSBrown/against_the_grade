@@ -355,7 +355,7 @@ speakers say "AD" without thinking "Anno Domini."
 
 ## The Glyph
 
-**The Glyph** --- the visible pattern on the palms of every human on Alinar,
+**The Glyph** --- the visible pattern on the palms of every human on Ekren,
 produced by the symbiont's neural conduits running to the hands.
 
 ### Physical Description
@@ -373,7 +373,7 @@ to interface with capsule technology.
 A person's glyph determines their social standing:
 
 | Term | Meaning | Class Implication |
-|-----------------|----------------------|------------------------------------------|
+|-----------------|----------------------|-----------------------------------------|
 | Strong glyph | Crisp, defined, complete pattern. All contact points visible | Upper class. Functional symbiont interface. Capable of full integration |
 | Faint glyph | Blurred, incomplete, faded pattern. Like a corroded contact | Middle to lower class. Degraded interface. Partial capability |
 | Unglyphed / Bare-palmed | No visible pattern at all. God left their hands blank | Lowest class. Non-functional interface. The cruelest designation --- it implies God started to write and had nothing to say |
@@ -481,7 +481,7 @@ Nor'Danik."
 The naming structure itself is a class marker visible on the page:
 
 | Class | Format | Example | What It Signals |
-|---------------|-----------------|------------------|--------------------------------|
+|---------------|-----------------|------------------|-------------------------------|
 | Commoner | Name + Surname + Patronymic | Baret Sarin Nor'Danik | Defined by environment/labor, then by father |
 | Nobility | Name + Patronymic (no surname) | Kullen Nor'Haldrin | Defined only by lineage --- no occupation because lords don't work |
 | Royalty | Name + Patronymic (no surname) | Haldanur Nor'Galrik | Same as nobility but patronymic carries dynastic animal names |
@@ -538,7 +538,7 @@ grandfather chose power as his son's identity. This creates a dynastic chain of
 animal names stretching back generations.
 
 | Name | Root | Meaning | Associated House |
-|--------------|--------------|-------------------|----------------------------------|
+|--------------|--------------|-------------------|---------------------------------|
 | Rasakur | rasir-sakur (flow + great) | "The great flier" --- the raptor | Regional lord (Haldrin Nor'Rasakur) |
 | Galrik | ginak-lakur-rikur (conflict + clan + sharp) | "The sharp clan fighter" --- the lion | Royal dynasty (Haldanur Nor'Galrik) |
 | Naksin | nakur-sunir (large animal + dark) | "The dark beast" --- the apex predator | Available for other noble houses |
@@ -552,7 +552,7 @@ inventory, simplifying doubled consonants with no systemic basis.
 ### Named Characters with Full Names
 
 | Role | Full Name | System Notes |
-|-----------------|----------------------------|-----------------------------------|
+|------------------|----------------------------|-----------------------------------|
 | Protagonist | **Baret Sarin Nor'Danik** | /b/ onset. Ba-ret, CV-CVC. Weather surname "warm wind." Common father Danik |
 | Brother | **Dalin Sarin Nor'Danik** | /d/ onset (time/change). Da-lin, CV-CVC. Same surname and patronymic as Baret |
 | Sister (dead) | **Nalin Sarin Nor'Danik** | /n/ onset (living things). Na-lin, CV-CVC. Same surname and patronymic as Baret. Breaks feminine /h/-drop convention --- a working-class mother naming her daughter after life, not abstraction |
@@ -564,7 +564,7 @@ inventory, simplifying doubled consonants with no systemic basis.
 ### Trial Cohort Candidates
 
 | Name | Gender | Full Name | System Notes | Role in Trials |
-|-----------|------------|----------------|--------------------|----------------------|
+|------------|------------|----------------|--------------------|----------------------|
 | **Torin** | Male | Torin Bakrin Nor'Sulak | /t/ onset (terrain). To-rin, CV-CVC. Surname Bakrin (stone worker), patronymic Sulak (old mountain) | Reliable, steady, the backbone of any team. Absorbed into Baret's group. Performs steadily but never brilliantly --- a stonemason's son who follows orders without complaint |
 | **Garik** | Male | Garik Kanur Nor'Basrin | /g/ onset (conflict). Ga-rik, CV-CVC. Surname Kanur (the cutter --- woodcutter's son) | Competitive, resents Baret's rise. Creates friction within the cohort. Not a villain --- someone who thinks he deserved better. Possibly stacked against Baret in Round 3 |
 | **Lusen** | Female | Lusen Rasik Nor'Darik | /l/ onset (bonds). Lu-sen, CV-CVC. Surname Rasik (cold flow --- cold-ridge family) | Quiet mediator, holds teams together through negotiation rather than force. Manages the social dynamics of aggressive teenage boys sideways while Baret charges through the middle |
@@ -574,7 +574,7 @@ inventory, simplifying doubled consonants with no systemic basis.
 ### Minor Characters (Kesal's Victims)
 
 | Name | Full Name | Location | System Notes | Narrative Function |
-|-----------|---------------|--------------|-------------------|-----------------------|
+|-----------|---------------|--------------|-------------------|----------------------|
 | **Ilana** | Ilana Sarin Nor'Balik | Tanapun (village) | Formally **Hilana**, /h/-drop. Hi-la-na, CV-CV-CV. Same weather surname as Baret (Sarin --- warm wind). She's from the same sheltered mountainside --- possibly a neighbor | Kesal bothers her in the village, establishing his pattern of targeting girls where he has authority. Baret witnesses it. Does nothing. The shared Sarin surname makes Baret's inaction sharper --- she's not a stranger |
 | **Reska** | Reska Kasir Nor'Dulun | Pakran (market stall) | /r/ onset (movement). Res-ka, CVC-CV. Surname Kasir (the mover --- trader family). Pakran working class, not village poor | Kesal bothers her at her family's stall in his home territory. She has slightly more social standing than Ilana but less protection --- she can't hide from the retainer's son in his own town. Establishes that Kesal operates wherever he has power |
 
@@ -587,7 +587,7 @@ makes his eventual intervention for Elowen in Chapter 6 land harder.
 ### Named Characters without Full Names Yet
 
 | Role | Name | Change from Original | System Notes |
-|------------|------------|----------------------------------|-----------------------|
+|-------------|-------------|---------------------------------|-----------------------|
 | Cousin | **Helowen** | Added initial H | /h/ onset (identity). He-lo-wen, CV-CV-CVC. Casual form: **Elowen** |
 | Betrothed | **Harabela** | Added initial H, dropped double-l | /h/ onset (identity/social). Ha-ra-be-la, CV-CV-CV-CV. Casual form: **Arabela** |
 | Mother | **Maia** | No change | /m/ onset (relations). Ma-ia, with vowel hiatus from lost /h/. Very old name |
@@ -734,7 +734,7 @@ biological kingdom it belongs to.
 ### Noble Animal Names (Used in Patronymics)
 
 | Name | Root | Meaning | Associated House |
-|--------------|--------------|-------------------|----------------------------------|
+|--------------|--------------|-------------------|---------------------------------|
 | **Galrik** | ginak-lakur-rikur (conflict + clan + sharp) | "The sharp clan fighter" --- the lion | Royal dynasty (Haldanur Nor'Galrik) |
 | **Rasakur** | rasir-sakur (flow + great) | "The great flier" --- the raptor | Haldrin's house (Haldrin Nor'Rasakur) |
 
@@ -765,7 +765,7 @@ said constantly, worn to nothing.
 ### By Function
 
 | Name | Category | Root | Meaning | What It Is | Eroded Form |
-|----------|---------------|----------|-------------|----------------|-----------------|
+|-----------|---------------|-----------|-------------|----------------|-----------------|
 | **Rasakur** | /r/ movement | rasir-sakur (flow + great) | "The great flier" | Large raptor. Eagle equivalent. Symbol of power. Also a noble patronymic name | **Rasak** |
 | **Rasimin** | /r/ movement | rasir-simin (flow + small) | "The small flier" | Generic songbird | **Rasim** |
 | **Bisrak** | /b/ resource | bisim-rasir (small resource + flow) | "The flying resource" | Poultry. Kept for eggs or meat | **Bisra** |
@@ -795,21 +795,33 @@ exposition.
 
 --------------------------------------------------------------------------------
 
-## The Continent: Alinar
+## The Continent: Ekren
 
-**Alinar** --- formally **Halinar**, from halin-nakur (bond/obligation + great
-living thing). "The bonded living place."
-
-The /h/ dropped centuries ago, making the continent's name start with a vowel.
-This means it sounds different from every geographic feature name on it (which
-all start with /t/ or its drift descendants) and every settlement name (which
-all start with /p/). Nobody knows why. The answer is that "continent" was filed
-under "abstract concepts" (/h/ category) not "terrain" (/t/ category) because
-the designers categorized it as a social/identity concept, not a physical
-feature.
-
-Thematically perfect for a series about political evolution --- the name of the
-world itself belongs to the same linguistic domain as identity and governance.
+Ekren --- from the technical register. Ek (vowel-onset engineering root:
+designated target, cataloged site) + ren (compressed /r/-category root:
+trajectory, destination vector). "Designated destination." A deployment catalog
+term --- the engineering equivalent of a file path pointing at a landmass
+flagged for the terraforming program. Ekren is a genuine vowel-onset technical
+word, the same register as ul, ar, ir, and reth. Unlike feminine /h/-drop names
+(Elowen, Arabela) which start with vowels because a consonant eroded, Ekren
+starts with a vowel because it was designed to. It belongs to the engineering
+layer --- the vocabulary that was never fully taught before the Ulreth attack.
+The name survived intact for the same reason Ulreth did: it was repeated
+constantly, and speakers preserved it as a frozen form rather than subjecting it
+to normal erosion. A two-syllable word said millions of times over 1,300 years
+could compress further (Ekr, Kren), but its brevity and constant use make
+preservation defensible. The continent's name sounds different from every
+geographic feature name on it (which all start with /t/ or its drift
+descendants) and every settlement name (which all start with /p/). Nobody knows
+why. The answer is that the name belongs to a register that was never taught ---
+the same register as the word for the monsters. The population uses two
+vowel-onset words every day, Ekren and Ulreth, without knowing they come from
+the same engineering vocabulary. One names their home. The other names their
+enemy. Both are product labels. In Book 3, when Baret accesses the mainframe,
+the continent's name appears in the deployment logs as a catalog entry.
+"Dasir-sinak" reveals the calendar is a filing label. "Norik" reveals the
+patronymic is bioengineering jargon. And the name of the continent itself is a
+destination code. Everything is a product specification.
 
 --------------------------------------------------------------------------------
 
@@ -822,7 +834,7 @@ newer cities more transparent. The largest, oldest cities are in the lowlands
 near Capsule One --- where humans emerged and population concentrated first.
 
 | Name | Root | Meaning | Description |
-|----------------|----------------|---------------------|-----------------------------|
+|----------------|----------------|---------------------|----------------------------|
 | **Punsak** | punak-sakur (settlement + great) | "The great city" | Capital / monarch's seat. Ancient, heavily eroded. What children called the first and biggest place |
 | **Punasir** | punak-tasir (settlement + river) | "The river city" | Major trade hub. Transparent enough that educated people might still parse it |
 | **Pasnal** | pasir-sinak (water-settlement + new) | "The new port" | Port city. Name fossilized when the settlement was young |
@@ -835,7 +847,7 @@ near Capsule One --- where humans emerged and population concentrated first.
 All terrain names trace to /t/-initial roots. Older features more eroded.
 
 | Name | Root | Meaning | Description |
-|----------------|----------------|---------------------|-----------------------------|
+|----------------|----------------|---------------------|----------------------------|
 | **Takdal** | takur-dakur (mountain + age) | "The old mountains" | Main mountain range where the protagonist lives. Highland: Takdal. Lowland: Dakdal |
 | **Dasak** | tasir-sakur (river + great) | "The great river" | The main river. Short, old, everyone knows what it means |
 | **Nasudak** | nasur-dakur (plant + age) | "The ancient trees" | Major forest. Categorized under /n/ (living things) because the culture sees forests as alive, not as terrain |
@@ -919,7 +931,7 @@ subtly signals how far ahead of everyone his knowledge has become.
 ### Terraforming Ruins (Scattered Across the Landscape)
 
 | Name | Root | Meaning | Description |
-|----------------|----------------|---------------------|-----------------------------|
+|----------------|----------------|---------------------|----------------------------|
 | **Bakdun** | bakur-tunir (stone + deep) | "The deep stones" | Partially buried metallic structures that look like unusual rock formations. Multiple sites share this root with local modifiers: Bakdun Takdal (the deep stones of the old mountains), Bakdun Dasak (the deep stones by the great river) |
 | **Sardor** | sahur-tunir (warm + deep) | "The warm deep places" | Still-functioning atmospheric processors. Geothermal vents where the ground is hot and the air tastes strange. People avoid them. Mythology says they're cursed or haunted. Eroded from Sahurdor |
 
@@ -951,12 +963,10 @@ environment. They just stopped following the program.
 
 ### The /h/-Drop
 
-**Hulreth → Ulreth.** The /h/ dropped through the same mechanism that erodes
-every other /h/-initial word in the language --- the same drift that turns
-Helowen into Elowen, Harabela into Arabela, Halinar into Alinar. Seven hundred
-years of terrified repetition wore the /h/ away. The most important sound in the
-word --- the one that tells you what the Ulreth actually *are* --- is the one
-that disappeared.
+Hulreth → Ulreth. The /h/ dropped through the same mechanism that erodes every
+other /h/-initial word in the language --- the same drift that turns Helowen
+into Elowen, Harabela into Arabela. Centuries of terrified repetition wore the
+/h/ away.
 
 The word "hul" (kin) also survives in the everyday language, hidden. The modern
 word for family, clan, or blood-relation descends from "hul" without anyone
@@ -1033,7 +1043,7 @@ to technical roots as a modifier, creating compound diagnostic terms.
 ### Technical Compounds
 
 | Term | Components | Meaning | What It Actually Describes |
-|------------|------------------|--------------|-------------------------------------|
+|-------------|------------------|--------------|------------------------------------|
 | **Hulreth** | hul (kin) + reth (corrupted) | "Corrupted kin" | The Ulreth --- biological terraformers that deviated from design. Eroded to **Ulreth** through /h/-drop |
 | **Nareth** | na (biological/living) + reth (degraded) | "Degraded biological system" | A diagnostic code for degraded symbiont pathways --- the reason 40--50% of people have non-functional glyphs. The engineers had a clinical term for what the faithful call "God's silence" |
 | **Pareth** | pa (structural) + reth (corrupted) | "Corrupted infrastructure" | Failed or decayed capsule components. The Bakdun --- the deep stones scattered across the landscape --- are **pareth** in the engineering logs |
@@ -1329,18 +1339,23 @@ language:
 10. Abstract social vocabulary has no visible categorical pattern. The /h/
     dropped out centuries ago.
 11. Vowel-onset words in common speech should be limited to Ulreth, its
-    derivatives (Ginulr, Ulrpak), the continent name Alinar, and feminine
+    derivatives (Ginulr, Ulrpak), the continent name Ekren, and feminine
     /h/-drop names. No other common words should start with a vowel --- the
-    technical category was never taught.
+    technical category was never taught. Ekren and Ulreth are both genuine
+    technical-register words; feminine /h/-drop names (Elowen, Arabela) reach
+    vowel-onset through a different mechanism (consonant erosion, not original
+    design).
 12. Animal names follow functional categories, not biological ones. Pack animals
     are /r/, food animals are /b/, terrain wildlife is /t/, town animals are
     /p/, companions are /l/, predators are /n/, threats are /g/.
 13. Erosion correlates with frequency of use. The most common animals, birds,
     and places have the shortest, most worn-down names.
-14. The continent Alinar starts with a vowel because its /h/ dropped. Ulreth
-    starts with a vowel because it belongs to the technical register. These are
-    different mechanisms producing the same surface result --- and nobody
-    in-world knows the difference.
+14. The continent name Ekren and the word Ulreth both start with vowels because
+    they belong to the technical register --- the engineering vocabulary that
+    was never taught. They are the only two vowel-onset words in common daily
+    use that are genuine technical terms rather than /h/-drop products. Nobody
+    in-world knows why these two words sound different from everything else, or
+    that they share an origin in the same engineering layer.
 15. The glyph is always referred to as "the glyph" in dialogue and narration ---
     never "the mark," "the pattern," or any clinical term until after the Book 3
     revelation. Characters treat it as sacred. The reader should absorb the
