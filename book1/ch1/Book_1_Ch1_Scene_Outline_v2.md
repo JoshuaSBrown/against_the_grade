@@ -22,8 +22,8 @@ comedy → grief (unshared) → slow creeping unease on descent
 **Purpose:** Introduce Baret, Darek, and the world through mundane action.
 
 **Establishes:** Baret and Darek's relationship (competitive, physical, warm
-underneath), their contrasting personalities (gruff/reserved vs.
-warm/fastidious), the herding life, the sister's absence (planted without
+underneath), their contrasting personalities (gruff/reserved
+vs. warm/fastidious), the herding life, the sister's absence (planted without
 emphasis), the geode, the lion's claw, the semi-sacred terraforming structures,
 the occupation as daily reality, the Ulreth as lived threat, Baret's
 terrain-reading as a pre-AI skill, the approaching Marking.
@@ -34,40 +34,13 @@ this chapter. Baret does not respond when Darek mentions the sister.
 
 **Chapter-Level Story Structure**
 
-  ------------------ ----------------------------------------------------
-  **5 COMMANDMENTS** 
-
-  **Inciting         A sheep is missing from a known high meadow. Two
-  Incident**         brothers follow its trail up the mountain above
-                     their fortified village. The sheep is margin ---
-                     Haldrin's taxes leave no room for loss.
-
-  **Progressive      The search pushes them higher than usual, past
-  Complication**     semi-sacred terraforming structures, near the Ulreth
-                     boundary. A sound in the trees triggers genuine fear
-                     --- resolved as mundane, but the danger was
-                     plausible. They find the sheep and a patch of morels
-                     --- a moment of comedy and warmth at full volume.
-                     Then the scare's aftermath surfaces the sister's
-                     death, which sits between the brothers as
-                     unprocessed grief.
-
-  **Crisis**         Darek opens the door to shared grief about their
-                     sister. Does Baret engage, or does he stay silent?
-                     Irreconcilable goods: connection with his brother
-                     versus the inability to articulate what he feels.
-
-  **Climax**         Baret does not respond. Not goes quiet --- does not
-                     respond. Keeps walking. The silence isn't performed.
-                     It's the absence of a response where one should be.
-                     Darek doesn't push because this is how Baret has
-                     been for a year.
-
-  **Resolution**     The descent home with unease. Something may be
-                     following them. Tanapun's walls visible below. The
-                     world they're returning to has edges they can't see.
-                     The Marking is coming.
-  ------------------ ----------------------------------------------------
+| 5 Commandments | Description |
+|----------------------------------------|----------------------------------------|
+| **Inciting Incident** | A sheep is missing from a known high meadow. Two brothers follow its trail up the mountain above their fortified village. The sheep is margin --- Haldrin's taxes leave no room for loss. |
+| **Progressive Complication** | The search pushes them higher than usual, past semi-sacred terraforming structures, near the Ulreth boundary. A sound in the trees triggers genuine fear --- resolved as mundane, but the danger was plausible. They find the sheep and a patch of morels --- a moment of comedy and warmth at full volume. Then the scare's aftermath surfaces the sister's death, which sits between the brothers as unprocessed grief. |
+| **Crisis** | Darek opens the door to shared grief about their sister. Does Baret engage, or does he stay silent? Irreconcilable goods: connection with his brother versus the inability to articulate what he feels. |
+| **Climax** | Baret does not respond. Not goes quiet --- does not respond. Keeps walking. The silence isn't performed. It's the absence of a response where one should be. Darek doesn't push because this is how Baret has been for a year. |
+| **Resolution** | The descent home with unease. Something may be following them. Tanapun's walls visible below. The world they're returning to has edges they can't see. The Marking is coming. |
 
 **Reader Hooks**
 
@@ -93,34 +66,13 @@ and these boys don't fully know what they're walking through.
 
 *Value shift: Routine frustration → Tension (pushed toward dangerous terrain)*
 
-  ------------------ ----------------------------------------------------
-  **5 COMMANDMENTS** 
-
-  **Inciting         The sheep is missing from the high meadow. The
-  Incident**         brothers are already searching above Tanapun at
-                     dawn. The animal matters --- one sheep is the margin
-                     Haldrin's taxes leave them.
-
-  **Progressive      The search exhausts the easy ground around the
-  Complication**     meadow. The sheep's trail leads higher, past the
-                     semi-sacred terraforming structures, toward the tree
-                     line and the Ulreth boundary. The terrain gets
-                     stranger and more exposed. The Marking is days away
-                     --- Darek jokes about it or Baret registers quiet
-                     dread.
-
-  **Crisis**         Do they keep climbing toward dangerous terrain near
-                     the Ulreth boundary, or turn back and accept the
-                     loss of a sheep they cannot afford to lose?
-
-  **Climax**         They keep going. The sheep is worth the risk. A
-                     small decision that tells the reader everything
-                     about their economic reality.
-
-  **Resolution**     They're now in exposed, unfamiliar terrain near the
-                     boundary. The search continues but the stakes have
-                     shifted.
-  ------------------ ----------------------------------------------------
+| 5 Commandments | Description |
+|----------------------------------------|----------------------------------------|
+| **Inciting Incident** | The sheep is missing from the high meadow. The brothers are already searching above Tanapun at dawn. The animal matters --- one sheep is the margin Haldrin's taxes leave them. |
+| **Progressive Complication** | The search exhausts the easy ground around the meadow. The sheep's trail leads higher, past the semi-sacred terraforming structures, toward the tree line and the Ulreth boundary. The terrain gets stranger and more exposed. The Marking is days away --- Darek jokes about it or Baret registers quiet dread. |
+| **Crisis** | Do they keep climbing toward dangerous terrain near the Ulreth boundary, or turn back and accept the loss of a sheep they cannot afford to lose? |
+| **Climax** | They keep going. The sheep is worth the risk. A small decision that tells the reader everything about their economic reality. |
+| **Resolution** | They're now in exposed, unfamiliar terrain near the boundary. The search continues but the stakes have shifted. |
 
 **Scene Detail**
 
@@ -197,63 +149,29 @@ underground.
 
 **Backstory Seeds**
 
-**The symbiont marks.** Grip on rock face --- faint patterning on skin between
-thumb and forefinger. Baret's more pronounced. Neither comments. *Payoff: Ch 3
-(Marking), Ch 10 (activation), series-wide class system.*
-
-**Mountain-dialect /t/ place names.** Navigation dialogue. *Payoff: Book 3 ---
-Capsule One mainframe.*
-
-**Semi-sacred terraforming structures + scale hint.** Reverent gesture +
-landmark. *Payoff: Ch 10 (Capsule Two), Book 3 (revelation). The sacred context
-makes Ch 10 hit differently --- Baret walks into something his culture has been
-circling with religious awe for centuries.*
-
-**Patrol routes.** Worn tracks in hillside. *Payoff: Ch 2 onward, rebellion
-arc.*
-
-**Fortified Tanapun.** Walls visible from above. *Payoff: World-building.*
-
-**The Marking.** Dialogue reference. *Payoff: Ch 3, forward momentum.*
-
-**Darek's threshold-touching.** Stone outcrops on the mountain. *Payoff:
-Character texture, series-wide.*
-
-**Darek's bug terror.** Yelp/swat, one-two lines. *Payoff: Character texture,
-comedic through-line.*
-
-**Fastidious vs. slob.** One sentence, Darek fussing over Baret. *Payoff: Twin
-dynamic, series-wide.*
+| Seed | Planted As | Payoff |
+|---------------------------|---------------------------|---------------------------|
+| Symbiont marks on hands | Physical description, unremarked | Ch 3 (Marking), Ch 10 (activation), class system |
+| Mountain-dialect /t/ place names | Navigation dialogue | Book 3 (Capsule One mainframe) |
+| Semi-sacred terraforming structures | Reverent gesture + landmark | Ch 10 (Capsule Two), Book 3 (revelation) |
+| Patrol routes as landscape | Worn tracks in hillside | Ch 2 onward, rebellion arc |
+| Fortified Tanapun | Walls visible from above | World-building |
+| The Marking | Dialogue reference | Ch 3, forward momentum |
+| Darek's threshold-touching | Stone outcrops on the mountain | Character texture, series-wide |
+| Darek's bug terror | Yelp/swat, one-two lines | Character texture, comedic through-line |
+| Fastidious vs. slob | One sentence, Darek fussing over Baret | Twin dynamic, series-wide |
 
 **Scene 2: The False Scare (Late Morning)**
 
 *Value shift: Focused search → Fear → Shaky relief*
 
-  ------------------ ----------------------------------------------------
-  **5 COMMANDMENTS** 
-
-  **Inciting         A sound in the trees or rocks --- wrong pattern. Too
-  Incident**         heavy, too deliberate. Baret stops. Darek stops
-                     because Baret stopped.
-
-  **Progressive      The sound continues or shifts. They're exposed, near
-  Complication**     Ulreth territory. Their sister died in a "Ulreth
-                     raid" one year ago. The fear is specific, personal,
-                     physical.
-
-  **Crisis**         Best bad choice: freeze and assess (risking exposure
-                     if it IS Ulreth) or run (risking triggering a
-                     predator's chase instinct and abandoning the sheep).
-
-  **Climax**         Baret goes still. Minimal movement, eyes scanning,
-                     processing terrain. Darek looks to Baret. Their
-                     danger dynamic: Baret reads the situation, Darek
-                     reads Baret.
-
-  **Resolution**     Mundane cause --- rockslide, bird flushing, frost
-                     damage. Not a joke resolution. Relief real but
-                     incomplete. The danger was plausible.
-  ------------------ ----------------------------------------------------
+| 5 Commandments | Description |
+|----------------------------------------|----------------------------------------|
+| **Inciting Incident** | A sound in the trees or rocks --- wrong pattern. Too heavy, too deliberate. Baret stops. Darek stops because Baret stopped. |
+| **Progressive Complication** | The sound continues or shifts. They're exposed, near Ulreth territory. Their sister died in a "Ulreth raid" one year ago. The fear is specific, personal, physical. |
+| **Crisis** | Best bad choice: freeze and assess (risking exposure if it IS Ulreth) or run (risking triggering a predator's chase instinct and abandoning the sheep). |
+| **Climax** | Baret goes still. Minimal movement, eyes scanning, processing terrain. Darek looks to Baret. Their danger dynamic: Baret reads the situation, Darek reads Baret. |
+| **Resolution** | Mundane cause --- rockslide, bird flushing, frost damage. Not a joke resolution. Relief real but incomplete. The danger was plausible. |
 
 **Scene Detail**
 
@@ -278,46 +196,22 @@ who they are now.
 
 **Backstory Seeds**
 
-**Ulreth as lived threat.** Fear response establishes Ulreth as present danger.
-*Payoff: Cover story plausibility. Proving 2 foreshadowing (Ch 8--10).*
-
-**Baret's terrain-reading (first instance).** Pattern recognition under threat.
-*Payoff: Ch 9, Ch 13, Ch 14, Proving 3 Round 3.*
+| Seed | Planted As | Payoff |
+|---------------------------|---------------------------|---------------------------|
+| Ulreth as lived threat | Fear response, mundane resolution | Cover story plausibility, Proving 2 foreshadowing (Ch 8--10) |
+| Baret's terrain-reading (first instance) | Pattern recognition under threat | Ch 9, Ch 13, Ch 14, Proving 3 Round 3 |
 
 **Scene 3: The Sheep, the Morels, the Geode, and the Sister (Midday)**
 
 *Value shift: Relief → Comedy/warmth at full volume → Grief (unshared)*
 
-  ------------------ ----------------------------------------------------
-  **5 COMMANDMENTS** 
-
-  **Inciting         They find the sheep --- sheltered in a rock
-  Incident**         formation near the high meadow, grazing on
-                     early-season growth. The relief is disproportionate.
-                     One sheep is margin.
-
-  **Progressive      The scare's emotional aftermath opens space. The
-  Complication**     brothers decompress --- Darek finds morels, comedy
-                     and warmth peak (the giggle). Then Darek references
-                     their sister. The shift from laughter to grief is
-                     sudden --- the air changes.
-
-  **Crisis**         Irreconcilable goods: Baret can engage with Darek's
-                     grief (connection but vulnerability) or stay silent
-                     (protection but isolation). This is the emotional
-                     crisis of the chapter.
-
-  **Climax**         Baret does not respond. Not goes quiet --- does not
-                     respond. Keeps walking. The silence isn't performed.
-                     It's the absence of a response where one should be.
-                     Darek doesn't push because this is how Baret has
-                     been for a year.
-
-  **Resolution**     The grief stays unprocessed. The cover story ---
-                     Ulreth raid --- is accepted fact. The brothers walk
-                     with something between them that neither can name.
-                     Baret pockets a geode without much thought.
-  ------------------ ----------------------------------------------------
+| 5 Commandments | Description |
+|----------------------------------------|----------------------------------------|
+| **Inciting Incident** | They find the sheep --- sheltered in a rock formation near the high meadow, grazing on early-season growth. The relief is disproportionate. One sheep is margin. |
+| **Progressive Complication** | The scare's emotional aftermath opens space. The brothers decompress --- Darek finds morels, comedy and warmth peak (the giggle). Then Darek references their sister. The shift from laughter to grief is sudden --- the air changes. |
+| **Crisis** | Irreconcilable goods: Baret can engage with Darek's grief (connection but vulnerability) or stay silent (protection but isolation). This is the emotional crisis of the chapter. |
+| **Climax** | Baret does not respond. Not goes quiet --- does not respond. Keeps walking. The silence isn't performed. It's the absence of a response where one should be. Darek doesn't push because this is how Baret has been for a year. |
+| **Resolution** | The grief stays unprocessed. The cover story --- Ulreth raid --- is accepted fact. The brothers walk with something between them that neither can name. Baret pockets a geode without much thought. |
 
 **Scene Detail**
 
@@ -391,30 +285,16 @@ Baret, not from a machine.
 
 **Backstory Seeds**
 
-**Taxation pressure (the sheep).** Disproportionate relief. *Payoff: Ch 2 (first
-injustice), whole Act 1.*
-
-**Darek's food obsession (morels).** Character texture, care through food.
-*Payoff: Series-wide. The morels/cooking/carrying-food pattern becomes ritual.*
-
-**Baret's girlish giggle.** First appearance, triggered by slapstick. *Payoff:
-Character texture. Darek is the only person who can reliably trigger it.*
-
-**The parallel keepsakes.** Baret carries the claw (protection), Darek carries
-food (nourishment). *Payoff: Series-wide. Barlas carries nothing --- everything
-was taken.*
-
-**The geode.** Casual pocket-it moment. *Payoff: Ch 6 (Elowen), Book 1 finale,
-Book 4 token return.*
-
-**Sister's death cover story.** Ulreth raid, settled fact. One year ago.
-*Payoff: Ch 13 revelation. Recontextualizes everything.*
-
-**Baret's non-response.** Does not respond, keeps walking. *Payoff: Character
-arc --- broken emotional processing, the pattern the series breaks.*
-
-**The planted clue.** Environmental detail, invisible on first read. *Payoff: Ch
-13. Baret's enhanced cognition connects it. AI confirms.*
+| Seed | Planted As | Payoff |
+|---------------------------|---------------------------|---------------------------|
+| Taxation pressure (the sheep) | Disproportionate relief | Ch 2 (first injustice), whole Act 1 |
+| Darek's food obsession (morels) | Character texture, care through food | Series-wide. The morels/cooking/carrying-food pattern becomes ritual |
+| Baret's girlish giggle | First appearance, triggered by slapstick | Character texture. Darek is the only person who can reliably trigger it |
+| The parallel keepsakes | Claw (protection), food (nourishment) | Barlas carries nothing --- everything taken |
+| The geode | Casual pocket-it moment | Ch 6 (Elowen), Book 1 finale, Book 4 |
+| Sister's death (cover story) | Grief reference after comedy | Ch 13 revelation. Recontextualizes everything |
+| Baret's non-response | Does not respond, keeps walking | Broken emotional processing, series arc |
+| The planted clue | Detail, no emphasis | Ch 13. Baret's enhanced cognition connects it. AI confirms |
 
 **Scene 4: The Lion's Claw (Early Afternoon)**
 
@@ -443,49 +323,23 @@ they love.
 
 **Backstory Seeds**
 
-**Lion's claw / father's protection.** Warm anecdote. *Payoff: Ch 13. Also
-resonates as Baret becomes the protector.*
-
-**The father (Danik).** Physically brave, present, protective. *Payoff: Book 2.
-Deepens once both parents' secret is known.*
-
-**Darek's keepsake (feather hint).** Touched, not explained. *Payoff: Later
-chapter reveals the bird story. Three keepsakes across three characters: claw,
-feather, nothing.*
+| Seed | Planted As | Payoff |
+|---------------------------|---------------------------|---------------------------|
+| Lion's claw / father's protection | Warm anecdote | Ch 13. Also resonates as Baret becomes the protector |
+| The father (Danik) | Physically brave, present, protective | Book 2. Deepens once both parents' secret is known |
+| Darek's keepsake (feather hint) | Touched, not explained | Later chapter reveals the bird story. Three keepsakes across three characters: claw, feather, nothing |
 
 **Scene 5: The Descent --- Being Followed (Afternoon)**
 
 *Value shift: Homeward ease → Creeping unease (unresolved)*
 
-  ------------------ ----------------------------------------------------
-  **5 COMMANDMENTS** 
-
-  **Inciting         Baret notices a branch broken laterally at a height
-  Incident**         that doesn't match wind or any animal he knows.
-                     Clocks it without stopping. Doesn't mention it to
-                     Darek.
-
-  **Progressive      A zone of quiet in the birdsong behind them. Not
-  Complication**     silence everywhere --- silence tracking with them.
-                     Something has disrupted the mountain's normal
-                     ecosystem behind them.
-
-  **Crisis**         Does Baret tell Darek (sharing the threat,
-                     potentially causing panic) or handle it silently
-                     (protecting Darek, carrying the weight alone)?
-                     Mirrors the sister grief crisis --- Baret's instinct
-                     is to go quiet and manage alone.
-
-  **Climax**         Baret adjusts route toward open ground. Puts himself
-                     between the uphill side and Darek without making it
-                     obvious. Says nothing. Herder's instincts. Darek
-                     picks up the pace change from reading Baret's body,
-                     not the terrain.
-
-  **Resolution**     They get lower, closer to Tanapun's walls. Whatever
-                     it was --- if it was anything --- falls behind.
-                     Baret doesn't know. The chapter doesn't answer.
-  ------------------ ----------------------------------------------------
+| 5 Commandments | Description |
+|----------------------------------------|----------------------------------------|
+| **Inciting Incident** | Baret notices a branch broken laterally at a height that doesn't match wind or any animal he knows. Clocks it without stopping. Doesn't mention it to Darek. |
+| **Progressive Complication** | A zone of quiet in the birdsong behind them. Not silence everywhere --- silence tracking with them. Something has disrupted the mountain's normal ecosystem behind them. |
+| **Crisis** | Does Baret tell Darek (sharing the threat, potentially causing panic) or handle it silently (protecting Darek, carrying the weight alone)? Mirrors the sister grief crisis --- Baret's instinct is to go quiet and manage alone. |
+| **Climax** | Baret adjusts route toward open ground. Puts himself between the uphill side and Darek without making it obvious. Says nothing. Herder's instincts. Darek picks up the pace change from reading Baret's body, not the terrain. |
+| **Resolution** | They get lower, closer to Tanapun's walls. Whatever it was --- if it was anything --- falls behind. Baret doesn't know. The chapter doesn't answer. |
 
 **Scene Detail**
 
@@ -499,11 +353,10 @@ positions protectively.
 
 **Backstory Seeds**
 
-**Baret's terrain-reading (second instance).** Tracking signs. *Payoff: Ch 9, Ch
-13, Ch 14, Proving 3 Round 3.*
-
-**Ambiguous follower.** Decision deferred: Ulreth scout / predator / nothing.
-*Payoff: Retroactive.*
+| Seed | Planted As | Payoff |
+|---------------------------|---------------------------|---------------------------|
+| Baret's terrain-reading (second instance) | Tracking signs | Ch 9, Ch 13, Ch 14, Proving 3 Round 3 |
+| Ambiguous follower | Unresolved | Retroactive: Ulreth / predator / nothing |
 
 **Closing Image: Tanapun Below (Late Afternoon)**
 
@@ -524,83 +377,32 @@ Before the AI creates a wall. This is what they had.
 
 **Backstory Seed Inventory**
 
-  ------------------ --------------------- ---------------------------------
-  **Seed**           **Planted As**        **Payoff**
-
-  Symbiont marks on  Physical description, Ch 3 (Marking), Ch 10
-  hands              unremarked            (activation), class system
-
-  Mountain-dialect   Navigation dialogue   Book 3 (Capsule One mainframe)
-  /t/ place names                          
-
-  Semi-sacred        Reverent gesture +    Ch 10 (Capsule Two), Book 3
-  terraforming       landmark              (revelation)
-  structures                               
-
-  Scale of buried    One descriptive       Ch 10, Book 3
-  infrastructure     detail                
-
-  Ulreth forest      Practical terrain     Ch 8--10 (Proving 2), series-wide
-  boundary           knowledge             
-
-  Ulreth as lived    Fear response,        Cover story plausibility, Proving
-  threat (false      mundane resolution    2 foreshadowing
-  scare)                                   
-
-  Patrol routes as   Worn tracks in        Ch 2 onward, rebellion arc
-  landscape          hillside              
-
-  Fortified Tanapun  Walls visible from    World-building
-                     above                 
-
-  Taxation pressure  Disproportionate      Ch 2 (first injustice), whole Act
-  (the sheep)        relief                1
-
-  Darek's food       Foraging, cooking     Character texture, series-wide
-  obsession (morels) lecture               
-
-  Baret's girlish    Triggered by          Character texture, Darek
-  giggle             slapstick             exclusive
-
-  Parallel keepsakes Claw (protection),    Barlas carries nothing ---
-                     food (nourishment)    everything taken
-
-  The geode          Casual pocket-it      Ch 6 (Elowen), Book 1 finale,
-                     moment                Book 4
-
-  Sister's death     Grief reference after Ch 13 (revelation), series-wide
-  (cover story)      comedy                
-
-  Baret's            Does not respond,     Broken emotional processing,
-  non-response       keeps walking         series arc
-
-  Planted clue       Detail, no emphasis   Ch 13 (Baret's enhanced
-  (environmental)                          cognition). AI confirms
-
-  Lion's claw /      Warm anecdote         Ch 13 (recontextualized), Book 2
-  father's                                 
-  protection                               
-
-  Darek's feather    Touches pocket, not   Later chapter. Three keepsakes
-  (hint)             explained             parallel
-
-  The Marking        Dialogue or dread     Ch 3, forward momentum
-
-  Baret's            Broken branch +       Ch 9, Ch 13, Ch 14, Proving 3
-  terrain-reading    silence zone          Round 3
-
-  Ambiguous follower Unresolved            Retroactive: Ulreth / predator /
-                                           nothing
-
-  Twin bond at full  Closing image         Entire series (progressive
-  strength                                 separation)
-
-  Fastidious vs.     Darek fussing, Baret  Twin dynamic, series-wide
-  slob               ignoring              
-
-  Bug terror         Yelp/swat, one-two    Comedic through-line
-                     lines                 
-  ------------------ --------------------- ---------------------------------
+| Seed | Planted As | Payoff |
+|---------------------------|---------------------------|---------------------------|
+| Symbiont marks on hands | Physical description, unremarked | Ch 3 (Marking), Ch 10 (activation), class system |
+| Mountain-dialect /t/ place names | Navigation dialogue | Book 3 (Capsule One mainframe) |
+| Semi-sacred terraforming structures | Reverent gesture + landmark | Ch 10 (Capsule Two), Book 3 (revelation) |
+| Scale of buried infrastructure | One descriptive detail | Ch 10, Book 3 |
+| Ulreth forest boundary | Practical terrain knowledge | Ch 8--10 (Proving 2), series-wide |
+| Ulreth as lived threat (false scare) | Fear response, mundane resolution | Cover story plausibility, Proving 2 foreshadowing |
+| Patrol routes as landscape | Worn tracks in hillside | Ch 2 onward, rebellion arc |
+| Fortified Tanapun | Walls visible from above | World-building |
+| Taxation pressure (the sheep) | Disproportionate relief | Ch 2 (first injustice), whole Act 1 |
+| Darek's food obsession (morels) | Foraging, cooking lecture | Character texture, series-wide |
+| Baret's girlish giggle | Triggered by slapstick | Character texture, Darek exclusive |
+| Parallel keepsakes | Claw (protection), food (nourishment) | Barlas carries nothing --- everything taken |
+| The geode | Casual pocket-it moment | Ch 6 (Elowen), Book 1 finale, Book 4 |
+| Sister's death (cover story) | Grief reference after comedy | Ch 13 (revelation), series-wide |
+| Baret's non-response | Does not respond, keeps walking | Broken emotional processing, series arc |
+| Planted clue (environmental) | Detail, no emphasis | Ch 13 (Baret's enhanced cognition). AI confirms |
+| Lion's claw / father's protection | Warm anecdote | Ch 13 (recontextualized), Book 2 |
+| Darek's feather (hint) | Touches pocket, not explained | Later chapter. Three keepsakes parallel |
+| The Marking | Dialogue or dread | Ch 3, forward momentum |
+| Baret's terrain-reading | Broken branch + silence zone | Ch 9, Ch 13, Ch 14, Proving 3 Round 3 |
+| Ambiguous follower | Unresolved | Retroactive: Ulreth / predator / nothing |
+| Twin bond at full strength | Closing image | Entire series (progressive separation) |
+| Fastidious vs. slob | Darek fussing, Baret ignoring | Twin dynamic, series-wide |
+| Bug terror | Yelp/swat, one-two lines | Comedic through-line |
 
 **Open Decision: Point of View / Person**
 
