@@ -2,14 +2,15 @@
 
 **Status:** ⚠️ Arc established / ⚠️ Personality minimal
 
-**Name:** Darek (from seed language /d/ onset --- time/change category. Da-rek,
-CV-CVC. The shared /a/ vowel with Baret subtly signals sibling relationship)
+**Name:** Darek (from seed language /d/ onset --- time/change category.
+[[Language_Reference#Character Names|Da-rek]], CV-CVC. The shared /a/ vowel with
+Baret subtly signals sibling relationship)
 
 **Background:** Baret's non-identical twin. Herders together in Tanapun. Present
-from Book 1 onward. Both carry the grief of their sister's death (\~1-2 years
-before Book 1), though neither knows the truth. Darek handles grief more openly
---- humor, warmth, references to her that come more easily than they do for
-Baret.
+from Book 1 onward. Both carry the grief of their sister (Nalin)'s death (\~1-2
+years before Book 1), though neither knows the truth. Darek handles grief more
+openly --- humor, warmth, references to her that come more easily than they do
+for Baret.
 
 **Core Arc:**
 
