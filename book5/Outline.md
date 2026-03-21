@@ -32,14 +32,14 @@ the ssets/Planet Surface.png symbionts degraded over generations in ways the
 original design didn\'t ssets/Planet Surface.png intend. He knows the capsule
 infrastructure was part of a larger mission ssets/Planet Surface.png from Earth.
 But both Capsule One and Two are damaged --- corrupted data, ssets/Planet
-Surface.png fragmentary records, 700 years of degradation. His AI has never been
-ssets/Planet Surface.png able to reconstruct the full mission architecture: how
-many capsules ssets/Planet Surface.png were sent, what happened to Earth after
-launch, or why the process was ssets/Planet Surface.png interrupted. Those gaps
-have been persistent and unresolvable with the ssets/Planet Surface.png data
-available. Baret has lived with incomplete answers for seventeen ssets/Planet
-Surface.png years. They\'re frustrating but not urgent --- he\'s had
-revolutions, ssets/Planet Surface.png wars, a republic, and an exile to deal
+Surface.png fragmentary records, 1300 years of degradation. His AI has never
+been ssets/Planet Surface.png able to reconstruct the full mission architecture:
+how many capsules ssets/Planet Surface.png were sent, what happened to Earth
+after launch, or why the process was ssets/Planet Surface.png interrupted. Those
+gaps have been persistent and unresolvable with the ssets/Planet Surface.png
+data available. Baret has lived with incomplete answers for seventeen
+ssets/Planet Surface.png years. They\'re frustrating but not urgent --- he\'s
+had revolutions, ssets/Planet Surface.png wars, a republic, and an exile to deal
 with. ssets/Planet Surface.png
 
 ssets/Planet Surface.png Reader experience: We meet a diminished Baret. The
@@ -903,27 +903,27 @@ ssets/Planet Surface.png
 ssets/Planet Surface.png \### []{#anchor}Kullen\'s Hidden Timeline (Reference
 Only) ssets/Planet Surface.png
 
-  ets/Plan   et Surface.png
-  ---------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ets/Plan   et Surface.png
-  1-2        Dispossessed by Baret\'s revolution. Exiled. Drifts outward
-  ets/Plan   et Surface.png
-  2-3        Discovers Capsule Three. Military AI speaks through audio. Learns Earth\'s complete history
-  ets/Plan   et Surface.png
-  3-4        Extracts portable device under AI\'s instruction. Finds and trains a proxy
-  ets/Plan   et Surface.png
-  4-7        Positions susceptible individuals during post-war chaos
-  ets/Plan   et Surface.png
-  7          Reappears as reformed figure. Enters the republic. Arabela returns to him
-  ets/Plan   et Surface.png
-  7-16       Proxy compromises officials one by one. Serik compromised during this period. Compromises key officials and military officers
-  ets/Plan   et Surface.png
-  \~8-9      Compromises Dalin
-  ets/Plan   et Surface.png
-  9-16       Continues operations during Baret\'s exile. Channels genuine popular discontent into coordinated populist control
-  ets/Plan   et Surface.png
-  16-17      Serik\'s breakdown --- unintended consequence. Leorik attacks capital with kingdom army (separate thread). Attempts to compromise Baret during counter-coup. Backfires
-  ets/Plan   et Surface.png
+| ets/Plan | et Surface.png |
+|:---|:---|
+| ets/Plan | et Surface.png |
+| 1-2 | Dispossessed by Baret\'s revolution. Exiled. Drifts outward |
+| ets/Plan | et Surface.png |
+| 2-3 | Discovers Capsule Three. Military AI speaks through audio. Learns Earth\'s complete history |
+| ets/Plan | et Surface.png |
+| 3-4 | Extracts portable device under AI\'s instruction. Finds and trains a proxy |
+| ets/Plan | et Surface.png |
+| 4-7 | Positions susceptible individuals during post-war chaos |
+| ets/Plan | et Surface.png |
+| 7 | Reappears as reformed figure. Enters the republic. Arabela returns to him |
+| ets/Plan | et Surface.png |
+| 7-16 | Proxy compromises officials one by one. Serik compromised during this period. Compromises key officials and military officers |
+| ets/Plan | et Surface.png |
+| \~8-9 | Compromises Dalin |
+| ets/Plan | et Surface.png |
+| 9-16 | Continues operations during Baret\'s exile. Channels genuine popular discontent into coordinated populist control |
+| ets/Plan | et Surface.png |
+| 16-17 | Serik\'s breakdown --- unintended consequence. Leorik attacks capital with kingdom army (separate thread). Attempts to compromise Baret during counter-coup. Backfires |
+| ets/Plan | et Surface.png |
 
 ssets/Planet Surface.png
 

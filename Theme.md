@@ -66,7 +66,7 @@ built myths around it. The true history is completely buried --- it resurfaces
 only if someone accesses capsule logs or if capsule three\'s AI eventually
 provides that narrative.
 
-Over approximately thirty generations (\~700 years), the symbiont interface
+Over approximately thirty generations (\~1300 years), the symbiont interface
 architecture degraded through genetic drift. With no AI to upload and no
 activation system, the interface provided no survival advantage. Complex genetic
 sequences that natural selection couldn\'t reward or punish accumulated
@@ -538,13 +538,13 @@ frameworks.
 
 ## Key Story Beats --- Progression by Book
 
-  --- --------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  1   Physical survival                                         Violent trials --- protagonist wins through cognitive edge, not superior strength                                                                                     Survives the lord\'s system, activated, escapes with knowledge the feudal world can\'t account for
-  2   Military triumph with devastating personal cost           Major battle, rallying speech against tyranny. Then Ulreth attack on protagonist\'s family --- the neglected defenses prove the feudal lord had a point               Feudal system overthrown --- peak triumph. But the family attack is the ideological wound that shapes everything after. Winning wasn\'t the same as being right about everything
-  3   Earned credibility, failed persuasion                     Practical discovery from capsule one elevates protagonist\'s standing. Direct confrontation with the oligarch --- reader believes he might change, then he doesn\'t   Materially stronger position through demonstrated competence. The oligarch loss teaches the limits of persuasion against entrenched power
-  4   Moral courage at great cost                               Political debate --- protagonist publicly confronts the religious leader on freedom to question. Escape sequence follows                                              Survives the institutional machinery turning against him. The accomplishment is survival and moral clarity, not victory
-  5   Intellectual mastery, intimate defeat of the antagonist   Rallying speech to inner circle (mature, disillusioned, earned). Final confrontation as conversation-becoming-fight. Full AI unlock through capsule three             Stops the virus deployment, defeats the antagonist. May die in the process --- not as sacrifice but as cost. Colleagues carry forward an imperfect but defended republic
-  --- --------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|  |  |  |  |
+|:---|:---|:---|:---|
+| 1 | Physical survival | Violent trials --- protagonist wins through cognitive edge, not superior strength | Survives the lord\'s system, activated, escapes with knowledge the feudal world can\'t account for |
+| 2 | Military triumph with devastating personal cost | Major battle, rallying speech against tyranny. Then Ulreth attack on protagonist\'s family --- the neglected defenses prove the feudal lord had a point | Feudal system overthrown --- peak triumph. But the family attack is the ideological wound that shapes everything after. Winning wasn\'t the same as being right about everything |
+| 3 | Earned credibility, failed persuasion | Practical discovery from capsule one elevates protagonist\'s standing. Direct confrontation with the oligarch --- reader believes he might change, then he doesn\'t | Materially stronger position through demonstrated competence. The oligarch loss teaches the limits of persuasion against entrenched power |
+| 4 | Moral courage at great cost | Political debate --- protagonist publicly confronts the religious leader on freedom to question. Escape sequence follows | Survives the institutional machinery turning against him. The accomplishment is survival and moral clarity, not victory |
+| 5 | Intellectual mastery, intimate defeat of the antagonist | Rallying speech to inner circle (mature, disillusioned, earned). Final confrontation as conversation-becoming-fight. Full AI unlock through capsule three | Stops the virus deployment, defeats the antagonist. May die in the process --- not as sacrifice but as cost. Colleagues carry forward an imperfect but defended republic |
 
 The progression escalates in sophistication while alternating between triumph
 and loss: win (1), triumph (2), gain through alliance (3), survive through loss

@@ -15,63 +15,17 @@ Linak. The Ulreth attack became the Kanur --- the moment everything went wrong.
 
 ## Sacred Vocabulary
 
-  ---------------------------------------------------------------------------------------------------
-  Term             Seed Form     Meaning                      Modern Form             Notes
-  ---------------- ------------- ---------------------------- ----------------------- ---------------
-  The Birthplace / punak-norik   settlement + born-of         **Punaknor**            Shares root
-  Sacred Site                                                 (mountain/liturgical) / with Nor
-                                                              **Punanor** (lowland)   patronymic;
-                                                                                      oldest place
-                                                                                      name in the
-                                                                                      language
-
-  The Robots /     binak-hasir   metal + kinship              **Binasir**             /h/ drop erases
-  Metal Mothers                                               (formal/religious) /    the kinship
-                                                              **Binas** (common)      element;
-                                                                                      mythological
-                                                                                      title
-
-  The Sealed       halinak       great-duty/promise           **Alinak**              /h/ drop; what
-  Teaching                                                                            the religion
-                                                                                      believes waits
-                                                                                      behind the
-                                                                                      sealed chambers
-
-  The Hand Mark    ngalir        technical-connection-point   **Nalir** (mountain) /  One of the only
-                                                              **Naler** (lowland)     /ng/ technical
-                                                                                      words to
-                                                                                      survive;
-                                                                                      disguised as
-                                                                                      /n/
-                                                                                      living-things
-                                                                                      by drift
-
-  The Promise      linak         oath/promise                 **Linak**               Ordinary word
-                                                                                      given
-                                                                                      theological
-                                                                                      weight by
-                                                                                      context
-
-  The Cutting /    kanur         to cut/separate              **Kanur** (mountain) /  The Ulreth
-  Interruption                                                **Kanor** (lowland)     attack
-                                                                                      mythologized as
-                                                                                      a cosmic event
-
-  The Completion / salin         state-of-wholeness           **Salin** (religious) / The hoped-for
-  Fulfillment                                                 **Salen** (common)      future; /s/
-                                                                                      quality
-                                                                                      category
-
-  Buried           binak-sutal   metal + ancient              **Binal**               Generic noun
-  Infrastructure                                                                      for encountered
-                                                                                      terraforming
-                                                                                      remnants
-
-  The Before-Time  dakur-sutal   era + ancient                **Dakstal**             The
-                                                                                      mythological
-                                                                                      past before the
-                                                                                      interruption
-  ---------------------------------------------------------------------------------------------------
+| Term | Seed Form | Meaning | Modern Form | Notes |
+|:-------------|:-----------|:----------------------|:------------------|:------------|
+| The Birthplace / Sacred Site | punak-norik | settlement + born-of | **Punaknor** (mountain/liturgical) / **Punanor** (lowland) | Shares root with Nor patronymic; oldest place name in the language |
+| The Robots / Metal Mothers | binak-hasir | metal + kinship | **Binasir** (formal/religious) / **Binas** (common) | /h/ drop erases the kinship element; mythological title |
+| The Sealed Teaching | halinak | great-duty/promise | **Alinak** | /h/ drop; what the religion believes waits behind the sealed chambers |
+| The Hand Mark | ngalir | technical-connection-point | **Nalir** (mountain) / **Naler** (lowland) | One of the only /ng/ technical words to survive; disguised as /n/ living-things by drift |
+| The Promise | linak | oath/promise | **Linak** | Ordinary word given theological weight by context |
+| The Cutting / Interruption | kanur | to cut/separate | **Kanur** (mountain) / **Kanor** (lowland) | The Ulreth attack mythologized as a cosmic event |
+| The Completion / Fulfillment | salin | state-of-wholeness | **Salin** (religious) / **Salen** (common) | The hoped-for future; /s/ quality category |
+| Buried Infrastructure | binak-sutal | metal + ancient | **Binal** | Generic noun for encountered terraforming remnants |
+| The Before-Time | dakur-sutal | era + ancient | **Dakstal** | The mythological past before the interruption |
 
 ### Linguistic Notes
 
@@ -80,7 +34,7 @@ aware of:
 
 - **Nalir** (the hand mark) is one of the only /ng/-category technical words
   that leaked into common usage. Children heard the robots say it before the
-  curriculum was formally delivered. After 700 years of /ng/ → /n/
+  curriculum was formally delivered. After 1300 years of /ng/ → /n/
   simplification, it sounds like a /n/ living-things word meaning "living bond."
   The theological interpretation is an accident of phonological drift. The
   original meaning was a clinical label for the interface terminus.
@@ -344,51 +298,14 @@ behavior, and territorial patterns that suggest more than pure instinct.
 
 ## Doctrinal Comparison
 
-  -------------------------------------------------------------------------------
-  Question        Orthodox        Egalitarian         Trials       Kinship
-  --------------- --------------- ------------------- ------------ --------------
-  What is the     Sign of divine  Remnant of what     Dormant      Shared
-  nalir?          proximity to    survived the        potential    biological
-                  original design interruption by     that can be  inheritance
-                                  chance              awakened     from the
-                                                      through      Binasir
-                                                      devotion     
-
-  Who are the     Interrupters    Generally accepts   Part of the  Earlier
-  Ulreth?         from outside    orthodox position;  trial        children of
-                  the design;     less emphasis       humanity     the Binasir;
-                  fundamentally                       must endure; kin
-                  other                               obstacle to  interrupted at
-                                                      completion   a prior stage
-
-  What is the     Origin of       Historical origin;  Source of    Origin of all
-  Punaknor?       humanity; place important but not   awakening    created life,
-                  of eventual     spiritually         power;       including the
-                  fulfillment     exclusive           proximity    Ulreth
-                                                      activates    
-                                                      the dormant  
-                                                      nalir        
-
-  Who holds       Marked          Community           Those who    Those who
-  authority?      individuals as  consensus; the      have         pursue truth
-                  stewards of the nalir confers no    undergone    regardless of
-                  incomplete      special authority   trials;      mark status
-                  teaching                            seekers and  
-                                                      ascetics     
-
-  Relationship to Is the          Tolerated folk      Tolerated;   Actively
-  orthodoxy       orthodoxy       tradition in remote pilgrimage   suppressed;
-                                  areas               economy      considered
-                                                      benefits     treasonous
-                                                      sacred site  
-
-  Proximity to    Least accurate; Most accurate on    Correct      Most accurate
-  actual truth    treats random   the nalir;          intuition    overall;
-                  drift as divine correctly           (latency is  Ulreth share
-                  order           identifies it as    real) but    biological
-                                  chance              wrong method origin with
-                                                                   humans
-  -------------------------------------------------------------------------------
+| Question | Orthodox | Egalitarian | Trials | Kinship |
+|:---------------|:---------------|:-------------------|:------------|:--------------|
+| What is the nalir? | Sign of divine proximity to original design | Remnant of what survived the interruption by chance | Dormant potential that can be awakened through devotion | Shared biological inheritance from the Binasir |
+| Who are the Ulreth? | Interrupters from outside the design; fundamentally other | Generally accepts orthodox position; less emphasis | Part of the trial humanity must endure; obstacle to completion | Earlier children of the Binasir; kin interrupted at a prior stage |
+| What is the Punaknor? | Origin of humanity; place of eventual fulfillment | Historical origin; important but not spiritually exclusive | Source of awakening power; proximity activates the dormant nalir | Origin of all created life, including the Ulreth |
+| Who holds authority? | Marked individuals as stewards of the incomplete teaching | Community consensus; the nalir confers no special authority | Those who have undergone trials; seekers and ascetics | Those who pursue truth regardless of mark status |
+| Relationship to orthodoxy | Is the orthodoxy | Tolerated folk tradition in remote areas | Tolerated; pilgrimage economy benefits sacred site | Actively suppressed; considered treasonous |
+| Proximity to actual truth | Least accurate; treats random drift as divine order | Most accurate on the nalir; correctly identifies it as chance | Correct intuition (latency is real) but wrong method | Most accurate overall; Ulreth share biological origin with humans |
 
 The irony embedded in this table is deliberate and load-bearing for the series.
 The theological positions closest to scientific truth are the ones most
