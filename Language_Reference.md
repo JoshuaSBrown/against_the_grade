@@ -22,21 +22,21 @@ stops) because the robotic caretakers had years to work with, and a larger
 consonant inventory allows shorter words for more concepts --- which speeds
 acquisition overall.
 
-  Phoneme   Type             Articulation             IPA
-  --------- ---------------- ------------------------ -----
-  **p**     Voiceless stop   Bilabial (lips)          /p/
-  **b**     Voiced stop      Bilabial                 /b/
-  **t**     Voiceless stop   Dental (tongue tip)      /t/
-  **d**     Voiced stop      Dental                   /d/
-  **k**     Voiceless stop   Velar (back of mouth)    /k/
-  **g**     Voiced stop      Velar                    /g/
-  **m**     Nasal            Bilabial                 /m/
-  **n**     Nasal            Dental                   /n/
-  **ng**    Nasal            Velar                    /ŋ/
-  **s**     Fricative        Alveolar                 /s/
-  **h**     Approximant      Glottal (open airflow)   /h/
-  **r**     Liquid           Alveolar                 /r/
-  **l**     Liquid           Alveolar                 /l/
+| Phoneme | Type           | Articulation           | IPA |
+|---------|----------------|------------------------|-----|
+| p       | Voiceless stop | Bilabial (lips)        | /p/ |
+| b       | Voiced stop    | Bilabial               | /b/ |
+| t       | Voiceless stop | Dental (tongue tip)    | /t/ |
+| d       | Voiced stop    | Dental                 | /d/ |
+| k       | Voiceless stop | Velar (back of mouth)  | /k/ |
+| g       | Voiced stop    | Velar                  | /g/ |
+| m       | Nasal          | Bilabial               | /m/ |
+| n       | Nasal          | Dental                 | /n/ |
+| ng      | Nasal          | Velar                  | /ŋ/ |
+| s       | Fricative      | Alveolar               | /s/ |
+| h       | Approximant    | Glottal (open airflow) | /h/ |
+| r       | Liquid         | Alveolar               | /r/ |
+| l       | Liquid         | Alveolar               | /l/ |
 
 **Note on /ng/:** The velar nasal /ŋ/ exists as a sound in the language but does
 not head its own semantic category. It appears in compounds and drift forms. See
@@ -64,11 +64,11 @@ than three or four words in the entire modern vocabulary contain this sound.
 The three corner vowels of human auditory perception. Maximum acoustic distance
 from each other.
 
-  Phoneme   Quality        IPA
-  --------- -------------- -----
-  **a**     Open central   /a/
-  **i**     Close front    /i/
-  **u**     Close back     /u/
+| Phoneme | Type         | IPA |
+|---------|--------------|-----|
+| a       | Open central | /a/ |
+| i       | Close front  | /i/ |
+| u       | Close back   | /u/ |
 
 **Surface system (modern, post-drift): 5 vowels**
 
@@ -76,13 +76,13 @@ Even in the seed language, the three base vowels had predictable variants in
 different phonetic environments. After 700 years of drift without a written
 standard, these allophones became distinct vowels.
 
-  Vowel   Origin         How It Emerged
-  ------- -------------- ------------------------------------------
-  **a**   Original /a/   Preserved in stressed syllables
-  **e**   From /i/       /i/ lowered to /e/ in many environments
-  **i**   Original /i/   Preserved in the most conservative words
-  **o**   From /u/       /u/ rounded down to /o/ in many dialects
-  **u**   Original /u/   Preserved in archaic and highland speech
+| Vowel | Origin       | How It Emerged                           |
+|-------|--------------|------------------------------------------|
+| a     | Original /a/ | Preserved in stressed syllables          |
+| e     | From /i/     | /i/ lowered to /e/ in many environments  |
+| i     | Original /i/ | Preserved in the most conservative words |
+| o     | From /u/     | /u/ rounded down to /o/ in many dialects |
+| u     | Original /u/ | Preserved in archaic and highland speech |
 
 ### Sounds NOT in the System
 
@@ -167,67 +167,21 @@ concept.
 The initial consonant of every root word indicates its semantic category. This
 is a taxonomic filing system --- a database schema encoded in phonology.
 
-  -----------------------------------------------------------------------------
-  Initial                   Category                     Domain
-  ------------------------- ---------------------------- ----------------------
-  **p**                     Settlements, constructed     Buildings, tools,
-                            things                       infrastructure, roads,
-                                                         anything made
-
-  **t**                     Terrain and geography        Mountains, rivers,
-                                                         plains, caves,
-                                                         physical landscape
-
-  **k**                     Actions and processes        Verbs, doing, making,
-                                                         moving, changing
-
-  **b**                     Resources, materials,        Stone, wood, metal,
-                            substances                   water as resource,
-                                                         food
-
-  **d**                     Time, cycles, sequences      Seasons, aging,
-                                                         generations,
-                                                         before/after
-
-  **g**                     Conflict, opposition,        Edges, barriers,
-                            boundaries                   enemies, struggle,
-                                                         defense
-
-  **m**                     Quantities and relations     Numbers, measurements,
-                                                         directions,
-                                                         comparisons
-
-  **n**                     Living things                Animals, plants,
-                                                         biological categories,
-                                                         body parts
-
-  **s**                     States and qualities         Adjectives,
-                                                         conditions,
-                                                         properties,
-                                                         descriptions
-
-  **h**                     Abstract concepts            Social structures,
-                                                         governance, kinship,
-                                                         identity, spirit
-
-  **r**                     Movement, direction, paths   Travel, flow,
-                                                         migration, orientation
-
-  **l**                     Bonds, connections, groups   Loyalty, family,
-                                                         community, attachment
-
-  **vowel**                 Engineered systems           Terraforming
-                            (technical)                  organisms, capsule
-                                                         technology, symbiont
-                                                         infrastructure.
-                                                         Designed to be
-                                                         maximally distinct
-                                                         from all
-                                                         consonant-initial
-                                                         categories. Never
-                                                         fully taught before
-                                                         the Ulreth attack
-  -----------------------------------------------------------------------------
+| Initial | Category | Domain |
+|---------------------------|------------------------------|------------------------|
+| p | Settlements, constructed infrastructure, roads | Buildings, tools, things made |
+| t | Terrain and geography | Mountains, rivers, plains, caves, physical landscape |
+| k | Actions and processes | Verbs, doing, making, moving, changing |
+| b | Resources, materials, substances | Stone, wood, metal, water as resource, food |
+| d | Time, cycles, sequences | Seasons, aging, generations, before/after |
+| g | Conflict, opposition, boundaries | Edges, barriers, enemies, struggle, defense |
+| m | Quantities and relations | Numbers, measurements, directions, comparisons |
+| n | Living things | Animals, plants, biological categories, body parts |
+| s | States and qualities | Adjectives, conditions, properties, descriptions |
+| h | Abstract concepts | Social structures, governance, kinship, identity, spirit |
+| r | Movement, direction, paths | Travel, flow, migration, orientation |
+| l | Bonds, connections, groups | Loyalty, family, community, attachment |
+| vowel | Engineered systems (technical) | Terraforming organisms, capsule technology, symbiont infrastructure. Designed to be maximally distinct from all consonant-initial categories. Never fully taught before the Ulreth attack |
 
 The vowel-onset category replaced what would have been a 13th consonant
 category. The engineers determined that maximum distinctness --- a completely
@@ -242,146 +196,123 @@ specifies further. It is an address system.
 
 **Terrain (/t/ words):**
 
-  Word        Meaning
-  ----------- ------------------------------------------------
-  **takur**   Elevated solid terrain --- mountain, peak
-  **tapin**   Elevated open terrain --- plateau, ridge
-  **tanak**   Enclosed solid terrain --- valley, canyon
-  **tasir**   Moving water --- river, stream
-  **tamul**   Low wet terrain --- marsh, riverbank
-  **tisun**   Flat open terrain --- plain, field
-  **tikur**   Unstable terrain --- scree, sand, loose ground
-  **tunir**   Underground terrain --- cave, cavern
+| Word  | Meaning                                        |
+|-------|------------------------------------------------|
+| takur | Elevated solid terrain --- mountain, peak      |
+| tapin | Elevated open terrain --- plateau, ridge       |
+| tanak | Enclosed solid terrain --- valley, canyon      |
+| tasir | Moving water --- river, stream                 |
+| tamul | Low wet terrain --- marsh, riverbank           |
+| tisun | Flat open terrain --- plain, field             |
+| tikur | Unstable terrain --- scree, sand, loose ground |
+| tunir | Underground terrain --- cave, cavern           |
 
 **Settlements (/p/ words):**
 
-  Word        Meaning
-  ----------- --------------------------------------------------------
-  **punak**   Permanent enclosed settlement --- town, city
-  **pakur**   Fortified or elevated settlement --- fortress, citadel
-  **pasir**   Settlement near water --- port, riverside town
-  **pikur**   Temporary elevated camp --- mountain outpost
-  **putin**   Permanent path structure --- road, bridge
-  **panir**   Small permanent structure --- house, workshop
+| Word  | Meaning                                                |
+|-------|--------------------------------------------------------|
+| punak | Permanent enclosed settlement --- town, city           |
+| pakur | Fortified or elevated settlement --- fortress, citadel |
+| pasir | Settlement near water --- port, riverside town         |
+| pikur | Temporary elevated camp --- mountain outpost           |
+| putin | Permanent path structure --- road, bridge              |
+| panir | Small permanent structure --- house, workshop          |
 
 **States and qualities (/s/ words):**
 
-  Word        Meaning
-  ----------- ---------------
-  **sakur**   Large, great
-  **simin**   Small, minor
-  **sutal**   Old, ancient
-  **sinak**   New, recent
-  **sahur**   Warm, fertile
-  **sunir**   Dark, hidden
+| Word  | Meaning       |
+|-------|---------------|
+| sakur | Large, great  |
+| simin | Small, minor  |
+| sutal | Old, ancient  |
+| sinak | New, recent   |
+| sahur | Warm, fertile |
+| sunir | Dark, hidden  |
 
 **Actions (/k/ words):**
 
-  Word        Meaning
-  ----------- --------------------------------
-  **kasir**   To move, to travel
-  **katur**   To build, to construct
-  **kumin**   To gather, to collect
-  **kinak**   To offer, to provide
-  **kanur**   To cut, to divide, to separate
+| Word  | Meaning                        |
+|-------|--------------------------------|
+| kasir | To move, to travel             |
+| katur | To build, to construct         |
+| kumin | To gather, to collect          |
+| kinak | To offer, to provide           |
+| kanur | To cut, to divide, to separate |
 
 **Living things (/n/ words):**
 
-  Word        Meaning
-  ----------- -----------------------------------
-  **nakur**   Large animal --- megafauna, beast
-  **nimin**   Small creature --- insect, rodent
-  **nasur**   Plant, tree
-  **nutin**   Human being, person
+| Word  | Meaning                           |
+|-------|-----------------------------------|
+| nakur | Large animal --- megafauna, beast |
+| nimin | Small creature --- insect, rodent |
+| nasur | Plant, tree                       |
+| nutin | Human being, person               |
 
 **Abstract concepts (/h/ words):**
 
-  -----------------------------------------------------------------------------
-  Word                           Meaning
-  ------------------------------ ----------------------------------------------
-  **hakur**                      Authority, leadership
-
-  **hasir**                      Kinship, family connection
-
-  **hunir**                      Self, identity, inner state
-
-  **himal**                      Justice, fairness, balance
-
-  **halin**                      Bond of obligation, duty
-
-  **hul**                        Kin, shared biological origin. Clinical ---
-                                 the engineers weren't describing a family
-                                 relationship, they were describing a common
-                                 production line. "Kin" in the way two
-                                 components from the same factory are kin. See
-                                 The Ulreth section for full significance
-
-  **norik**                      Born of, descended from (see Patronymic
-                                 section)
-  -----------------------------------------------------------------------------
+| Word | Meaning |
+|--------------------------------|------------------------------------------------|
+| hakur | Authority, leadership |
+| hasir | Kinship, family connection |
+| hunir | Self, identity, inner state |
+| himal | Justice, fairness, balance |
+| halin | Bond of obligation, duty |
+| hul | Kin, shared biological origin. Clinical --- the engineers weren't describing a family relationship, they were describing a common production line. "Kin" in the way two components from the same factory are kin. See The Ulreth section for full significance |
+| norik | Born of, descended from (see Patronymic section) |
 
 **Resources and materials (/b/ words):**
 
-  Word        Meaning
-  ----------- ----------------------------------------------
-  **bakur**   Stone, rock
-  **basir**   Water as resource (for drinking, irrigation)
-  **bulin**   Wood, timber
-  **binak**   Metal, ore
+| Word  | Meaning                                      |
+|-------|----------------------------------------------|
+| bakur | Stone, rock                                  |
+| basir | Water as resource (for drinking, irrigation) |
+| bulin | Wood, timber                                 |
+| binak | Metal, ore                                   |
 
 **Time (/d/ words):**
 
-  Word        Meaning
-  ----------- -------------------------------
-  **dakur**   Long duration, an age, an era
-  **dasir**   A cycle, a season
-  **dimin**   A moment, briefly
-  **dunal**   A generation
+| Word  | Meaning                       |
+|-------|-------------------------------|
+| dakur | Long duration, an age, an era |
+| dasir | A cycle, a season             |
+| dimin | A moment, briefly             |
+| dunal | A generation                  |
 
 **Conflict and boundaries (/g/ words):**
 
-  Word        Meaning
-  ----------- -----------------------
-  **gakur**   A border, an edge
-  **gasir**   An enemy, an opponent
-  **gulin**   A barrier, a wall
-  **ginak**   A struggle, a fight
+| Word  | Meaning               |
+|-------|-----------------------|
+| gakur | A border, an edge     |
+| gasir | An enemy, an opponent |
+| gulin | A barrier, a wall     |
+| ginak | A struggle, a fight   |
 
 **Movement and paths (/r/ words):**
 
-  Word        Meaning
-  ----------- ---------------------------------
-  **rakur**   A road, a major path
-  **rasir**   A flow, a current (directional)
-  **rimin**   A step, a short movement
-  **runal**   A migration, a long journey
+| Word  | Meaning                         |
+|-------|---------------------------------|
+| rakur | A road, a major path            |
+| rasir | A flow, a current (directional) |
+| rimin | A step, a short movement        |
+| runal | A migration, a long journey     |
 
 **Bonds and connections (/l/ words):**
 
-  Word        Meaning
-  ----------- ----------------------------
-  **lakur**   A clan, a large group
-  **lasir**   An alliance, a partnership
-  **lumin**   A pair, a couple
-  **linak**   A promise, an oath
+| Word  | Meaning               |
+|-------|-----------------------|
+| lakur | A clan, a large group |
+| lasir | An allian             |
+| lumin | A pair, a couple      |
+| linak | A promise, an oath    |
 
 **Engineered systems (vowel-onset words) --- Technical vocabulary:**
 
-  -----------------------------------------------------------------------------
-  Word                           Meaning
-  ------------------------------ ----------------------------------------------
-  **ul**                         Environmental modification process,
-                                 terraforming system
-
-  **ar**                         Integration, interface (as in human-system
-                                 interface)
-
-  **ir**                         Internal processing, atmospheric regulation
-
-  **reth**                       Degraded, corrupted, aberrant --- a diagnostic
-                                 status flag. The engineering equivalent of an
-                                 error code
-  -----------------------------------------------------------------------------
+| Word | Meaning |
+|--------------------------------|------------------------------------------------|
+| ul | Environmental modification process, terraforming system |
+| ar | Integration, interface (as in human-system interface) |
+| ir | Internal processing, atmospheric regulation |
+| reth | Degraded, corrupted, aberrant --- a diagnostic status flag. The engineering equivalent of an error code |
 
 See **The Ulreth** and **Technical Vocabulary** sections for full details and
 compounds.
@@ -393,12 +324,12 @@ compounds.
 Descriptions combine category roots in a fixed order: **quality + thing +
 modifier**
 
-  Compound            Components              Meaning
-  ------------------- ----------------------- -------------------------
-  sakur-punak-tasir   large + town + river    Large town by the river
-  sutal-takur-sunir   old + mountain + dark   Old dark mountain
-  sinak-pakur         new + fortress          New fortress
-  sakur-tasir         large + river           Great river
+| Compound          | Components            | Meaning                 |
+|-------------------|-----------------------|-------------------------|
+| sakur-punak-tasir | large + town + river  | Large town by the river |
+| sutal-takur-sunir | old + mountain + dark | Old dark mountain       |
+| sinak-pakur       | new + fortress        | New fortress            |
+| sakur-tasir       | large + river         | Great river             |
 
 These compounds are the raw material that erodes into place names over 700
 years.
@@ -441,23 +372,11 @@ to interface with capsule technology.
 
 A person's glyph determines their social standing:
 
-  -----------------------------------------------------------------------------
-  Term            Meaning              Class Implication
-  --------------- -------------------- ----------------------------------------
-  **Strong        Crisp, defined,      Upper class. Functional symbiont
-  glyph**         complete pattern.    interface. Capable of full integration
-                  All contact points   
-                  visible              
-
-  **Faint glyph** Blurred, incomplete, Middle to lower class. Degraded
-                  faded pattern. Like  interface. Partial capability
-                  a corroded contact   
-
-  **Unglyphed /   No visible pattern   Lowest class. Non-functional interface.
-  Bare-palmed**   at all. God left     The cruelest designation --- it implies
-                  their hands blank    God started to write and had nothing to
-                                       say
-  -----------------------------------------------------------------------------
+| Term | Meaning | Class Implication |
+|----------------|----------------------|-------------------------------------------|
+| Strong glyph | Crisp, defined, complete pattern. All contact points visible | Upper class. Functional symbiont interface. Capable of full integration |
+| Faint glyph | Blurred, incomplete, faded pattern. Like a corroded contact | Middle to lower class. Degraded interface. Partial capability |
+| Unglyphed / Bare-palmed | No visible pattern at all. God left their hands blank | Lowest class. Non-functional interface. The cruelest designation --- it implies God started to write and had nothing to say |
 
 Roughly 30--40% of the population has functional glyphs, 15--25% partially
 degraded, and 40--50% non-functional. This biological lottery underpins the
@@ -561,21 +480,11 @@ Nor'Danik."
 
 The naming structure itself is a class marker visible on the page:
 
-  ------------------------------------------------------------------------------
-  Class         Format          Example           What It Signals
-  ------------- --------------- ----------------- ------------------------------
-  Commoner      Name +          Baret Sarin       Defined by environment/labor,
-                Surname +       Nor'Danik         then by father
-                Patronymic                        
-
-  Nobility      Name +          Kullen            Defined only by lineage --- no
-                Patronymic (no  Nor'Haldrin       occupation because lords don't
-                surname)                          work
-
-  Royalty       Name +          Haldanur          Same as nobility but
-                Patronymic (no  Nor'Galrik        patronymic carries dynastic
-                surname)                          animal names
-  ------------------------------------------------------------------------------
+| Class | Format | Example | What It Signals |
+|--------------|----------------|------------------|--------------------------------|
+| Commoner | Name + Surname + Patronymic | Baret Sarin Nor'Danik | Defined by environment/labor, then by father |
+| Nobility | Name + Patronymic (no surname) | Kullen Nor'Haldrin | Defined only by lineage --- no occupation because lords don't work |
+| Royalty | Name + Patronymic (no surname) | Haldanur Nor'Galrik | Same as nobility but patronymic carries dynastic animal names |
 
 Nobles do not carry occupational or weather surnames. They don't need them ---
 their lineage is their identity. The absence of a surname says as much as its
@@ -591,51 +500,32 @@ itself.
 Derived from /k/ (actions) or /b/ (resources) depending on whether the name
 emphasizes what you do or what you work with.
 
-  Name         Root                  Meaning          Occupation
-  ------------ --------------------- ---------------- --------------------------------
-  **Kasir**    kasir (to move)       "The mover"      Hauler, porter, messenger
-  **Katur**    katur (to build)      "The builder"    Mason, carpenter
-  **Kumin**    kumin (to gather)     "The gatherer"   Forager, miner
-  **Kanur**    kanur (to cut)        "The cutter"     Woodcutter, butcher
-  **Bakrin**   bakur (stone) + rin   "Stone worker"   Quarryman, mason
-  **Bulin**    bulin (wood)          "Wood worker"    Carpenter, charcoal maker
-  **Binak**    binak (metal)         "Metal worker"   Smith, miner
-  **Basir**    basir (water)         "Water worker"   Fisher, irrigator, well-keeper
+| Name   | Root                | Meaning        | Occupation                     |
+|--------|---------------------|----------------|--------------------------------|
+| Kasir  | kasir (to move)     | "The mover"    | Hauler, porter, messenger      |
+| Katur  | katur (to build)    | "The builder"  | Mason, carpenter               |
+| Kumin  | kumin (to gather)   | "The gatherer" | Forager, miner                 |
+| Kanur  | kanur (to cut)      | "The cutter"   | Woodcutter, butcher            |
+| Bakrin | bakur (stone) + rin | "Stone worker" | Quarryman, mason               |
+| Bulin  | bulin (wood)        | "Wood worker"  | Carpenter, charcoal maker      |
+| Binak  | binak (metal)       | "Metal worker" | Smith, miner                   |
+| Basir  | basir (water)       | "Water worker" | Fisher, irrigator, well-keeper |
 
 ### Weather and Environmental Surnames
 
 Weather sits at the intersection of /s/ (states/qualities) and /r/ (movement).
 Wind is movement. Cold is a state. Rain is somewhere between.
 
-  ------------------------------------------------------------------------------
-  Name                   Root                   Meaning
-  ---------------------- ---------------------- --------------------------------
-  **Sarin**              sahur-rin (warm +      "The warm wind" --- a family
-                         path)                  from the sheltered side of the
-                                                mountain
-
-  **Sunil**              sunir-lakur (dark +    "The dark gathering" --- storm
-                         group)                 clouds, a family associated with
-                                                high altitude
-
-  **Sulak**              sutal-takur (old +     "Old mountain" --- environmental
-                         mountain)              identity
-
-  **Rasik**              rasir-sikur (flow +    "Cold flow" --- a family near a
-                         cold)                  cold stream or exposed ridge
-
-  **Rusin**              rusir-sunir (gust +    "Dark gust" --- a storm surname
-                         dark)                  
-
-  **Sikur**              sikur (cold)           "The cold" --- a family from the
-                                                high exposed ridges
-
-  **Simak**              simin-takur (small +   "Small peak" --- a family from a
-                         mountain)              minor summit
-
-  **Sarik**              sahur-tikur (warm +    "Warm dust" --- a dry-side
-                         unstable)              family
-  ------------------------------------------------------------------------------
+| Name | Root | Meaning |
+|-----------------------|-----------------------|----------------------------------|
+| Sarin | sahur-rin (warm + path) | "The warm wind" --- a family from the sheltered side of the mountain |
+| Sunil | sunir-lakur (dark + group) | "The dark gathering" --- storm clouds, a family associated with high altitude |
+| Sulak | sutal-takur (old + mountain) | "Old mountain" --- environmental identity |
+| Rasik | rasir-sikur (flow + cold) | "Cold flow" --- a family near a cold stream or exposed ridge |
+| Rusin | rusir-sunir (gust + dark) | "Dark gust" --- a storm surname |
+| Sikur | sikur (cold) | "The cold" --- a family from the high exposed ridges |
+| Simak | simin-takur (small + mountain) | "Small peak" --- a family from a minor summit |
+| Sarik | sahur-tikur (warm + unstable) | "Warm dust" --- a dry-side family |
 
 ### Noble Animal-Naming Convention
 
@@ -647,29 +537,11 @@ The animal name appears as the father's name in the patronymic, meaning the
 grandfather chose power as his son's identity. This creates a dynastic chain of
 animal names stretching back generations.
 
-  ------------------------------------------------------------------------------
-  Name          Root                Meaning         Associated House
-  ------------- ------------------- --------------- ----------------------------
-  **Rasakur**   rasir-sakur (flow + "The great      Regional lord (Haldrin
-                great)              flier" --- the  Nor'Rasakur)
-                                    raptor          
-
-  **Galrik**    ginak-lakur-rikur   "The sharp clan Royal dynasty (Haldanur
-                (conflict + clan +  fighter" ---    Nor'Galrik)
-                sharp)              the lion        
-
-  **Naksin**    nakur-sunir (large  "The dark       Available for other noble
-                animal + dark)      beast" --- the  houses
-                                    apex predator   
-  ------------------------------------------------------------------------------
-
-The hierarchy reads in the names alone:
-
-- **Baret Sarin Nor'Danik** --- common father named Danik, mountain nobody
-- **Haldrin Nor'Rasakur** --- father named for the raptor, regional lord
-- **Haldanur Nor'Galrik** --- father named for the lion, king
-
---------------------------------------------------------------------------------
+| Name | Root | Meaning | Associated House |
+|--------------|--------------|-------------------|-----------------------------------|
+| Rasakur | rasir-sakur (flow + great) | "The great flier" --- the raptor | Regional lord (Haldrin Nor'Rasakur) |
+| Galrik | ginak-lakur-rikur (conflict + clan + sharp) | "The sharp clan fighter" --- the lion | Royal dynasty (Haldanur Nor'Galrik) |
+| Naksin | nakur-sunir (large animal + dark) | "The dark beast" --- the apex predator | Available for other noble houses |
 
 ## Character Names
 
@@ -679,157 +551,32 @@ inventory, simplifying doubled consonants with no systemic basis.
 
 ### Named Characters with Full Names
 
-  -----------------------------------------------------------------------------
-  Role            Full Name                   System Notes
-  --------------- --------------------------- ---------------------------------
-  Protagonist     **Baret Sarin Nor'Danik**   /b/ onset. Ba-ret, CV-CVC.
-                                              Weather surname "warm wind."
-                                              Common father Danik
-
-  Brother         **Dalin Sarin Nor'Danik**   /d/ onset (time/change). Da-lin,
-                                              CV-CVC. Same surname and
-                                              patronymic as Baret
-
-  Sister (dead)   **Nalin Sarin Nor'Danik**   /n/ onset (living things).
-                                              Na-lin, CV-CVC. Same surname and
-                                              patronymic as Baret. Breaks
-                                              feminine /h/-drop convention ---
-                                              a working-class mother naming her
-                                              daughter after life, not
-                                              abstraction
-
-  Lord            **Haldrin Nor'Rasakur**     /h/ onset (governance). Hal-drin,
-                                              CVC-CVC. Father named for the
-                                              raptor. No surname --- nobility
-
-  Lord's Son /    **Kullen Nor'Haldrin**      /k/ onset (action). Kul-len,
-  Antagonist                                  CVC-CVC. No surname --- nobility.
-                                              Marked everywhere as the deposed
-                                              lord's heir
-
-  King            **Haldanur Nor'Galrik**     /h/ onset (governance).
-                                              Hal-da-nur, CVC-CV-CVC. Three
-                                              syllables --- length signals
-                                              royal status. Father named for
-                                              the lion
-
-  Oligarch        **Murek**                   /m/ onset
-                                              (quantities/measurement). Mu-rek,
-                                              CV-CVC. Full name TBD --- whether
-                                              he carries or has dropped a
-                                              surname is a character decision
-  -----------------------------------------------------------------------------
+| Role | Full Name | System Notes |
+|-----------------|----------------------------|------------------------------------|
+| Protagonist | **Baret Sarin Nor'Danik** | /b/ onset. Ba-ret, CV-CVC. Weather surname "warm wind." Common father Danik |
+| Brother | **Dalin Sarin Nor'Danik** | /d/ onset (time/change). Da-lin, CV-CVC. Same surname and patronymic as Baret |
+| Sister (dead) | **Nalin Sarin Nor'Danik** | /n/ onset (living things). Na-lin, CV-CVC. Same surname and patronymic as Baret. Breaks feminine /h/-drop convention --- a working-class mother naming her daughter after life, not abstraction |
+| Lord | **Haldrin Nor'Rasakur** | /h/ onset (governance). Hal-drin, CVC-CVC. Father named for the raptor. No surname --- nobility |
+| Lord's Son / Antagonist | **Kullen Nor'Haldrin** | /k/ onset (action). Kul-len, CVC-CVC. No surname --- nobility. Marked everywhere as the deposed lord's heir |
+| King | **Haldanur Nor'Galrik** | /h/ onset (governance). Hal-da-nur, CVC-CV-CVC. Three syllables --- length signals royal status. Father named for the lion |
+| Oligarch | **Murek** | /m/ onset (quantities/measurement). Mu-rek, CV-CVC. Full name TBD --- whether he carries or has dropped a surname is a character decision |
 
 ### Trial Cohort Candidates
 
-  ---------------------------------------------------------------------------------
-  Name        Gender     Full Name     System Notes          Role in Trials
-  ----------- ---------- ------------- --------------------- ----------------------
-  **Torin**   Male       Torin Bakrin  /t/ onset (terrain).  Reliable, steady, the
-                         Nor'Sulak     To-rin, CV-CVC.       backbone of any team.
-                                       Surname Bakrin (stone Absorbed into Baret's
-                                       worker), patronymic   group. Performs
-                                       Sulak (old mountain)  steadily but never
-                                                             brilliantly --- a
-                                                             stonemason's son who
-                                                             follows orders without
-                                                             complaint
-
-  **Garik**   Male       Garik Kanur   /g/ onset (conflict). Competitive, resents
-                         Nor'Basrin    Ga-rik, CV-CVC.       Baret's rise. Creates
-                                       Surname Kanur (the    friction within the
-                                       cutter ---            cohort. Not a villain
-                                       woodcutter's son)     --- someone who thinks
-                                                             he deserved better.
-                                                             Possibly stacked
-                                                             against Baret in Round
-                                                             3
-
-  **Lusen**   Female     Lusen Rasik   /l/ onset (bonds).    Quiet mediator, holds
-                         Nor'Darik     Lu-sen, CV-CVC.       teams together through
-                                       Surname Rasik (cold   negotiation rather
-                                       flow --- cold-ridge   than force. Manages
-                                       family)               the social dynamics of
-                                                             aggressive teenage
-                                                             boys sideways while
-                                                             Baret charges through
-                                                             the middle
-
-  **Sera**    Female     Sera Simak    /s/ onset             Fast, adaptable, high
-                         Nor'Kulin     (states/qualities).   rate-of-improvement.
-                                       Se-ra, CV-CV. Surname Underestimated because
-                                       Simak (small peak --- she's categorized as a
-                                       minor summit family)  nuisance rather than a
-                                                             threat. Sharp-tongued
-                                                             --- says the thing
-                                                             everyone is thinking
-                                                             but nobody has the
-                                                             nerve to say. Her
-                                                             sarcasm is a survival
-                                                             strategy: being
-                                                             uncomfortable to
-                                                             approach is safer than
-                                                             being easy to
-                                                             approach. Irritates
-                                                             Baret initially (she
-                                                             draws attention,
-                                                             attention gets you
-                                                             killed). Reads Baret
-                                                             as a coward until he
-                                                             acts in Chapter 6.
-                                                             Creates tension with
-                                                             Barlas --- same energy
-                                                             in different modes
-                                                             (his physical, hers
-                                                             verbal). In Proving 3,
-                                                             must learn that
-                                                             sarcasm doesn't hold a
-                                                             defensive line
-
-  **Kasun**   Male       TBD           /k/ onset (action).   Performs well. Pushes
-                                       Murek's son. Oligarch through Ulreth-sign
-                                       class --- better      territory in Round 3
-                                       preparation, class    for the ×3 waypoint
-                                       distance from Baret   --- competent tactical
-                                                             call, protocol
-                                                             violation. Haldrin
-                                                             built the trap for
-                                                             Baret; Kasun triggered
-                                                             it
-  ---------------------------------------------------------------------------------
+| Name | Gender | Full Name | System Notes | Role in Trials |
+|-----------|------------|----------------|--------------------|-----------------------|
+| **Torin** | Male | Torin Bakrin Nor'Sulak | /t/ onset (terrain). To-rin, CV-CVC. Surname Bakrin (stone worker), patronymic Sulak (old mountain) | Reliable, steady, the backbone of any team. Absorbed into Baret's group. Performs steadily but never brilliantly --- a stonemason's son who follows orders without complaint |
+| **Garik** | Male | Garik Kanur Nor'Basrin | /g/ onset (conflict). Ga-rik, CV-CVC. Surname Kanur (the cutter --- woodcutter's son) | Competitive, resents Baret's rise. Creates friction within the cohort. Not a villain --- someone who thinks he deserved better. Possibly stacked against Baret in Round 3 |
+| **Lusen** | Female | Lusen Rasik Nor'Darik | /l/ onset (bonds). Lu-sen, CV-CVC. Surname Rasik (cold flow --- cold-ridge family) | Quiet mediator, holds teams together through negotiation rather than force. Manages the social dynamics of aggressive teenage boys sideways while Baret charges through the middle |
+| **Sera** | Female | Sera Simak Nor'Kulin | /s/ onset (states/qualities). Se-ra, CV-CV. Surname Simak (small peak --- minor summit family) | Fast, adaptable, high rate-of-improvement. Underestimated because she's categorized as a nuisance rather than a threat. Sharp-tongued --- says the thing everyone is thinking but nobody has the nerve to say. Her sarcasm is a survival strategy: being uncomfortable to approach is safer than being easy to approach. Irritates Baret initially (she draws attention, attention gets you killed). Reads Baret as a coward until he acts in Chapter 6. Creates tension with Barlas --- same energy in different modes (his physical, hers verbal). In Proving 3, must learn that sarcasm doesn't hold a defensive line |
+| **Kasun** | Male | TBD | /k/ onset (action). Murek's son. Oligarch class --- better preparation, class distance from Baret | Performs well. Pushes through Ulreth-sign territory in Round 3 for the ×3 waypoint --- competent tactical call, protocol violation. Haldrin built the trap for Baret; Kasun triggered it |
 
 ### Minor Characters (Kesal's Victims)
 
-  -------------------------------------------------------------------------------
-  Name        Full Name     Location     System Notes     Narrative Function
-  ----------- ------------- ------------ ---------------- -----------------------
-  **Ilana**   Ilana Sarin   Tanapun      Formally         Kesal bothers her in
-              Nor'Balik     (village)    **Hilana**,      the village,
-                                         /h/-drop.        establishing his
-                                         Hi-la-na,        pattern of targeting
-                                         CV-CV-CV. Same   girls where he has
-                                         weather surname  authority. Baret
-                                         as Baret (Sarin  witnesses it. Does
-                                         --- warm wind).  nothing. The shared
-                                         She's from the   Sarin surname makes
-                                         same sheltered   Baret's inaction
-                                         mountainside --- sharper --- she's not a
-                                         possibly a       stranger
-                                         neighbor         
-
-  **Reska**   Reska Kasir   Pakran       /r/ onset        Kesal bothers her at
-              Nor'Dulun     (market      (movement).      her family's stall in
-                            stall)       Res-ka, CVC-CV.  his home territory. She
-                                         Surname Kasir    has slightly more
-                                         (the mover ---   social standing than
-                                         trader family).  Ilana but less
-                                         Pakran working   protection --- she
-                                         class, not       can't hide from the
-                                         village poor     retainer's son in his
-                                                          own town. Establishes
-                                                          that Kesal operates
-                                                          wherever he has power
-  -------------------------------------------------------------------------------
+| Name | Full Name | Location | System Notes | Narrative Function |
+|----------|---------------|--------------|-------------------|------------------------|
+| **Ilana** | Ilana Sarin Nor'Balik | Tanapun (village) | Formally **Hilana**, /h/-drop. Hi-la-na, CV-CV-CV. Same weather surname as Baret (Sarin --- warm wind). She's from the same sheltered mountainside --- possibly a neighbor | Kesal bothers her in the village, establishing his pattern of targeting girls where he has authority. Baret witnesses it. Does nothing. The shared Sarin surname makes Baret's inaction sharper --- she's not a stranger |
+| **Reska** | Reska Kasir Nor'Dulun | Pakran (market stall) | /r/ onset (movement). Res-ka, CVC-CV. Surname Kasir (the mover --- trader family). Pakran working class, not village poor | Kesal bothers her at her family's stall in his home territory. She has slightly more social standing than Ilana but less protection --- she can't hide from the retainer's son in his own town. Establishes that Kesal operates wherever he has power |
 
 Both incidents establish that Kesal targets girls specifically, he operates
 wherever he has power, and nobody stops him. When he escalates to cornering
@@ -839,54 +586,20 @@ makes his eventual intervention for Elowen in Chapter 6 land harder.
 
 ### Named Characters without Full Names Yet
 
-  --------------------------------------------------------------------------------
-  Role         Name           Change from Original     System Notes
-  ------------ -------------- ------------------------ ---------------------------
-  Cousin       **Helowen**    Added initial H          /h/ onset (identity).
-                                                       He-lo-wen, CV-CV-CVC.
-                                                       Casual form: **Elowen**
-
-  Betrothed    **Harabela**   Added initial H, dropped /h/ onset
-                              double-l                 (identity/social).
-                                                       Ha-ra-be-la, CV-CV-CV-CV.
-                                                       Casual form: **Arabela**
-
-  Mother       **Maia**       No change                /m/ onset (relations).
-                                                       Ma-ia, with vowel hiatus
-                                                       from lost /h/. Very old
-                                                       name
-
-  Companion    **Barlas**     No change                /b/ onset (substance).
-                                                       Bar-las, CVC-CVC
-
-  Religious    **Tobas**      Dropped /i/              /t/ onset (terrain ---
-  leader                                               drifted
-                                                       descriptive-turned-name).
-                                                       To-bas, CV-CVC
-
-  Queen        **Lilemor**    Dropped double-l         /l/ onset (bonds).
-                                                       Li-le-mor, CV-CV-CVC
-
-  Retainer     **Kesal**                               
-
-  Unassigned   **Ris** or     Stripped to core         /r/ onset (movement). CVC
-               **Risen**      phonemes                 or CV-CVC
-
-  Sheriff      **Hangus**     Added initial H          /h/ onset (abstract).
-                                                       Han-gus, CVC-CVC
-
-  Unassigned   **Leorik       Removed /f/              /l/ onset (bonds).
-               Nor'Gisnak**                            Le-o-rik, CV-V-CVC
-
-  Father       **Danik**      New                      /d/ onset (time). Da-nik,
-  (Baret's)                                            CV-CVC. A common name ---
-                                                       short, functional, nobody
-                                                       important
-
-  Patronymic   **Nor'**       Replaces Tor             /n/ onset (living
-                                                       things/biology). CVC +
-                                                       apostrophe
-  --------------------------------------------------------------------------------
+| Role | Name | Change from Original | System Notes |
+|------------|------------|-----------------------------------|-----------------------|
+| Cousin | **Helowen** | Added initial H | /h/ onset (identity). He-lo-wen, CV-CV-CVC. Casual form: **Elowen** |
+| Betrothed | **Harabela** | Added initial H, dropped double-l | /h/ onset (identity/social). Ha-ra-be-la, CV-CV-CV-CV. Casual form: **Arabela** |
+| Mother | **Maia** | No change | /m/ onset (relations). Ma-ia, with vowel hiatus from lost /h/. Very old name |
+| Companion | **Barlas** | No change | /b/ onset (substance). Bar-las, CVC-CVC |
+| Religious leader | **Tobas** | Dropped /i/ | /t/ onset (terrain --- drifted descriptive-turned-name). To-bas, CV-CVC |
+| Queen | **Lilemor** | Dropped double-l | /l/ onset (bonds). Li-le-mor, CV-CV-CVC |
+| Retainer | **Kesal** |  |  |
+| Unassigned | **Ris** or **Risen** | Stripped to core phonemes | /r/ onset (movement). CVC or CV-CVC |
+| Sheriff | **Hangus** | Added initial H | /h/ onset (abstract). Han-gus, CVC-CVC |
+| Unassigned | **Leorik Nor'Gisnak** | Removed /f/ | /l/ onset (bonds). Le-o-rik, CV-V-CVC |
+| Father (Baret's) | **Danik** | New | /d/ onset (time). Da-nik, CV-CVC. A common name --- short, functional, nobody important |
+| Patronymic | **Nor'** | Replaces Tor | /n/ onset (living things/biology). CVC + apostrophe |
 
 ### Feminine Naming Convention: /h/-Drop
 
@@ -943,17 +656,10 @@ needs the other's food. The other needs the one's protection. That tension
 doesn't need to be explained --- it's what mountains and plains do to the people
 who live on them.
 
-  ------------------------------------------------------------------------------
-  Kingdom       Syllables        Sound         Geography        Character
-  ------------- ---------------- ------------- ---------------- ----------------
-  **Takdan**    Two              Hard,         Mountains,       Defensive,
-                                 percussive,   valleys, passes  insular,
-                                 clipped                        practical
-
-  **Disural**   Three            Soft, open,   Plains,          Wealthy,
-                                 flowing       farmland, open   exposed, verbose
-                                               terrain          
-  ------------------------------------------------------------------------------
+| Kingdom | Syllables | Sound | Geography | Character |
+|---------------|------------------|------------|------------------|------------------|
+| **Takdan** | Two | Hard, percussive, clipped | Mountains, valleys, passes | Defensive, insular, practical |
+| **Disural** | Three | Soft, open, flowing | Plains, farmland, open terrain | Wealthy, exposed, verbose |
 
 Plains people have time for extra syllables. Mountain people don't.
 
@@ -972,195 +678,65 @@ biological kingdom it belongs to.
 
 ### Pack and Riding Animals --- /r/ (Movement, Paths)
 
-  --------------------------------------------------------------------------------
-  Name        Root           Meaning        What It Is         Eroded Form
-  ----------- -------------- -------------- ------------------ -------------------
-  **Ranak**   ranur-nakur    "The large     Primary riding     Ranak (highland),
-              (journey +     traveler"      animal. Big enough Ranek (lowland)
-              large)                        to carry a person  
-                                            over mountain      
-                                            terrain            
-
-  **Rimin**   rimin-nimin    "The little    Smaller            **Rims** in daily
-              (step + small) stepper"       sure-footed pack   speech
-                                            animal. Carries    
-                                            goods, not people. 
-                                            Mountain mule      
-                                            equivalent         
-
-  **Rukal**   runal-kalur    "The strong    Long-distance      Rukal
-              (migration +   migrator"      caravan animal.    
-              strong)                       Lowland trade      
-                                            routes. Bigger and 
-                                            slower than a      
-                                            Ranak              
-  --------------------------------------------------------------------------------
+| Name | Root | Meaning | What It Is | Eroded Form |
+|------------|------------|----------------|---------------------|----------------------|
+| **Ranak** | ranur-nakur (journey + large) | "The large traveler" | Primary riding animal. Big enough to carry a person over mountain terrain | Ranak (highland), Ranek (lowland) |
+| **Rimin** | rimin-nimin (step + small) | "The little stepper" | Smaller sure-footed pack animal. Carries goods, not people. Mountain mule equivalent | **Rims** in daily speech |
+| **Rukal** | runal-kalur (migration + strong) | "The strong migrator" | Long-distance caravan animal. Lowland trade routes. Bigger and slower than a Ranak | Rukal |
 
 ### Food Animals --- /b/ (Resources, Materials)
 
-  --------------------------------------------------------------------------------
-  Name         Root           Meaning        What It Is        Eroded Form
-  ------------ -------------- -------------- ----------------- -------------------
-  **Basnil**   basir-naril    "The water     Fish or aquatic   Basnil
-               (water         herd"          livestock.        
-               resource +                    Whatever people   
-               herd)                         farm in rivers    
-                                             and lakes         
-
-  **Bunak**    bulin-nakur    "The large     Big animal kept   Bunak
-               (material +    material       for meat and      
-               large)         beast"         hide. Slow,       
-                                             docile, penned.   
-                                             Cow equivalent    
-
-  **Bisim**    binak-simin    "The small     Kept for eggs,    **Bis** in daily
-               (substance +   substance"     milk, or wool.    speech
-               small)                        Chicken or goat   
-                                             equivalent        
-
-  **Buldak**   bulin-dakur    "The old       Kept primarily    Buldak
-               (material +    material"      for hide or bones 
-               old)                          rather than meat. 
-                                             Tough, leathery,  
-                                             useful dead       
-  --------------------------------------------------------------------------------
+| Name | Root | Meaning | What It Is | Eroded Form |
+|------------|------------|----------------|---------------------|----------------------|
+| **Basnil** | basir-naril (water resource + herd) | "The water herd" | Fish or aquatic livestock. Whatever people farm in rivers and lakes | Basnil |
+| **Bunak** | bulin-nakur (material + large) | "The large material beast" | Big animal kept for meat and hide. Slow, docile, penned. Cow equivalent | Bunak |
+| **Bisim** | binak-simin (substance + small) | "The small substance" | Kept for eggs, milk, or wool. Chicken or goat equivalent | **Bis** in daily speech |
+| **Buldak** | bulin-dakur (material + old) | "The old material" | Kept primarily for hide or bones rather than meat. Tough, leathery, useful dead | Buldak |
 
 ### Terrain-Associated Wildlife --- /t/ (Terrain, Geography)
 
-  --------------------------------------------------------------------------------
-  Name         Root             Meaning        What It Is       Eroded Form
-  ------------ ---------------- -------------- ---------------- ------------------
-  **Taknil**   takur-naril      "The mountain  Wild mountain    Taknil
-               (mountain +      herd"          grazers. Not     
-               herd)                           domesticated but 
-                                               hunted. Move in  
-                                               groups across    
-                                               high ridges      
-
-  **Tundak**   tunir-dakur      "The old       Cave-dwelling    Tundak
-               (underground +   underground    animal. Blind or 
-               old)             thing"         near-blind,      
-                                               comes out at     
-                                               dusk             
-
-  **Tikris**   tikur-rasir      "The thing     Fast desert or   Tikris
-               (unstable        that flows     scree-dwelling   
-               ground + flow)   over loose     animal.          
-                                ground"        Lizard-like,     
-                                               adapted to harsh 
-                                               terrain          
-
-  **Tasnik**   tasir-nakur      "The large     Big freshwater   Tasnik
-               (river + large)  river thing"   animal.          
-                                               Dangerous,       
-                                               territorial. You 
-                                               don't swim in    
-                                               deep water       
-                                               because of these 
-  --------------------------------------------------------------------------------
+| Name | Root | Meaning | What It Is | Eroded Form |
+|------------|------------|----------------|---------------------|----------------------|
+| **Taknil** | takur-naril (mountain + herd) | "The mountain herd" | Wild mountain grazers. Not domesticated but hunted. Move in groups across high ridges | Taknil |
+| **Tundak** | tunir-dakur (underground + old) | "The old underground thing" | Cave-dwelling animal. Blind or near-blind, comes out at dusk | Tundak |
+| **Tikris** | tikur-rasir (unstable ground + flow) | "The thing that flows over loose ground" | Fast desert or scree-dwelling animal. Lizard-like, adapted to harsh terrain | Tikris |
+| **Tasnik** | tasir-nakur (river + large) | "The large river thing" | Big freshwater animal. Dangerous, territorial. You don't swim in deep water because of these | Tasnik |
 
 ### Town Animals --- /p/ (Settlements, Constructed Things)
 
-  ---------------------------------------------------------------------------------
-  Name         Root            Meaning       What It Is          Eroded Form
-  ------------ --------------- ------------- ------------------- ------------------
-  **Pinim**    panir-nimin     "The small    Pest that lives in  **Pins** in daily
-               (structure +    structure     walls and roofs.    speech
-               small creature) creature"     Rats essentially    
-
-  **Pusil**    punak-simin     "The small    Semi-domesticated   Pusil
-               (settlement +   town thing"   scavenger that      
-               small)                        hangs around        
-                                             settlements.        
-                                             Tolerated because   
-                                             it eats Pinim. Cat  
-                                             equivalent          
-
-  **Paknil**   pakur-naril     "The fortress Any livestock       Paknil
-               (fortress +     herd"         brought inside      
-               herd)                         walls during Ulreth 
-                                             raids. Situational  
-                                             name that became a  
-                                             category            
-  ---------------------------------------------------------------------------------
+| Name | Root | Meaning | What It Is | Eroded Form |
+|------------|------------|----------------|---------------------|----------------------|
+| **Pinim** | panir-nimin (structure + small creature) | "The small structure creature" | Pest that lives in walls and roofs. Rats essentially | **Pins** in daily speech |
+| **Pusil** | punak-simin (settlement + small) | "The small town thing" | Semi-domesticated scavenger that hangs around settlements. Tolerated because it eats Pinim. Cat equivalent | Pusil |
+| **Paknil** | pakur-naril (fortress + herd) | "The fortress herd" | Any livestock brought inside walls during Ulreth raids. Situational name that became a category | Paknil |
 
 ### Bonded / Companion Animals --- /l/ (Bonds, Connections)
 
-  -------------------------------------------------------------------------------
-  Name        Root          Meaning        What It Is         Eroded Form
-  ----------- ------------- -------------- ------------------ -------------------
-  **Laluk**   lakur-naluk   "The           Dog equivalent.    **Lal** --- one
-              (clan +       clan-bonded    Attached to humans syllable because
-              bonded)       one"           early and stayed.  everyone says it
-                                           Named for social   constantly
-                                           behavior, not      
-                                           biology            
-
-  **Linak**   linak-nakur   "The sworn     Working animal     Linak
-              (oath +       beast"         with a specific    
-              animal)                      human partner. Not 
-                                           a pet --- trained, 
-                                           bonded to one      
-                                           person. Used for   
-                                           herding, guarding, 
-                                           frontier scouting  
-  -------------------------------------------------------------------------------
+| Name | Root | Meaning | What It Is | Eroded Form |
+|------------|------------|----------------|---------------------|----------------------|
+| **Laluk** | lakur-naluk (clan + bonded) | "The clan-bonded one" | Dog equivalent. Attached to humans early and stayed. Named for social behavior, not biology | **Lal** --- one syllable because everyone says it constantly |
+| **Linak** | linak-nakur (oath + animal) | "The sworn beast" | Working animal with a specific human partner. Not a pet --- trained, bonded to one person. Used for herding, guarding, frontier scouting | Linak |
 
 ### Predators --- /n/ (Living Things)
 
-  -------------------------------------------------------------------------------
-  Name         Root          Meaning        What It Is        Eroded Form
-  ------------ ------------- -------------- ----------------- -------------------
-  **Naksin**   nakur-sunir   "The dark      Top predator.     Naksin
-               (large        beast"         Nocturnal,        
-               animal +                     solitary, feared  
-               dark)                                          
-
-  **Nasin**    nasir-sunir   "The shadow"   Medium pack       Nasin
-               (creature +                  predator. Wolf    
-               dark)                        equivalent. Hunts 
-                                            in groups, stays  
-                                            in the tree line  
-  -------------------------------------------------------------------------------
+| Name | Root | Meaning | What It Is | Eroded Form |
+|------------|------------|----------------|---------------------|----------------------|
+| **Naksin** | nakur-sunir (large animal + dark) | "The dark beast" | Top predator. Nocturnal, solitary, feared | Naksin |
+| **Nasin** | nasir-sunir (creature + dark) | "The shadow" | Medium pack predator. Wolf equivalent. Hunts in groups, stays in the tree line | Nasin |
 
 ### Ulreth-Adjacent Creatures --- /g/ (Conflict, Boundaries)
 
-  ---------------------------------------------------------------------------------
-  Name         Root                Meaning     What It Is            Eroded Form
-  ------------ ------------------- ----------- --------------------- --------------
-  **Ginulr**   ginak (struggle) +  "The small  Small                 Ginulr
-               Ulr (clipped        Ulreth      failed-terraforming   
-               Ulreth)             struggle"   creature. Looks       
-                                               enough like an Ulreth 
-                                               to terrify. Common in 
-                                               frontier zones.       
-                                               Hybrid word --- /g/   
-                                               onset from seed       
-                                               language, Ulr-        
-                                               fragment from the     
-                                               technical vocabulary  
-
-  **Gisnak**   ginak-sunir-nakur   "The large  Something in Ulreth   Gisnak
-               (struggle + dark +  dark        territory that isn't  
-               large)              struggle"   an Ulreth but might   
-                                               be worse. Territorial 
-                                               apex predator even    
-                                               the Ulreth avoid      
-  ---------------------------------------------------------------------------------
+| Name | Root | Meaning | What It Is | Eroded Form |
+|------------|------------|----------------|---------------------|----------------------|
+| **Ginulr** | ginak (struggle) + Ulr (clipped Ulreth) | "The small Ulreth struggle" | Small failed-terraforming creature. Looks enough like an Ulreth to terrify. Common in frontier zones. Hybrid word --- /g/ onset from seed language, Ulr- fragment from the technical vocabulary | Ginulr |
+| **Gisnak** | ginak-sunir-nakur (struggle + dark + large) | "The large dark struggle" | Something in Ulreth territory that isn't an Ulreth but might be worse. Territorial apex predator even the Ulreth avoid | Gisnak |
 
 ### Noble Animal Names (Used in Patronymics)
 
-  ------------------------------------------------------------------------------
-  Name          Root                Meaning         Associated House
-  ------------- ------------------- --------------- ----------------------------
-  **Galrik**    ginak-lakur-rikur   "The sharp clan Royal dynasty (Haldanur
-                (conflict + clan +  fighter" ---    Nor'Galrik)
-                sharp)              the lion        
-
-  **Rasakur**   rasir-sakur (flow + "The great      Haldrin's house (Haldrin
-                great)              flier" --- the  Nor'Rasakur)
-                                    raptor          
-  ------------------------------------------------------------------------------
+| Name | Root | Meaning | Associated House |
+|--------------|--------------|-------------------|-----------------------------------|
+| **Galrik** | ginak-lakur-rikur (conflict + clan + sharp) | "The sharp clan fighter" --- the lion | Royal dynasty (Haldanur Nor'Galrik) |
+| **Rasakur** | rasir-sakur (flow + great) | "The great flier" --- the raptor | Haldrin's house (Haldrin Nor'Rasakur) |
 
 ### Erosion Principle
 
@@ -1188,72 +764,29 @@ said constantly, worn to nothing.
 
 ### By Function
 
-  --------------------------------------------------------------------------------------
-  Name          Category     Root            Meaning      What It Is      Eroded Form
-  ------------- ------------ --------------- ------------ --------------- --------------
-  **Rasakur**   /r/ movement rasir-sakur     "The great   Large raptor.   **Rasak**
-                             (flow + great)  flier"       Eagle           
-                                                          equivalent.     
-                                                          Symbol of       
-                                                          power. Also a   
-                                                          noble           
-                                                          patronymic name 
-
-  **Rasimin**   /r/ movement rasir-simin     "The small   Generic         **Rasim**
-                             (flow + small)  flier"       songbird        
-
-  **Bisrak**    /b/ resource bisim-rasir     "The flying  Poultry. Kept   **Bisra**
-                             (small          resource"    for eggs or     
-                             resource +                   meat            
-                             flow)                                        
-
-  **Punirak**   /p/          punak-rasir     "The         Birds that nest **Punra**
-                settlement   (settlement +   settlement   in and around   
-                             flow)           flier"       buildings.      
-                                                          Pigeons,        
-                                                          sparrows        
-
-  **Sunras**    /s/ states   sunir-rasir     "The dark    Nocturnal bird. **Sunras** ---
-                             (dark + flow)   flier"       Owl equivalent. preserved
-                                                          Associated with because rarely
-                                                          bad omens       said casually
-
-  **Tasrak**    /t/ terrain  tasir-rasir     "The river   Wading birds,   **Tasrak**
-                             (river + flow)  flier"       fishing birds.  
-                                                          Heron           
-                                                          equivalent      
-
-  **Takras**    /t/ terrain  takur-rasir     "The         High-altitude   **Takras**
-                             (mountain +     mountain     bird. Adapted   
-                             flow)           flier"       to thin air.    
-                                                          Possibly        
-                                                          scavenges.      
-                                                          Vulture or      
-                                                          condor          
-                                                          equivalent      
-
-  **Nakras**    /n/ living   nakur-rasir     "The large   Something big   **Nakras**
-                             (large          flying       enough to be    
-                             creature +      creature"    threatening.    
-                             flow)                        Possibly        
-                                                          extinct near    
-                                                          settlements     
-
-  **Ginras**    /g/ conflict ginak-rasir     "The         Aggressive      **Ginras**
-                             (struggle +     fighting     territorial     
-                             flow)           flier"       bird. Attacks   
-                                                          people near     
-                                                          nest, attacks   
-                                                          livestock       
-  --------------------------------------------------------------------------------------
+| Name | Category | Root | Meaning | What It Is | Eroded Form |
+|----------|---------------|----------|-------------|-----------------|------------------|
+| **Rasakur** | /r/ movement | rasir-sakur (flow + great) | "The great flier" | Large raptor. Eagle equivalent. Symbol of power. Also a noble patronymic name | **Rasak** |
+| **Rasimin** | /r/ movement | rasir-simin (flow + small) | "The small flier" | Generic songbird | **Rasim** |
+| **Bisrak** | /b/ resource | bisim-rasir (small resource + flow) | "The flying resource" | Poultry. Kept for eggs or meat | **Bisra** |
+| **Punirak** | /p/ settlement | punak-rasir (settlement + flow) | "The settlement flier" | Birds that nest in and around buildings. Pigeons, sparrows | **Punra** |
+| **Sunras** | /s/ states | sunir-rasir (dark + flow) | "The dark flier" | Nocturnal bird. Owl equivalent. Associated with bad omens | **Sunras** --- preserved because rarely said casually |
+| **Tasrak** | /t/ terrain | tasir-rasir (river + flow) | "The river flier" | Wading birds, fishing birds. Heron equivalent | **Tasrak** |
+| **Takras** | /t/ terrain | takur-rasir (mountain + flow) | "The mountain flier" | High-altitude bird. Adapted to thin air. Possibly scavenges. Vulture or condor equivalent | **Takras** |
+| **Nakras** | /n/ living | nakur-rasir (large creature + flow) | "The large flying creature" | Something big enough to be threatening. Possibly extinct near settlements | **Nakras** |
+| **Ginras** | /g/ conflict | ginak-rasir (struggle + flow) | "The fighting flier" | Aggressive territorial bird. Attacks people near nest, attacks livestock | **Ginras** |
 
 ### What People Actually Say
 
-A mountain person's daily bird vocabulary: - **Ras** --- "bird, any bird, who
-cares" - **Rasak** --- "the big one circling up there" - **Bisra** --- "the ones
-in the pen" - **Sunras** --- "heard a sunras last night" (said with unease) -
-**Takras** --- "takras on the peak" (means weather is changing --- they come
-down before storms) - **Ginras** --- "bloody ginras got the bis again"
+A mountain person's daily bird vocabulary:
+
+- **Ras** --- "bird, any bird, who cares"
+- **Rasak** --- "the big one circling up there"
+- **Bisra** --- "the ones in the pen"
+- **Sunras** --- "heard a sunras last night" (said with unease)
+- **Takras** --- "takras on the peak" (means weather is changing --- they come
+  down before storms)
+- **Ginras** --- "bloody ginras got the bis again"
 
 A lowland person would say **Punra** more often and might never say **Takras**.
 
@@ -1288,74 +821,34 @@ All settlement names trace to /p/-initial roots. Older cities are more eroded,
 newer cities more transparent. The largest, oldest cities are in the lowlands
 near Capsule One --- where humans emerged and population concentrated first.
 
-  -------------------------------------------------------------------------------
-  Name          Root                  Meaning           Description
-  ------------- --------------------- ----------------- -------------------------
-  **Punsak**    punak-sakur           "The great city"  Capital / monarch's seat.
-                (settlement + great)                    Ancient, heavily eroded.
-                                                        What children called the
-                                                        first and biggest place
-
-  **Punasir**   punak-tasir           "The river city"  Major trade hub.
-                (settlement + river)                    Transparent enough that
-                                                        educated people might
-                                                        still parse it
-
-  **Pasnal**    pasir-sinak           "The new port"    Port city. Name
-                (water-settlement +                     fossilized when the
-                new)                                    settlement was young
-
-  **Pakdan**    pakur-tanak           "The fortress     Frontier military
-                (fortress + valley)   valley"           settlement. Common speech
-                                                        shortening of Pakurdan
-
-  **Pakur**     pakur (fortress)      "Fortress"        Protagonist's mountain
-                                                        settlement. Barely eroded
-                                                        --- mountain communities
-                                                        are linguistically
-                                                        conservative. Two
-                                                        syllables where the
-                                                        capital has three
-
-  **Pundis**    punak-tisun           "The plains city" Lowland agricultural
-                (settlement + plains)                   city. Eroded from
-                                                        Punatisun through daily
-                                                        use
-  -------------------------------------------------------------------------------
+| Name | Root | Meaning | Description |
+|---------------|---------------|---------------------|-----------------------------|
+| **Punsak** | punak-sakur (settlement + great) | "The great city" | Capital / monarch's seat. Ancient, heavily eroded. What children called the first and biggest place |
+| **Punasir** | punak-tasir (settlement + river) | "The river city" | Major trade hub. Transparent enough that educated people might still parse it |
+| **Pasnal** | pasir-sinak (water-settlement + new) | "The new port" | Port city. Name fossilized when the settlement was young |
+| **Pakdan** | pakur-tanak (fortress + valley) | "The fortress valley" | Frontier military settlement. Common speech shortening of Pakurdan |
+| **Pakur** | pakur (fortress) | "Fortress" | Protagonist's mountain settlement. Barely eroded --- mountain communities are linguistically conservative. Two syllables where the capital has three |
+| **Pundis** | punak-tisun (settlement + plains) | "The plains city" | Lowland agricultural city. Eroded from Punatisun through daily use |
 
 ### Major Geographic Features
 
 All terrain names trace to /t/-initial roots. Older features more eroded.
 
-  ------------------------------------------------------------------------------
-  Name          Root          Meaning              Description
-  ------------- ------------- -------------------- -----------------------------
-  **Takdal**    takur-dakur   "The old mountains"  Main mountain range where the
-                (mountain +                        protagonist lives. Highland:
-                age)                               Takdal. Lowland: Dakdal
-
-  **Dasak**     tasir-sakur   "The great river"    The main river. Short, old,
-                (river +                           everyone knows what it means
-                great)                             
-
-  **Nasudak**   nasur-dakur   "The ancient trees"  Major forest. Categorized
-                (plant + age)                      under /n/ (living things)
-                                                   because the culture sees
-                                                   forests as alive, not as
-                                                   terrain
-
-  **Basdal**    basir-dakur   "The old water"      Major lake. Uses /b/
-                (water                             (resources) because the first
-                resource +                         generation named it for what
-                age)                               it provides
-  ------------------------------------------------------------------------------
+| Name | Root | Meaning | Description |
+|---------------|---------------|---------------------|-----------------------------|
+| **Takdal** | takur-dakur (mountain + age) | "The old mountains" | Main mountain range where the protagonist lives. Highland: Takdal. Lowland: Dakdal |
+| **Dasak** | tasir-sakur (river + great) | "The great river" | The main river. Short, old, everyone knows what it means |
+| **Nasudak** | nasur-dakur (plant + age) | "The ancient trees" | Major forest. Categorized under /n/ (living things) because the culture sees forests as alive, not as terrain |
+| **Basdal** | basir-dakur (water resource + age) | "The old water" | Major lake. Uses /b/ (resources) because the first generation named it for what it provides |
 
 ### Regional Dialect Variation
 
-The same place named takur-sunir (dark peak) might appear as: - **Takursun** ---
-conservative highland dialect (preserves /t/, minimal vowel loss) - **Dakursun**
---- central lowland dialect (/t/ → /d/) - **Daksun** --- southern dialect
-(further erosion, unstressed vowels lost)
+The same place named takur-sunir (dark peak) might appear as:
+
+- **Takursun** --- conservative highland dialect (preserves /t/, minimal vowel
+  loss)
+- **Dakursun** --- central lowland dialect (/t/ → /d/)
+- **Daksun** --- southern dialect (further erosion, unstressed vowels lost)
 
 ### The Protagonist's Mountain Region
 
@@ -1364,25 +857,31 @@ resist sound change. Names in Baret's region preserve original /t/ in terrain
 words and /p/ in settlement words more clearly than lowland equivalents.
 Mountain speech sounds archaic and hard to lowlanders.
 
-Sample mountain names: - **Takuni** --- a peak (takur + ni, high place + dark,
-north-facing --- lightly eroded) - **Pakur** --- a fortress settlement (barely
-changed from seed language) - **Tanapun** --- a valley town (tanak + punak,
-valley + settlement, fused) - **Takpin** --- a ridge (takur + tapin, peak +
-plateau, heavily compressed)
+Sample mountain names:
+
+- **Takuni** --- a peak (takur + ni, high place + dark, north-facing --- lightly
+  eroded)
+- **Pakur** --- a fortress settlement (barely changed from seed language)
+- **Tanapun** --- a valley town (tanak + punak, valley + settlement, fused)
+- **Takpin** --- a ridge (takur + tapin, peak + plateau, heavily compressed)
 
 ### Lowland Cities
 
 Lowland speech has softened and lengthened. More vowel merging, more consonant
-weakening. - **Punasirdak** --- a major city (punak-tasir-takur, town + river +
-mountain) - **Dasimin** --- a small river (tasir-simin, river + small, /t/ →
-/d/) - **Pasirin** --- a port (pasir, water-settlement, with added suffix)
+weakening.
+
+- **Punasirdak** --- a major city (punak-tasir-takur, town + river + mountain)
+- **Dasimin** --- a small river (tasir-simin, river + small, /t/ → /d/)
+- **Pasirin** --- a port (pasir, water-settlement, with added suffix)
 
 ### Frontier Settlements
 
 Frontier naming is functional and recent --- less erosion, more transparent
-meaning. - **Pakurdan** --- a border fort (pakur + tanak, fortress + valley) -
-**Pikurnak** --- an outpost near beast territory (pikur + nakur, outpost + large
-animal)
+meaning.
+
+- **Pakurdan** --- a border fort (pakur + tanak, fortress + valley)
+- **Pikurnak** --- an outpost near beast territory (pikur + nakur, outpost +
+  large animal)
 
 --------------------------------------------------------------------------------
 
@@ -1395,41 +894,19 @@ most mythologized in the language.
 
 ### Capsule One (Where the Children Emerged)
 
-  ------------------------------------------------------------------------------
-  Name           Context               Root                Meaning
-  -------------- --------------------- ------------------- ---------------------
-  **Paksut**     Common usage          pakur-sutal         "The ancient
-                                       (fortress +         fortress." What
-                                       ancient)            traumatized
-                                                           ten-year-olds called
-                                                           a massive structure
-                                                           --- practical, honest
-
-  **Hakundal**   Sacred/religious name hakur-tunir-dakur   "The ancient deep
-                                       (authority + deep + authority." Used in
-                                       age)                ceremony and
-                                                           religious story.
-                                                           After /h/-drop in
-                                                           casual speech:
-                                                           **Akundal**
-  ------------------------------------------------------------------------------
+| Name | Context | Root | Meaning |
+|-----------------|-----------------------|-----------------|-----------------------|
+| **Paksut** | Common usage | pakur-sutal (fortress + ancient) | "The ancient fortress." What traumatized ten-year-olds called a massive structure --- practical, honest |
+| **Hakundal** | Sacred/religious name | hakur-tunir-dakur (authority + deep + age) | "The ancient deep authority." Used in ceremony and religious story. After /h/-drop in casual speech: **Akundal** |
 
 Two names for the same place --- one functional, one sacred --- is realistic and
 gives narrative texture.
 
 ### Capsule Two (In Ulreth Territory)
 
-  ------------------------------------------------------------------------------
-  Name                   Root                   Meaning
-  ---------------------- ---------------------- --------------------------------
-  **Ulrpak**             Ulr (clipped Ulreth) + "The Ulreth fortress." Hybrid
-                         pakur (fortress)       word --- the Ulreth fragment
-                                                comes first because the Ulreth
-                                                define the place. Nobody gets
-                                                close enough to describe it any
-                                                other way
-
-  ------------------------------------------------------------------------------
+| Name | Root | Meaning |
+|-----------------------|-----------------------|----------------------------------|
+| **Ulrpak** | Ulr (clipped Ulreth) + pakur (fortress) | "The Ulreth fortress." Hybrid word --- the Ulreth fragment comes first because the Ulreth define the place. Nobody gets close enough to describe it any other way |
 
 ### Capsule Three (Beyond the Frontier)
 
@@ -1441,27 +918,10 @@ subtly signals how far ahead of everyone his knowledge has become.
 
 ### Terraforming Ruins (Scattered Across the Landscape)
 
-  ------------------------------------------------------------------------------
-  Name          Root          Meaning              Description
-  ------------- ------------- -------------------- -----------------------------
-  **Bakdun**    bakur-tunir   "The deep stones"    Partially buried metallic
-                (stone +                           structures that look like
-                deep)                              unusual rock formations.
-                                                   Multiple sites share this
-                                                   root with local modifiers:
-                                                   Bakdun Takdal (the deep
-                                                   stones of the old mountains),
-                                                   Bakdun Dasak (the deep stones
-                                                   by the great river)
-
-  **Sardor**    sahur-tunir   "The warm deep       Still-functioning atmospheric
-                (warm + deep) places"              processors. Geothermal vents
-                                                   where the ground is hot and
-                                                   the air tastes strange.
-                                                   People avoid them. Mythology
-                                                   says they're cursed or
-                                                   haunted. Eroded from Sahurdor
-  ------------------------------------------------------------------------------
+| Name | Root | Meaning | Description |
+|---------------|---------------|---------------------|-----------------------------|
+| **Bakdun** | bakur-tunir (stone + deep) | "The deep stones" | Partially buried metallic structures that look like unusual rock formations. Multiple sites share this root with local modifiers: Bakdun Takdal (the deep stones of the old mountains), Bakdun Dasak (the deep stones by the great river) |
+| **Sardor** | sahur-tunir (warm + deep) | "The warm deep places" | Still-functioning atmospheric processors. Geothermal vents where the ground is hot and the air tastes strange. People avoid them. Mythology says they're cursed or haunted. Eroded from Sahurdor |
 
 --------------------------------------------------------------------------------
 
@@ -1572,34 +1032,11 @@ to technical roots as a modifier, creating compound diagnostic terms.
 
 ### Technical Compounds
 
-  ---------------------------------------------------------------------------------
-  Term          Components              Meaning           What It Actually
-                                                          Describes
-  ------------- ----------------------- ----------------- -------------------------
-  **Hulreth**   hul (kin) + reth        "Corrupted kin"   The Ulreth --- biological
-                (corrupted)                               terraformers that
-                                                          deviated from design.
-                                                          Eroded to **Ulreth**
-                                                          through /h/-drop
-
-  **Nareth**    na                      "Degraded         A diagnostic code for
-                (biological/living) +   biological        degraded symbiont
-                reth (degraded)         system"           pathways --- the reason
-                                                          40--50% of people have
-                                                          non-functional glyphs.
-                                                          The engineers had a
-                                                          clinical term for what
-                                                          the faithful call "God's
-                                                          silence"
-
-  **Pareth**    pa (structural) + reth  "Corrupted        Failed or decayed capsule
-                (corrupted)             infrastructure"   components. The Bakdun
-                                                          --- the deep stones
-                                                          scattered across the
-                                                          landscape --- are
-                                                          **pareth** in the
-                                                          engineering logs
-  ---------------------------------------------------------------------------------
+| Term | Components | Meaning | What It Actually Describes |
+|-----------|------------------|--------------|--------------------------------------|
+| **Hulreth** | hul (kin) + reth (corrupted) | "Corrupted kin" | The Ulreth --- biological terraformers that deviated from design. Eroded to **Ulreth** through /h/-drop |
+| **Nareth** | na (biological/living) + reth (degraded) | "Degraded biological system" | A diagnostic code for degraded symbiont pathways --- the reason 40--50% of people have non-functional glyphs. The engineers had a clinical term for what the faithful call "God's silence" |
+| **Pareth** | pa (structural) + reth (corrupted) | "Corrupted infrastructure" | Failed or decayed capsule components. The Bakdun --- the deep stones scattered across the landscape --- are **pareth** in the engineering logs |
 
 None of these terms are in common use except Ulreth --- and only because the
 robots screamed it often enough that terrified children couldn't forget it.
