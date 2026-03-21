@@ -1,6 +1,6 @@
 # Against the Grade \-\-- Book 2: Vacuum
 
-\## Chapter Outline v3
+## Chapter Outline v3
 
 **Protagonist age:** \~18-19 \| **Timespan:** \~1-2 years \| **Chapter count:**
 20
@@ -12,10 +12,10 @@ adjusting?\]**
 
 **Continuity from Book 1:** Haldrin dead (killed by Barlas after surrender).
 Kullen dispossessed and departed. The Oligarch (Murek) untouched, resource
-intact, rival destroyed. Arabela with Baret. Dalin beside Baret, carrying the AI
+intact, rival destroyed. Arabela with Baret. Darek beside Baret, carrying the AI
 secret. Barlas beside Baret, unrepentant. Elowen in the crowd, holding a geode.
 
-\### ACT 1: THE SYSTEM STRIKES BACK (Chapters 1\--5)
+### ACT 1: THE SYSTEM STRIKES BACK (Chapters 1\--5)
 
 Baret has overthrown Haldrin. He thinks the fight is over. It isn\'\'\'t.
 
@@ -27,7 +27,7 @@ are looking to him for answers about food distribution, dispute resolution,
 Ulreth patrol schedules \-\-- things Haldrin handled through brutality that
 Baret has no mechanism to replace.
 
-Dalin is with him. Barlas is present \-\-- the unresolved tension from the
+Darek is with him. Barlas is present \-\-- the unresolved tension from the
 killing still between them. Arabela at Baret\'\'\'s side, her position rising
 with his.
 
@@ -102,7 +102,7 @@ the shape of the world. He\'\'\'s never examined them critically because
 they\'\'\'ve never needed examining. Tobas is building something Baret believes
 in, and the reader should see that belief as genuine, not performed.
 
-Dalin and Baret\'\'\'s dynamic during preparation \-\-- twin banter, shared
+Darek and Baret\'\'\'s dynamic during preparation \-\-- twin banter, shared
 purpose. These are the most human moments of the series.
 
 *Function:* Establish the military disparity, the AI edge, key relationships.
@@ -151,7 +151,7 @@ advantage, and a fracturing coalition.
 War begins across multiple fronts. Baret managing logistics, troop movements,
 intelligence \-\-- the cognitive load is enormous but the AI processes it. The
 reader sees the war through both the strategic layer (Baret and AI) and the
-ground layer (Dalin, Leorik, soldiers in the field).
+ground layer (Darek, Leorik, soldiers in the field).
 
 Arabela present \-\-- drawn to Baret\'\'\'s ascending power. The relationship
 building. She\'\'\'s not calculating in a sinister way; she\'\'\'s a person
@@ -192,7 +192,7 @@ Baret\'\'\'s forces take serious losses. People who followed him because they
 believed in his cause die. He\'\'\'s sending men to positions he knows some
 won\'\'\'t return from. The AI gives him probabilities. He acts on them.
 
-Dalin grounds him. The brother dynamic at its strongest \-\-- Dalin doesn\'\'\'t
+Darek grounds him. The brother dynamic at its strongest \-\-- Darek doesn\'\'\'t
 have the AI, doesn\'\'\'t see the probabilities, just sees his brother carrying
 impossible weight. Their conversations during the war are the emotional center
 of Act 2.
@@ -225,11 +225,11 @@ pull guards from his home village to the front line. The village is behind
 friendly lines. Rational military calculation.
 
 The father (Danik) is in the village. He\'\'\'s left behind \-\-- not abandoned,
-but deprioritized. The father may even support the decision. Dalin is at the
+but deprioritized. The father may even support the decision. Darek is at the
 front with Baret. Both brothers are where the war needs them.
 
 **\[GAP: The father needs a name. He\'\'\'s the \"Nor\" in Baret Nor\_\_\_\_\_
-and Dalin Nor\_\_\_\_\_.\]**
+and Darek Nor\_\_\_\_\_.\]**
 
 *Function:* The reader must agree with the logic. The Ulreth threat is real but
 deprioritized. Baret isn\'\'\'t ignoring them; he\'\'\'s correctly assessing
@@ -319,7 +319,7 @@ what was lost.
 
 **Chapter 14 \-\-- Victory**
 
-Euphoria. The scope of what they\'\'\'ve accomplished sinks in. Baret and Dalin
+Euphoria. The scope of what they\'\'\'ve accomplished sinks in. Baret and Darek
 together. Leorik celebrated as a war hero \-\-- magnificent, dangerous, already
 showing signs of being ungovernable in peacetime. His men feast harder than
 anyone. His vices are visible but tolerated because the war just ended. Barlas
@@ -345,9 +345,9 @@ News arrives. The Ulreth raided the undefended village. The father died
 defending it \-\-- fighting to hold a position that should have had guards, that
 did have guards until Baret pulled them.
 
-Baret and Dalin return to find the aftermath. The father\'\'\'s death isn\'\'\'t
+Baret and Darek return to find the aftermath. The father\'\'\'s death isn\'\'\'t
 off-screen \-\-- the brothers see what happened. The loss is shared, and the
-guilt is shared, because Dalin was also at the front instead of home. But the
+guilt is shared, because Darek was also at the front instead of home. But the
 decision to pull the guards was Baret\'\'\'s.
 
 *Function:* The ideological wound opens. The emotional center of Act 3 and the
@@ -369,7 +369,7 @@ sees his belief in its most unguarded form: not theological, not examined, just
 the place a young man goes when the floor drops. This is the strongest possible
 foundation to crack in Book 3 \-\-- a faith that held him in his worst moment.
 
-**Dalin\'\'\'s shared grief.** The brothers process this together. Neither
+**Darek\'\'\'s shared grief.** The brothers process this together. Neither
 blames the other openly, but both know. This shared guilt, rather than dividing
 them now, binds them tighter in the short term. The division comes later, when
 external forces exploit it.
@@ -482,7 +482,7 @@ access it from this single contact point.
 
 **Baret\'\'\'s reaction \-\-- the Barlas layer:** The genetic lottery that
 defines his world \-\-- that gave him power and gave Barlas silence, that wrote
-a hierarchy between him and Dalin \-\-- has an explanation. Not a complete one,
+a hierarchy between him and Darek \-\-- has an explanation. Not a complete one,
 but enough to know that answers exist and they\'\'\'re *here*, under the floor
 of Tobas\'\'\'s temple. The question of who gets to be enhanced isn\'\'\'t a
 mystery of biology. It\'\'\'s an engineering problem. And the engineering
@@ -556,7 +556,7 @@ experience, the intensity of the war, his ascending power. Arabela at his side
 feels right. The reader carries this warmth into Book 3, which makes her later
 departure hurt.
 
-**Dalin beside Baret.** Brothers bound by shared victory and shared guilt. The
+**Darek beside Baret.** Brothers bound by shared victory and shared guilt. The
 distance from the AI secret is present but not dominant. They\'\'\'re facing
 forward together.
 
@@ -602,7 +602,7 @@ find under the temple. That\'\'\'s what pulls them into Book 3.
 **Age gap between books** High \-\-- Book 1 timeline being extended to spread
 trials across years. Final ages TBD Baret should be old enough to plausibly lead
 a war (\~17-18 minimum) **Father\'\'\'s name** High \-\-- needed for emotional
-weight in Ch 10, 15, 16 Patronymic \"Nor\_\_\_\_\_\" applies to Baret and Dalin
+weight in Ch 10, 15, 16 Patronymic \"Nor\_\_\_\_\_\" applies to Baret and Darek
 **Specific Ulreth encounter (Ch 17)** High \-\-- needs to be concrete enough to
 haunt, ambiguous enough not to resolve Options: mourning behavior, non-hostile
 choice, tool crafting, proto-communication **The temple artifact specifics (Ch
